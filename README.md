@@ -37,13 +37,13 @@ All analysis parts correspond to those in the original publication, modernized i
 This module identifies and characterizes RNA modification enzymes (writers, readers, erasers) across multiple species using Pfam HMM domain profiles.  
 It replaces the legacy shell scripts (`find_homologs.sh`, `mafft.sh`, `iqtree.sh`) with a unified Python workflow.
 
-##  1. Run HMM-based discovery
+###  1. Run HMM-based discovery
 Search each proteome for proteins containing RNA modification domains.
 
 ```bash
 python part1/rnamod_discover.py --pfam_dir pfam_list --proteome_dir proteomes --out_dir results_part1
 ```
-##  2. Multiple Sequence Alignment & Tree Analysis
+### 2. Multiple Sequence Alignment & Tree Analysis
 
 ```bash
 python part1/analyze_trees.py --input_dir results_part1 --out_dir results_part1/trees
@@ -62,7 +62,7 @@ python compare_mouse_human_expression.py
 ##  PART 3 — Comparative Expression Across Amniote and Primate Species
 
 
-##  Amniote/Primate Ortholog Expression
+###  Amniote/Primate Ortholog Expression
 
 ```bash
 python compare_kaessmann_amniote_primate.py
