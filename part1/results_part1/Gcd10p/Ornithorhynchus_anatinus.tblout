@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6WQ55|F6WQ55_ORNAN -          Gcd10p               PF04189.19   1.5e-69  234.6   0.1   1.5e-69  234.6   0.1   1.7   1   1   1   2   2   2   1 tRNA (adenine(58)-N(1))-methyltransferase non-catalytic subunit TRM6 OS=Ornithorhynchus anatinus OX=9258 GN=TRMT6 PE=3 SV=1
+tr|F6SN38|F6SN38_ORNAN -          Gcd10p               PF04189.19   5.9e-20   71.8   0.0     9e-20   71.2   0.0   1.4   1   1   0   1   1   1   1 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Gcd10p.hmm
+# Target file:     proteomes/Ornithorhynchus_anatinus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Gcd10p/Ornithorhynchus_anatinus.tblout --cpu 8 pfam_list/Gcd10p.hmm proteomes/Ornithorhynchus_anatinus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:34 2025
+# [ok]

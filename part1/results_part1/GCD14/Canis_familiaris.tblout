@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A8I3PDB7|A0A8I3PDB7_CANLF -          GCD14                PF08704.17  1.6e-107  359.0   0.2  2.1e-105  352.0   0.2   2.0   1   1   0   1   1   1   1 tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRMT61A OS=Canis lupus familiaris OX=9615 GN=TRMT61A PE=3 SV=1
+tr|A0A8I3NFT6|A0A8I3NFT6_CANLF -          GCD14                PF08704.17     1e-20   74.7   0.0   1.5e-20   74.2   0.0   1.1   1   0   0   1   1   1   1 tRNA (adenine(58)-N(1))-methyltransferase OS=Canis lupus familiaris OX=9615 PE=4 SV=1
+tr|A0A8I3MM38|A0A8I3MM38_CANLF -          GCD14                PF08704.17   0.00016   21.7   0.0   0.00023   21.1   0.0   1.2   1   0   0   1   1   1   1 Fibrillarin OS=Canis lupus familiaris OX=9615 GN=FBL PE=3 SV=1
+tr|A0A8I3MNG6|A0A8I3MNG6_CANLF -          GCD14                PF08704.17    0.0016   18.4   0.0    0.0023   17.8   0.0   1.2   1   0   0   1   1   1   1 Fibrillarin like 1 OS=Canis lupus familiaris OX=9615 GN=FBLL1 PE=3 SV=1
+tr|A0A8I3Q157|A0A8I3Q157_CANLF -          GCD14                PF08704.17    0.0042   17.0   0.0     0.014   15.3   0.0   1.7   2   0   0   2   2   2   1 Protein-L-isoaspartate O-methyltransferase domain-containing protein 1 OS=Canis lupus familiaris OX=9615 GN=PCMTD1 PE=3 SV=1
+tr|A0A8I3P8Y8|A0A8I3P8Y8_CANLF -          GCD14                PF08704.17    0.0044   16.9   0.0    0.0061   16.5   0.0   1.2   1   0   0   1   1   1   1 Protein-L-isoaspartate O-methyltransferase OS=Canis lupus familiaris OX=9615 GN=PCMT1 PE=3 SV=1
+tr|A0A8I3PQA4|A0A8I3PQA4_CANLF -          GCD14                PF08704.17    0.0063   16.4   0.0     0.012   15.5   0.0   1.4   1   0   0   1   1   1   1 Protein-L-isoaspartate (D-aspartate) O-methyltransferase domain containing 2 OS=Canis lupus familiaris OX=9615 GN=PCMTD2 PE=3 SV=1
+tr|A0A8I3NGA3|A0A8I3NGA3_CANLF -          GCD14                PF08704.17      0.22   11.4   0.0       0.3   10.9   0.0   1.1   1   0   0   1   1   1   0 Catechol O-methyltransferase OS=Canis lupus familiaris OX=9615 GN=TOMT PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/GCD14.hmm
+# Target file:     proteomes/Canis_familiaris.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/GCD14/Canis_familiaris.tblout --cpu 8 pfam_list/GCD14.hmm proteomes/Canis_familiaris.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:09 2025
+# [ok]

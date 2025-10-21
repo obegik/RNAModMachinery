@@ -1,0 +1,53 @@
+IQ-TREE version 3.0.1 for MacOS ARM 64-bit built Jul  9 2025
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    QY066DPX6V.crg.es (SSE4.2, 16 GB RAM)
+Command: iqtree -s results_part1_v3/Methyltransf_12/Methyltransf_12_aligned.fasta -st AA -m JTT+F+I+G4 -nt 8 --safe --redo --fast
+Seed:    469142 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon Oct 20 23:27:55 2025
+Kernel:  Safe SSE2 - 8 threads (10 CPU cores detected)
+
+Reading alignment file results_part1_v3/Methyltransf_12/Methyltransf_12_aligned.fasta ... Fasta format detected
+Reading fasta file: done in 0.241099 secs using 90.41% CPU
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.13204 secs using 85.53% CPU
+Alignment has 1448 sequences with 16795 columns, 12828 distinct patterns
+7226 parsimony-informative, 4189 singleton sites, 5380 constant sites
+Analyzing sequences: done in 0.0258498 secs using 582.2% CPU
+WARNING: 1448 sequences contain more than 50% gaps/ambiguity
+Checking for duplicate sequences: done in 0.0256171 secs using 557% CPU
+Identifying sites to remove: done in 0.099472 secs using 88.22% CPU
+NOTE: 3 identical sequences (see below) will be ignored for subsequent analysis
+Alignment was printed to results_part1_v3/Methyltransf_12/Methyltransf_12_aligned.fasta.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to results_part1_v3/Methyltransf_12/Methyltransf_12_aligned.fasta.uniqueseq.phy
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 18.90 seconds
+
+NOTE: 11473 MB RAM (11 GB) is required!
+Estimate model parameters (epsilon = 0.50)
+1. Initial log-likelihood: -1490999.98
+2. Current log-likelihood: -1049778.31
+3. Current log-likelihood: -1046092.48
+4. Current log-likelihood: -1045966.24
+5. Current log-likelihood: -1045924.17
+6. Current log-likelihood: -1045906.32
+7. Current log-likelihood: -1045897.48
+8. Current log-likelihood: -1045892.85
+9. Current log-likelihood: -1045890.32
+10. Current log-likelihood: -1045888.89
+11. Current log-likelihood: -1045888.06
+Optimal log-likelihood: -1045887.56
+Proportion of invariable sites: 0.00
+Gamma shape alpha: 3.29
+Parameters optimization took 11 rounds (739.81 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 118.987 secs using 662.3% CPU
+Computing ML distances took 119.065985 sec (of wall-clock time) 788.234575 sec (of CPU time)
+WARNING: Some pairwise ML distances are too long (saturated)
+Setting up auxiliary I and S matrices: done in 0.0175788 secs using 282.2% CPU
+Constructing RapidNJ tree: done in 0.451263 secs using 136.3% CPU
+Computing RapidNJ tree took 0.469835 sec (of wall-clock time) 0.665726 sec (of CPU time)

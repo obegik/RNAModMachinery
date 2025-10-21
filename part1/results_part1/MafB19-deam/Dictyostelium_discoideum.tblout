@@ -1,0 +1,24 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q54JE5|Q54JE5_DICDI -          MafB19-deam          PF14437.13   1.5e-19   69.8   0.0   2.9e-19   68.8   0.0   1.5   1   0   0   1   1   1   1 Adenosine deaminase, tRNA-specific OS=Dictyostelium discoideum OX=44689 GN=DDB0230178 PE=4 SV=1
+tr|Q54JJ1|Q54JJ1_DICDI -          MafB19-deam          PF14437.13   6.5e-14   51.4   0.1   9.5e-14   50.9   0.1   1.2   1   0   0   1   1   1   1 CMP/dCMP deaminase, zinc-binding domain-containing protein OS=Dictyostelium discoideum OX=44689 GN=DDB_G0288019 PE=4 SV=1
+tr|Q54XN0|Q54XN0_DICDI -          MafB19-deam          PF14437.13   8.7e-12   44.6   2.8   6.6e-09   35.2   0.3   2.7   1   1   0   2   2   2   2 Cytidine deaminase-like protein OS=Dictyostelium discoideum OX=44689 GN=DDB0230180 PE=4 SV=1
+tr|Q8T1Z7|Q8T1Z7_DICDI -          MafB19-deam          PF14437.13     3e-11   42.8   1.1   4.9e-11   42.1   1.1   1.3   1   1   0   1   1   1   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0168546 PE=4 SV=2
+tr|Q86JM0|Q86JM0_DICDI -          MafB19-deam          PF14437.13   7.9e-11   41.5   0.4   1.2e-10   40.9   0.4   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0168627 PE=4 SV=1
+tr|Q559S7|Q559S7_DICDI -          MafB19-deam          PF14437.13   9.4e-09   34.7   0.1   1.5e-08   34.1   0.1   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0217008 PE=4 SV=1
+tr|Q54DP5|Q54DP5_DICDI -          MafB19-deam          PF14437.13     1e-08   34.7   0.1   1.5e-08   34.1   0.1   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0184221 PE=4 SV=1
+tr|Q54SW5|Q54SW5_DICDI -          MafB19-deam          PF14437.13   1.8e-08   33.9   0.1   2.7e-08   33.3   0.1   1.4   1   1   0   1   1   1   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0205171 PE=4 SV=1
+tr|Q54SS3|Q54SS3_DICDI -          MafB19-deam          PF14437.13   3.3e-08   33.0   0.1   5.6e-08   32.2   0.1   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0205299 PE=4 SV=1
+tr|Q54DQ7|Q54DQ7_DICDI -          MafB19-deam          PF14437.13   7.1e-06   25.4   0.8   8.1e-06   25.3   0.1   1.4   1   1   0   1   1   1   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0184210 PE=4 SV=1
+tr|Q54M63|Q54M63_DICDI -          MafB19-deam          PF14437.13   8.1e-05   22.0   1.1   0.00025   20.4   0.1   2.3   1   1   1   2   2   2   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0186844 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MafB19-deam.hmm
+# Target file:     proteomes/Dictyostelium_discoideum.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MafB19-deam/Dictyostelium_discoideum.tblout --cpu 8 pfam_list/MafB19-deam.hmm proteomes/Dictyostelium_discoideum.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:09:22 2025
+# [ok]

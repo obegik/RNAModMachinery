@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q8I6Z2|Q8I6Z2_PLAF7 -          MT-A70               PF05063.21   1.8e-58  195.6   1.0   1.8e-58  195.6   1.0   2.8   3   0   0   3   3   3   1 mRNA (N6-adenosine)-methyltransferase, putative OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_0729500 PE=1 SV=1
+tr|Q8I567|Q8I567_PLAF7 -          MT-A70               PF05063.21   9.3e-46  154.2   1.8   9.3e-46  154.2   1.8   2.3   2   1   0   2   2   2   1 mRNA methyltransferase, putative OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1235500 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MT-A70.hmm
+# Target file:     proteomes/Plasmodium_falciparum.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MT-A70/Plasmodium_falciparum.tblout --cpu 8 pfam_list/MT-A70.hmm proteomes/Plasmodium_falciparum.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:05:20 2025
+# [ok]

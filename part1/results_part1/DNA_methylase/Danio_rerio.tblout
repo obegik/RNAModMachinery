@@ -1,0 +1,24 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F1RCN0|F1RCN0_DANRE -          DNA_methylase        PF00145.24   6.7e-50  170.8   0.0   2.3e-49  169.1   0.0   2.0   1   1   0   1   1   1   1 DNA (cytosine-5)-methyltransferase OS=Danio rerio OX=7955 GN=dnmt1 PE=1 SV=1
+tr|Q588C1|Q588C1_DANRE -          DNA_methylase        PF00145.24   2.2e-42  146.1   0.0   2.7e-42  145.8   0.0   1.1   1   0   0   1   1   1   1 DNA methyltransferase OS=Danio rerio OX=7955 GN=trdmt1 PE=1 SV=1
+tr|A3QJV0|A3QJV0_DANRE -          DNA_methylase        PF00145.24   7.4e-18   65.5   6.7   3.7e-16   59.9   0.0   3.1   4   0   0   4   4   4   2 DNA (cytosine-5-)-methyltransferase 3 beta, duplicate b.2 OS=Danio rerio OX=7955 GN=dnmt3bb.2 PE=1 SV=1
+tr|Q588C6|Q588C6_DANRE -          DNA_methylase        PF00145.24   2.8e-16   60.4   0.0   4.4e-13   49.8   0.0   2.3   2   0   0   2   2   2   2 DNA (cytosine-5-)-methyltransferase 3 beta, duplicate b.1 OS=Danio rerio OX=7955 GN=dnmt3bb.1 PE=1 SV=1
+tr|B8JLQ7|B8JLQ7_DANRE -          DNA_methylase        PF00145.24   8.2e-16   58.8   0.0   1.7e-11   44.6   0.0   2.2   1   1   1   2   2   2   2 DNA (cytosine-5-)-methyltransferase 3 alpha a OS=Danio rerio OX=7955 GN=dnmt3aa PE=1 SV=1
+tr|E7F6H4|E7F6H4_DANRE -          DNA_methylase        PF00145.24   1.2e-15   58.2   0.0   2.4e-12   47.4   0.0   2.6   2   0   0   2   2   2   2 DNA (cytosine-5-)-methyltransferase 3 beta, duplicate a OS=Danio rerio OX=7955 GN=dnmt3ba PE=1 SV=1
+tr|F1R1K5|F1R1K5_DANRE -          DNA_methylase        PF00145.24   1.5e-15   58.0   0.0   4.1e-12   46.6   0.0   2.3   2   0   0   2   2   2   2 DNA (cytosine-5-)-methyltransferase 3 alpha b OS=Danio rerio OX=7955 GN=dnmt3ab PE=1 SV=1
+tr|A3QJU7|A3QJU7_DANRE -          DNA_methylase        PF00145.24   1.8e-14   54.4   0.0   1.1e-11   45.2   0.0   2.5   2   0   0   2   2   2   2 DNA (cytosine-5-)-methyltransferase beta, duplicate b.3 OS=Danio rerio OX=7955 GN=dnmt3bb.3 PE=1 SV=1
+tr|E9QCX1|E9QCX1_DANRE -          DNA_methylase        PF00145.24     0.022   14.7   0.0      0.04   13.8   0.0   1.4   1   0   0   1   1   1   0 Methyltransferase-like 5 OS=Danio rerio OX=7955 GN=mettl5 PE=4 SV=1
+sp|A3KP85|ETKMT_DANRE  -          DNA_methylase        PF00145.24     0.037   13.9   0.0     0.055   13.4   0.0   1.2   1   0   0   1   1   1   0 Electron transfer flavoprotein beta subunit lysine methyltransferase OS=Danio rerio OX=7955 GN=etfbkmt PE=2 SV=2
+sp|Q0P466|TYW2_DANRE   -          DNA_methylase        PF00145.24      0.24   11.2   0.0      0.41   10.5   0.0   1.2   1   0   0   1   1   1   0 tRNA wybutosine-synthesizing protein 2 homolog OS=Danio rerio OX=7955 GN=trmt12 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DNA_methylase.hmm
+# Target file:     proteomes/Danio_rerio.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DNA_methylase/Danio_rerio.tblout --cpu 8 pfam_list/DNA_methylase.hmm proteomes/Danio_rerio.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:00:09 2025
+# [ok]

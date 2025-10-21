@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|S2JF47|S2JF47_MUCC1 -          APOBEC_N             PF08210.18   0.00077   18.9   0.0    0.0014   18.1   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Mucor circinelloides f. circinelloides (strain 1006PhL) OX=1220926 GN=HMPREF1544_12144 PE=4 SV=1
+tr|S2JND0|S2JND0_MUCC1 -          APOBEC_N             PF08210.18    0.0053   16.2   0.2    0.0079   15.7   0.2   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Mucor circinelloides f. circinelloides (strain 1006PhL) OX=1220926 GN=HMPREF1544_01339 PE=4 SV=1
+tr|S2JND7|S2JND7_MUCC1 -          APOBEC_N             PF08210.18    0.0074   15.7   0.0     0.019   14.4   0.0   1.6   1   1   0   1   1   1   1 Uncharacterized protein OS=Mucor circinelloides f. circinelloides (strain 1006PhL) OX=1220926 GN=HMPREF1544_01344 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/APOBEC_N.hmm
+# Target file:     proteomes/Mucor_circinelloides.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/APOBEC_N/Mucor_circinelloides.tblout --cpu 8 pfam_list/APOBEC_N.hmm proteomes/Mucor_circinelloides.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:58:52 2025
+# [ok]

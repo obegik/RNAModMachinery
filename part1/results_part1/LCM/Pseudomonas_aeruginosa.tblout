@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q9I2N5|Q9I2N5_PSEAE -          LCM                  PF04072.21   8.1e-20   69.8   0.0   1.2e-18   66.0   0.0   2.3   1   1   0   1   1   1   1 Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1) OX=208964 GN=PA1860 PE=4 SV=1
+tr|Q9HX18|Q9HX18_PSEAE -          LCM                  PF04072.21   8.1e-15   53.5   0.1   1.2e-14   53.0   0.1   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1) OX=208964 GN=PA4009 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/LCM.hmm
+# Target file:     proteomes/Pseudomonas_aeruginosa.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/LCM/Pseudomonas_aeruginosa.tblout --cpu 8 pfam_list/LCM.hmm proteomes/Pseudomonas_aeruginosa.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:47 2025
+# [ok]

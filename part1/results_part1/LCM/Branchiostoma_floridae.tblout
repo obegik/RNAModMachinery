@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|C3Y913|C3Y913_BRAFL -          LCM                  PF04072.21   2.7e-20   73.7   0.1   1.1e-08   35.8   0.0   3.0   1   1   1   2   2   2   2 Leucine carboxyl methyltransferase 1 OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_68152 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/LCM.hmm
+# Target file:     proteomes/Branchiostoma_floridae.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/LCM/Branchiostoma_floridae.tblout --cpu 8 pfam_list/LCM.hmm proteomes/Branchiostoma_floridae.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:43 2025
+# [ok]

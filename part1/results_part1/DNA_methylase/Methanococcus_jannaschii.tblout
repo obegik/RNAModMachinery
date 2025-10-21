@@ -1,0 +1,17 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q58600|MTM7_METJA  -          DNA_methylase        PF00145.24   1.5e-49  165.8   0.3   1.7e-36  123.0   0.0   3.0   2   1   0   2   2   2   2 Putative type II methyltransferase M.MjaORF1200P OS=Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) OX=243232 GN=MJ1200 PE=3 SV=1
+sp|Q57983|MT51_METJA  -          DNA_methylase        PF00145.24   4.1e-49  164.4   1.0   1.5e-48  162.6   1.0   1.7   1   1   0   1   1   1   1 Putative type II methyltransferase M.MJ0563P OS=Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) OX=243232 GN=MJ0563 PE=3 SV=1
+sp|Q58293|TRM5B_METJA -          DNA_methylase        PF00145.24   4.6e-05   19.7   0.3   0.00013   18.3   0.0   1.7   2   0   0   2   2   2   1 tRNA (guanine(37)-N(1))-methyltransferase Trm5b OS=Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) OX=243232 GN=trm5b PE=1 SV=1
+sp|Q58952|TYW2_METJA  -          DNA_methylase        PF00145.24     0.001   15.2   0.0     0.002   14.3   0.0   1.5   1   0   0   1   1   1   1 tRNA(Phe) (4-demethylwyosine(37)-C(7)) aminocarboxypropyltransferase OS=Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) OX=243232 GN=taw2 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DNA_methylase.hmm
+# Target file:     proteomes/Methanococcus_jannaschii.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DNA_methylase/Methanococcus_jannaschii.tblout --cpu 8 pfam_list/DNA_methylase.hmm proteomes/Methanococcus_jannaschii.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:00:11 2025
+# [ok]

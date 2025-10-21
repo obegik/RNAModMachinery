@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|G7MRV0|G7MRV0_MACMU -          MT-A70               PF05063.21   9.2e-64  214.7   0.0   1.3e-63  214.2   0.0   1.2   1   0   0   1   1   1   1 Methyltransferase like 14 OS=Macaca mulatta OX=9544 GN=METTL14 PE=2 SV=1
+tr|F6YE47|F6YE47_MACMU -          MT-A70               PF05063.21   2.6e-39  135.1   0.4     8e-39  133.5   0.1   1.9   2   0   0   2   2   2   1 Methyltransferase like 4 OS=Macaca mulatta OX=9544 GN=METTL4 PE=3 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MT-A70.hmm
+# Target file:     proteomes/Macaca_mulatta.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MT-A70/Macaca_mulatta.tblout --cpu 8 pfam_list/MT-A70.hmm proteomes/Macaca_mulatta.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:05:18 2025
+# [ok]

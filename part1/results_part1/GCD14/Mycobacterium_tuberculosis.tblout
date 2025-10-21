@@ -1,0 +1,19 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P9WFZ1|TRMI_MYCTU   -          GCD14                PF08704.17   1.4e-21   75.1   0.0   2.5e-20   71.0   0.0   2.1   1   1   1   2   2   2   1 tRNA (adenine(58)-N(1))-methyltransferase TrmI OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=trmI PE=1 SV=1
+sp|O07431|CAMT_MYCTU   -          GCD14                PF08704.17   0.00015   19.4   0.0    0.0002   19.0   0.0   1.2   1   0   0   1   1   1   1 Catechol O-methyltransferase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0187 PE=1 SV=1
+sp|O69687|FAMT_MYCTU   -          GCD14                PF08704.17    0.0047   14.5   0.0     0.008   13.7   0.0   1.3   1   0   0   1   1   1   1 Probable fatty acid methyltransferase Rv3720 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3720 PE=1 SV=4
+tr|I6X9X6|I6X9X6_MYCTU -          GCD14                PF08704.17     0.021   12.4   0.0     0.034   11.7   0.0   1.3   1   0   0   1   1   1   0 Methyltransferase domain-containing protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0839 PE=1 SV=1
+sp|P9WJZ7|Y1220_MYCTU  -          GCD14                PF08704.17     0.032   11.7   0.0     0.039   11.5   0.0   1.1   1   0   0   1   1   1   0 Probable O-methyltransferase Rv1220c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1220c PE=1 SV=2
+tr|Q10838|Q10838_MYCTU -          GCD14                PF08704.17     0.054   11.0   0.0     0.074   10.6   0.0   1.2   1   0   0   1   1   1   0 Probable 23S rRNA methyltransferase Erm(37) OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=erm(37) PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/GCD14.hmm
+# Target file:     proteomes/Mycobacterium_tuberculosis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/GCD14/Mycobacterium_tuberculosis.tblout --cpu 8 pfam_list/GCD14.hmm proteomes/Mycobacterium_tuberculosis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:12 2025
+# [ok]

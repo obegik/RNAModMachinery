@@ -1,0 +1,23 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|O22268|DIM1A_ARATH  -          DREV                 PF05219.18    0.0051   16.6   0.0     0.016   14.9   0.0   1.7   2   0   0   2   2   2   1 Ribosomal RNA small subunit methyltransferase OS=Arabidopsis thaliana OX=3702 GN=DIM1A PE=1 SV=1
+sp|Q9FK02|DIM1B_ARATH  -          DREV                 PF05219.18    0.0078   15.9   0.0     0.013   15.2   0.0   1.3   1   0   0   1   1   1   1 Ribosomal RNA small subunit methyltransferase, mitochondrial OS=Arabidopsis thaliana OX=3702 GN=DIM1B PE=1 SV=1
+sp|O49354|COQ3_ARATH   -          DREV                 PF05219.18    0.0099   15.6   0.0     0.015   15.0   0.0   1.3   1   0   0   1   1   1   1 Ubiquinone biosynthesis O-methyltransferase, mitochondrial OS=Arabidopsis thaliana OX=3702 GN=COQ3 PE=1 SV=2
+tr|Q9SUW6|Q9SUW6_ARATH -          DREV                 PF05219.18     0.018   14.8   0.0     0.025   14.3   0.0   1.3   1   0   0   1   1   1   0 S-adenosyl-L-methionine-dependent methyltransferases superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At4g22530 PE=1 SV=1
+sp|Q9ZSK1|GTOMC_ARATH  -          DREV                 PF05219.18     0.048   13.4   0.0      0.09   12.5   0.0   1.3   1   0   0   1   1   1   0 Tocopherol O-methyltransferase, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=VTE4 PE=1 SV=2
+sp|Q9SU94|ANM11_ARATH  -          DREV                 PF05219.18     0.097   12.3   0.0      0.16   11.6   0.0   1.3   1   0   0   1   1   1   0 Protein arginine N-methyltransferase 1.1 OS=Arabidopsis thaliana OX=3702 GN=PRMT11 PE=1 SV=1
+sp|Q944H0|PEAM2_ARATH  -          DREV                 PF05219.18      0.14   11.9   0.0        28    4.3   0.0   2.9   3   0   0   3   3   3   0 Phosphoethanolamine N-methyltransferase 2 OS=Arabidopsis thaliana OX=3702 GN=NMT2 PE=1 SV=2
+tr|Q9ZVC3|Q9ZVC3_ARATH -          DREV                 PF05219.18      0.16   11.7   0.0      0.21   11.3   0.0   1.3   1   0   0   1   1   1   0 At2g41380 OS=Arabidopsis thaliana OX=3702 GN=At2g41380 PE=1 SV=1
+sp|Q6DBG8|ARAD1_ARATH  -          DREV                 PF05219.18      0.19   11.4   0.0      0.31   10.7   0.0   1.2   1   0   0   1   1   1   0 Probable arabinosyltransferase ARAD1 OS=Arabidopsis thaliana OX=3702 GN=ARAD1 PE=1 SV=1
+sp|Q9FLA5|ARAD2_ARATH  -          DREV                 PF05219.18      0.19   11.4   0.0       0.3   10.7   0.0   1.2   1   0   0   1   1   1   0 Probable arabinosyltransferase ARAD2 OS=Arabidopsis thaliana OX=3702 GN=ARAD2 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DREV.hmm
+# Target file:     proteomes/Arabidopsis_thaliana.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DREV/Arabidopsis_thaliana.tblout --cpu 8 pfam_list/DREV.hmm proteomes/Arabidopsis_thaliana.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:20 2025
+# [ok]

@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A9UTL3|A9UTL3_MONBE -          EMG1                 PF03587.20   1.2e-66  223.0   0.0   1.5e-66  222.7   0.0   1.0   1   0   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=15167 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/EMG1.hmm
+# Target file:     proteomes/Monosiga_brevicollis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/EMG1/Monosiga_brevicollis.tblout --cpu 8 pfam_list/EMG1.hmm proteomes/Monosiga_brevicollis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:34 2025
+# [ok]

@@ -1,0 +1,51 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|B3RQF2|B3RQF2_TRIAD -          MTS                  PF05175.21     7e-14   51.1   0.0     1e-13   50.6   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_54966 PE=4 SV=1
+tr|B3RUJ8|B3RUJ8_TRIAD -          MTS                  PF05175.21   1.3e-12   47.0   0.0   7.6e-11   41.2   0.0   2.2   1   1   1   2   2   2   1 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_24037 PE=4 SV=1
+tr|B3S159|B3S159_TRIAD -          MTS                  PF05175.21   1.5e-08   33.8   0.0   6.1e-07   28.5   0.0   2.0   2   0   0   2   2   2   1 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_50516 PE=4 SV=1
+tr|B3S8A4|B3S8A4_TRIAD -          MTS                  PF05175.21   3.8e-07   29.2   0.3   6.4e-07   28.5   0.3   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_60467 PE=3 SV=1
+tr|B3S2L1|B3S2L1_TRIAD -          MTS                  PF05175.21   9.6e-07   27.9   0.0   7.6e-06   25.0   0.0   2.0   2   0   0   2   2   2   1 Uncharacterized protein (Fragment) OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_1535 PE=3 SV=1
+tr|B3S3V1|B3S3V1_TRIAD -          MTS                  PF05175.21   1.8e-06   27.0   0.1     4e-06   25.9   0.0   1.6   2   0   0   2   2   1   1 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_28751 PE=4 SV=1
+tr|B3S5B9|B3S5B9_TRIAD -          MTS                  PF05175.21   3.2e-06   26.2   0.1   7.4e-06   25.0   0.1   1.5   1   0   0   1   1   1   1 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_59271 PE=3 SV=1
+tr|B3RUN0|B3RUN0_TRIAD -          MTS                  PF05175.21   5.8e-06   25.3   0.0   2.3e-05   23.4   0.0   1.9   1   1   0   1   1   1   1 Protein-lysine N-methyltransferase TRIADDRAFT_23674 OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_23674 PE=3 SV=1
+tr|B3RHX2|B3RHX2_TRIAD -          MTS                  PF05175.21   8.7e-06   24.8   0.0   1.7e-05   23.8   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_52302 PE=3 SV=1
+tr|B3RKW3|B3RKW3_TRIAD -          MTS                  PF05175.21   3.5e-05   22.8   0.0   9.5e-05   21.4   0.0   1.6   1   1   1   2   2   2   1 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_18584 PE=4 SV=1
+tr|B3RP82|B3RP82_TRIAD -          MTS                  PF05175.21   5.9e-05   22.0   0.0   9.3e-05   21.4   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_53437 PE=4 SV=1
+tr|B3RVA6|B3RVA6_TRIAD -          MTS                  PF05175.21   7.2e-05   21.8   0.5   0.00016   20.7   0.1   1.7   2   0   0   2   2   2   1 Protein arginine N-methyltransferase OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_55586 PE=3 SV=1
+tr|B3S2Q2|B3S2Q2_TRIAD -          MTS                  PF05175.21   9.2e-05   21.4   0.0   0.00023   20.1   0.0   1.6   1   0   0   1   1   1   1 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_58107 PE=4 SV=1
+tr|B3RLW0|B3RLW0_TRIAD -          MTS                  PF05175.21   9.5e-05   21.4   0.1   0.00017   20.6   0.1   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_49708 PE=3 SV=1
+tr|B3S4V8|B3S4V8_TRIAD -          MTS                  PF05175.21   0.00027   19.9   0.0   0.00046   19.2   0.0   1.4   1   0   0   1   1   1   1 rRNA adenine N(6)-methyltransferase OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_29342 PE=3 SV=1
+tr|B3RTY6|B3RTY6_TRIAD -          MTS                  PF05175.21   0.00029   19.8   0.0   0.00049   19.1   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_56090 PE=4 SV=1
+tr|B3S9Y1|B3S9Y1_TRIAD -          MTS                  PF05175.21    0.0003   19.7   0.0   0.00049   19.1   0.0   1.3   1   0   0   1   1   1   1 Ubiquinone biosynthesis O-methyltransferase, mitochondrial OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_61065 PE=3 SV=1
+tr|B3RLM9|B3RLM9_TRIAD -          MTS                  PF05175.21   0.00049   19.1   0.0    0.0014   17.6   0.0   1.7   2   0   0   2   2   1   1 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_19869 PE=4 SV=1
+tr|B3RTE1|B3RTE1_TRIAD -          MTS                  PF05175.21   0.00091   18.2   0.1     0.026   13.4   0.0   2.2   1   1   1   2   2   2   1 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_22483 PE=4 SV=1
+tr|B3RJQ6|B3RJQ6_TRIAD -          MTS                  PF05175.21    0.0012   17.7   0.0    0.0023   16.9   0.0   1.6   1   1   0   1   1   1   1 Protein-L-isoaspartate O-methyltransferase OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_49594 PE=3 SV=1
+tr|B3RTC0|B3RTC0_TRIAD -          MTS                  PF05175.21    0.0013   17.7   0.0    0.0037   16.2   0.0   1.7   2   0   0   2   2   2   1 Methyltransferase-like protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_22540 PE=3 SV=1
+tr|B3SAR1|B3SAR1_TRIAD -          MTS                  PF05175.21    0.0016   17.4   0.0    0.0023   16.9   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_61348 PE=4 SV=1
+tr|B3RQN2|B3RQN2_TRIAD -          MTS                  PF05175.21    0.0031   16.5   0.0     0.006   15.5   0.0   1.4   1   0   0   1   1   1   1 Methyltransferase-like protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_22960 PE=3 SV=1
+tr|B3RM83|B3RM83_TRIAD -          MTS                  PF05175.21    0.0064   15.4   0.3      0.39    9.6   0.0   2.8   3   0   0   3   3   3   1 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_49728 PE=4 SV=1
+tr|B3RJV9|B3RJV9_TRIAD -          MTS                  PF05175.21    0.0073   15.3   0.5     0.036   13.0   0.0   2.1   2   1   0   2   2   2   1 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_20328 PE=3 SV=1
+tr|B3S7G6|B3S7G6_TRIAD -          MTS                  PF05175.21     0.008   15.1   0.0     0.039   12.9   0.0   1.9   1   1   0   1   1   1   1 Uncharacterized protein (Fragment) OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_30586 PE=4 SV=1
+tr|B3RQ18|B3RQ18_TRIAD -          MTS                  PF05175.21    0.0091   14.9   0.0     0.016   14.1   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_63685 PE=4 SV=1
+tr|B3RRM8|B3RRM8_TRIAD -          MTS                  PF05175.21     0.012   14.5   0.0     0.017   14.0   0.0   1.4   1   1   0   1   1   1   0 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_49985 PE=4 SV=1
+tr|B3S9J8|B3S9J8_TRIAD -          MTS                  PF05175.21     0.013   14.5   0.0      0.02   13.8   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_60934 PE=4 SV=1
+tr|B3RLP9|B3RLP9_TRIAD -          MTS                  PF05175.21     0.015   14.2   0.0     0.028   13.4   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein (Fragment) OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_18638 PE=4 SV=1
+tr|B3S6E8|B3S6E8_TRIAD -          MTS                  PF05175.21     0.018   14.0   0.0     0.037   13.0   0.0   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_59780 PE=3 SV=1
+tr|B3S9G3|B3S9G3_TRIAD -          MTS                  PF05175.21      0.02   13.8   0.0     0.027   13.4   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_60897 PE=4 SV=1
+tr|B3RL30|B3RL30_TRIAD -          MTS                  PF05175.21     0.024   13.5   0.0     0.037   13.0   0.0   1.3   1   0   0   1   1   1   0 tRNA (guanine-N(7)-)-methyltransferase OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_18672 PE=3 SV=1
+tr|B3RYS7|B3RYS7_TRIAD -          MTS                  PF05175.21     0.027   13.4   0.1      0.21   10.5   0.1   2.1   2   0   0   2   2   2   0 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_56661 PE=3 SV=1
+tr|B3S7W8|B3S7W8_TRIAD -          MTS                  PF05175.21     0.029   13.3   0.0     0.048   12.6   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_60323 PE=4 SV=1
+tr|B3RL31|B3RL31_TRIAD -          MTS                  PF05175.21     0.061   12.2   0.0     0.076   11.9   0.0   1.4   1   1   0   1   1   1   0 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_18419 PE=4 SV=1
+tr|B3S5X9|B3S5X9_TRIAD -          MTS                  PF05175.21     0.075   12.0   0.0      0.15   11.0   0.0   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_29716 PE=3 SV=1
+tr|B3RVI8|B3RVI8_TRIAD -          MTS                  PF05175.21      0.11   11.4   0.0      0.22   10.4   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_55668 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MTS.hmm
+# Target file:     proteomes/Trichoplax_adhaerens.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MTS/Trichoplax_adhaerens.tblout --cpu 8 pfam_list/MTS.hmm proteomes/Trichoplax_adhaerens.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:06:00 2025
+# [ok]

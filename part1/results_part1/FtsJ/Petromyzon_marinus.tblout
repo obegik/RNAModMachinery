@@ -1,0 +1,34 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|S4RR22|S4RR22_PETMA -          FtsJ                 PF01728.26   3.1e-50  170.2   0.0   3.8e-50  169.9   0.0   1.1   1   0   0   1   1   1   1 Putative tRNA (cytidine(32)/guanosine(34)-2'-O)-methyltransferase OS=Petromyzon marinus OX=7757 PE=3 SV=1
+tr|S4RLF4|S4RLF4_PETMA -          FtsJ                 PF01728.26   5.2e-35  120.6   0.0   8.2e-35  120.0   0.0   1.3   1   0   0   1   1   1   1 Cap methyltransferase 1 OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RTG5|S4RTG5_PETMA -          FtsJ                 PF01728.26   1.7e-17   63.5   0.0   2.9e-17   62.8   0.0   1.3   1   0   0   1   1   1   1 Cap methyltransferase 2 OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4R4I3|S4R4I3_PETMA -          FtsJ                 PF01728.26   2.9e-08   33.4   0.0    0.0012   18.4   0.0   2.4   2   0   0   2   2   2   2 Phosphoethanolamine methyltransferase OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RMG0|S4RMG0_PETMA -          FtsJ                 PF01728.26   2.5e-05   23.9   0.0       0.2   11.2   0.0   2.4   2   0   0   2   2   2   2 Phosphoethanolamine methyltransferase OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RMF5|S4RMF5_PETMA -          FtsJ                 PF01728.26   3.4e-05   23.5   0.0   4.4e-05   23.1   0.0   1.1   1   0   0   1   1   1   1 HemK methyltransferase family member 1 OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RYQ5|S4RYQ5_PETMA -          FtsJ                 PF01728.26   4.8e-05   22.9   0.2   0.00076   19.0   0.0   2.3   1   1   1   2   2   2   1 NOP2 nucleolar protein homolog (yeast) OS=Petromyzon marinus OX=7757 PE=3 SV=1
+tr|S4RYQ4|S4RYQ4_PETMA -          FtsJ                 PF01728.26     5e-05   22.9   0.2   0.00076   19.0   0.0   2.3   1   1   1   2   2   2   1 NOP2 nucleolar protein homolog (yeast) OS=Petromyzon marinus OX=7757 PE=3 SV=1
+tr|S4RE18|S4RE18_PETMA -          FtsJ                 PF01728.26   0.00016   21.2   0.0   0.00041   19.9   0.0   1.6   1   1   0   1   1   1   1 NOL1/NOP2/Sun domain family, member 6 OS=Petromyzon marinus OX=7757 PE=3 SV=1
+tr|S4R827|S4R827_PETMA -          FtsJ                 PF01728.26   0.00026   20.6   0.1   0.00065   19.3   0.1   1.6   1   1   0   1   1   1   1 Protein-L-isoaspartate (D-aspartate) O-methyltransferase OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RPG9|S4RPG9_PETMA -          FtsJ                 PF01728.26   0.00078   19.0   0.0    0.0014   18.2   0.0   1.4   1   0   0   1   1   1   1 Protein arginine methyltransferase 1 OS=Petromyzon marinus OX=7757 PE=3 SV=1
+tr|S4RW29|S4RW29_PETMA -          FtsJ                 PF01728.26    0.0015   18.1   0.0    0.0025   17.4   0.0   1.5   1   1   0   1   1   1   1 Protein-L-isoaspartate O-methyltransferase OS=Petromyzon marinus OX=7757 PE=3 SV=1
+tr|S4RFW7|S4RFW7_PETMA -          FtsJ                 PF01728.26    0.0042   16.6   0.5     0.012   15.2   0.1   2.0   2   1   0   2   2   2   1 Coactivator-associated arginine methyltransferase 1 OS=Petromyzon marinus OX=7757 PE=3 SV=1
+tr|S4RVL0|S4RVL0_PETMA -          FtsJ                 PF01728.26    0.0071   15.9   0.0     0.017   14.6   0.0   1.7   1   1   0   1   1   1   1 NOL1/NOP2/Sun domain family, member 4 OS=Petromyzon marinus OX=7757 PE=3 SV=1
+tr|S4RDW6|S4RDW6_PETMA -          FtsJ                 PF01728.26     0.019   14.5   0.1     0.023   14.2   0.1   1.2   1   0   0   1   1   1   0 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 6 OS=Petromyzon marinus OX=7757 PE=3 SV=1
+tr|S4RFT9|S4RFT9_PETMA -          FtsJ                 PF01728.26     0.023   14.2   0.0     0.039   13.5   0.0   1.4   1   0   0   1   1   1   0 Zgc:162396 OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RXG9|S4RXG9_PETMA -          FtsJ                 PF01728.26     0.029   13.9   0.2     0.054   13.0   0.2   1.4   1   1   0   1   1   1   0 Methyltransferase like 5 OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RW71|S4RW71_PETMA -          FtsJ                 PF01728.26     0.029   13.9   0.1     0.053   13.0   0.1   1.4   1   0   0   1   1   1   0 Protein arginine methyltransferase 2 OS=Petromyzon marinus OX=7757 PE=3 SV=1
+tr|S4RY85|S4RY85_PETMA -          FtsJ                 PF01728.26     0.059   12.9   0.0     0.082   12.4   0.0   1.2   1   0   0   1   1   1   0 Electron transfer flavoprotein subunit beta lysine methyltransferase OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RNK8|S4RNK8_PETMA -          FtsJ                 PF01728.26       0.1   12.1   0.0      0.13   11.7   0.0   1.4   1   0   0   1   1   1   0 Zgc:162396 OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RGZ3|S4RGZ3_PETMA -          FtsJ                 PF01728.26       0.1   12.1   0.0      0.14   11.7   0.0   1.2   1   0   0   1   1   1   0 3-hydroxybutyrate dehydrogenase, type 2 OS=Petromyzon marinus OX=7757 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/FtsJ.hmm
+# Target file:     proteomes/Petromyzon_marinus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/FtsJ/Petromyzon_marinus.tblout --cpu 8 pfam_list/FtsJ.hmm proteomes/Petromyzon_marinus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:58 2025
+# [ok]

@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6S1N7|F6S1N7_ORNAN -          Bin3                 PF06859.19   1.3e-16   61.4   0.0   1.7e-16   61.0   0.0   1.2   1   0   0   1   1   1   1 BCDIN3 domain containing RNA methyltransferase OS=Ornithorhynchus anatinus OX=9258 GN=BCDIN3D PE=4 SV=2
+tr|F7FNU8|F7FNU8_ORNAN -          Bin3                 PF06859.19       5.8    7.8   9.2        12    6.8   0.8   3.6   3   1   0   3   3   3   0 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Bin3.hmm
+# Target file:     proteomes/Ornithorhynchus_anatinus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Bin3/Ornithorhynchus_anatinus.tblout --cpu 8 pfam_list/Bin3.hmm proteomes/Ornithorhynchus_anatinus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:54 2025
+# [ok]

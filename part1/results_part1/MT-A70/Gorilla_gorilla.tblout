@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2I2YEF1|A0A2I2YEF1_GORGO -          MT-A70               PF05063.21   9.4e-64  214.7   0.0   1.3e-63  214.2   0.0   1.2   1   0   0   1   1   1   1 N(6)-adenosine-methyltransferase non-catalytic subunit METTL14 OS=Gorilla gorilla gorilla OX=9595 GN=METTL14 PE=3 SV=1
+tr|G3QT25|G3QT25_GORGO         -          MT-A70               PF05063.21     4e-62  209.4   0.0   7.6e-62  208.5   0.0   1.5   1   0   0   1   1   1   1 mRNA m(6)A methyltransferase OS=Gorilla gorilla gorilla OX=9595 GN=METTL3 PE=3 SV=1
+tr|G3QF59|G3QF59_GORGO         -          MT-A70               PF05063.21   3.4e-39  134.8   0.6   9.1e-39  133.4   0.1   1.9   2   0   0   2   2   2   1 Methyltransferase 4, N6-adenosine OS=Gorilla gorilla gorilla OX=9595 GN=METTL4 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MT-A70.hmm
+# Target file:     proteomes/Gorilla_gorilla.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MT-A70/Gorilla_gorilla.tblout --cpu 8 pfam_list/MT-A70.hmm proteomes/Gorilla_gorilla.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:05:18 2025
+# [ok]

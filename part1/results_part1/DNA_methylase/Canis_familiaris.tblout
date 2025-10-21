@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A8I3NUZ2|A0A8I3NUZ2_CANLF -          DNA_methylase        PF00145.24   2.6e-50  171.9   0.6   1.5e-49  169.4   0.0   2.6   2   2   0   2   2   2   1 DNA (cytosine-5)-methyltransferase OS=Canis lupus familiaris OX=9615 GN=DNMT1 PE=3 SV=1
+tr|A0A8I3NG77|A0A8I3NG77_CANLF -          DNA_methylase        PF00145.24   3.4e-42  145.2   0.0   4.3e-42  144.9   0.0   1.1   1   0   0   1   1   1   1 tRNA (cytosine(38)-C(5))-methyltransferase OS=Canis lupus familiaris OX=9615 GN=TRDMT1 PE=3 SV=1
+tr|A0A8I3PKF3|A0A8I3PKF3_CANLF -          DNA_methylase        PF00145.24   3.8e-15   56.3   0.0   1.1e-11   45.0   0.0   2.4   2   0   0   2   2   2   2 DNA (cytosine-5)-methyltransferase 3B OS=Canis lupus familiaris OX=9615 GN=DNMT3B PE=3 SV=1
+tr|A0A8I3SA17|A0A8I3SA17_CANLF -          DNA_methylase        PF00145.24     7e-15   55.5   0.0   3.6e-11   43.3   0.0   2.4   2   0   0   2   2   2   2 DNA (cytosine-5)-methyltransferase 3A OS=Canis lupus familiaris OX=9615 GN=DNMT3A PE=3 SV=2
+tr|A0A8I3Q0U7|A0A8I3Q0U7_CANLF -          DNA_methylase        PF00145.24    0.0005   19.8   0.1    0.0011   18.7   0.0   1.5   2   0   0   2   2   2   1 Methyltransferase-like protein 5 OS=Canis lupus familiaris OX=9615 GN=METTL5 PE=3 SV=1
+tr|A0A8I3PXS3|A0A8I3PXS3_CANLF -          DNA_methylase        PF00145.24      0.24   11.0   0.9      0.41   10.2   0.2   1.9   2   1   0   2   2   2   0 Ribosomal protein L32 OS=Canis lupus familiaris OX=9615 GN=EFCAB12 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DNA_methylase.hmm
+# Target file:     proteomes/Canis_familiaris.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DNA_methylase/Canis_familiaris.tblout --cpu 8 pfam_list/DNA_methylase.hmm proteomes/Canis_familiaris.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:00:08 2025
+# [ok]

@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|C3XPI0|C3XPI0_BRAFL -          Bin3                 PF06859.19   2.4e-41  141.3   0.0   3.3e-41  140.9   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_72036 PE=4 SV=1
+tr|C3Z096|C3Z096_BRAFL -          Bin3                 PF06859.19   4.1e-20   73.0   0.0   6.1e-20   72.4   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_221489 PE=4 SV=1
+tr|C3ZKH4|C3ZKH4_BRAFL -          Bin3                 PF06859.19       0.2   12.9   0.0        26    6.1   0.0   2.5   2   0   0   2   2   2   0 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_119070 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Bin3.hmm
+# Target file:     proteomes/Branchiostoma_floridae.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Bin3/Branchiostoma_floridae.tblout --cpu 8 pfam_list/Bin3.hmm proteomes/Branchiostoma_floridae.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:51 2025
+# [ok]

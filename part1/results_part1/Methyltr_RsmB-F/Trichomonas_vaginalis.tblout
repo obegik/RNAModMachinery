@@ -1,0 +1,22 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A2F7I7|A2F7I7_TRIVA -          Methyltr_RsmB-F      PF01189.24   8.6e-65  219.6   0.0   1.4e-64  218.9   0.0   1.4   1   0   0   1   1   1   1 NOL1/NOP2/sun family putative RNA methylase containing protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_115490 PE=3 SV=1
+tr|A2FNB4|A2FNB4_TRIVA -          Methyltr_RsmB-F      PF01189.24   1.9e-39  136.9   0.0   8.7e-39  134.7   0.0   2.0   1   1   0   1   1   1   1 NOL1/NOP2/sun family protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_427320 PE=3 SV=1
+tr|A2EFA7|A2EFA7_TRIVA -          Methyltr_RsmB-F      PF01189.24     4e-39  135.8   0.0   9.4e-38  131.3   0.0   2.2   1   1   0   1   1   1   1 NOL1/NOP2/sun family protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_079770 PE=3 SV=1
+tr|A2FUH6|A2FUH6_TRIVA -          Methyltr_RsmB-F      PF01189.24   2.7e-38  133.1   0.3   3.7e-37  129.4   0.3   2.1   1   1   0   1   1   1   1 NOL1/NOP2/sun family protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_380890 PE=3 SV=1
+tr|A2DM16|A2DM16_TRIVA -          Methyltr_RsmB-F      PF01189.24    0.0054   17.9   0.0    0.0091   17.1   0.0   1.3   1   0   0   1   1   1   1 MGC80481 protein, putative OS=Trichomonas vaginalis OX=5722 GN=TVAG_463050 PE=4 SV=1
+tr|A2EDQ1|A2EDQ1_TRIVA -          Methyltr_RsmB-F      PF01189.24    0.0094   17.1   0.0     0.028   15.5   0.0   1.8   1   0   0   1   1   1   1 FtsJ-like methyltransferase family protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_309050 PE=3 SV=1
+tr|A2EI72|A2EI72_TRIVA -          Methyltr_RsmB-F      PF01189.24      0.03   15.4   0.0      0.05   14.7   0.0   1.3   1   0   0   1   1   1   0 Oxidoreductase, short chain dehydrogenase/reductase family protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_429960 PE=4 SV=1
+tr|A2F3X6|A2F3X6_TRIVA -          Methyltr_RsmB-F      PF01189.24      0.27   12.3   0.0      0.44   11.6   0.0   1.3   1   1   0   1   1   1   0 FtsJ-like methyltransferase family protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_290980 PE=3 SV=1
+tr|A2E9S9|A2E9S9_TRIVA -          Methyltr_RsmB-F      PF01189.24      0.36   11.9   0.0      0.67   11.0   0.0   1.4   1   1   0   1   1   1   0 Fibrillarin, putative OS=Trichomonas vaginalis OX=5722 GN=TVAG_282140 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltr_RsmB-F.hmm
+# Target file:     proteomes/Trichomonas_vaginalis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltr_RsmB-F/Trichomonas_vaginalis.tblout --cpu 8 pfam_list/Methyltr_RsmB-F.hmm proteomes/Trichomonas_vaginalis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:10:18 2025
+# [ok]

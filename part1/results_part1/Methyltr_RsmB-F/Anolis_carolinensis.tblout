@@ -1,0 +1,23 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|H9GBE5|H9GBE5_ANOCA -          Methyltr_RsmB-F      PF01189.24   6.5e-78  261.0   0.0   1.2e-77  260.2   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Anolis carolinensis OX=28377 GN=nop2 PE=3 SV=2
+tr|G1K8Q2|G1K8Q2_ANOCA -          Methyltr_RsmB-F      PF01189.24   1.4e-39  135.9   0.0   4.6e-36  124.4   0.0   2.3   2   0   0   2   2   2   2 NOP2/Sun RNA methyltransferase family member 2 OS=Anolis carolinensis OX=28377 GN=NSUN2 PE=3 SV=2
+tr|H9G3D0|H9G3D0_ANOCA -          Methyltr_RsmB-F      PF01189.24   7.5e-34  117.2   0.0     1e-33  116.7   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Anolis carolinensis OX=28377 GN=nsun5 PE=3 SV=1
+tr|G1KY28|G1KY28_ANOCA -          Methyltr_RsmB-F      PF01189.24   2.2e-33  115.6   0.0   3.4e-33  115.0   0.0   1.3   1   0   0   1   1   1   1 NOP2/Sun RNA methyltransferase family member 6 OS=Anolis carolinensis OX=28377 GN=NSUN6 PE=3 SV=1
+tr|G1KAB5|G1KAB5_ANOCA -          Methyltr_RsmB-F      PF01189.24   4.2e-31  108.2   0.0   6.1e-31  107.7   0.0   1.2   1   0   0   1   1   1   1 NOP2/Sun RNA methyltransferase family member 4 OS=Anolis carolinensis OX=28377 GN=NSUN4 PE=3 SV=1
+tr|G1K8I3|G1K8I3_ANOCA -          Methyltr_RsmB-F      PF01189.24     1e-26   93.9   0.1     2e-26   92.9   0.0   1.4   2   0   0   2   2   2   1 NOP2/Sun RNA methyltransferase family member 3 OS=Anolis carolinensis OX=28377 GN=NSUN3 PE=3 SV=2
+tr|G1KLL8|G1KLL8_ANOCA -          Methyltr_RsmB-F      PF01189.24   4.5e-09   36.3   1.3   7.3e-09   35.6   0.1   1.9   2   0   0   2   2   2   1 NOP2/Sun RNA methyltransferase family member 7 OS=Anolis carolinensis OX=28377 GN=NSUN7 PE=3 SV=2
+tr|H9GNL4|H9GNL4_ANOCA -          Methyltr_RsmB-F      PF01189.24     0.053   13.2   0.0      0.11   12.2   0.0   1.5   1   1   0   1   1   1   0 Uncharacterized protein OS=Anolis carolinensis OX=28377 GN=fbl PE=3 SV=2
+tr|R4GBY7|R4GBY7_ANOCA -          Methyltr_RsmB-F      PF01189.24      0.12   12.0   0.0       0.2   11.3   0.0   1.3   1   0   0   1   1   1   0 tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRMT61A OS=Anolis carolinensis OX=28377 GN=TRMT61A PE=3 SV=1
+tr|R4G9E3|R4G9E3_ANOCA -          Methyltr_RsmB-F      PF01189.24      0.14   11.8   0.0       5.6    6.6   0.0   2.2   2   0   0   2   2   2   0 Arsenite methyltransferase OS=Anolis carolinensis OX=28377 GN=AS3MT PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltr_RsmB-F.hmm
+# Target file:     proteomes/Anolis_carolinensis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltr_RsmB-F/Anolis_carolinensis.tblout --cpu 8 pfam_list/Methyltr_RsmB-F.hmm proteomes/Anolis_carolinensis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:10:12 2025
+# [ok]

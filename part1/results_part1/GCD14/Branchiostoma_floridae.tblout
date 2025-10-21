@@ -1,0 +1,22 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|C3Y0D5|C3Y0D5_BRAFL -          GCD14                PF08704.17  1.4e-101  340.0   0.1    3e-101  338.9   0.1   1.5   1   1   0   1   1   1   1 tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRMT61A OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_114350 PE=3 SV=1
+tr|C3Y0B5|C3Y0B5_BRAFL -          GCD14                PF08704.17   2.3e-12   47.8   0.0     3e-12   47.4   0.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein (Fragment) OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_216969 PE=4 SV=1
+tr|C3XZF6|C3XZF6_BRAFL -          GCD14                PF08704.17   2.5e-05   24.7   0.0   3.7e-05   24.2   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_260634 PE=3 SV=1
+tr|C3XXW9|C3XXW9_BRAFL -          GCD14                PF08704.17   0.00029   21.2   0.0   0.00073   19.9   0.0   1.5   1   1   1   2   2   2   1 Uncharacterized protein (Fragment) OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_268147 PE=4 SV=1
+tr|C3Z9J1|C3Z9J1_BRAFL -          GCD14                PF08704.17   0.00045   20.6   0.0    0.0083   16.5   0.0   2.1   1   1   1   2   2   2   1 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_287036 PE=4 SV=1
+tr|C3Y0Q2|C3Y0Q2_BRAFL -          GCD14                PF08704.17    0.0007   20.0   0.0    0.0058   17.0   0.0   2.0   1   1   1   2   2   2   1 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_284774 PE=4 SV=1
+tr|C3ZE13|C3ZE13_BRAFL -          GCD14                PF08704.17      0.13   12.6   0.0      0.16   12.2   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_65542 PE=4 SV=1
+tr|C3YCS2|C3YCS2_BRAFL -          GCD14                PF08704.17      0.43   10.8   1.8      0.51   10.6   1.8   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_90818 PE=4 SV=1
+tr|C3XZ61|C3XZ61_BRAFL -          GCD14                PF08704.17       5.9    7.1   7.6      0.29   11.4   2.0   1.6   2   1   0   2   2   2   0 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_117877 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/GCD14.hmm
+# Target file:     proteomes/Branchiostoma_floridae.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/GCD14/Branchiostoma_floridae.tblout --cpu 8 pfam_list/GCD14.hmm proteomes/Branchiostoma_floridae.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:08 2025
+# [ok]

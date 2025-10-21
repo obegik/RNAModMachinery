@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A3B5KKD3|A0A3B5KKD3_TAKRU -          MafB19-deam          PF14437.13     8e-17   61.6   0.0   1.1e-16   61.2   0.0   1.2   1   0   0   1   1   1   1 tRNA-specific adenosine deaminase 2 OS=Takifugu rubripes OX=31033 GN=adat2 PE=3 SV=2
+tr|H2TSR2|H2TSR2_TAKRU         -          MafB19-deam          PF14437.13   2.7e-15   56.7   0.0   3.2e-15   56.4   0.0   1.1   1   0   0   1   1   1   1 Deoxycytidylate deaminase OS=Takifugu rubripes OX=31033 GN=dctd PE=3 SV=3
+tr|H2U5Y3|H2U5Y3_TAKRU         -          MafB19-deam          PF14437.13   4.3e-10   39.8   0.3   2.9e-08   33.9   0.0   2.1   2   0   0   2   2   2   1 Adenosine deaminase tRNA specific 3 OS=Takifugu rubripes OX=31033 GN=adat3 PE=3 SV=2
+tr|H2SGF6|H2SGF6_TAKRU         -          MafB19-deam          PF14437.13   5.9e-10   39.4   0.4    0.0003   20.9   0.0   2.9   2   1   0   2   2   2   2 Cytidine and dCMP deaminase domain containing 1 OS=Takifugu rubripes OX=31033 GN=cdadc1 PE=3 SV=3
+tr|H2U6E4|H2U6E4_TAKRU         -          MafB19-deam          PF14437.13     0.015   15.4   0.0     0.041   14.0   0.0   1.7   1   0   0   1   1   1   0 Apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 2b OS=Takifugu rubripes OX=31033 GN=apobec2b PE=3 SV=1
+tr|H2UMT4|H2UMT4_TAKRU         -          MafB19-deam          PF14437.13      0.12   12.5   0.0      0.23   11.6   0.0   1.4   1   0   0   1   1   1   0 Netrin-4 OS=Takifugu rubripes OX=31033 GN=ntn4 PE=4 SV=3
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MafB19-deam.hmm
+# Target file:     proteomes/Takifugu_rubripes.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MafB19-deam/Takifugu_rubripes.tblout --cpu 8 pfam_list/MafB19-deam.hmm proteomes/Takifugu_rubripes.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:09:26 2025
+# [ok]

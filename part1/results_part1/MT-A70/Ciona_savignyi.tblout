@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|H2Y8F1|H2Y8F1_CIOSA -          MT-A70               PF05063.21     1e-59  200.7   0.0   2.5e-59  199.4   0.0   1.7   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=3 SV=1
+tr|H2YW51|H2YW51_CIOSA -          MT-A70               PF05063.21   1.6e-55  187.0   0.0     2e-55  186.7   0.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=3 SV=1
+tr|H2Z3B7|H2Z3B7_CIOSA -          MT-A70               PF05063.21   4.8e-40  136.7   1.3   5.8e-40  136.4   1.3   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MT-A70.hmm
+# Target file:     proteomes/Ciona_savignyi.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MT-A70/Ciona_savignyi.tblout --cpu 8 pfam_list/MT-A70.hmm proteomes/Ciona_savignyi.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:05:17 2025
+# [ok]

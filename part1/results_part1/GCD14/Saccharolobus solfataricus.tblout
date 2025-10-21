@@ -1,0 +1,17 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q97ZZ3|Q97ZZ3_SACS2 -          GCD14                PF08704.17   2.2e-33  113.4   0.0   2.9e-33  113.0   0.0   1.0   1   0   0   1   1   1   1 Protein L-isoaspartate methyltransferase OS=Saccharolobus solfataricus (strain ATCC 35092 / DSM 1617 / JCM 11322 / P2) OX=273057 GN=SSO0427 PE=4 SV=1
+sp|Q97WC7|CBIT_SACS2   -          GCD14                PF08704.17   9.8e-09   32.6   0.0   1.2e-08   32.3   0.0   1.1   1   0   0   1   1   1   1 Probable cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating) OS=Saccharolobus solfataricus (strain ATCC 35092 / DSM 1617 / JCM 11322 / P2) OX=273057 GN=cbiT PE=3 SV=1
+sp|P58032|FLPA_SACS2   -          GCD14                PF08704.17     0.022   11.8   0.1     0.098    9.7   0.1   1.9   1   1   0   1   1   1   0 Fibrillarin-like rRNA/tRNA 2'-O-methyltransferase OS=Saccharolobus solfataricus (strain ATCC 35092 / DSM 1617 / JCM 11322 / P2) OX=273057 GN=flpA PE=1 SV=1
+tr|Q97VK8|Q97VK8_SACS2 -          GCD14                PF08704.17     0.037   11.1   0.3     0.068   10.2   0.0   1.5   2   0   0   2   2   2   0 Dipeptide ABC transporter ATP binding protein (DppD-3) OS=Saccharolobus solfataricus (strain ATCC 35092 / DSM 1617 / JCM 11322 / P2) OX=273057 GN=dppD-3 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/GCD14.hmm
+# Target file:     proteomes/Saccharolobus solfataricus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/GCD14/Saccharolobus solfataricus.tblout --cpu 8 pfam_list/GCD14.hmm proteomes/Saccharolobus solfataricus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:14 2025
+# [ok]

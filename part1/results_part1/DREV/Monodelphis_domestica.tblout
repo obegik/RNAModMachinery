@@ -1,0 +1,18 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7AWW5|F7AWW5_MONDO -          DREV                 PF05219.18  2.2e-139  463.2   0.0  2.5e-139  463.0   0.0   1.0   1   0   0   1   1   1   1 Methyltransferase like 9 OS=Monodelphis domestica OX=13616 GN=METTL9 PE=4 SV=2
+tr|F6WM17|F6WM17_MONDO -          DREV                 PF05219.18    0.0024   17.3   0.0     0.004   16.5   0.0   1.3   1   0   0   1   1   1   1 Protein arginine methyltransferase 9 OS=Monodelphis domestica OX=13616 GN=PRMT9 PE=3 SV=2
+tr|H9H5X9|H9H5X9_MONDO -          DREV                 PF05219.18      0.06   12.7   0.0     0.088   12.1   0.0   1.3   1   0   0   1   1   1   0 Methyltransferase like 7B OS=Monodelphis domestica OX=13616 GN=METTL7B PE=4 SV=1
+tr|F7AJN8|F7AJN8_MONDO -          DREV                 PF05219.18     0.085   12.2   0.0      0.19   11.0   0.0   1.5   1   1   0   1   1   1   0 Coactivator associated arginine methyltransferase 1 OS=Monodelphis domestica OX=13616 GN=CARM1 PE=3 SV=1
+tr|F6YAM8|F6YAM8_MONDO -          DREV                 PF05219.18      0.17   11.2   0.0      0.26   10.6   0.0   1.2   1   0   0   1   1   1   0 Protein arginine methyltransferase 6 OS=Monodelphis domestica OX=13616 GN=PRMT6 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DREV.hmm
+# Target file:     proteomes/Monodelphis_domestica.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DREV/Monodelphis_domestica.tblout --cpu 8 pfam_list/DREV.hmm proteomes/Monodelphis_domestica.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:23 2025
+# [ok]

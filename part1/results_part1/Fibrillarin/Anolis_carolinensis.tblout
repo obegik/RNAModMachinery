@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|H9GNL4|H9GNL4_ANOCA -          Fibrillarin          PF01269.24  1.5e-109  364.5   0.0  1.8e-109  364.2   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Anolis carolinensis OX=28377 GN=fbl PE=3 SV=2
+tr|R4GBY7|R4GBY7_ANOCA -          Fibrillarin          PF01269.24     0.013   14.7   0.0     0.019   14.2   0.0   1.2   1   0   0   1   1   1   0 tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRMT61A OS=Anolis carolinensis OX=28377 GN=TRMT61A PE=3 SV=1
+tr|H9G3D0|H9G3D0_ANOCA -          Fibrillarin          PF01269.24     0.019   14.2   0.0      0.03   13.5   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Anolis carolinensis OX=28377 GN=nsun5 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Fibrillarin.hmm
+# Target file:     proteomes/Anolis_carolinensis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Fibrillarin/Anolis_carolinensis.tblout --cpu 8 pfam_list/Fibrillarin.hmm proteomes/Anolis_carolinensis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:40 2025
+# [ok]

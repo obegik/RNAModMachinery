@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|G1KP31|G1KP31_ANOCA -          MT-A70               PF05063.21   1.8e-63  213.6   0.0   2.5e-63  213.1   0.0   1.2   1   0   0   1   1   1   1 Methyltransferase like 14 OS=Anolis carolinensis OX=28377 GN=METTL14 PE=3 SV=2
+tr|H9G6T9|H9G6T9_ANOCA -          MT-A70               PF05063.21   4.4e-62  209.1   0.0   8.9e-62  208.1   0.0   1.5   1   0   0   1   1   1   1 Methyltransferase like 3 OS=Anolis carolinensis OX=28377 GN=METTL3 PE=3 SV=1
+tr|G1KI45|G1KI45_ANOCA -          MT-A70               PF05063.21   8.9e-38  129.9   0.2   2.2e-37  128.7   0.0   1.7   2   0   0   2   2   2   1 Methyltransferase like 4 OS=Anolis carolinensis OX=28377 GN=METTL4 PE=3 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MT-A70.hmm
+# Target file:     proteomes/Anolis_carolinensis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MT-A70/Anolis_carolinensis.tblout --cpu 8 pfam_list/MT-A70.hmm proteomes/Anolis_carolinensis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:05:16 2025
+# [ok]

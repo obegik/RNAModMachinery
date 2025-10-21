@@ -1,0 +1,38 @@
+#                                                                  --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name           accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#   ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q96FX7|TRM61_HUMAN   -          GCD14                PF08704.17  6.2e-107  359.1   0.2  1.2e-104  351.7   0.2   2.0   1   1   0   1   1   1   1 tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRMT61A OS=Homo sapiens GN=TRMT61A PE=1 SV=1
+tr|H0Y2Q1|H0Y2Q1_HUMAN  -          GCD14                PF08704.17   2.5e-76  258.9   0.3   7.2e-71  241.0   0.0   2.0   1   1   1   2   2   2   2 tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRMT61A (Fragment) OS=Homo sapiens GN=TRMT61A PE=4 SV=1
+sp|Q9BVS5|TR61B_HUMAN   -          GCD14                PF08704.17   5.2e-19   71.1   0.0   7.2e-19   70.7   0.0   1.1   1   0   0   1   1   1   1 tRNA (adenine(58)-N(1))-methyltransferase, mitochondrial OS=Homo sapiens GN=TRMT61B PE=1 SV=2
+tr|F8WDR2|F8WDR2_HUMAN  -          GCD14                PF08704.17   1.1e-14   56.9   0.0   1.7e-14   56.4   0.0   1.2   1   0   0   1   1   1   1 tRNA (adenine(58)-N(1))-methyltransferase, mitochondrial OS=Homo sapiens GN=TRMT61B PE=2 SV=1
+tr|M0R299|M0R299_HUMAN  -          GCD14                PF08704.17   0.00031   22.7   0.0   0.00044   22.2   0.0   1.2   1   0   0   1   1   1   1 rRNA 2'-O-methyltransferase fibrillarin (Fragment) OS=Homo sapiens GN=FBL PE=2 SV=1
+tr|M0QXL5|M0QXL5_HUMAN  -          GCD14                PF08704.17   0.00037   22.5   0.0   0.00053   22.0   0.0   1.2   1   0   0   1   1   1   1 rRNA 2'-O-methyltransferase fibrillarin (Fragment) OS=Homo sapiens GN=FBL PE=2 SV=1
+tr|M0R2Q4|M0R2Q4_HUMAN  -          GCD14                PF08704.17   0.00053   22.0   0.0   0.00076   21.5   0.0   1.2   1   0   0   1   1   1   1 rRNA 2'-O-methyltransferase fibrillarin (Fragment) OS=Homo sapiens GN=FBL PE=2 SV=1
+sp|P22087|FBRL_HUMAN    -          GCD14                PF08704.17   0.00071   21.6   0.0     0.001   21.1   0.0   1.2   1   0   0   1   1   1   1 rRNA 2'-O-methyltransferase fibrillarin OS=Homo sapiens GN=FBL PE=1 SV=2
+tr|M0R0P1|M0R0P1_HUMAN  -          GCD14                PF08704.17    0.0011   21.0   0.0    0.0016   20.4   0.0   1.2   1   0   0   1   1   1   1 rRNA 2'-O-methyltransferase fibrillarin (Fragment) OS=Homo sapiens GN=FBL PE=2 SV=1
+tr|C9J0F2|C9J0F2_HUMAN  -          GCD14                PF08704.17    0.0028   19.6   0.0     0.003   19.5   0.0   1.1   1   0   0   1   1   1   1 Protein-L-isoaspartate(D-aspartate) O-methyltransferase (Fragment) OS=Homo sapiens GN=PCMT1 PE=2 SV=1
+tr|B7Z972|B7Z972_HUMAN  -          GCD14                PF08704.17    0.0042   19.0   0.0    0.0051   18.8   0.0   1.2   1   0   0   1   1   1   1 Protein-L-isoaspartate O-methyltransferase OS=Homo sapiens GN=PCMT1 PE=2 SV=1
+sp|P22061|PIMT_HUMAN    -          GCD14                PF08704.17    0.0057   18.6   0.0    0.0072   18.3   0.0   1.2   1   0   0   1   1   1   1 Protein-L-isoaspartate(D-aspartate) O-methyltransferase OS=Homo sapiens GN=PCMT1 PE=1 SV=4
+sp|P22061-2|PIMT_HUMAN  -          GCD14                PF08704.17    0.0057   18.6   0.0    0.0073   18.2   0.0   1.2   1   0   0   1   1   1   1 Isoform 2 of Protein-L-isoaspartate(D-aspartate) O-methyltransferase OS=Homo sapiens GN=PCMT1
+tr|J3KP72|J3KP72_HUMAN  -          GCD14                PF08704.17    0.0084   18.0   0.0     0.012   17.6   0.0   1.2   1   0   0   1   1   1   1 Protein-L-isoaspartate O-methyltransferase OS=Homo sapiens GN=PCMT1 PE=2 SV=1
+tr|H7BY58|H7BY58_HUMAN  -          GCD14                PF08704.17    0.0085   18.0   0.0     0.012   17.6   0.0   1.2   1   0   0   1   1   1   1 Protein-L-isoaspartate O-methyltransferase OS=Homo sapiens GN=PCMT1 PE=2 SV=1
+sp|A6NHQ2|FBLL1_HUMAN   -          GCD14                PF08704.17    0.0085   18.0   0.0     0.013   17.5   0.0   1.2   1   0   0   1   1   1   1 rRNA/tRNA 2'-O-methyltransferase fibrillarin-like protein 1 OS=Homo sapiens GN=FBLL1 PE=1 SV=1
+tr|R4GMW7|R4GMW7_HUMAN  -          GCD14                PF08704.17    0.0086   18.0   0.0     0.013   17.5   0.0   1.2   1   0   0   1   1   1   1 rRNA/tRNA 2'-O-methyltransferase fibrillarin-like protein 1 OS=Homo sapiens GN=FBLL1 PE=3 SV=1
+sp|Q96MG8|PCMD1_HUMAN   -          GCD14                PF08704.17     0.013   17.4   0.1     0.058   15.3   0.0   1.8   2   0   0   2   2   2   0 Protein-L-isoaspartate O-methyltransferase domain-containing protein 1 OS=Homo sapiens GN=PCMTD1 PE=2 SV=2
+tr|F8W9F3|F8W9F3_HUMAN  -          GCD14                PF08704.17     0.042   15.8   0.0     0.061   15.2   0.0   1.3   1   0   0   1   1   1   0 Protein-L-isoaspartate O-methyltransferase domain-containing protein 2 OS=Homo sapiens GN=PCMTD2 PE=2 SV=1
+sp|Q9NV79-2|PCMD2_HUMAN -          GCD14                PF08704.17     0.049   15.5   0.0     0.093   14.6   0.0   1.4   1   0   0   1   1   1   0 Isoform 2 of Protein-L-isoaspartate O-methyltransferase domain-containing protein 2 OS=Homo sapiens GN=PCMTD2
+sp|Q9NV79|PCMD2_HUMAN   -          GCD14                PF08704.17     0.057   15.3   0.0      0.11   14.4   0.0   1.4   1   0   0   1   1   1   0 Protein-L-isoaspartate O-methyltransferase domain-containing protein 2 OS=Homo sapiens GN=PCMTD2 PE=2 SV=2
+tr|C9JDL5|C9JDL5_HUMAN  -          GCD14                PF08704.17      0.09   14.7   0.2      0.11   14.4   0.2   1.1   1   0   0   1   1   1   0 Bromodomain testis-specific protein (Fragment) OS=Homo sapiens GN=BRDT PE=2 SV=1
+tr|C9JD82|C9JD82_HUMAN  -          GCD14                PF08704.17      0.13   14.2   0.2      0.15   14.0   0.2   1.1   1   0   0   1   1   1   0 Bromodomain testis-specific protein (Fragment) OS=Homo sapiens GN=BRDT PE=2 SV=1
+sp|Q8WZ04-2|TOMT_HUMAN  -          GCD14                PF08704.17         1   11.2   0.0       1.3   10.8   0.0   1.1   1   0   0   1   1   1   0 Isoform 2 of Transmembrane O-methyltransferase OS=Homo sapiens GN=LRTOMT
+sp|Q8WZ04|TOMT_HUMAN    -          GCD14                PF08704.17       1.3   10.9   0.0       1.8   10.4   0.0   1.2   1   0   0   1   1   1   0 Transmembrane O-methyltransferase OS=Homo sapiens GN=LRTOMT PE=1 SV=3
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/GCD14.hmm
+# Target file:     proteomes/Homo_sapiens.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/GCD14/Homo_sapiens.tblout --cpu 8 pfam_list/GCD14.hmm proteomes/Homo_sapiens.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:11 2025
+# [ok]

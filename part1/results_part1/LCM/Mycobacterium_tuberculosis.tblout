@@ -1,0 +1,31 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P9WFI7|Y751_MYCTU   -          LCM                  PF04072.21   2.6e-73  243.8   1.8   3.8e-73  243.2   1.8   1.3   1   0   0   1   1   1   1 Putative S-adenosyl-L-methionine-dependent methyltransferase Rv0726c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0726c PE=1 SV=1
+sp|P9WFH1|Y3399_MYCTU  -          LCM                  PF04072.21   2.4e-71  237.4   0.0   4.2e-71  236.6   0.0   1.4   1   0   0   1   1   1   1 Putative S-adenosyl-L-methionine-dependent methyltransferase Rv3399 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3399 PE=1 SV=2
+sp|P9WFH3|Y3895_MYCTU  -          LCM                  PF04072.21   3.3e-71  236.9   1.5   4.1e-71  236.6   1.5   1.1   1   0   0   1   1   1   1 Putative S-adenosyl-L-methionine-dependent methyltransferase Rv3787c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3787c PE=1 SV=1
+sp|P9WFI5|Y756_MYCTU   -          LCM                  PF04072.21   6.4e-71  236.0   2.5   8.8e-71  235.5   2.5   1.2   1   0   0   1   1   1   1 Putative S-adenosyl-L-methionine-dependent methyltransferase Rv0731c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0731c PE=1 SV=1
+sp|P9WFH9|Y1770_MYCTU  -          LCM                  PF04072.21   3.3e-70  233.7   0.1   4.4e-70  233.2   0.1   1.2   1   0   0   1   1   1   1 Putative S-adenosyl-L-methionine-dependent methyltransferase Rv1729c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1729c PE=1 SV=1
+sp|P9WFJ1|Y153_MYCTU   -          LCM                  PF04072.21   3.4e-68  227.1   1.5   5.1e-68  226.5   1.5   1.3   1   0   0   1   1   1   1 Putative S-adenosyl-L-methionine-dependent methyltransferase Rv0145 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0145 PE=1 SV=1
+sp|P9WFJ3|Y146_MYCTU   -          LCM                  PF04072.21   4.9e-68  226.6   1.3   7.1e-68  226.1   1.3   1.2   1   0   0   1   1   1   1 Putative S-adenosyl-L-methionine-dependent methyltransferase Rv0146 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0146 PE=1 SV=1
+tr|P95073|P95073_MYCTU -          LCM                  PF04072.21   5.3e-68  226.5   0.0     7e-68  226.1   0.0   1.1   1   0   0   1   1   1   1 S-adenosyl-L-methionine-dependent methyltransferase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0725c PE=3 SV=1
+sp|P9WFH5|Y3874_MYCTU  -          LCM                  PF04072.21   1.3e-67  225.2   0.2     2e-67  224.6   0.2   1.3   1   0   0   1   1   1   1 Putative S-adenosyl-L-methionine-dependent methyltransferase Rv3767c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3767c PE=1 SV=1
+sp|P9WFI3|Y851_MYCTU   -          LCM                  PF04072.21   4.8e-67  223.4   0.6   6.5e-67  222.9   0.6   1.2   1   0   0   1   1   1   1 Putative S-adenosyl-L-methionine-dependent methyltransferase Rv0830 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0830 PE=1 SV=1
+sp|P9WFI9|Y293_MYCTU   -          LCM                  PF04072.21     2e-66  221.3   0.5   2.6e-66  221.0   0.5   1.1   1   0   0   1   1   1   1 Putative S-adenosyl-L-methionine-dependent methyltransferase Rv0281 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0281 PE=1 SV=1
+sp|P9WFI1|Y893_MYCTU   -          LCM                  PF04072.21   2.7e-62  207.9   0.2   4.3e-62  207.2   0.2   1.3   1   0   0   1   1   1   1 Putative S-adenosyl-L-methionine-dependent methyltransferase Rv0893c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0893c PE=1 SV=1
+sp|P9WFH7|Y1947_MYCTU  -          LCM                  PF04072.21   1.1e-61  205.9   0.0   1.3e-61  205.6   0.0   1.1   1   0   0   1   1   1   1 Putative S-adenosyl-L-methionine-dependent methyltransferase Rv1896c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1896c PE=1 SV=1
+tr|I6YEA3|I6YEA3_MYCTU -          LCM                  PF04072.21     1e-43  147.3   0.1   1.3e-43  146.9   0.1   1.1   1   0   0   1   1   1   1 S-adenosyl-L-methionine-dependent methyltransferase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2751 PE=1 SV=1
+tr|O07743|O07743_MYCTU -          LCM                  PF04072.21   1.1e-31  108.1   2.9   1.2e-31  107.9   2.9   1.0   1   0   0   1   1   1   1 S-adenosyl-L-methionine-dependent methyltransferase (Part1) OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1889c PE=4 SV=1
+tr|Q79FJ0|Q79FJ0_MYCTU -          LCM                  PF04072.21   6.8e-19   66.4   0.0   7.4e-19   66.2   0.0   1.0   1   0   0   1   1   1   1 S-adenosyl-L-methionine-dependent methyltransferase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1888A PE=4 SV=1
+tr|O06551|O06551_MYCTU -          LCM                  PF04072.21   6.4e-13   46.9   1.1   9.1e-12   43.1   1.1   2.5   1   1   0   1   1   1   1 Probable O-methyltransferase Omt OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=omt PE=1 SV=1
+sp|P9WGE5|SPEE_MYCTU   -          LCM                  PF04072.21     0.014   13.2   0.0     0.025   12.3   0.0   1.4   1   0   0   1   1   1   0 Polyamine aminopropyltransferase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=speE PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/LCM.hmm
+# Target file:     proteomes/Mycobacterium_tuberculosis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/LCM/Mycobacterium_tuberculosis.tblout --cpu 8 pfam_list/LCM.hmm proteomes/Mycobacterium_tuberculosis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:46 2025
+# [ok]

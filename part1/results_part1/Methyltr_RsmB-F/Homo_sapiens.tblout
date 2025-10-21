@@ -1,0 +1,60 @@
+#                                                                  --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name           accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#   ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P46087-3|NOP2_HUMAN  -          Methyltr_RsmB-F      PF01189.24   4.1e-80  270.4   0.0   6.2e-80  269.8   0.0   1.3   1   0   0   1   1   1   1 Isoform 3 of Putative ribosomal RNA methyltransferase NOP2 OS=Homo sapiens GN=NOP2
+sp|P46087-2|NOP2_HUMAN  -          Methyltr_RsmB-F      PF01189.24   6.1e-80  269.8   0.0     1e-79  269.1   0.0   1.4   1   0   0   1   1   1   1 Isoform 2 of Putative ribosomal RNA methyltransferase NOP2 OS=Homo sapiens GN=NOP2
+sp|P46087|NOP2_HUMAN    -          Methyltr_RsmB-F      PF01189.24   6.2e-80  269.8   0.0     1e-79  269.1   0.0   1.3   1   0   0   1   1   1   1 Putative ribosomal RNA methyltransferase NOP2 OS=Homo sapiens GN=NOP2 PE=1 SV=2
+sp|P46087-4|NOP2_HUMAN  -          Methyltr_RsmB-F      PF01189.24   6.7e-80  269.7   0.0   1.1e-79  269.0   0.0   1.3   1   0   0   1   1   1   1 Isoform 4 of Putative ribosomal RNA methyltransferase NOP2 OS=Homo sapiens GN=NOP2
+sp|Q8TEA1|NSUN6_HUMAN   -          Methyltr_RsmB-F      PF01189.24   6.9e-45  155.4   0.0   1.1e-44  154.8   0.0   1.4   1   0   0   1   1   1   1 Putative methyltransferase NSUN6 OS=Homo sapiens GN=NSUN6 PE=1 SV=1
+sp|Q08J23-2|NSUN2_HUMAN -          Methyltr_RsmB-F      PF01189.24   9.7e-38  132.1   0.0   4.2e-34  120.2   0.0   2.3   2   0   0   2   2   2   2 Isoform 2 of tRNA (cytosine(34)-C(5))-methyltransferase OS=Homo sapiens GN=NSUN2
+sp|Q08J23|NSUN2_HUMAN   -          Methyltr_RsmB-F      PF01189.24   1.1e-37  131.9   0.0   4.5e-34  120.1   0.0   2.3   2   0   0   2   2   2   2 tRNA (cytosine(34)-C(5))-methyltransferase OS=Homo sapiens GN=NSUN2 PE=1 SV=2
+sp|Q9H649|NSUN3_HUMAN   -          Methyltr_RsmB-F      PF01189.24   3.4e-31  110.7   0.0   4.9e-31  110.2   0.0   1.2   1   0   0   1   1   1   1 Putative methyltransferase NSUN3 OS=Homo sapiens GN=NSUN3 PE=2 SV=1
+sp|Q96P11-5|NSUN5_HUMAN -          Methyltr_RsmB-F      PF01189.24   2.2e-27   98.3   0.0   3.6e-27   97.6   0.0   1.4   1   0   0   1   1   1   1 Isoform 5 of Putative methyltransferase NSUN5 OS=Homo sapiens GN=NSUN5
+sp|Q96P11|NSUN5_HUMAN   -          Methyltr_RsmB-F      PF01189.24   2.8e-27   97.9   0.0   4.6e-27   97.2   0.0   1.4   1   0   0   1   1   1   1 Putative methyltransferase NSUN5 OS=Homo sapiens GN=NSUN5 PE=1 SV=2
+sp|Q96P11-2|NSUN5_HUMAN -          Methyltr_RsmB-F      PF01189.24   3.4e-27   97.7   0.0   5.6e-27   96.9   0.0   1.4   1   0   0   1   1   1   1 Isoform 2 of Putative methyltransferase NSUN5 OS=Homo sapiens GN=NSUN5
+sp|Q96P11-4|NSUN5_HUMAN -          Methyltr_RsmB-F      PF01189.24   3.4e-27   97.6   0.0   5.7e-27   96.9   0.0   1.4   1   0   0   1   1   1   1 Isoform 4 of Putative methyltransferase NSUN5 OS=Homo sapiens GN=NSUN5
+sp|Q96CB9-4|NSUN4_HUMAN -          Methyltr_RsmB-F      PF01189.24   5.7e-27   96.9   0.0   7.9e-27   96.5   0.0   1.2   1   0   0   1   1   1   1 Isoform 4 of 5-methylcytosine rRNA methyltransferase NSUN4 OS=Homo sapiens GN=NSUN4
+sp|Q96CB9|NSUN4_HUMAN   -          Methyltr_RsmB-F      PF01189.24   7.8e-27   96.5   0.0   1.1e-26   96.0   0.0   1.2   1   0   0   1   1   1   1 5-methylcytosine rRNA methyltransferase NSUN4 OS=Homo sapiens GN=NSUN4 PE=1 SV=2
+tr|G3V1R4|G3V1R4_HUMAN  -          Methyltr_RsmB-F      PF01189.24   2.6e-21   78.4   0.0   1.6e-17   66.1   0.0   2.3   2   0   0   2   2   2   2 NOL1/NOP2/Sun domain family, member 2, isoform CRA_b OS=Homo sapiens GN=NSUN2 PE=4 SV=1
+sp|Q63ZY6-5|NSN5C_HUMAN -          Methyltr_RsmB-F      PF01189.24   2.4e-15   59.0   0.0   3.1e-15   58.6   0.0   1.2   1   0   0   1   1   1   1 Isoform 4 of Putative methyltransferase NSUN5C OS=Homo sapiens GN=NSUN5P2
+sp|Q96CB9-3|NSUN4_HUMAN -          Methyltr_RsmB-F      PF01189.24   2.7e-15   58.8   0.0   3.5e-15   58.4   0.0   1.1   1   0   0   1   1   1   1 Isoform 3 of 5-methylcytosine rRNA methyltransferase NSUN4 OS=Homo sapiens GN=NSUN4
+sp|Q63ZY6|NSN5C_HUMAN   -          Methyltr_RsmB-F      PF01189.24   4.8e-15   58.0   0.0   6.7e-15   57.5   0.0   1.3   1   0   0   1   1   1   1 Putative methyltransferase NSUN5C OS=Homo sapiens GN=NSUN5P2 PE=5 SV=2
+sp|Q63ZY6-6|NSN5C_HUMAN -          Methyltr_RsmB-F      PF01189.24   3.8e-14   55.1   0.0   1.1e-06   30.7   0.0   2.1   2   0   0   2   2   2   2 Isoform 5 of Putative methyltransferase NSUN5C OS=Homo sapiens GN=NSUN5P2
+sp|Q8NE18-2|NSUN7_HUMAN -          Methyltr_RsmB-F      PF01189.24   1.8e-08   36.5   0.9   5.4e-08   35.0   0.5   1.9   2   1   0   2   2   1   1 Isoform 2 of Putative methyltransferase NSUN7 OS=Homo sapiens GN=NSUN7
+sp|Q8NE18|NSUN7_HUMAN   -          Methyltr_RsmB-F      PF01189.24   2.6e-08   36.0   0.3     1e-07   34.1   0.3   1.9   1   1   0   1   1   1   1 Putative methyltransferase NSUN7 OS=Homo sapiens GN=NSUN7 PE=2 SV=4
+sp|Q63ZY6-2|NSN5C_HUMAN -          Methyltr_RsmB-F      PF01189.24   1.8e-07   33.3   0.0   1.9e-07   33.2   0.0   1.1   1   0   0   1   1   1   1 Isoform 2 of Putative methyltransferase NSUN5C OS=Homo sapiens GN=NSUN5P2
+sp|Q96P11-3|NSUN5_HUMAN -          Methyltr_RsmB-F      PF01189.24   1.9e-07   33.2   0.1   3.6e-07   32.3   0.1   1.4   1   0   0   1   1   1   1 Isoform 3 of Putative methyltransferase NSUN5 OS=Homo sapiens GN=NSUN5
+sp|Q3KNT7|NSN5B_HUMAN   -          Methyltr_RsmB-F      PF01189.24   1.4e-06   30.3   0.0     2e-06   29.9   0.0   1.3   1   1   0   1   1   1   1 Putative NOL1/NOP2/Sun domain family member 5B OS=Homo sapiens GN=NSUN5P1 PE=5 SV=1
+tr|F5GYR3|F5GYR3_HUMAN  -          Methyltr_RsmB-F      PF01189.24   2.2e-06   29.7   0.1   3.5e-06   29.0   0.1   1.4   1   0   0   1   1   1   1 Putative ribosomal RNA methyltransferase NOP2 (Fragment) OS=Homo sapiens GN=NOP2 PE=2 SV=1
+sp|Q63ZY6-4|NSN5C_HUMAN -          Methyltr_RsmB-F      PF01189.24   3.4e-05   25.8   0.0   3.8e-05   25.7   0.0   1.1   1   0   0   1   1   1   1 Isoform 3 of Putative methyltransferase NSUN5C OS=Homo sapiens GN=NSUN5P2
+sp|P0C7V9|ME15P_HUMAN   -          Methyltr_RsmB-F      PF01189.24   5.7e-05   25.1   0.0   8.6e-05   24.5   0.0   1.2   1   0   0   1   1   1   1 Putative methyltransferase-like protein 15P1 OS=Homo sapiens GN=METTL15P1 PE=5 SV=1
+sp|A6NJ78-2|MET15_HUMAN -          Methyltr_RsmB-F      PF01189.24   7.7e-05   24.7   0.0   0.00012   24.0   0.0   1.3   1   0   0   1   1   1   1 Isoform 2 of Probable methyltransferase-like protein 15 OS=Homo sapiens GN=METTL15
+sp|A6NJ78-4|MET15_HUMAN -          Methyltr_RsmB-F      PF01189.24   7.9e-05   24.7   0.0   0.00013   23.9   0.0   1.3   1   0   0   1   1   1   1 Isoform 4 of Probable methyltransferase-like protein 15 OS=Homo sapiens GN=METTL15
+sp|A6NJ78|MET15_HUMAN   -          Methyltr_RsmB-F      PF01189.24   0.00015   23.8   0.0   0.00027   22.9   0.0   1.4   1   0   0   1   1   1   1 Probable methyltransferase-like protein 15 OS=Homo sapiens GN=METTL15 PE=2 SV=1
+sp|Q3KNT7-2|NSN5B_HUMAN -          Methyltr_RsmB-F      PF01189.24   0.00017   23.6   0.0   0.00019   23.4   0.0   1.1   1   0   0   1   1   1   1 Isoform 2 of Putative NOL1/NOP2/Sun domain family member 5B OS=Homo sapiens GN=NSUN5P1
+sp|Q3KNT7-3|NSN5B_HUMAN -          Methyltr_RsmB-F      PF01189.24   0.00033   22.6   0.0   0.00041   22.3   0.0   1.1   1   0   0   1   1   1   1 Isoform 3 of Putative NOL1/NOP2/Sun domain family member 5B OS=Homo sapiens GN=NSUN5P1
+tr|J3QSE2|J3QSE2_HUMAN  -          Methyltr_RsmB-F      PF01189.24      0.11   14.4   0.0      0.13   14.1   0.0   1.2   1   0   0   1   1   1   0 pre-rRNA-processing protein FTSJ3 (Fragment) OS=Homo sapiens GN=FTSJ3 PE=2 SV=1
+tr|J3KS36|J3KS36_HUMAN  -          Methyltr_RsmB-F      PF01189.24      0.14   14.1   0.0      0.21   13.5   0.0   1.3   1   1   0   1   1   1   0 pre-rRNA-processing protein FTSJ3 (Fragment) OS=Homo sapiens GN=FTSJ3 PE=2 SV=1
+sp|Q9Y5R4|HEMK1_HUMAN   -          Methyltr_RsmB-F      PF01189.24      0.15   14.0   0.0      0.24   13.3   0.0   1.2   1   0   0   1   1   1   0 HemK methyltransferase family member 1 OS=Homo sapiens GN=HEMK1 PE=2 SV=1
+tr|M0R299|M0R299_HUMAN  -          Methyltr_RsmB-F      PF01189.24      0.18   13.7   0.0      0.35   12.7   0.0   1.5   1   1   0   1   1   1   0 rRNA 2'-O-methyltransferase fibrillarin (Fragment) OS=Homo sapiens GN=FBL PE=2 SV=1
+sp|O00273-2|DFFA_HUMAN  -          Methyltr_RsmB-F      PF01189.24      0.19   13.6   0.1      0.29   13.0   0.1   1.3   1   0   0   1   1   1   0 Isoform DFF35 of DNA fragmentation factor subunit alpha OS=Homo sapiens GN=DFFA
+tr|M0QXL5|M0QXL5_HUMAN  -          Methyltr_RsmB-F      PF01189.24       0.2   13.6   0.0      0.38   12.6   0.0   1.5   1   1   0   1   1   1   0 rRNA 2'-O-methyltransferase fibrillarin (Fragment) OS=Homo sapiens GN=FBL PE=2 SV=1
+tr|M0R0P1|M0R0P1_HUMAN  -          Methyltr_RsmB-F      PF01189.24      0.21   13.5   0.0      0.35   12.8   0.0   1.3   1   0   0   1   1   1   0 rRNA 2'-O-methyltransferase fibrillarin (Fragment) OS=Homo sapiens GN=FBL PE=2 SV=1
+sp|O00273|DFFA_HUMAN    -          Methyltr_RsmB-F      PF01189.24      0.25   13.2   0.1      0.45   12.4   0.1   1.4   1   0   0   1   1   1   0 DNA fragmentation factor subunit alpha OS=Homo sapiens GN=DFFA PE=1 SV=1
+tr|M0R2Q4|M0R2Q4_HUMAN  -          Methyltr_RsmB-F      PF01189.24      0.27   13.1   0.0      0.47   12.3   0.0   1.4   1   0   0   1   1   1   0 rRNA 2'-O-methyltransferase fibrillarin (Fragment) OS=Homo sapiens GN=FBL PE=2 SV=1
+sp|P22087|FBRL_HUMAN    -          Methyltr_RsmB-F      PF01189.24      0.34   12.8   0.0      0.61   12.0   0.0   1.4   1   0   0   1   1   1   0 rRNA 2'-O-methyltransferase fibrillarin OS=Homo sapiens GN=FBL PE=1 SV=2
+sp|Q9HBK9|AS3MT_HUMAN   -          Methyltr_RsmB-F      PF01189.24      0.53   12.2   0.0        59    5.5   0.0   2.3   2   0   0   2   2   2   0 Arsenite methyltransferase OS=Homo sapiens GN=AS3MT PE=1 SV=3
+sp|A6NHQ2|FBLL1_HUMAN   -          Methyltr_RsmB-F      PF01189.24      0.54   12.1   0.0      0.97   11.3   0.0   1.4   1   0   0   1   1   1   0 rRNA/tRNA 2'-O-methyltransferase fibrillarin-like protein 1 OS=Homo sapiens GN=FBLL1 PE=1 SV=1
+tr|R4GMW7|R4GMW7_HUMAN  -          Methyltr_RsmB-F      PF01189.24      0.54   12.1   0.0      0.97   11.3   0.0   1.4   1   0   0   1   1   1   0 rRNA/tRNA 2'-O-methyltransferase fibrillarin-like protein 1 OS=Homo sapiens GN=FBLL1 PE=3 SV=1
+sp|Q9UET6-2|TRM7_HUMAN  -          Methyltr_RsmB-F      PF01189.24      0.85   11.5   0.0       3.6    9.4   0.0   1.9   1   1   1   2   2   2   0 Isoform 2 of Putative tRNA (cytidine(32)/guanosine(34)-2'-O)-methyltransferase OS=Homo sapiens GN=FTSJ1
+sp|Q9UET6|TRM7_HUMAN    -          Methyltr_RsmB-F      PF01189.24      0.86   11.5   0.0       3.7    9.4   0.0   1.8   1   1   1   2   2   2   0 Putative tRNA (cytidine(32)/guanosine(34)-2'-O)-methyltransferase OS=Homo sapiens GN=FTSJ1 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltr_RsmB-F.hmm
+# Target file:     proteomes/Homo_sapiens.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltr_RsmB-F/Homo_sapiens.tblout --cpu 8 pfam_list/Methyltr_RsmB-F.hmm proteomes/Homo_sapiens.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:10:15 2025
+# [ok]

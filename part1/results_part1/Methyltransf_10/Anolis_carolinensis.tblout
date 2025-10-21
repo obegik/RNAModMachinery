@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|G1KT98|G1KT98_ANOCA -          Methyltransf_10      PF05971.19    1e-130  435.5   0.0  1.5e-130  435.0   0.0   1.2   1   0   0   1   1   1   1 U6 small nuclear RNA (adenine-(43)-N(6))-methyltransferase OS=Anolis carolinensis OX=28377 GN=METTL16 PE=3 SV=1
+tr|H9G6A4|H9G6A4_ANOCA -          Methyltransf_10      PF05971.19     0.083   12.3   0.5     0.097   12.0   0.5   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Anolis carolinensis OX=28377 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltransf_10.hmm
+# Target file:     proteomes/Anolis_carolinensis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltransf_10/Anolis_carolinensis.tblout --cpu 8 pfam_list/Methyltransf_10.hmm proteomes/Anolis_carolinensis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:12:17 2025
+# [ok]

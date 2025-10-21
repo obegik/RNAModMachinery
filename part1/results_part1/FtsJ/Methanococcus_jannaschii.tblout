@@ -1,0 +1,26 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q58771|RLME_METJA  -          FtsJ                 PF01728.26   2.3e-61  203.6   0.0   2.9e-61  203.3   0.0   1.1   1   0   0   1   1   1   1 Ribosomal RNA large subunit methyltransferase E OS=Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) OX=243232 GN=rlmE PE=3 SV=1
+sp|Q58654|Y1257_METJA -          FtsJ                 PF01728.26   9.9e-15   51.6   0.0   1.7e-14   50.9   0.0   1.5   1   0   0   1   1   1   1 Uncharacterized protein MJ1257 OS=Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) OX=243232 GN=MJ1257 PE=4 SV=1
+sp|Q59043|Y1649_METJA -          FtsJ                 PF01728.26     8e-13   45.4   0.1   4.4e-12   43.0   0.0   2.1   2   0   0   2   2   2   1 Putative ribosomal RNA large subunit methyltransferase MJ1649 OS=Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) OX=243232 GN=MJ1649 PE=3 SV=1
+sp|Q59047|Y1653_METJA -          FtsJ                 PF01728.26   1.7e-11   41.1   0.0   4.3e-11   39.8   0.0   1.6   2   0   0   2   2   2   1 Putative ribosomal RNA large subunit methyltransferase MJ1653 OS=Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) OX=243232 GN=MJ1653 PE=3 SV=1
+sp|Q60343|TRM4_METJA  -          FtsJ                 PF01728.26   5.5e-07   26.4   0.3   1.4e-06   25.1   0.0   1.6   2   0   0   2   2   2   1 tRNA (cytosine(48)-C(5))-methyltransferase OS=Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) OX=243232 GN=trm4 PE=1 SV=1
+sp|Q58338|Y928_METJA  -          FtsJ                 PF01728.26     2e-06   24.6   0.0   2.5e-06   24.3   0.0   1.3   1   1   0   1   1   1   1 Putative protein N5-glutamine methyltransferase MJ0928 OS=Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) OX=243232 GN=MJ0928 PE=3 SV=1
+sp|Q57836|CBIT_METJA  -          FtsJ                 PF01728.26   3.6e-05   20.5   0.3   6.6e-05   19.6   0.3   1.4   1   1   0   1   1   1   1 Probable cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating) OS=Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) OX=243232 GN=cbiT PE=1 SV=1
+sp|Q57732|Y284_METJA  -          FtsJ                 PF01728.26   0.00026   17.7   0.0   0.00035   17.3   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein MJ0284 OS=Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) OX=243232 GN=MJ0284 PE=4 SV=1
+sp|Q58648|Y1252_METJA -          FtsJ                 PF01728.26   0.00032   17.4   1.1    0.0021   14.7   1.1   2.5   1   1   0   1   1   1   1 Uncharacterized protein MJ1252 OS=Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) OX=243232 GN=MJ1252 PE=4 SV=1
+sp|Q57598|TRMI_METJA  -          FtsJ                 PF01728.26   0.00038   17.2   0.3    0.0015   15.2   0.3   2.0   1   1   0   1   1   1   1 tRNA (adenine(57)-N(1)/adenine(58)-N(1))-methyltransferase TrmI OS=Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) OX=243232 GN=trmI PE=3 SV=1
+sp|Q58847|Y1452_METJA -          FtsJ                 PF01728.26     0.001   15.8   0.0    0.0017   15.0   0.0   1.4   1   1   0   1   1   1   1 Uncharacterized protein MJ1452 OS=Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) OX=243232 GN=MJ1452 PE=4 SV=1
+sp|Q58293|TRM5B_METJA -          FtsJ                 PF01728.26    0.0034   14.1   0.1    0.0075   12.9   0.1   1.6   1   1   0   1   1   1   1 tRNA (guanine(37)-N(1))-methyltransferase Trm5b OS=Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) OX=243232 GN=trm5b PE=1 SV=1
+sp|Q58952|TYW2_METJA  -          FtsJ                 PF01728.26    0.0036   14.0   0.0     0.017   11.8   0.0   2.0   1   1   1   2   2   2   1 tRNA(Phe) (4-demethylwyosine(37)-C(7)) aminocarboxypropyltransferase OS=Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) OX=243232 GN=taw2 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/FtsJ.hmm
+# Target file:     proteomes/Methanococcus_jannaschii.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/FtsJ/Methanococcus_jannaschii.tblout --cpu 8 pfam_list/FtsJ.hmm proteomes/Methanococcus_jannaschii.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:56 2025
+# [ok]

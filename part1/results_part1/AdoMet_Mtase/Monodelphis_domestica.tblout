@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6WDH2|F6WDH2_MONDO -          AdoMet_MTase         PF07757.19   2.9e-32  111.5   0.1   4.9e-32  110.8   0.1   1.4   1   0   0   1   1   1   1 tRNA methyltransferase 44 homolog OS=Monodelphis domestica OX=13616 GN=TRMT44 PE=4 SV=1
+tr|F7GLT3|F7GLT3_MONDO -          AdoMet_MTase         PF07757.19     0.075   13.5   0.4      0.29   11.6   0.1   2.1   2   1   1   3   3   3   0 Family with sequence similarity 173 member B OS=Monodelphis domestica OX=13616 GN=FAM173B PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/AdoMet_Mtase.hmm
+# Target file:     proteomes/Monodelphis_domestica.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/AdoMet_Mtase/Monodelphis_domestica.tblout --cpu 8 pfam_list/AdoMet_Mtase.hmm proteomes/Monodelphis_domestica.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:44 2025
+# [ok]

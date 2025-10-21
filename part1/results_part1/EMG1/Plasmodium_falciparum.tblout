@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q8IB49|Q8IB49_PLAF7 -          EMG1                 PF03587.20   2.5e-61  204.9   3.5   3.1e-61  204.6   3.5   1.1   1   0   0   1   1   1   1 Ribosomal RNA small subunit methyltransferase NEP1, putative OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_0821500 PE=3 SV=1
+tr|Q8I5G2|Q8I5G2_PLAF7 -          EMG1                 PF03587.20   8.7e-42  141.1   3.2   8.7e-42  141.1   3.2   2.7   2   1   0   2   2   2   1 Small subunit rRNA processing factor, putative OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1225500 PE=3 SV=1
+tr|Q7KQK2|Q7KQK2_PLAF7 -          EMG1                 PF03587.20    0.0006   17.7   0.8        18    3.1   0.0   4.4   5   0   0   5   5   5   0 Polyubiquitin OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1211800 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/EMG1.hmm
+# Target file:     proteomes/Plasmodium_falciparum.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/EMG1/Plasmodium_falciparum.tblout --cpu 8 pfam_list/EMG1.hmm proteomes/Plasmodium_falciparum.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:35 2025
+# [ok]

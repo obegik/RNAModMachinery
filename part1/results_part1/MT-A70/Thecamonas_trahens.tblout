@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A0L0DCY6|A0A0L0DCY6_THETB -          MT-A70               PF05063.21   2.3e-38  131.1   0.0   4.3e-38  130.2   0.0   1.5   2   0   0   2   2   2   1 mRNA m(6)A methyltransferase OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_05730 PE=3 SV=1
+tr|A0A0L0DI14|A0A0L0DI14_THETB -          MT-A70               PF05063.21   6.6e-32  110.0   0.0     1e-31  109.4   0.0   1.3   1   0   0   1   1   1   1 ZZ-type domain-containing protein OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_07188 PE=3 SV=1
+tr|A0A0L0DSG5|A0A0L0DSG5_THETB -          MT-A70               PF05063.21   1.8e-09   37.0   0.0   2.9e-09   36.3   0.0   1.3   1   0   0   1   1   1   1 MT-A70 family protein OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_10222 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MT-A70.hmm
+# Target file:     proteomes/Thecamonas_trahens.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MT-A70/Thecamonas_trahens.tblout --cpu 8 pfam_list/MT-A70.hmm proteomes/Thecamonas_trahens.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:05:21 2025
+# [ok]

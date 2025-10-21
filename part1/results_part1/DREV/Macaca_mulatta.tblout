@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|H9FV79|H9FV79_MACMU         -          DREV                 PF05219.18  1.2e-140  467.3   0.1  1.4e-140  467.1   0.1   1.0   1   0   0   1   1   1   1 Methyltransferase like 9 OS=Macaca mulatta OX=9544 GN=METTL9 PE=2 SV=1
+tr|G7MS35|G7MS35_MACMU         -          DREV                 PF05219.18    0.0096   15.3   0.0      0.02   14.2   0.0   1.5   1   0   0   1   1   1   1 Protein arginine methyltransferase 9 OS=Macaca mulatta OX=9544 GN=PRMT10 PE=2 SV=1
+tr|A0A1D5QW44|A0A1D5QW44_MACMU -          DREV                 PF05219.18      0.11   11.8   0.0      0.17   11.2   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=3 SV=1
+tr|F7FM77|F7FM77_MACMU         -          DREV                 PF05219.18      0.16   11.3   0.0      0.68    9.2   0.0   2.0   2   0   0   2   2   2   0 Coactivator associated arginine methyltransferase 1 OS=Macaca mulatta OX=9544 GN=CARM1 PE=3 SV=2
+tr|F6X6T3|F6X6T3_MACMU         -          DREV                 PF05219.18      0.19   11.1   0.0      0.26   10.6   0.0   1.2   1   0   0   1   1   1   0 Methyltransferase like 7B OS=Macaca mulatta OX=9544 GN=METTL7B PE=4 SV=1
+tr|F7H1A9|F7H1A9_MACMU         -          DREV                 PF05219.18       0.2   11.0   0.0      0.31   10.4   0.0   1.2   1   0   0   1   1   1   0 Protein arginine N-methyltransferase 6 OS=Macaca mulatta OX=9544 GN=PRMT6 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DREV.hmm
+# Target file:     proteomes/Macaca_mulatta.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DREV/Macaca_mulatta.tblout --cpu 8 pfam_list/DREV.hmm proteomes/Macaca_mulatta.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:23 2025
+# [ok]

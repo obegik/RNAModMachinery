@@ -1,0 +1,14 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A0L0D5X4|A0A0L0D5X4_THETB -          DNA_methylase        PF00145.24     0.011   14.4   0.0     0.016   13.8   0.0   1.2   1   0   0   1   1   1   0 tRNA (guanine(37)-N1)-methyltransferase OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_04014 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DNA_methylase.hmm
+# Target file:     proteomes/Thecamonas_trahens.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DNA_methylase/Thecamonas_trahens.tblout --cpu 8 pfam_list/DNA_methylase.hmm proteomes/Thecamonas_trahens.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:00:13 2025
+# [ok]

@@ -1,0 +1,56 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|H2YX78|H2YX78_CIOSA -          Methyltransf_12      PF08242.19   4.5e-17   62.0   0.3   7.2e-17   61.3   0.3   1.3   1   0   0   1   1   1   1 Ubiquinone biosynthesis O-methyltransferase, mitochondrial OS=Ciona savignyi OX=51511 PE=3 SV=1
+tr|H2YTR8|H2YTR8_CIOSA -          Methyltransf_12      PF08242.19   5.6e-17   61.7   0.0   1.5e-16   60.3   0.0   1.7   2   0   0   2   2   1   1 Methyltransferase-like protein OS=Ciona savignyi OX=51511 PE=3 SV=1
+tr|H2Y8E5|H2Y8E5_CIOSA -          Methyltransf_12      PF08242.19   2.5e-12   46.8   0.1   6.6e-12   45.4   0.0   1.8   2   0   0   2   2   1   1 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+tr|H2YGP5|H2YGP5_CIOSA -          Methyltransf_12      PF08242.19   1.4e-11   44.4   0.0   3.1e-11   43.3   0.0   1.6   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+tr|H2YI45|H2YI45_CIOSA -          Methyltransf_12      PF08242.19   5.1e-11   42.5   0.0     1e-05   25.5   0.0   2.6   2   0   0   2   2   2   2 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+tr|H2YG63|H2YG63_CIOSA -          Methyltransf_12      PF08242.19   6.9e-10   38.9   0.0   0.00075   19.6   0.0   2.5   1   1   1   2   2   2   2 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+tr|H2ZL66|H2ZL66_CIOSA -          Methyltransf_12      PF08242.19   1.2e-08   34.9   0.0   4.1e-08   33.2   0.0   1.9   2   1   0   2   2   1   1 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+tr|H2Y735|H2Y735_CIOSA -          Methyltransf_12      PF08242.19   4.3e-08   33.2   0.0   1.3e-07   31.7   0.0   1.9   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+tr|H2ZNR9|H2ZNR9_CIOSA -          Methyltransf_12      PF08242.19   7.8e-08   32.3   0.0   1.8e-07   31.2   0.0   1.6   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+tr|H2Z0R4|H2Z0R4_CIOSA -          Methyltransf_12      PF08242.19   1.2e-07   31.8   0.0   2.2e-07   30.9   0.0   1.5   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+tr|H2YRT9|H2YRT9_CIOSA -          Methyltransf_12      PF08242.19   5.2e-07   29.7   0.0   9.3e-07   28.9   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+tr|H2YJS4|H2YJS4_CIOSA -          Methyltransf_12      PF08242.19   5.6e-07   29.6   0.0   1.4e-06   28.3   0.0   1.7   2   0   0   2   2   1   1 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+tr|H2YL80|H2YL80_CIOSA -          Methyltransf_12      PF08242.19   7.5e-07   29.2   0.0   1.5e-06   28.2   0.0   1.5   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+tr|H2YPG7|H2YPG7_CIOSA -          Methyltransf_12      PF08242.19   8.8e-07   29.0   0.0   2.5e-06   27.5   0.0   1.8   2   0   0   2   2   1   1 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+tr|H2Z439|H2Z439_CIOSA -          Methyltransf_12      PF08242.19   9.9e-07   28.8   0.0   1.6e-06   28.1   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+tr|H2Z4R2|H2Z4R2_CIOSA -          Methyltransf_12      PF08242.19   1.1e-06   28.7   0.0   2.1e-06   27.7   0.0   1.5   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+tr|H2ZNR4|H2ZNR4_CIOSA -          Methyltransf_12      PF08242.19   1.2e-06   28.5   0.0   2.3e-06   27.6   0.0   1.5   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+tr|H2Z6S3|H2Z6S3_CIOSA -          Methyltransf_12      PF08242.19   1.3e-06   28.4   0.0   2.8e-06   27.3   0.0   1.6   1   1   0   1   1   1   1 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+tr|H2YX31|H2YX31_CIOSA -          Methyltransf_12      PF08242.19   2.6e-06   27.5   0.0   5.8e-06   26.3   0.0   1.6   2   0   0   2   2   1   1 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+tr|H2YNF4|H2YNF4_CIOSA -          Methyltransf_12      PF08242.19   1.3e-05   25.2   0.0   3.7e-05   23.7   0.0   1.9   1   1   0   1   1   1   1 Protein-lysine N-methyltransferase OS=Ciona savignyi OX=51511 PE=3 SV=1
+tr|H2ZNR6|H2ZNR6_CIOSA -          Methyltransf_12      PF08242.19   1.6e-05   24.9   0.0   2.7e-05   24.2   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+tr|H2YX16|H2YX16_CIOSA -          Methyltransf_12      PF08242.19   3.2e-05   23.9   0.0   4.6e-05   23.4   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+tr|H2YXS7|H2YXS7_CIOSA -          Methyltransf_12      PF08242.19   7.1e-05   22.9   0.0    0.0015   18.6   0.0   2.5   2   0   0   2   2   2   1 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+tr|H2YSN6|H2YSN6_CIOSA -          Methyltransf_12      PF08242.19   9.8e-05   22.4   0.0   0.00018   21.6   0.0   1.4   1   0   0   1   1   1   1 tRNA (guanine-N(7)-)-methyltransferase OS=Ciona savignyi OX=51511 PE=3 SV=1
+tr|H2Z5Q2|H2Z5Q2_CIOSA -          Methyltransf_12      PF08242.19   0.00026   21.0   0.0    0.0013   18.8   0.0   2.1   2   0   0   2   2   1   1 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+tr|H2ZDH2|H2ZDH2_CIOSA -          Methyltransf_12      PF08242.19   0.00029   20.9   0.0    0.0005   20.1   0.0   1.4   1   0   0   1   1   1   1 rRNA adenine N(6)-methyltransferase OS=Ciona savignyi OX=51511 PE=3 SV=1
+tr|H2YHG7|H2YHG7_CIOSA -          Methyltransf_12      PF08242.19   0.00057   20.0   0.0    0.0013   18.8   0.0   1.6   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=3 SV=1
+tr|H2YPM5|H2YPM5_CIOSA -          Methyltransf_12      PF08242.19    0.0015   18.6   0.0    0.0023   18.0   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+tr|H2ZBM7|H2ZBM7_CIOSA -          Methyltransf_12      PF08242.19    0.0021   18.2   0.0    0.0043   17.1   0.0   1.5   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+tr|H2Z5E6|H2Z5E6_CIOSA -          Methyltransf_12      PF08242.19    0.0023   18.0   0.0    0.0035   17.4   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+tr|H2YLQ9|H2YLQ9_CIOSA -          Methyltransf_12      PF08242.19    0.0028   17.7   0.0    0.0084   16.2   0.0   1.9   1   1   0   1   1   1   1 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+tr|H2YG33|H2YG33_CIOSA -          Methyltransf_12      PF08242.19     0.003   17.6   0.0    0.0092   16.1   0.0   1.9   2   0   0   2   2   1   1 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+tr|H2YK68|H2YK68_CIOSA -          Methyltransf_12      PF08242.19    0.0038   17.3   0.0     0.013   15.6   0.0   2.0   1   1   0   1   1   1   1 S-adenosylmethionine sensor upstream of mTORC1 OS=Ciona savignyi OX=51511 PE=3 SV=1
+tr|H2Y4A1|H2Y4A1_CIOSA -          Methyltransf_12      PF08242.19    0.0046   17.0   0.0      0.48   10.6   0.0   3.0   2   1   0   2   2   2   1 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+tr|H2ZN24|H2ZN24_CIOSA -          Methyltransf_12      PF08242.19    0.0048   17.0   0.0      0.01   15.9   0.0   1.6   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+tr|H2Z8Q4|H2Z8Q4_CIOSA -          Methyltransf_12      PF08242.19    0.0071   16.4   0.0     0.013   15.6   0.0   1.5   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=3 SV=1
+tr|H2Z161|H2Z161_CIOSA -          Methyltransf_12      PF08242.19     0.024   14.7   0.0       0.7   10.0   0.0   2.4   2   0   0   2   2   2   0 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=3 SV=1
+tr|H2YNB5|H2YNB5_CIOSA -          Methyltransf_12      PF08242.19     0.031   14.4   0.0     0.067   13.3   0.0   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+tr|H2Z7P3|H2Z7P3_CIOSA -          Methyltransf_12      PF08242.19     0.047   13.8   0.0     0.065   13.3   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+tr|H2YMD8|H2YMD8_CIOSA -          Methyltransf_12      PF08242.19     0.088   12.9   0.0      0.26   11.4   0.0   1.8   2   0   0   2   2   1   0 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=3 SV=1
+tr|H2YX11|H2YX11_CIOSA -          Methyltransf_12      PF08242.19     0.098   12.8   0.0      0.26   11.4   0.0   1.6   2   0   0   2   2   1   0 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+tr|H2ZH89|H2ZH89_CIOSA -          Methyltransf_12      PF08242.19      0.11   12.6   0.0      0.19   11.9   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=3 SV=1
+tr|H2ZKX1|H2ZKX1_CIOSA -          Methyltransf_12      PF08242.19      0.18   12.0   1.3      0.39   10.9   0.1   2.2   2   0   0   2   2   2   0 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltransf_12.hmm
+# Target file:     proteomes/Ciona_savignyi.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltransf_12/Ciona_savignyi.tblout --cpu 8 pfam_list/Methyltransf_12.hmm proteomes/Ciona_savignyi.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 23:27:13 2025
+# [ok]

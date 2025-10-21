@@ -1,0 +1,42 @@
+#                                                                  --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name           accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#   ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P78563-2|RED1_HUMAN  -          A_deamin             PF02137.25  1.7e-118  398.1   0.0  2.3e-118  397.7   0.0   1.2   1   0   0   1   1   1   1 Isoform 2 of Double-stranded RNA-specific editase 1 OS=Homo sapiens GN=ADARB1
+tr|G5E9B4|G5E9B4_HUMAN  -          A_deamin             PF02137.25  1.9e-118  398.0   0.0  2.5e-118  397.5   0.0   1.2   1   0   0   1   1   1   1 Adenosine deaminase, RNA-specific, B1 (RED1 homolog rat), isoform CRA_a OS=Homo sapiens GN=ADARB1 PE=2 SV=1
+sp|P78563-4|RED1_HUMAN  -          A_deamin             PF02137.25  1.9e-118  398.0   0.0  2.5e-118  397.6   0.0   1.2   1   0   0   1   1   1   1 Isoform 4 of Double-stranded RNA-specific editase 1 OS=Homo sapiens GN=ADARB1
+sp|P78563|RED1_HUMAN    -          A_deamin             PF02137.25  7.9e-115  386.1   0.0  1.2e-113  382.2   0.0   2.1   1   1   0   1   1   1   1 Double-stranded RNA-specific editase 1 OS=Homo sapiens GN=ADARB1 PE=1 SV=1
+sp|Q9NS39|RED2_HUMAN    -          A_deamin             PF02137.25  3.3e-111  374.2   0.0  4.5e-111  373.7   0.0   1.2   1   0   0   1   1   1   1 Double-stranded RNA-specific editase B2 OS=Homo sapiens GN=ADARB2 PE=1 SV=1
+sp|Q9BUB4|ADAT1_HUMAN   -          A_deamin             PF02137.25  1.4e-109  368.8   0.0  1.7e-109  368.6   0.0   1.1   1   0   0   1   1   1   1 tRNA-specific adenosine deaminase 1 OS=Homo sapiens GN=ADAT1 PE=1 SV=1
+sp|P78563-3|RED1_HUMAN  -          A_deamin             PF02137.25  4.2e-109  367.3   0.0  6.5e-108  363.3   0.0   2.1   1   1   0   1   1   1   1 Isoform 3 of Double-stranded RNA-specific editase 1 OS=Homo sapiens GN=ADARB1
+sp|P55265-5|DSRAD_HUMAN -          A_deamin             PF02137.25  6.4e-103  346.9   0.0  1.2e-102  346.0   0.0   1.5   2   0   0   2   2   2   1 Isoform 5 of Double-stranded RNA-specific adenosine deaminase OS=Homo sapiens GN=ADAR
+sp|P55265-3|DSRAD_HUMAN -          A_deamin             PF02137.25    1e-102  346.3   0.0    2e-102  345.3   0.0   1.5   2   0   0   2   2   2   1 Isoform 3 of Double-stranded RNA-specific adenosine deaminase OS=Homo sapiens GN=ADAR
+tr|H0YCK3|H0YCK3_HUMAN  -          A_deamin             PF02137.25  1.1e-102  346.2   0.0    2e-102  345.3   0.0   1.5   1   0   0   1   1   1   1 Double-stranded RNA-specific adenosine deaminase (Fragment) OS=Homo sapiens GN=ADAR PE=2 SV=1
+sp|P55265-2|DSRAD_HUMAN -          A_deamin             PF02137.25  1.1e-102  346.2   0.0    2e-102  345.3   0.0   1.5   1   0   0   1   1   1   1 Isoform 2 of Double-stranded RNA-specific adenosine deaminase OS=Homo sapiens GN=ADAR
+sp|P55265|DSRAD_HUMAN   -          A_deamin             PF02137.25  1.1e-102  346.1   0.0  2.1e-102  345.2   0.0   1.5   1   0   0   1   1   1   1 Double-stranded RNA-specific adenosine deaminase OS=Homo sapiens GN=ADAR PE=1 SV=4
+tr|E7ENU4|E7ENU4_HUMAN  -          A_deamin             PF02137.25  1.2e-102  346.0   0.0  2.3e-102  345.1   0.0   1.4   1   0   0   1   1   1   1 Double-stranded RNA-specific adenosine deaminase OS=Homo sapiens GN=ADAR PE=2 SV=1
+sp|P55265-4|DSRAD_HUMAN -          A_deamin             PF02137.25  1.2e-102  346.0   0.0  2.3e-102  345.1   0.0   1.4   1   0   0   1   1   1   1 Isoform 4 of Double-stranded RNA-specific adenosine deaminase OS=Homo sapiens GN=ADAR
+sp|Q96M93-3|ADAD1_HUMAN -          A_deamin             PF02137.25  1.9e-100  338.8   0.1  2.7e-100  338.3   0.1   1.2   1   0   0   1   1   1   1 Isoform 3 of Adenosine deaminase domain-containing protein 1 OS=Homo sapiens GN=ADAD1
+sp|Q96M93|ADAD1_HUMAN   -          A_deamin             PF02137.25    2e-100  338.7   0.1  2.9e-100  338.2   0.1   1.2   1   0   0   1   1   1   1 Adenosine deaminase domain-containing protein 1 OS=Homo sapiens GN=ADAD1 PE=2 SV=1
+sp|Q96M93-2|ADAD1_HUMAN -          A_deamin             PF02137.25   2.2e-88  299.2   0.1   4.2e-88  298.2   0.1   1.5   1   1   0   1   1   1   1 Isoform 2 of Adenosine deaminase domain-containing protein 1 OS=Homo sapiens GN=ADAD1
+sp|Q8NCV1|ADAD2_HUMAN   -          A_deamin             PF02137.25   5.9e-81  274.7   0.0   7.4e-81  274.4   0.0   1.1   1   0   0   1   1   1   1 Adenosine deaminase domain-containing protein 2 OS=Homo sapiens GN=ADAD2 PE=2 SV=1
+sp|Q8NCV1-2|ADAD2_HUMAN -          A_deamin             PF02137.25   8.3e-81  274.2   0.0     1e-80  273.9   0.0   1.1   1   0   0   1   1   1   1 Isoform 2 of Adenosine deaminase domain-containing protein 2 OS=Homo sapiens GN=ADAD2
+sp|Q9BUB4-2|ADAT1_HUMAN -          A_deamin             PF02137.25   7.8e-67  228.3   0.0   8.6e-67  228.2   0.0   1.0   1   0   0   1   1   1   1 Isoform 2 of tRNA-specific adenosine deaminase 1 OS=Homo sapiens GN=ADAT1
+tr|Q5VW42|Q5VW42_HUMAN  -          A_deamin             PF02137.25   1.5e-48  168.2   0.0   1.9e-48  167.9   0.0   1.0   1   0   0   1   1   1   1 Double-stranded RNA-specific editase B2 OS=Homo sapiens GN=ADARB2 PE=2 SV=1
+tr|H3BP18|H3BP18_HUMAN  -          A_deamin             PF02137.25   1.6e-38  135.3   0.0   1.9e-38  135.0   0.0   1.1   1   0   0   1   1   1   1 tRNA-specific adenosine deaminase 1 (Fragment) OS=Homo sapiens GN=ADAT1 PE=2 SV=1
+tr|H3BNP6|H3BNP6_HUMAN  -          A_deamin             PF02137.25   5.8e-28  100.6   0.0   9.1e-28   99.9   0.0   1.2   1   0   0   1   1   1   1 Adenosine deaminase domain-containing protein 2 (Fragment) OS=Homo sapiens GN=ADAD2 PE=4 SV=1
+tr|Q5VW43|Q5VW43_HUMAN  -          A_deamin             PF02137.25   1.1e-25   93.1   0.0   1.2e-25   93.0   0.0   1.0   1   0   0   1   1   1   1 Double-stranded RNA-specific editase B2 OS=Homo sapiens GN=ADARB2 PE=2 SV=1
+tr|H3BU72|H3BU72_HUMAN  -          A_deamin             PF02137.25   6.8e-21   77.3   0.1   8.1e-21   77.1   0.1   1.1   1   0   0   1   1   1   1 tRNA-specific adenosine deaminase 1 (Fragment) OS=Homo sapiens GN=ADAT1 PE=2 SV=1
+tr|H3BP27|H3BP27_HUMAN  -          A_deamin             PF02137.25   6.7e-14   54.3   0.0   7.1e-14   54.3   0.0   1.0   1   0   0   1   1   1   1 tRNA-specific adenosine deaminase 1 (Fragment) OS=Homo sapiens GN=ADAT1 PE=2 SV=1
+tr|H3BV89|H3BV89_HUMAN  -          A_deamin             PF02137.25     0.051   15.3   0.5     0.064   15.0   0.5   1.1   1   0   0   1   1   1   0 tRNA-specific adenosine deaminase 1 OS=Homo sapiens GN=ADAT1 PE=2 SV=1
+tr|H3BSM1|H3BSM1_HUMAN  -          A_deamin             PF02137.25     0.062   15.0   0.3     0.083   14.6   0.3   1.1   1   0   0   1   1   1   0 tRNA-specific adenosine deaminase 1 OS=Homo sapiens GN=ADAT1 PE=2 SV=1
+tr|I3L2P2|I3L2P2_HUMAN  -          A_deamin             PF02137.25      0.28   12.9   0.1      0.31   12.7   0.1   1.1   1   0   0   1   1   1   0 Protein fantom (Fragment) OS=Homo sapiens GN=RPGRIP1L PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/A_deamin.hmm
+# Target file:     proteomes/Homo_sapiens.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/A_deamin/Homo_sapiens.tblout --cpu 8 pfam_list/A_deamin.hmm proteomes/Homo_sapiens.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:08 2025
+# [ok]

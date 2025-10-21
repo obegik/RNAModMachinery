@@ -1,0 +1,33 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6YUH9|F6YUH9_ORNAN -          FtsJ                 PF01728.26   8.8e-49  166.1   0.0   1.1e-48  165.9   0.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 GN=MRM2 PE=3 SV=2
+tr|F7DBM5|F7DBM5_ORNAN -          FtsJ                 PF01728.26   3.3e-35  121.9   0.0     5e-35  121.3   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 PE=4 SV=1
+tr|F7FWQ9|F7FWQ9_ORNAN -          FtsJ                 PF01728.26   4.3e-22   79.2   0.0     5e-22   79.0   0.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 PE=4 SV=1
+tr|F7FWI6|F7FWI6_ORNAN -          FtsJ                 PF01728.26     1e-09   38.8   0.0   1.5e-09   38.3   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 PE=4 SV=1
+tr|F7BYX0|F7BYX0_ORNAN -          FtsJ                 PF01728.26   1.4e-05   25.4   0.0   2.5e-05   24.6   0.0   1.3   1   0   0   1   1   1   1 NOP2/Sun RNA methyltransferase family member 6 OS=Ornithorhynchus anatinus OX=9258 GN=NSUN6 PE=3 SV=2
+tr|F7DFT6|F7DFT6_ORNAN -          FtsJ                 PF01728.26   2.5e-05   24.5   0.0   5.8e-05   23.3   0.0   1.6   1   0   0   1   1   1   1 Protein arginine methyltransferase 3 OS=Ornithorhynchus anatinus OX=9258 GN=PRMT3 PE=3 SV=2
+tr|F7DN03|F7DN03_ORNAN -          FtsJ                 PF01728.26   0.00023   21.4   0.0   0.00045   20.5   0.0   1.4   1   0   0   1   1   1   1 Protein arginine methyltransferase 2 OS=Ornithorhynchus anatinus OX=9258 GN=PRMT2 PE=3 SV=2
+tr|F7D0U5|F7D0U5_ORNAN -          FtsJ                 PF01728.26   0.00029   21.1   0.0   0.00055   20.2   0.0   1.4   1   0   0   1   1   1   1 Arsenite methyltransferase OS=Ornithorhynchus anatinus OX=9258 GN=AS3MT PE=4 SV=2
+tr|F6UJX9|F6UJX9_ORNAN -          FtsJ                 PF01728.26   0.00041   20.6   0.0   0.00067   19.9   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 PE=3 SV=2
+tr|F7BD68|F7BD68_ORNAN -          FtsJ                 PF01728.26   0.00063   20.0   0.0   0.00093   19.4   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 GN=TRMT61B PE=4 SV=2
+tr|F7C6N0|F7C6N0_ORNAN -          FtsJ                 PF01728.26   0.00088   19.5   0.0    0.0016   18.6   0.0   1.4   1   0   0   1   1   1   1 Protein arginine methyltransferase 8 OS=Ornithorhynchus anatinus OX=9258 GN=PRMT8 PE=3 SV=2
+tr|F6PNB6|F6PNB6_ORNAN -          FtsJ                 PF01728.26    0.0021   18.3   0.0    0.0048   17.1   0.0   1.6   2   0   0   2   2   2   1 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 PE=3 SV=1
+tr|F6RB43|F6RB43_ORNAN -          FtsJ                 PF01728.26    0.0033   17.6   0.0    0.0065   16.7   0.0   1.4   1   1   0   1   1   1   1 NADH:ubiquinone oxidoreductase complex assembly factor 5 OS=Ornithorhynchus anatinus OX=9258 GN=NDUFAF5 PE=4 SV=1
+tr|F6R9A4|F6R9A4_ORNAN -          FtsJ                 PF01728.26    0.0085   16.3   0.0     0.011   15.9   0.0   1.3   1   0   0   1   1   1   1 Methyltransferase like 5 OS=Ornithorhynchus anatinus OX=9258 GN=METTL5 PE=4 SV=1
+tr|F7F0C7|F7F0C7_ORNAN -          FtsJ                 PF01728.26     0.017   15.3   0.0     0.032   14.4   0.0   1.4   1   0   0   1   1   1   0 NOP2/Sun RNA methyltransferase family member 2 OS=Ornithorhynchus anatinus OX=9258 GN=NSUN2 PE=3 SV=2
+tr|F6YGL3|F6YGL3_ORNAN -          FtsJ                 PF01728.26     0.024   14.8   0.0     0.052   13.7   0.0   1.6   1   1   0   1   1   1   0 Protein-L-isoaspartate O-methyltransferase OS=Ornithorhynchus anatinus OX=9258 GN=PCMT1 PE=3 SV=2
+tr|F7DK97|F7DK97_ORNAN -          FtsJ                 PF01728.26     0.033   14.4   0.0     0.076   13.2   0.0   1.6   2   0   0   2   2   2   0 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 PE=4 SV=2
+tr|F6ZHQ4|F6ZHQ4_ORNAN -          FtsJ                 PF01728.26     0.053   13.7   0.0      0.18   11.9   0.0   1.8   2   0   0   2   2   2   0 Dehydrogenase/reductase X-linked OS=Ornithorhynchus anatinus OX=9258 GN=DHRSX PE=4 SV=1
+tr|F6ZEC5|F6ZEC5_ORNAN -          FtsJ                 PF01728.26      0.12   12.6   0.0      0.13   12.4   0.0   1.2   1   0   0   1   1   1   0 TSR2, ribosome maturation factor OS=Ornithorhynchus anatinus OX=9258 GN=TSR2 PE=4 SV=2
+tr|F6ZQ80|F6ZQ80_ORNAN -          FtsJ                 PF01728.26      0.14   12.3   0.0      0.33   11.1   0.0   1.5   1   1   0   1   1   1   0 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 GN=LOC100076547 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/FtsJ.hmm
+# Target file:     proteomes/Ornithorhynchus_anatinus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/FtsJ/Ornithorhynchus_anatinus.tblout --cpu 8 pfam_list/FtsJ.hmm proteomes/Ornithorhynchus_anatinus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:57 2025
+# [ok]

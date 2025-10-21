@@ -1,0 +1,53 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|S4R4I3|S4R4I3_PETMA -          Methyltransf_12      PF08242.19   4.2e-31  107.2   0.0   4.7e-15   55.7   0.0   2.7   3   0   0   3   3   2   2 Phosphoethanolamine methyltransferase OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RMG0|S4RMG0_PETMA -          Methyltransf_12      PF08242.19   5.2e-30  103.7   0.4   1.2e-14   54.4   0.0   3.2   3   0   0   3   3   3   2 Phosphoethanolamine methyltransferase OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RRK5|S4RRK5_PETMA -          Methyltransf_12      PF08242.19   2.5e-18   66.2   0.0   6.1e-18   65.0   0.0   1.7   1   0   0   1   1   1   1 Methyltransferase-like protein OS=Petromyzon marinus OX=7757 PE=3 SV=1
+tr|S4RXY4|S4RXY4_PETMA -          Methyltransf_12      PF08242.19   1.3e-17   63.9   0.0   1.2e-16   60.8   0.0   2.1   2   0   0   2   2   2   1 Methyltransferase-like protein OS=Petromyzon marinus OX=7757 PE=3 SV=1
+tr|S4R684|S4R684_PETMA -          Methyltransf_12      PF08242.19   1.4e-10   41.4   0.1   2.1e-10   40.8   0.1   1.3   1   0   0   1   1   1   1 EEF1A lysine methyltransferase 2 OS=Petromyzon marinus OX=7757 GN=EEF1AKMT2 PE=3 SV=1
+tr|S4R939|S4R939_PETMA -          Methyltransf_12      PF08242.19   2.7e-09   37.2   0.0   4.6e-09   36.5   0.0   1.4   1   0   0   1   1   1   1 Methyltransferase like 9 OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RNK8|S4RNK8_PETMA -          Methyltransf_12      PF08242.19   5.6e-09   36.2   0.0   8.5e-09   35.6   0.0   1.3   1   0   0   1   1   1   1 Zgc:162396 OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RJ28|S4RJ28_PETMA -          Methyltransf_12      PF08242.19   6.8e-09   35.9   0.0   1.1e-08   35.2   0.0   1.4   1   0   0   1   1   1   1 Zgc:162396 OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RFT9|S4RFT9_PETMA -          Methyltransf_12      PF08242.19   7.4e-09   35.8   0.0   1.6e-08   34.8   0.0   1.6   1   0   0   1   1   1   1 Zgc:162396 OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RWE3|S4RWE3_PETMA -          Methyltransf_12      PF08242.19   1.5e-08   34.8   0.0   2.9e-08   33.9   0.0   1.4   1   0   0   1   1   1   1 Acetylserotonin O-methyltransferase OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RMF5|S4RMF5_PETMA -          Methyltransf_12      PF08242.19   2.5e-07   30.9   0.0   4.6e-07   30.1   0.0   1.5   1   0   0   1   1   1   1 HemK methyltransferase family member 1 OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RC89|S4RC89_PETMA -          Methyltransf_12      PF08242.19   5.1e-07   29.9   0.0   3.7e-05   24.0   0.0   2.3   1   1   0   1   1   1   1 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial OS=Petromyzon marinus OX=7757 GN=COQ5 PE=3 SV=1
+tr|S4RPR4|S4RPR4_PETMA -          Methyltransf_12      PF08242.19   8.3e-07   29.3   0.0   1.6e-06   28.3   0.0   1.5   1   0   0   1   1   1   1 Zgc:109986 OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RV55|S4RV55_PETMA -          Methyltransf_12      PF08242.19   3.9e-06   27.1   0.0   1.3e-05   25.5   0.0   1.9   2   0   0   2   2   1   1 Methyltransferase like 17 OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RIP0|S4RIP0_PETMA -          Methyltransf_12      PF08242.19   1.4e-05   25.3   0.4   4.5e-05   23.7   0.1   2.1   2   0   0   2   2   1   1 AlkB homolog 8, tRNA methyltransferase OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RW71|S4RW71_PETMA -          Methyltransf_12      PF08242.19   2.6e-05   24.5   0.0   5.7e-05   23.4   0.0   1.6   1   0   0   1   1   1   1 Protein arginine methyltransferase 2 OS=Petromyzon marinus OX=7757 PE=3 SV=1
+tr|S4REQ8|S4REQ8_PETMA -          Methyltransf_12      PF08242.19   2.8e-05   24.4   0.0   4.9e-05   23.6   0.0   1.4   1   0   0   1   1   1   1 Zgc:194242 OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RC50|S4RC50_PETMA -          Methyltransf_12      PF08242.19   5.2e-05   23.5   0.2    0.0007   19.9   0.0   2.4   2   1   0   3   3   2   1 Phenylethanolamine N-methyltransferase OS=Petromyzon marinus OX=7757 GN=PNMT PE=4 SV=1
+tr|S4RFW7|S4RFW7_PETMA -          Methyltransf_12      PF08242.19   0.00018   21.7   0.0    0.0013   19.0   0.0   2.4   3   0   0   3   3   2   1 Coactivator-associated arginine methyltransferase 1 OS=Petromyzon marinus OX=7757 PE=3 SV=1
+tr|S4RQZ8|S4RQZ8_PETMA -          Methyltransf_12      PF08242.19   0.00032   21.0   0.0    0.0009   19.5   0.0   1.8   1   1   0   1   1   1   1 THUMP domain containing 2 OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RIF9|S4RIF9_PETMA -          Methyltransf_12      PF08242.19    0.0006   20.1   0.0    0.0012   19.2   0.0   1.6   1   1   0   1   1   1   1 Calmodulin-lysine N-methyltransferase OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4R931|S4R931_PETMA -          Methyltransf_12      PF08242.19   0.00065   20.0   0.0    0.0011   19.2   0.0   1.4   1   0   0   1   1   1   1 Zgc:103625 OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RA41|S4RA41_PETMA -          Methyltransf_12      PF08242.19   0.00065   20.0   0.0    0.0013   19.1   0.0   1.5   1   0   0   1   1   1   1 Acetylserotonin O-methyltransferase OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4R5M7|S4R5M7_PETMA -          Methyltransf_12      PF08242.19   0.00091   19.5   0.1    0.0055   17.0   0.0   2.4   2   0   0   2   2   1   1 Uncharacterized protein OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RQC2|S4RQC2_PETMA -          Methyltransf_12      PF08242.19    0.0014   18.9   0.0    0.0029   17.9   0.0   1.7   1   1   0   1   1   1   1 Citrate synthase lysine methyltransferase OS=Petromyzon marinus OX=7757 GN=CSKMT PE=4 SV=1
+tr|S4RYD2|S4RYD2_PETMA -          Methyltransf_12      PF08242.19     0.002   18.4   0.0    0.0046   17.3   0.0   1.6   1   1   0   1   1   1   1 Uncharacterized protein OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RXG9|S4RXG9_PETMA -          Methyltransf_12      PF08242.19    0.0021   18.3   0.1    0.0088   16.4   0.0   1.9   2   0   0   2   2   1   1 Methyltransferase like 5 OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RXH9|S4RXH9_PETMA -          Methyltransf_12      PF08242.19    0.0023   18.2   0.1    0.0043   17.3   0.1   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RP52|S4RP52_PETMA -          Methyltransf_12      PF08242.19    0.0032   17.8   0.0     0.005   17.1   0.0   1.3   1   0   0   1   1   1   1 Valosin containing protein lysine (K) methyltransferase OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RW29|S4RW29_PETMA -          Methyltransf_12      PF08242.19    0.0056   17.0   0.0     0.013   15.9   0.0   1.7   1   1   0   1   1   1   1 Protein-L-isoaspartate O-methyltransferase OS=Petromyzon marinus OX=7757 PE=3 SV=1
+tr|S4RPG9|S4RPG9_PETMA -          Methyltransf_12      PF08242.19    0.0092   16.3   0.0      0.02   15.2   0.0   1.6   1   0   0   1   1   1   1 Protein arginine methyltransferase 1 OS=Petromyzon marinus OX=7757 PE=3 SV=1
+tr|S4RFT3|S4RFT3_PETMA -          Methyltransf_12      PF08242.19     0.012   15.9   0.0     0.039   14.3   0.0   1.8   1   1   0   1   1   1   0 Uncharacterized protein OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RY21|S4RY21_PETMA -          Methyltransf_12      PF08242.19     0.019   15.3   0.0     0.033   14.5   0.0   1.5   1   0   0   1   1   1   0 tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRMT61A OS=Petromyzon marinus OX=7757 GN=TRMT61A PE=3 SV=1
+tr|S4RNN3|S4RNN3_PETMA -          Methyltransf_12      PF08242.19     0.047   14.0   0.0     0.083   13.2   0.0   1.4   1   0   0   1   1   1   0 NADH:ubiquinone oxidoreductase complex assembly factor 5 OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4R827|S4R827_PETMA -          Methyltransf_12      PF08242.19     0.049   14.0   0.1      0.11   12.9   0.1   1.6   1   1   0   1   1   1   0 Protein-L-isoaspartate (D-aspartate) O-methyltransferase OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4R4T4|S4R4T4_PETMA -          Methyltransf_12      PF08242.19     0.075   13.4   0.1      0.24   11.7   0.1   1.9   2   0   0   2   2   1   0 Methyltransferase like 22 OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RTY6|S4RTY6_PETMA -          Methyltransf_12      PF08242.19     0.077   13.3   0.0      0.17   12.2   0.0   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RKS5|S4RKS5_PETMA -          Methyltransf_12      PF08242.19     0.085   13.2   0.0      0.22   11.8   0.0   1.7   2   0   0   2   2   1   0 Spermidine synthase OS=Petromyzon marinus OX=7757 PE=3 SV=1
+tr|S4R5V4|S4R5V4_PETMA -          Methyltransf_12      PF08242.19     0.094   13.0   0.0      0.14   12.5   0.0   1.3   1   0   0   1   1   1   0 Family with sequence similarity 173, member A OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RY85|S4RY85_PETMA -          Methyltransf_12      PF08242.19      0.12   12.7   0.0       0.2   12.0   0.0   1.4   1   0   0   1   1   1   0 Electron transfer flavoprotein subunit beta lysine methyltransferase OS=Petromyzon marinus OX=7757 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltransf_12.hmm
+# Target file:     proteomes/Petromyzon_marinus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltransf_12/Petromyzon_marinus.tblout --cpu 8 pfam_list/Methyltransf_12.hmm proteomes/Petromyzon_marinus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 23:27:18 2025
+# [ok]

@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|G3QYB3|G3QYB3_GORGO -          AdoMet_MTase         PF07757.19   6.5e-32  110.4   0.0   1.3e-31  109.5   0.0   1.5   1   0   0   1   1   1   1 tRNA (uracil-O(2)-)-methyltransferase OS=Gorilla gorilla gorilla OX=9595 GN=TRMT44 PE=3 SV=1
+tr|G3RX99|G3RX99_GORGO -          AdoMet_MTase         PF07757.19      0.11   13.0   0.0       0.2   12.1   0.0   1.5   1   0   0   1   1   1   0 Methyltransferase-like protein 5 OS=Gorilla gorilla gorilla OX=9595 GN=METTL5 PE=3 SV=1
+tr|G3QGH7|G3QGH7_GORGO -          AdoMet_MTase         PF07757.19      0.15   12.6   0.0      0.29   11.6   0.0   1.4   1   0   0   1   1   1   0 18S rRNA (guanine-N(7))-methyltransferase OS=Gorilla gorilla gorilla OX=9595 GN=BUD23 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/AdoMet_Mtase.hmm
+# Target file:     proteomes/Gorilla_gorilla.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/AdoMet_Mtase/Gorilla_gorilla.tblout --cpu 8 pfam_list/AdoMet_Mtase.hmm proteomes/Gorilla_gorilla.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:43 2025
+# [ok]

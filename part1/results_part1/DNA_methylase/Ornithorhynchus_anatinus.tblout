@@ -1,0 +1,19 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7F8U9|F7F8U9_ORNAN -          DNA_methylase        PF00145.24   7.2e-32  111.3   0.0   1.8e-31  110.0   0.0   1.7   1   1   0   1   1   1   1 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 PE=3 SV=1
+tr|F6Y244|F6Y244_ORNAN -          DNA_methylase        PF00145.24   6.9e-17   62.1   0.0   9.3e-17   61.7   0.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 GN=LOC100091400 PE=3 SV=2
+tr|F7EEK2|F7EEK2_ORNAN -          DNA_methylase        PF00145.24   1.5e-16   61.0   0.0   2.3e-12   47.3   0.0   2.1   1   1   0   2   2   2   2 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 PE=3 SV=2
+tr|F7F9L0|F7F9L0_ORNAN -          DNA_methylase        PF00145.24   1.5e-11   44.5   0.0   2.4e-11   43.9   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 PE=3 SV=1
+tr|F6R9A4|F6R9A4_ORNAN -          DNA_methylase        PF00145.24   0.00027   20.7   0.0   0.00058   19.6   0.0   1.5   1   0   0   1   1   1   1 Methyltransferase like 5 OS=Ornithorhynchus anatinus OX=9258 GN=METTL5 PE=4 SV=1
+tr|F6ZRD9|F6ZRD9_ORNAN -          DNA_methylase        PF00145.24      0.22   11.1   0.0      0.33   10.6   0.0   1.2   1   0   0   1   1   1   0 tRNA methyltransferase 12 homolog OS=Ornithorhynchus anatinus OX=9258 GN=TRMT12 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DNA_methylase.hmm
+# Target file:     proteomes/Ornithorhynchus_anatinus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DNA_methylase/Ornithorhynchus_anatinus.tblout --cpu 8 pfam_list/DNA_methylase.hmm proteomes/Ornithorhynchus_anatinus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:00:12 2025
+# [ok]

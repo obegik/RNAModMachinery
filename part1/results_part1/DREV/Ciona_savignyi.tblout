@@ -1,0 +1,19 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|H2YPM5|H2YPM5_CIOSA -          DREV                 PF05219.18   0.00047   18.7   0.0   0.00063   18.3   0.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+tr|H2ZDH2|H2ZDH2_CIOSA -          DREV                 PF05219.18   0.00048   18.7   0.0   0.00076   18.0   0.0   1.2   1   0   0   1   1   1   1 rRNA adenine N(6)-methyltransferase OS=Ciona savignyi OX=51511 PE=3 SV=1
+tr|H2Z439|H2Z439_CIOSA -          DREV                 PF05219.18     0.002   16.7   0.0    0.0025   16.3   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+tr|H2YRT9|H2YRT9_CIOSA -          DREV                 PF05219.18    0.0086   14.6   0.0      0.01   14.3   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+tr|H2Z161|H2Z161_CIOSA -          DREV                 PF05219.18     0.026   13.0   0.0     0.043   12.3   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=3 SV=1
+tr|H2YHG7|H2YHG7_CIOSA -          DREV                 PF05219.18     0.059   11.8   0.0      0.12   10.9   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DREV.hmm
+# Target file:     proteomes/Ciona_savignyi.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DREV/Ciona_savignyi.tblout --cpu 8 pfam_list/DREV.hmm proteomes/Ciona_savignyi.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:21 2025
+# [ok]

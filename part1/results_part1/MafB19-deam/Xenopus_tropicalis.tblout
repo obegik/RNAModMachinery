@@ -1,0 +1,17 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q0P4H0|ADAT2_XENTR  -          MafB19-deam          PF14437.13   5.2e-20   72.1   0.1   5.9e-20   71.9   0.1   1.1   1   0   0   1   1   1   1 tRNA-specific adenosine deaminase 2 OS=Xenopus tropicalis OX=8364 GN=adat2 PE=2 SV=1
+tr|F6UJZ5|F6UJZ5_XENTR -          MafB19-deam          PF14437.13   5.4e-16   59.1   0.1   6.7e-16   58.8   0.1   1.1   1   0   0   1   1   1   1 dCMP deaminase OS=Xenopus tropicalis OX=8364 GN=dctd PE=4 SV=1
+tr|F6SQI7|F6SQI7_XENTR -          MafB19-deam          PF14437.13   1.1e-13   51.6   0.4   6.7e-07   29.6   0.1   2.9   2   1   0   2   2   2   2 Cytidine and dCMP deaminase domain-containing 1 OS=Xenopus tropicalis OX=8364 GN=cdadc1 PE=4 SV=1
+tr|F6UTI9|F6UTI9_XENTR -          MafB19-deam          PF14437.13   2.4e-07   31.1   1.0   3.2e-05   24.2   0.6   2.2   2   0   0   2   2   2   2 Adenosine deaminase, tRNA-specific 3 OS=Xenopus tropicalis OX=8364 GN=adat3 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MafB19-deam.hmm
+# Target file:     proteomes/Xenopus_tropicalis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MafB19-deam/Xenopus_tropicalis.tblout --cpu 8 pfam_list/MafB19-deam.hmm proteomes/Xenopus_tropicalis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:09:27 2025
+# [ok]

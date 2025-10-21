@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|M1VH70|M1VH70_CYAM1 -          A_deamin             PF02137.25    0.0053   14.4   2.9    0.0077   13.9   2.9   1.2   1   0   0   1   1   1   1 BZIP transcription factor OS=Cyanidioschyzon merolae (strain NIES-3377 / 10D) OX=280699 GN=CYME_CMJ034C PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/A_deamin.hmm
+# Target file:     proteomes/Cyanidioschyzon_merolae.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/A_deamin/Cyanidioschyzon_merolae.tblout --cpu 8 pfam_list/A_deamin.hmm proteomes/Cyanidioschyzon_merolae.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:07 2025
+# [ok]

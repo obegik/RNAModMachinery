@@ -1,0 +1,42 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7A6W8|F7A6W8_MACMU         -          FtsJ                 PF01728.26   1.8e-56  191.1   0.0   2.3e-56  190.8   0.0   1.1   1   0   0   1   1   1   1 Putative tRNA (cytidine(32)/guanosine(34)-2'-O)-methyltransferase OS=Macaca mulatta OX=9544 GN=FTSJ1 PE=2 SV=1
+tr|F7DBM6|F7DBM6_MACMU         -          FtsJ                 PF01728.26   7.4e-54  182.6   0.1   1.1e-52  178.9   0.0   2.5   2   0   0   2   2   2   1 pre-rRNA processing protein FTSJ3 OS=Macaca mulatta OX=9544 GN=FTSJ3 PE=3 SV=2
+tr|F6PKI3|F6PKI3_MACMU         -          FtsJ                 PF01728.26   3.4e-50  170.7   0.0   4.1e-50  170.4   0.0   1.1   1   0   0   1   1   1   1 Putative ribosomal RNA methyltransferase 2 OS=Macaca mulatta OX=9544 GN=MRM2 PE=2 SV=2
+tr|F6VQ68|F6VQ68_MACMU         -          FtsJ                 PF01728.26   2.3e-35  122.4   0.0   4.7e-35  121.4   0.0   1.5   2   0   0   2   2   1   1 Cap methyltransferase 1 OS=Macaca mulatta OX=9544 GN=CMTR1 PE=2 SV=2
+tr|F6VSN1|F6VSN1_MACMU         -          FtsJ                 PF01728.26   2.4e-29  102.8   0.0   9.7e-28   97.5   0.0   2.3   2   0   0   2   2   2   1 Cap methyltransferase 2 OS=Macaca mulatta OX=9544 GN=CMTR2 PE=2 SV=1
+tr|F6SWB4|F6SWB4_MACMU         -          FtsJ                 PF01728.26   9.3e-06   25.9   0.0     2e-05   24.8   0.0   1.5   1   0   0   1   1   1   1 NOP2/Sun RNA methyltransferase family member 6 OS=Macaca mulatta OX=9544 GN=NSUN6 PE=2 SV=1
+tr|F7GR59|F7GR59_MACMU         -          FtsJ                 PF01728.26   0.00012   22.3   0.0   0.00021   21.5   0.0   1.3   1   0   0   1   1   1   1 NOP2/Sun RNA methyltransferase family member 4 OS=Macaca mulatta OX=9544 GN=NSUN4 PE=3 SV=2
+tr|A0A1D5QJG6|A0A1D5QJG6_MACMU -          FtsJ                 PF01728.26   0.00013   22.1   0.0    0.0003   21.0   0.0   1.6   1   0   0   1   1   1   1 Protein arginine methyltransferase 3 OS=Macaca mulatta OX=9544 GN=PRMT3 PE=3 SV=1
+tr|F7H1A9|F7H1A9_MACMU         -          FtsJ                 PF01728.26   0.00043   20.5   0.0   0.00092   19.4   0.0   1.6   2   0   0   2   2   1   1 Protein arginine N-methyltransferase 6 OS=Macaca mulatta OX=9544 GN=PRMT6 PE=2 SV=1
+tr|F7EJI0|F7EJI0_MACMU         -          FtsJ                 PF01728.26   0.00058   20.1   0.0     0.001   19.3   0.0   1.4   1   0   0   1   1   1   1 NADH:ubiquinone oxidoreductase complex assembly factor 5 OS=Macaca mulatta OX=9544 GN=NDUFAF5 PE=4 SV=2
+tr|F7ALQ3|F7ALQ3_MACMU         -          FtsJ                 PF01728.26   0.00081   19.6   0.0    0.0015   18.7   0.0   1.4   1   0   0   1   1   1   1 Protein arginine methyltransferase 8 OS=Macaca mulatta OX=9544 GN=PRMT8 PE=3 SV=2
+tr|F7G8Y6|F7G8Y6_MACMU         -          FtsJ                 PF01728.26    0.0016   18.6   0.0    0.0029   17.8   0.0   1.4   1   0   0   1   1   1   1 NOP2/Sun RNA methyltransferase family member 5 OS=Macaca mulatta OX=9544 GN=NSUN5 PE=3 SV=1
+tr|A0A1D5RAB9|A0A1D5RAB9_MACMU -          FtsJ                 PF01728.26    0.0027   17.9   0.0    0.0052   17.0   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=PRMT1 PE=3 SV=1
+tr|F7HEH7|F7HEH7_MACMU         -          FtsJ                 PF01728.26    0.0041   17.3   0.0    0.0085   16.3   0.0   1.5   1   0   0   1   1   1   1 Methyltransferase like 25 OS=Macaca mulatta OX=9544 GN=METTL25 PE=4 SV=2
+tr|F7D7T3|F7D7T3_MACMU         -          FtsJ                 PF01728.26    0.0047   17.1   0.1     0.011   16.0   0.1   1.6   1   1   0   1   1   1   1 mRNA cap guanine-N7 methyltransferase OS=Macaca mulatta OX=9544 GN=RNMT PE=3 SV=2
+tr|F7D1K5|F7D1K5_MACMU         -          FtsJ                 PF01728.26    0.0061   16.7   0.0      0.01   16.0   0.0   1.3   1   0   0   1   1   1   1 tRNA methyltransferase 61B OS=Macaca mulatta OX=9544 GN=TRMT61B PE=4 SV=1
+tr|G7MTJ5|G7MTJ5_MACMU         -          FtsJ                 PF01728.26    0.0065   16.6   0.1    0.0084   16.3   0.1   1.2   1   0   0   1   1   1   1 3-hydroxybutyrate dehydrogenase 2 OS=Macaca mulatta OX=9544 GN=BDH2 PE=2 SV=1
+tr|F7FM77|F7FM77_MACMU         -          FtsJ                 PF01728.26    0.0077   16.4   0.0     0.018   15.2   0.0   1.6   1   0   0   1   1   1   1 Coactivator associated arginine methyltransferase 1 OS=Macaca mulatta OX=9544 GN=CARM1 PE=3 SV=2
+tr|A0A1D5RD03|A0A1D5RD03_MACMU -          FtsJ                 PF01728.26     0.008   16.3   0.0     0.012   15.8   0.0   1.2   1   0   0   1   1   1   1 HemK methyltransferase family member 1 OS=Macaca mulatta OX=9544 GN=HEMK1 PE=4 SV=1
+tr|A0A1D5QYE6|A0A1D5QYE6_MACMU -          FtsJ                 PF01728.26    0.0084   16.3   0.0      0.03   14.5   0.0   1.8   1   1   0   1   1   1   1 NOP2/Sun RNA methyltransferase family member 3 OS=Macaca mulatta OX=9544 GN=NSUN3 PE=3 SV=1
+tr|F7GFV2|F7GFV2_MACMU         -          FtsJ                 PF01728.26     0.011   15.9   0.1      0.02   15.1   0.1   1.4   1   1   0   1   1   1   0 Protein-L-isoaspartate O-methyltransferase OS=Macaca mulatta OX=9544 GN=PCMT1 PE=3 SV=2
+tr|A0A1D5R6R2|A0A1D5R6R2_MACMU -          FtsJ                 PF01728.26     0.011   15.8   0.0     0.021   15.0   0.0   1.4   1   0   0   1   1   1   0 Arsenite methyltransferase OS=Macaca mulatta OX=9544 GN=AS3MT PE=4 SV=1
+tr|F6ZSG5|F6ZSG5_MACMU         -          FtsJ                 PF01728.26     0.012   15.7   0.0     0.025   14.8   0.0   1.5   1   0   0   1   1   1   0 NOP2 nucleolar protein OS=Macaca mulatta OX=9544 GN=NOP2 PE=3 SV=2
+tr|F7EJY8|F7EJY8_MACMU         -          FtsJ                 PF01728.26     0.021   15.0   0.0     0.037   14.2   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=PRMT2 PE=3 SV=2
+tr|H9FSY6|H9FSY6_MACMU         -          FtsJ                 PF01728.26     0.022   14.9   0.0     0.051   13.7   0.0   1.6   2   0   0   2   2   1   0 tRNA (Uracil-5-)-methyltransferase homolog A OS=Macaca mulatta OX=9544 GN=TRMT2A PE=2 SV=1
+tr|F6XQN4|F6XQN4_MACMU         -          FtsJ                 PF01728.26     0.023   14.8   0.0     0.045   13.9   0.0   1.4   1   0   0   1   1   1   0 NOP2/Sun RNA methyltransferase family member 2 OS=Macaca mulatta OX=9544 GN=NSUN2 PE=3 SV=2
+tr|F6V9M6|F6V9M6_MACMU         -          FtsJ                 PF01728.26      0.11   12.6   0.0      0.21   11.7   0.0   1.5   1   1   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ETFBKMT PE=4 SV=1
+tr|F6X5A5|F6X5A5_MACMU         -          FtsJ                 PF01728.26      0.11   12.6   0.1      0.27   11.4   0.0   1.8   2   1   0   2   2   2   0 rRNA adenine N(6)-methyltransferase OS=Macaca mulatta OX=9544 GN=DIMT1 PE=3 SV=2
+tr|G7MS35|G7MS35_MACMU         -          FtsJ                 PF01728.26      0.12   12.5   0.0      0.24   11.5   0.0   1.5   1   0   0   1   1   1   0 Protein arginine methyltransferase 9 OS=Macaca mulatta OX=9544 GN=PRMT10 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/FtsJ.hmm
+# Target file:     proteomes/Macaca_mulatta.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/FtsJ/Macaca_mulatta.tblout --cpu 8 pfam_list/FtsJ.hmm proteomes/Macaca_mulatta.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:56 2025
+# [ok]

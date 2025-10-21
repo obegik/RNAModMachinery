@@ -1,0 +1,36 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P37872|YBXB_BACSU  -          MTS                  PF05175.21   3.4e-51  171.1   0.0     4e-51  170.9   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein YbxB OS=Bacillus subtilis (strain 168) OX=224308 GN=ybxB PE=3 SV=1
+sp|P45873|PRMC_BACSU  -          MTS                  PF05175.21     7e-17   59.5   0.0     1e-16   59.0   0.0   1.2   1   0   0   1   1   1   1 Release factor glutamine methyltransferase OS=Bacillus subtilis (strain 168) OX=224308 GN=prmC PE=3 SV=1
+sp|P54460|PRMA_BACSU  -          MTS                  PF05175.21   1.5e-15   55.2   0.5   3.3e-15   54.0   0.5   1.6   1   1   0   1   1   1   1 Ribosomal protein L11 methyltransferase OS=Bacillus subtilis (strain 168) OX=224308 GN=prmA PE=3 SV=2
+sp|P37543|YABB_BACSU  -          MTS                  PF05175.21   3.9e-11   40.8   0.1   2.9e-10   37.9   0.1   2.0   1   1   0   1   1   1   1 Probable RNA methyltransferase YabB OS=Bacillus subtilis (strain 168) OX=224308 GN=yabB PE=3 SV=1
+sp|P46326|YXBB_BACSU  -          MTS                  PF05175.21   1.7e-09   35.4   0.0   2.3e-09   35.0   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein YxbB OS=Bacillus subtilis (strain 168) OX=224308 GN=yxbB PE=3 SV=1
+sp|P54458|YQEM_BACSU  -          MTS                  PF05175.21   4.6e-09   34.0   0.0   6.8e-09   33.5   0.0   1.2   1   0   0   1   1   1   1 Putative methyltransferase YqeM OS=Bacillus subtilis (strain 168) OX=224308 GN=yqeM PE=3 SV=1
+sp|O34331|YLBH_BACSU  -          MTS                  PF05175.21   1.1e-07   29.5   0.0   1.3e-07   29.3   0.0   1.1   1   0   0   1   1   1   1 Putative rRNA methyltransferase YlbH OS=Bacillus subtilis (strain 168) OX=224308 GN=ylbH PE=3 SV=2
+sp|O31474|YCGJ_BACSU  -          MTS                  PF05175.21   4.7e-07   27.5   0.0   6.8e-07   27.0   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized methyltransferase YcgJ OS=Bacillus subtilis (strain 168) OX=224308 GN=ycgJ PE=1 SV=2
+sp|P50840|YPSC_BACSU  -          MTS                  PF05175.21   2.7e-06   25.0   0.0   3.3e-05   21.5   0.0   2.2   2   0   0   2   2   2   1 Putative RNA methyltransferase YpsC OS=Bacillus subtilis (strain 168) OX=224308 GN=ypsC PE=1 SV=1
+sp|O31545|YFJO_BACSU  -          MTS                  PF05175.21     4e-06   24.5   0.0   8.2e-06   23.4   0.0   1.6   1   0   0   1   1   1   1 Uncharacterized RNA methyltransferase YfjO OS=Bacillus subtilis (strain 168) OX=224308 GN=yfjO PE=3 SV=1
+sp|O31503|RLMCD_BACSU -          MTS                  PF05175.21   4.6e-06   24.3   0.0   1.8e-05   22.4   0.0   1.9   2   1   0   2   2   2   1 23S rRNA (uracil-C(5))-methyltransferase RlmCD OS=Bacillus subtilis (strain 168) OX=224308 GN=rlmCD PE=1 SV=1
+sp|O32036|TRMR_BACSU  -          MTS                  PF05175.21   1.1e-05   23.1   0.0   1.6e-05   22.5   0.0   1.2   1   0   0   1   1   1   1 tRNA 5-hydroxyuridine methyltransferase OS=Bacillus subtilis (strain 168) OX=224308 GN=trmR PE=1 SV=1
+sp|P25813|RSMG_BACSU  -          MTS                  PF05175.21   0.00025   18.6   0.0   0.00039   18.0   0.0   1.3   1   0   0   1   1   1   1 Ribosomal RNA small subunit methyltransferase G OS=Bacillus subtilis (strain 168) OX=224308 GN=rsmG PE=1 SV=1
+sp|P37876|YTXK_BACSU  -          MTS                  PF05175.21   0.00039   18.0   0.0    0.0047   14.5   0.0   2.3   1   1   0   1   1   1   1 Uncharacterized protein YtxK OS=Bacillus subtilis (strain 168) OX=224308 GN=ytxK PE=4 SV=2
+sp|P37468|RSMA_BACSU  -          MTS                  PF05175.21    0.0012   16.4   0.0    0.0021   15.6   0.0   1.4   1   0   0   1   1   1   1 Ribosomal RNA small subunit methyltransferase A OS=Bacillus subtilis (strain 168) OX=224308 GN=rsmA PE=1 SV=1
+sp|O05400|YRHH_BACSU  -          MTS                  PF05175.21    0.0014   16.2   0.0    0.0022   15.5   0.0   1.4   1   1   0   1   1   1   1 Putative methyltransferase YrhH OS=Bacillus subtilis (strain 168) OX=224308 GN=yrhH PE=2 SV=1
+sp|O34954|YODH_BACSU  -          MTS                  PF05175.21    0.0019   15.7   0.0    0.0032   15.0   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized methyltransferase YodH OS=Bacillus subtilis (strain 168) OX=224308 GN=yodH PE=3 SV=1
+sp|O35045|YJMD_BACSU  -          MTS                  PF05175.21    0.0057   14.2   0.4     0.031   11.8   0.3   1.9   1   1   1   2   2   2   1 Uncharacterized zinc-type alcohol dehydrogenase-like protein YjmD OS=Bacillus subtilis (strain 168) OX=224308 GN=yjmD PE=2 SV=1
+sp|P96576|YDAC_BACSU  -          MTS                  PF05175.21    0.0071   13.9   0.0     0.012   13.1   0.0   1.5   1   1   0   1   1   1   1 Uncharacterized methyltransferase YdaC OS=Bacillus subtilis (strain 168) OX=224308 GN=ydaC PE=3 SV=1
+sp|Q07876|RSMH_BACSU  -          MTS                  PF05175.21    0.0091   13.5   0.0       1.9    6.0   0.0   2.3   2   0   0   2   2   2   0 Ribosomal RNA small subunit methyltransferase H OS=Bacillus subtilis (strain 168) OX=224308 GN=rsmH PE=2 SV=2
+sp|P39587|YWBD_BACSU  -          MTS                  PF05175.21      0.01   13.4   0.0     0.017   12.7   0.0   1.4   1   0   0   1   1   1   0 Putative ribosomal RNA large subunit methyltransferase YwbD OS=Bacillus subtilis (strain 168) OX=224308 GN=ywbD PE=3 SV=1
+sp|P31113|MENG_BACSU  -          MTS                  PF05175.21     0.011   13.3   0.0     0.016   12.7   0.0   1.2   1   0   0   1   1   1   0 Demethylmenaquinone methyltransferase OS=Bacillus subtilis (strain 168) OX=224308 GN=menG PE=1 SV=1
+sp|O31776|TDH_BACSU   -          MTS                  PF05175.21     0.031   11.8   0.1      0.05   11.1   0.1   1.3   1   0   0   1   1   1   0 L-threonine 3-dehydrogenase OS=Bacillus subtilis (strain 168) OX=224308 GN=tdh PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MTS.hmm
+# Target file:     proteomes/Bacillus_subtilis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MTS/Bacillus_subtilis.tblout --cpu 8 pfam_list/MTS.hmm proteomes/Bacillus_subtilis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:05:55 2025
+# [ok]

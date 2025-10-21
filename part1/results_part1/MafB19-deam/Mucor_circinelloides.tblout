@@ -1,0 +1,21 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|S2JF47|S2JF47_MUCC1 -          MafB19-deam          PF14437.13   4.8e-19   68.0   0.0   6.1e-19   67.7   0.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Mucor circinelloides f. circinelloides (strain 1006PhL) OX=1220926 GN=HMPREF1544_12144 PE=4 SV=1
+tr|S2JYM9|S2JYM9_MUCC1 -          MafB19-deam          PF14437.13   3.3e-13   49.1   0.1   7.9e-13   47.9   0.1   1.6   1   0   0   1   1   1   1 Uncharacterized protein OS=Mucor circinelloides f. circinelloides (strain 1006PhL) OX=1220926 GN=HMPREF1544_08284 PE=4 SV=1
+tr|S2JND0|S2JND0_MUCC1 -          MafB19-deam          PF14437.13   5.8e-11   41.8   0.0   6.9e-11   41.6   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Mucor circinelloides f. circinelloides (strain 1006PhL) OX=1220926 GN=HMPREF1544_01339 PE=4 SV=1
+tr|S2J7X3|S2J7X3_MUCC1 -          MafB19-deam          PF14437.13   1.8e-08   33.8   0.0   2.5e-08   33.3   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Mucor circinelloides f. circinelloides (strain 1006PhL) OX=1220926 GN=HMPREF1544_08796 PE=4 SV=1
+tr|S2K4G3|S2K4G3_MUCC1 -          MafB19-deam          PF14437.13   6.3e-08   32.0   0.1   2.3e-07   30.2   0.1   1.8   1   1   0   1   1   1   1 Uncharacterized protein OS=Mucor circinelloides f. circinelloides (strain 1006PhL) OX=1220926 GN=HMPREF1544_02923 PE=4 SV=1
+tr|S2JU05|S2JU05_MUCC1 -          MafB19-deam          PF14437.13   9.6e-07   28.2   0.6   2.2e-06   27.0   0.6   1.8   1   1   0   1   1   1   1 Uncharacterized protein OS=Mucor circinelloides f. circinelloides (strain 1006PhL) OX=1220926 GN=HMPREF1544_06925 PE=4 SV=1
+tr|S2JND7|S2JND7_MUCC1 -          MafB19-deam          PF14437.13   1.2e-06   27.8   0.0   1.5e-06   27.5   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Mucor circinelloides f. circinelloides (strain 1006PhL) OX=1220926 GN=HMPREF1544_01344 PE=4 SV=1
+tr|S2J962|S2J962_MUCC1 -          MafB19-deam          PF14437.13   8.1e-06   25.2   0.0   2.6e-05   23.5   0.0   1.8   1   1   0   1   1   1   1 Uncharacterized protein OS=Mucor circinelloides f. circinelloides (strain 1006PhL) OX=1220926 GN=HMPREF1544_08301 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MafB19-deam.hmm
+# Target file:     proteomes/Mucor_circinelloides.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MafB19-deam/Mucor_circinelloides.tblout --cpu 8 pfam_list/MafB19-deam.hmm proteomes/Mucor_circinelloides.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:09:24 2025
+# [ok]

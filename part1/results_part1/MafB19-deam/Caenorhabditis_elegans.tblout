@@ -1,0 +1,19 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q95Y87|Q95Y87_CAEEL -          MafB19-deam          PF14437.13   9.3e-19   67.8   0.0     1e-18   67.6   0.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_R13A5.10 PE=1 SV=1
+tr|Q95QD6|Q95QD6_CAEEL -          MafB19-deam          PF14437.13   3.1e-18   66.1   0.0   3.5e-18   65.9   0.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_JC8.4 PE=4 SV=1
+tr|Q9XXD0|Q9XXD0_CAEEL -          MafB19-deam          PF14437.13     2e-15   57.0   0.1   2.3e-15   56.8   0.1   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y48A6B.7 PE=1 SV=1
+sp|P30648|DCTD_CAEEL   -          MafB19-deam          PF14437.13     4e-13   49.5   0.1   6.4e-13   48.9   0.1   1.3   1   0   0   1   1   1   1 Probable deoxycytidylate deaminase OS=Caenorhabditis elegans OX=6239 GN=ZK643.2 PE=3 SV=1
+tr|Q9NAH8|Q9NAH8_CAEEL -          MafB19-deam          PF14437.13     0.027   14.5   0.0     0.051   13.6   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y47D3A.14 PE=4 SV=2
+tr|Q9TXY8|Q9TXY8_CAEEL -          MafB19-deam          PF14437.13      0.13   12.2   0.0      0.19   11.8   0.0   1.3   1   1   0   1   1   1   0 Thioredoxin OS=Caenorhabditis elegans OX=6239 GN=trx-4 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MafB19-deam.hmm
+# Target file:     proteomes/Caenorhabditis_elegans.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MafB19-deam/Caenorhabditis_elegans.tblout --cpu 8 pfam_list/MafB19-deam.hmm proteomes/Caenorhabditis_elegans.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:09:21 2025
+# [ok]

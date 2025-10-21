@@ -1,0 +1,14 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A8V0ZRH0|A0A8V0ZRH0_CHICK -          Bin3                 PF06859.19   1.7e-19   70.4   0.0   2.4e-19   69.9   0.0   1.2   1   0   0   1   1   1   1 RNA methyltransferase OS=Gallus gallus OX=9031 GN=BCDIN3D PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Bin3.hmm
+# Target file:     proteomes/Gallus_gallus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Bin3/Gallus_gallus.tblout --cpu 8 pfam_list/Bin3.hmm proteomes/Gallus_gallus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:52 2025
+# [ok]

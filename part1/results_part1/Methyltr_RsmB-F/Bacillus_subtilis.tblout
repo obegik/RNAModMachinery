@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P94464|RSMB_BACSU -          Methyltr_RsmB-F      PF01189.24   1.2e-60  202.6   0.0   1.7e-60  202.1   0.0   1.2   1   0   0   1   1   1   1 Probable ribosomal RNA small subunit methyltransferase B OS=Bacillus subtilis (strain 168) OX=224308 GN=rsmB PE=3 SV=2
+sp|Q07876|RSMH_BACSU -          Methyltr_RsmB-F      PF01189.24   0.00016   19.4   0.0   0.00047   17.8   0.0   1.7   2   0   0   2   2   2   1 Ribosomal RNA small subunit methyltransferase H OS=Bacillus subtilis (strain 168) OX=224308 GN=rsmH PE=2 SV=2
+sp|O34614|MNMM_BACSU -          Methyltr_RsmB-F      PF01189.24   0.00029   18.5   0.0   0.00049   17.8   0.0   1.4   1   0   0   1   1   1   1 tRNA (mnm(5)s(2)U34)-methyltransferase OS=Bacillus subtilis (strain 168) OX=224308 GN=mnmM PE=1 SV=1
+sp|O32036|TRMR_BACSU -          Methyltr_RsmB-F      PF01189.24     0.013   13.1   0.0     0.021   12.4   0.0   1.3   1   0   0   1   1   1   0 tRNA 5-hydroxyuridine methyltransferase OS=Bacillus subtilis (strain 168) OX=224308 GN=trmR PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltr_RsmB-F.hmm
+# Target file:     proteomes/Bacillus_subtilis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltr_RsmB-F/Bacillus_subtilis.tblout --cpu 8 pfam_list/Methyltr_RsmB-F.hmm proteomes/Bacillus_subtilis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:10:13 2025
+# [ok]

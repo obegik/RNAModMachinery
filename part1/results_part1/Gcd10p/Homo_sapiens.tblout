@@ -1,0 +1,19 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9UJA5-3|TRM6_HUMAN -          Gcd10p               PF04189.19   7.6e-76  257.3   0.8   1.2e-75  256.6   0.7   1.4   1   1   0   1   1   1   1 Isoform 3 of tRNA (adenine(58)-N(1))-methyltransferase non-catalytic subunit TRM6 OS=Homo sapiens GN=TRMT6
+sp|Q9UJA5-2|TRM6_HUMAN -          Gcd10p               PF04189.19   2.1e-75  255.9   1.1   2.1e-75  255.9   1.1   1.6   1   1   1   2   2   2   1 Isoform 2 of tRNA (adenine(58)-N(1))-methyltransferase non-catalytic subunit TRM6 OS=Homo sapiens GN=TRMT6
+sp|Q9UJA5|TRM6_HUMAN   -          Gcd10p               PF04189.19     3e-75  255.3   1.7   3.5e-75  255.1   0.9   1.5   1   1   1   2   2   2   1 tRNA (adenine(58)-N(1))-methyltransferase non-catalytic subunit TRM6 OS=Homo sapiens GN=TRMT6 PE=1 SV=1
+tr|B4DUV6|B4DUV6_HUMAN -          Gcd10p               PF04189.19     8e-24   86.5   0.4   1.7e-23   85.5   0.1   1.7   1   1   1   2   2   2   1 cDNA FLJ51319, highly similar to tRNA (adenine-N(1)-)-methyltransferase non-catalytic subunit TRM6 OS=Homo sapiens GN=TRMT6 PE=2 SV=1
+tr|Q5T0V7|Q5T0V7_HUMAN -          Gcd10p               PF04189.19      0.35   12.2   0.1      0.66   11.3   0.1   1.4   1   0   0   1   1   1   0 Dystonin (Fragment) OS=Homo sapiens GN=DST PE=2 SV=1
+tr|B7ZKW0|B7ZKW0_HUMAN -          Gcd10p               PF04189.19       1.4   10.2   1.6       2.2    9.6   1.6   1.2   1   0   0   1   1   1   0 ATP1B4 protein OS=Homo sapiens GN=ATP1B4 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Gcd10p.hmm
+# Target file:     proteomes/Homo_sapiens.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Gcd10p/Homo_sapiens.tblout --cpu 8 pfam_list/Gcd10p.hmm proteomes/Homo_sapiens.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:32 2025
+# [ok]

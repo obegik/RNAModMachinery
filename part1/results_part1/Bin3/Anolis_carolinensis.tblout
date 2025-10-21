@@ -1,0 +1,17 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|H9GHU6|H9GHU6_ANOCA -          Bin3                 PF06859.19   3.9e-44  149.7   0.0   7.7e-44  148.8   0.0   1.5   1   0   0   1   1   1   1 Methylphosphate capping enzyme OS=Anolis carolinensis OX=28377 GN=MEPCE PE=4 SV=1
+tr|G1KHR3|G1KHR3_ANOCA -          Bin3                 PF06859.19   1.7e-20   73.6   0.0   2.5e-20   73.1   0.0   1.2   1   0   0   1   1   1   1 BCDIN3 domain containing RNA methyltransferase OS=Anolis carolinensis OX=28377 GN=BCDIN3D PE=4 SV=2
+tr|G1KEE2|G1KEE2_ANOCA -          Bin3                 PF06859.19     0.015   15.9   0.0     0.027   15.1   0.0   1.5   1   0   0   1   1   1   0 Glycine N-methyltransferase OS=Anolis carolinensis OX=28377 GN=GNMT PE=3 SV=1
+tr|G1KT61|G1KT61_ANOCA -          Bin3                 PF06859.19     0.079   13.6   0.1      0.18   12.5   0.1   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Anolis carolinensis OX=28377 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Bin3.hmm
+# Target file:     proteomes/Anolis_carolinensis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Bin3/Anolis_carolinensis.tblout --cpu 8 pfam_list/Bin3.hmm proteomes/Anolis_carolinensis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:50 2025
+# [ok]

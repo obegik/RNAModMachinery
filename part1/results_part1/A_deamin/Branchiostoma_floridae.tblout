@@ -1,0 +1,17 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|C3XSL3|C3XSL3_BRAFL -          A_deamin             PF02137.25    1e-118  397.2   0.0  1.2e-118  397.0   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein (Fragment) OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_227803 PE=4 SV=1
+tr|C3Z8S7|C3Z8S7_BRAFL -          A_deamin             PF02137.25  2.5e-117  392.7   0.0  6.8e-117  391.3   0.0   1.7   2   0   0   2   2   2   1 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_237436 PE=4 SV=1
+tr|C3YCU6|C3YCU6_BRAFL -          A_deamin             PF02137.25   3.8e-92  309.9   0.0   5.2e-92  309.5   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_124903 PE=4 SV=1
+tr|C3Y8L3|C3Y8L3_BRAFL -          A_deamin             PF02137.25   3.1e-89  300.3   0.0   9.8e-89  298.7   0.0   1.7   1   1   0   1   1   1   1 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_204963 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/A_deamin.hmm
+# Target file:     proteomes/Branchiostoma_floridae.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/A_deamin/Branchiostoma_floridae.tblout --cpu 8 pfam_list/A_deamin.hmm proteomes/Branchiostoma_floridae.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:07 2025
+# [ok]

@@ -1,0 +1,20 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7F8B1|F7F8B1_MONDO -          GCD14                PF08704.17  3.2e-106  354.8   0.5  1.8e-101  339.2   0.2   2.1   2   0   0   2   2   2   2 tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRMT61A OS=Monodelphis domestica OX=13616 GN=TRMT61A PE=3 SV=2
+tr|K7E169|K7E169_MONDO -          GCD14                PF08704.17   1.9e-15   57.5   0.0   2.6e-15   57.0   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Monodelphis domestica OX=13616 GN=TRMT61B PE=4 SV=1
+tr|F6YAE8|F6YAE8_MONDO -          GCD14                PF08704.17   7.1e-05   22.8   0.0    0.0001   22.3   0.0   1.2   1   0   0   1   1   1   1 Fibrillarin OS=Monodelphis domestica OX=13616 GN=FBL PE=3 SV=2
+tr|H9H7D7|H9H7D7_MONDO -          GCD14                PF08704.17    0.0032   17.4   0.0    0.0043   17.0   0.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Monodelphis domestica OX=13616 PE=4 SV=2
+tr|F7FVJ3|F7FVJ3_MONDO -          GCD14                PF08704.17    0.0037   17.2   0.0    0.0049   16.8   0.0   1.2   1   0   0   1   1   1   1 Protein-L-isoaspartate O-methyltransferase OS=Monodelphis domestica OX=13616 GN=PCMT1 PE=3 SV=2
+tr|F6VKL8|F6VKL8_MONDO -          GCD14                PF08704.17     0.014   15.3   0.0     0.031   14.2   0.0   1.5   1   0   0   1   1   1   0 Protein-L-isoaspartate (D-aspartate) O-methyltransferase domain containing 2 OS=Monodelphis domestica OX=13616 GN=PCMTD2 PE=4 SV=1
+tr|F6QTB4|F6QTB4_MONDO -          GCD14                PF08704.17     0.033   14.1   0.1     0.073   12.9   0.0   1.5   2   0   0   2   2   2   0 Protein-L-isoaspartate (D-aspartate) O-methyltransferase domain containing 1 OS=Monodelphis domestica OX=13616 GN=PCMTD1 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/GCD14.hmm
+# Target file:     proteomes/Monodelphis_domestica.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/GCD14/Monodelphis_domestica.tblout --cpu 8 pfam_list/GCD14.hmm proteomes/Monodelphis_domestica.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:12 2025
+# [ok]

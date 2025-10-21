@@ -1,0 +1,18 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6T4D9|F6T4D9_MONDO -          MafB19-deam          PF14437.13   3.8e-19   69.1   0.1   4.7e-19   68.8   0.1   1.2   1   0   0   1   1   1   1 Adenosine deaminase, tRNA specific 2 OS=Monodelphis domestica OX=13616 GN=ADAT2 PE=3 SV=2
+tr|F6UWJ2|F6UWJ2_MONDO -          MafB19-deam          PF14437.13   9.7e-17   61.3   0.0   1.2e-16   61.1   0.0   1.1   1   0   0   1   1   1   1 dCMP deaminase OS=Monodelphis domestica OX=13616 GN=DCTD PE=4 SV=2
+tr|F7A1J3|F7A1J3_MONDO -          MafB19-deam          PF14437.13   2.5e-13   50.3   0.3   8.3e-06   25.9   0.1   2.7   2   2   0   2   2   2   2 Cytidine and dCMP deaminase domain containing 1 OS=Monodelphis domestica OX=13616 GN=CDADC1 PE=4 SV=1
+tr|F7FLP8|F7FLP8_MONDO -          MafB19-deam          PF14437.13   7.6e-12   45.5   0.3     1e-07   32.1   0.0   2.2   2   0   0   2   2   2   2 Adenosine deaminase, tRNA specific 3 OS=Monodelphis domestica OX=13616 GN=ADAT3 PE=4 SV=1
+sp|Q9TUI7|ABEC1_MONDO  -          MafB19-deam          PF14437.13      0.17   11.9   0.0      0.28   11.3   0.0   1.2   1   0   0   1   1   1   0 C->U-editing enzyme APOBEC-1 OS=Monodelphis domestica OX=13616 GN=APOBEC1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MafB19-deam.hmm
+# Target file:     proteomes/Monodelphis_domestica.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MafB19-deam/Monodelphis_domestica.tblout --cpu 8 pfam_list/MafB19-deam.hmm proteomes/Monodelphis_domestica.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:09:24 2025
+# [ok]

@@ -1,0 +1,26 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q8IDF8|Q8IDF8_PLAF7         -          FtsJ                 PF01728.26   4.6e-48  161.8   0.1   1.6e-47  160.0   0.1   2.1   1   0   0   1   1   1   1 Putative rRNA methyltransferase OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1354300 PE=3 SV=1
+tr|Q8IEL9|Q8IEL9_PLAF7         -          FtsJ                 PF01728.26   1.2e-46  157.2   0.0   1.9e-46  156.5   0.0   1.3   1   0   0   1   1   1   1 rRNA methyltransferase 2, mitochondrial OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1309600 PE=1 SV=1
+tr|Q8I365|Q8I365_PLAF7         -          FtsJ                 PF01728.26   6.2e-43  145.1   0.3   3.7e-31  106.7   0.5   2.4   2   0   0   2   2   2   2 Putative tRNA (cytidine(32)/guanosine(34)-2'-O)-methyltransferase OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_0908600 PE=3 SV=1
+tr|Q8I285|Q8I285_PLAF7         -          FtsJ                 PF01728.26   3.3e-09   35.2   0.3   7.9e-05   20.9   0.0   3.0   2   0   0   2   2   2   2 Uncharacterized protein OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_0105600 PE=4 SV=1
+tr|Q8II69|Q8II69_PLAF7         -          FtsJ                 PF01728.26   2.1e-05   22.8   0.3   2.1e-05   22.8   0.3   1.9   2   0   0   2   2   2   1 rRNA (Cytosine-C(5))-methyltransferase, putative OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1129400 PE=1 SV=1
+tr|Q8IM23|Q8IM23_PLAF7         -          FtsJ                 PF01728.26     0.001   17.3   0.0    0.0016   16.7   0.0   1.3   1   0   0   1   1   1   1 rRNA 2'-O-methyltransferase fibrillarin OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1407100 PE=1 SV=1
+tr|Q8ILK1|Q8ILK1_PLAF7         -          FtsJ                 PF01728.26    0.0011   17.3   0.3    0.0026   16.0   0.0   1.8   2   0   0   2   2   2   1 type I protein arginine methyltransferase OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1426200 PE=1 SV=1
+tr|Q8I2Y6|Q8I2Y6_PLAF7         -          FtsJ                 PF01728.26    0.0012   17.0   0.0    0.0019   16.4   0.0   1.5   1   1   0   1   1   1   1 Protein-lysine N-methyltransferase PF3D7_0916600 OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_0916600 PE=1 SV=1
+sp|Q8IDQ9|PMT_PLAF7            -          FtsJ                 PF01728.26    0.0014   16.8   0.0    0.0028   15.9   0.0   1.5   1   1   0   1   1   1   1 Phosphoethanolamine N-methyltransferase OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PMT PE=1 SV=1
+tr|Q8IIQ2|Q8IIQ2_PLAF7         -          FtsJ                 PF01728.26    0.0076   14.5   0.0     0.027   12.7   0.0   1.9   1   0   0   1   1   1   1 NOL1/NOP2/Sun domain family member 4 OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1111000 PE=3 SV=1
+tr|Q8IJJ8|Q8IJJ8_PLAF7         -          FtsJ                 PF01728.26    0.0097   14.1   2.4      0.19    9.9   0.0   3.4   2   1   1   3   3   3   1 rRNA (Cytosine-C(5))-methyltransferase, putative OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1020400 PE=3 SV=1
+tr|A0A144A2R4|A0A144A2R4_PLAF7 -          FtsJ                 PF01728.26     0.011   14.0   0.0     0.016   13.4   0.0   1.2   1   0   0   1   1   1   0 Methyltransferase, putative OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1455200.1 PE=1 SV=1
+tr|Q8IC28|Q8IC28_PLAF7         -          FtsJ                 PF01728.26     0.026   12.7   0.8         4    5.6   0.0   3.4   3   0   0   3   3   3   0 tRNA m5C-methyltransferase, putative OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_0704200 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/FtsJ.hmm
+# Target file:     proteomes/Plasmodium_falciparum.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/FtsJ/Plasmodium_falciparum.tblout --cpu 8 pfam_list/FtsJ.hmm proteomes/Plasmodium_falciparum.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:58 2025
+# [ok]

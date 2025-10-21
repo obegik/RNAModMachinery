@@ -1,0 +1,14 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q6DC64|MET16_DANRE -          Methyltransf_10      PF05971.19  4.1e-125  417.6   0.0  5.3e-125  417.2   0.0   1.1   1   0   0   1   1   1   1 RNA N6-adenosine-methyltransferase mettl16 OS=Danio rerio OX=7955 GN=mettl16 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltransf_10.hmm
+# Target file:     proteomes/Danio_rerio.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltransf_10/Danio_rerio.tblout --cpu 8 pfam_list/Methyltransf_10.hmm proteomes/Danio_rerio.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:12:18 2025
+# [ok]

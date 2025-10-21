@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|M1XTL7|M1XTL7_NATM8 -          GCD14                PF08704.17   9.2e-16   55.6   0.0     2e-12   44.6   0.0   2.2   1   1   1   2   2   2   2 tRNA (Adenine-N(1))-methyltransferase TrmI OS=Natronomonas moolapensis (strain DSM 18674 / JCM 14361 / 8.8.11) OX=268739 GN=trmI PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/GCD14.hmm
+# Target file:     proteomes/Natronomonas_moolapensis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/GCD14/Natronomonas_moolapensis.tblout --cpu 8 pfam_list/GCD14.hmm proteomes/Natronomonas_moolapensis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:12 2025
+# [ok]

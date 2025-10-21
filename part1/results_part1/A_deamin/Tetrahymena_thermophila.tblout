@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q23RA5|Q23RA5_TETTS -          A_deamin             PF02137.25   8.7e-44  150.9   2.1   1.1e-42  147.3   2.1   2.1   1   1   0   1   1   1   1 tRNA-specific adenosine deaminase, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00389830 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/A_deamin.hmm
+# Target file:     proteomes/Tetrahymena_thermophila.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/A_deamin/Tetrahymena_thermophila.tblout --cpu 8 pfam_list/A_deamin.hmm proteomes/Tetrahymena_thermophila.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:11 2025
+# [ok]

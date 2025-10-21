@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A2F5I8|A2F5I8_TRIVA -          APOBEC_N             PF08210.18   0.00092   20.7   0.1    0.0013   20.3   0.1   1.2   1   0   0   1   1   1   1 Cytidine and deoxycytidylate deaminase zinc-binding region family protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_087960 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/APOBEC_N.hmm
+# Target file:     proteomes/Trichomonas_vaginalis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/APOBEC_N/Trichomonas_vaginalis.tblout --cpu 8 pfam_list/APOBEC_N.hmm proteomes/Trichomonas_vaginalis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:58:54 2025
+# [ok]

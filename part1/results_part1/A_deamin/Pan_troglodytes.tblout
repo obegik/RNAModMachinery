@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2J8M8R2|A0A2J8M8R2_PANTR -          A_deamin             PF02137.25  2.1e-115  386.1   0.0  3.1e-114  382.2   0.0   2.1   1   1   0   1   1   1   1 ADARB1 isoform 13 OS=Pan troglodytes OX=9598 GN=ADARB1 PE=4 SV=1
+tr|H2QBJ1|H2QBJ1_PANTR         -          A_deamin             PF02137.25  1.5e-110  370.1   0.0  1.8e-110  369.8   0.0   1.0   1   0   0   1   1   1   1 ADAT1 isoform 1 OS=Pan troglodytes OX=9598 GN=ADAT1 PE=2 SV=2
+tr|A0A2I3T9M4|A0A2I3T9M4_PANTR -          A_deamin             PF02137.25  2.2e-103  346.5   0.0    4e-103  345.7   0.0   1.4   1   0   0   1   1   1   1 Adenosine deaminase, RNA specific OS=Pan troglodytes OX=9598 GN=ADAR PE=4 SV=1
+tr|A0A2I3RFG5|A0A2I3RFG5_PANTR -          A_deamin             PF02137.25   5.5e-89  299.2   0.1   1.1e-88  298.2   0.1   1.5   1   1   0   1   1   1   1 ADAD1 isoform 5 OS=Pan troglodytes OX=9598 GN=ADAD1 PE=4 SV=1
+tr|H2QBM2|H2QBM2_PANTR         -          A_deamin             PF02137.25   2.2e-81  274.2   0.0   2.7e-81  273.9   0.0   1.1   1   0   0   1   1   1   1 ADAD2 isoform 1 OS=Pan troglodytes OX=9598 GN=ADAD2 PE=4 SV=1
+tr|H2Q1J4|H2Q1J4_PANTR         -          A_deamin             PF02137.25     7e-68  229.9   0.0   1.1e-67  229.3   0.0   1.2   1   0   0   1   1   1   1 Adenosine deaminase, RNA specific B2 (inactive) OS=Pan troglodytes OX=9598 GN=ADARB2 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/A_deamin.hmm
+# Target file:     proteomes/Pan_troglodytes.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/A_deamin/Pan_troglodytes.tblout --cpu 8 pfam_list/A_deamin.hmm proteomes/Pan_troglodytes.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:11 2025
+# [ok]

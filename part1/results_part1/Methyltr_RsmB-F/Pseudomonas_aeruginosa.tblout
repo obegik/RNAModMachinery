@@ -1,0 +1,17 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9I7A9|RSMB_PSEAE   -          Methyltr_RsmB-F      PF01189.24   4.1e-64  214.2   0.0     6e-64  213.7   0.0   1.2   1   0   0   1   1   1   1 Ribosomal RNA small subunit methyltransferase B OS=Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1) OX=208964 GN=rsmB PE=3 SV=1
+tr|Q9I6D9|Q9I6D9_PSEAE -          Methyltr_RsmB-F      PF01189.24   0.00033   18.7   0.1    0.0025   15.8   0.0   2.2   2   1   0   2   2   2   1 Uncharacterized protein OS=Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1) OX=208964 GN=PA0354 PE=3 SV=1
+sp|P95454|RLME_PSEAE   -          Methyltr_RsmB-F      PF01189.24     0.059   11.3   0.0      0.16    9.9   0.0   1.7   2   0   0   2   2   2   0 Ribosomal RNA large subunit methyltransferase E OS=Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1) OX=208964 GN=rlmE PE=3 SV=2
+tr|Q9I6C4|Q9I6C4_PSEAE -          Methyltr_RsmB-F      PF01189.24     0.063   11.2   0.0      0.08   10.9   0.0   1.1   1   0   0   1   1   1   0 Ribosomal RNA small subunit methyltransferase D OS=Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1) OX=208964 GN=PA0370 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltr_RsmB-F.hmm
+# Target file:     proteomes/Pseudomonas_aeruginosa.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltr_RsmB-F/Pseudomonas_aeruginosa.tblout --cpu 8 pfam_list/Methyltr_RsmB-F.hmm proteomes/Pseudomonas_aeruginosa.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:10:17 2025
+# [ok]

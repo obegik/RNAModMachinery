@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2I3RF95|A0A2I3RF95_PANTR -          Fibrillarin          PF01269.24  2.1e-108  361.0   0.0  2.6e-108  360.8   0.0   1.0   1   0   0   1   1   1   1 Fibrillarin OS=Pan troglodytes OX=9598 GN=FBL PE=3 SV=1
+tr|A0A2I3RWY8|A0A2I3RWY8_PANTR -          Fibrillarin          PF01269.24  4.4e-106  353.5   0.0  5.2e-106  353.2   0.0   1.0   1   0   0   1   1   1   1 Fibrillarin like 1 OS=Pan troglodytes OX=9598 GN=FBLL1 PE=3 SV=1
+tr|A0A2I3RSU9|A0A2I3RSU9_PANTR -          Fibrillarin          PF01269.24   1.1e-98  329.2   0.0   1.3e-98  329.0   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Pan troglodytes OX=9598 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Fibrillarin.hmm
+# Target file:     proteomes/Pan_troglodytes.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Fibrillarin/Pan_troglodytes.tblout --cpu 8 pfam_list/Fibrillarin.hmm proteomes/Pan_troglodytes.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:44 2025
+# [ok]

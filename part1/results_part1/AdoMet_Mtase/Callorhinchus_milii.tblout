@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A4W3H4Y8|A0A4W3H4Y8_CALMI -          AdoMet_MTase         PF07757.19   3.9e-33  114.2   0.1   6.6e-33  113.5   0.1   1.4   1   0   0   1   1   1   1 tRNA (uracil-O(2)-)-methyltransferase OS=Callorhinchus milii OX=7868 GN=trmt44 PE=3 SV=1
+tr|A0A4W3HM63|A0A4W3HM63_CALMI -          AdoMet_MTase         PF07757.19     0.044   14.1   0.0     0.067   13.5   0.0   1.4   1   0   0   1   1   1   0 EEF1A lysine methyltransferase 2 OS=Callorhinchus milii OX=7868 GN=EEF1AKMT2 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/AdoMet_Mtase.hmm
+# Target file:     proteomes/Callorhinchus_milii.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/AdoMet_Mtase/Callorhinchus_milii.tblout --cpu 8 pfam_list/AdoMet_Mtase.hmm proteomes/Callorhinchus_milii.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:42 2025
+# [ok]

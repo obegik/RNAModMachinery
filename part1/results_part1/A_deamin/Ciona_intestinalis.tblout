@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6SJ18|F6SJ18_CIOIN -          A_deamin             PF02137.25   2.1e-66  224.5   0.3   2.7e-66  224.2   0.3   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=2
+tr|H2XKP3|H2XKP3_CIOIN -          A_deamin             PF02137.25   6.3e-44  150.7   0.2   7.4e-44  150.4   0.2   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/A_deamin.hmm
+# Target file:     proteomes/Ciona_intestinalis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/A_deamin/Ciona_intestinalis.tblout --cpu 8 pfam_list/A_deamin.hmm proteomes/Ciona_intestinalis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:07 2025
+# [ok]

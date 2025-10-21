@@ -1,0 +1,17 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q22123|Q22123_CAEEL -          DREV                 PF05219.18  4.2e-140  465.5   0.2  4.9e-140  465.3   0.2   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_T03G11.6 PE=1 SV=2
+tr|Q22993|Q22993_CAEEL -          DREV                 PF05219.18   0.00026   20.3   0.1   0.00069   18.9   0.0   1.8   2   1   0   2   2   2   1 Phosphoethanolamine MethylTransferase OS=Caenorhabditis elegans OX=6239 GN=pmt-2 PE=1 SV=1
+tr|Q9GZF8|Q9GZF8_CAEEL -          DREV                 PF05219.18    0.0014   17.9   0.1    0.0017   17.7   0.1   1.1   1   0   0   1   1   1   1 PRotein arginine MethylTransferase OS=Caenorhabditis elegans OX=6239 GN=prmt-4 PE=4 SV=1
+sp|Q09522|DIM1_CAEEL   -          DREV                 PF05219.18     0.014   14.7   0.0     0.022   14.0   0.0   1.3   1   0   0   1   1   1   0 Probable dimethyladenosine transferase OS=Caenorhabditis elegans OX=6239 GN=E02H1.1 PE=3 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DREV.hmm
+# Target file:     proteomes/Caenorhabditis_elegans.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DREV/Caenorhabditis_elegans.tblout --cpu 8 pfam_list/DREV.hmm proteomes/Caenorhabditis_elegans.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:21 2025
+# [ok]

@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A8IA86|A8IA86_CHLRE         -          Fibrillarin          PF01269.24  2.2e-108  360.6   0.0  2.5e-108  360.4   0.0   1.0   1   0   0   1   1   1   1 rRNA 2'-O-methyltransferase fibrillarin OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_02g077300v5 PE=3 SV=1
+tr|A0A2K3DKN9|A0A2K3DKN9_CHLRE -          Fibrillarin          PF01269.24     0.039   13.1   0.0     0.062   12.4   0.0   1.2   1   0   0   1   1   1   0 protein-L-isoaspartate(D-aspartate) O-methyltransferase OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_07g342000v5 PE=3 SV=1
+tr|A0A2K3DX16|A0A2K3DX16_CHLRE -          Fibrillarin          PF01269.24      0.23   10.5   0.0      0.36    9.9   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g170625v5 PE=4 SV=1
+tr|A0A2K3DWG6|A0A2K3DWG6_CHLRE -          Fibrillarin          PF01269.24      0.26   10.3   0.0      0.42    9.7   0.0   1.2   1   0   0   1   1   1   0 protein-L-isoaspartate(D-aspartate) O-methyltransferase OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g162100v5 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Fibrillarin.hmm
+# Target file:     proteomes/Chlamydomonas_reinhardtii.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Fibrillarin/Chlamydomonas_reinhardtii.tblout --cpu 8 pfam_list/Fibrillarin.hmm proteomes/Chlamydomonas_reinhardtii.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:41 2025
+# [ok]

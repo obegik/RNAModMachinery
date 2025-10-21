@@ -1,0 +1,17 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A7RRI2|A7RRI2_NEMVE -          MT-A70               PF05063.21   1.3e-40  139.6   0.0     2e-40  138.9   0.0   1.3   1   0   0   1   1   1   1 Predicted protein (Fragment) OS=Nematostella vectensis OX=45351 GN=v1g33607 PE=3 SV=1
+tr|A7RW13|A7RW13_NEMVE -          MT-A70               PF05063.21     2e-39  135.7   0.0   2.5e-39  135.4   0.0   1.1   1   0   0   1   1   1   1 Predicted protein (Fragment) OS=Nematostella vectensis OX=45351 GN=v1g95490 PE=3 SV=1
+tr|A7TAT7|A7TAT7_NEMVE -          MT-A70               PF05063.21   8.2e-38  130.4   0.1   1.6e-37  129.5   0.1   1.4   1   1   0   1   1   1   1 Predicted protein (Fragment) OS=Nematostella vectensis OX=45351 GN=v1g224635 PE=3 SV=1
+tr|A7T3R6|A7T3R6_NEMVE -          MT-A70               PF05063.21   2.2e-08   34.6   0.0   3.6e-08   34.0   0.0   1.2   1   0   0   1   1   1   1 Predicted protein (Fragment) OS=Nematostella vectensis OX=45351 GN=v1g221917 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MT-A70.hmm
+# Target file:     proteomes/Nematostella_vectensis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MT-A70/Nematostella_vectensis.tblout --cpu 8 pfam_list/MT-A70.hmm proteomes/Nematostella_vectensis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:05:19 2025
+# [ok]

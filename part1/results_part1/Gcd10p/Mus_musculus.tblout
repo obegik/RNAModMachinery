@@ -1,0 +1,14 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8CE96|TRM6_MOUSE -          Gcd10p               PF04189.19     7e-75  252.2   0.1     7e-75  252.2   0.1   1.5   1   1   1   2   2   2   1 tRNA (adenine(58)-N(1))-methyltransferase non-catalytic subunit TRM6 OS=Mus musculus OX=10090 GN=Trmt6 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Gcd10p.hmm
+# Target file:     proteomes/Mus_musculus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Gcd10p/Mus_musculus.tblout --cpu 8 pfam_list/Gcd10p.hmm proteomes/Mus_musculus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:33 2025
+# [ok]

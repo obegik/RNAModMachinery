@@ -1,0 +1,22 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q7XTH1|Q7XTH1_ORYSJ         -          GCD14                PF08704.17   1.6e-95  320.8   0.0   1.9e-95  320.5   0.0   1.1   1   0   0   1   1   1   1 tRNA (adenine(58)-N(1))-methyltransferase OS=Oryza sativa subsp. japonica OX=39947 GN=Os04g0319600 PE=1 SV=2
+tr|A0A0N7KGC5|A0A0N7KGC5_ORYSJ -          GCD14                PF08704.17   2.5e-05   25.3   0.0   3.6e-05   24.8   0.0   1.2   1   0   0   1   1   1   1 Os02g0821800 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os02g0821800 PE=1 SV=1
+tr|Q2QM99|Q2QM99_ORYSJ         -          GCD14                PF08704.17   6.9e-05   23.9   0.0   0.00011   23.3   0.0   1.2   1   0   0   1   1   1   1 Modification methylase, HemK family protein, expressed OS=Oryza sativa subsp. japonica OX=39947 GN=LOC_Os12g41830 PE=1 SV=1
+tr|B7FA85|B7FA85_ORYSJ         -          GCD14                PF08704.17   7.5e-05   23.8   0.0   0.00011   23.2   0.0   1.2   1   0   0   1   1   1   1 Os05g0176000 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os05g0176000 PE=1 SV=1
+tr|Q0J5R5|Q0J5R5_ORYSJ         -          GCD14                PF08704.17    0.0062   17.5   0.0    0.0094   16.9   0.0   1.2   1   0   0   1   1   1   1 Os08g0411200 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os08g0411200 PE=1 SV=1
+tr|C7J169|C7J169_ORYSJ         -          GCD14                PF08704.17     0.044   14.7   0.0      0.05   14.5   0.0   1.0   1   0   0   1   1   1   0 Os04g0507800 protein (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=Os04g0507800 PE=1 SV=1
+tr|Q0JCB3|Q0JCB3_ORYSJ         -          GCD14                PF08704.17     0.059   14.3   0.0     0.079   13.9   0.0   1.2   1   0   0   1   1   1   0 Os04g0481400 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os04g0481400 PE=1 SV=1
+tr|Q6ZJ17|Q6ZJ17_ORYSJ         -          GCD14                PF08704.17     0.084   13.8   0.0      0.14   13.1   0.0   1.4   1   1   0   1   1   1   0 protein-L-isoaspartate(D-aspartate) O-methyltransferase OS=Oryza sativa subsp. japonica OX=39947 GN=PIMT1 PE=1 SV=1
+sp|Q7XKC0|ANM61_ORYSJ          -          GCD14                PF08704.17      0.15   12.9   0.2      0.23   12.4   0.2   1.2   1   0   0   1   1   1   0 Probable protein arginine N-methyltransferase 6.1 OS=Oryza sativa subsp. japonica OX=39947 GN=PRMT6.1 PE=3 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/GCD14.hmm
+# Target file:     proteomes/Oryza_sativa.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/GCD14/Oryza_sativa.tblout --cpu 8 pfam_list/GCD14.hmm proteomes/Oryza_sativa.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:13 2025
+# [ok]

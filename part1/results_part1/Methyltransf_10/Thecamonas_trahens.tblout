@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A0L0DR59|A0A0L0DR59_THETB -          Methyltransf_10      PF05971.19   8.9e-56  188.7   0.0   8.7e-40  136.1   0.0   2.1   1   1   1   2   2   2   2 U6 small nuclear RNA (adenine-(43)-N(6))-methyltransferase (Fragment) OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_01651 PE=4 SV=1
+tr|A0A0L0D3M0|A0A0L0D3M0_THETB -          Methyltransf_10      PF05971.19    0.0022   16.6   0.0    0.0037   15.9   0.0   1.2   1   0   0   1   1   1   1 Chain release factor methylase subunit OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_03325 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltransf_10.hmm
+# Target file:     proteomes/Thecamonas_trahens.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltransf_10/Thecamonas_trahens.tblout --cpu 8 pfam_list/Methyltransf_10.hmm proteomes/Thecamonas_trahens.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:12:22 2025
+# [ok]

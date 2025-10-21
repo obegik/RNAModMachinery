@@ -1,0 +1,20 @@
+#                                                                  --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name           accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#   ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9UIC8|LCMT1_HUMAN   -          LCM                  PF04072.21   5.2e-32  113.5   0.0   2.2e-31  111.5   0.0   1.8   1   1   0   1   1   1   1 Leucine carboxyl methyltransferase 1 OS=Homo sapiens GN=LCMT1 PE=1 SV=2
+sp|Q9UIC8-2|LCMT1_HUMAN -          LCM                  PF04072.21   2.7e-31  111.2   0.0   7.1e-31  109.8   0.0   1.6   1   1   0   1   1   1   1 Isoform 2 of Leucine carboxyl methyltransferase 1 OS=Homo sapiens GN=LCMT1
+sp|O60294|LCMT2_HUMAN   -          LCM                  PF04072.21     3e-23   85.0   0.0   8.8e-23   83.4   0.0   1.7   1   1   0   1   1   1   1 Leucine carboxyl methyltransferase 2 OS=Homo sapiens GN=LCMT2 PE=1 SV=3
+sp|Q9UIC8-3|LCMT1_HUMAN -          LCM                  PF04072.21   7.7e-23   83.6   0.0     4e-16   61.7   0.0   2.9   1   1   1   2   2   2   2 Isoform 3 of Leucine carboxyl methyltransferase 1 OS=Homo sapiens GN=LCMT1
+tr|I3L2Q8|I3L2Q8_HUMAN  -          LCM                  PF04072.21   4.9e-18   67.9   0.0   3.7e-17   65.1   0.0   1.9   1   1   0   1   1   1   1 Leucine carboxyl methyltransferase 1 (Fragment) OS=Homo sapiens GN=LCMT1 PE=2 SV=1
+tr|I3L4A2|I3L4A2_HUMAN  -          LCM                  PF04072.21   4.2e-15   58.4   0.0     6e-15   57.9   0.0   1.2   1   0   0   1   1   1   1 Leucine carboxyl methyltransferase 1 (Fragment) OS=Homo sapiens GN=LCMT1 PE=4 SV=1
+tr|I3L2E3|I3L2E3_HUMAN  -          LCM                  PF04072.21    0.0014   20.8   0.1    0.0021   20.3   0.1   1.3   1   0   0   1   1   1   1 Leucine carboxyl methyltransferase 1 (Fragment) OS=Homo sapiens GN=LCMT1 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/LCM.hmm
+# Target file:     proteomes/Homo_sapiens.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/LCM/Homo_sapiens.tblout --cpu 8 pfam_list/LCM.hmm proteomes/Homo_sapiens.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:45 2025
+# [ok]

@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A0L0DVG8|A0A0L0DVG8_THETB -          Gcd10p               PF04189.19   1.4e-47  161.5   0.0   1.9e-47  161.1   0.0   1.1   1   0   0   1   1   1   1 tRNA (adenine(58)-N(1))-methyltransferase non-catalytic subunit TRM6 OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_02279 PE=3 SV=1
+tr|A0A0L0DK81|A0A0L0DK81_THETB -          Gcd10p               PF04189.19       0.1   10.9   0.8       6.2    5.1   0.2   2.3   2   0   0   2   2   2   0 LsmAD domain-containing protein OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_08463 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Gcd10p.hmm
+# Target file:     proteomes/Thecamonas_trahens.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Gcd10p/Thecamonas_trahens.tblout --cpu 8 pfam_list/Gcd10p.hmm proteomes/Thecamonas_trahens.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:36 2025
+# [ok]

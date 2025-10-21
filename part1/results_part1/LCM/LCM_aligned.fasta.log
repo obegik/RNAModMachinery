@@ -1,0 +1,95 @@
+IQ-TREE version 3.0.1 for MacOS ARM 64-bit built Jul  9 2025
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    QY066DPX6V.crg.es (SSE4.2, 16 GB RAM)
+Command: iqtree -s results_part1_v3/LCM/LCM_aligned.fasta -st AA -m JTT+F+I+G4 -nt 8 --safe --redo --fast
+Seed:    384362 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon Oct 20 22:05:03 2025
+Kernel:  Safe SSE2 - 8 threads (10 CPU cores detected)
+
+Reading alignment file results_part1_v3/LCM/LCM_aligned.fasta ... Fasta format detected
+Reading fasta file: done in 0.00265718 secs using 88.59% CPU
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.00218701 secs using 73.89% CPU
+Alignment has 97 sequences with 2510 columns, 1834 distinct patterns
+789 parsimony-informative, 807 singleton sites, 914 constant sites
+Analyzing sequences: done in 0.00013113 secs using 273.8% CPU
+WARNING: 97 sequences contain more than 50% gaps/ambiguity
+Checking for duplicate sequences: done in 0.00047183 secs using 91.13% CPU
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.04 seconds
+
+NOTE: 111 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.50)
+1. Initial log-likelihood: -84331.18
+2. Current log-likelihood: -73962.21
+3. Current log-likelihood: -73791.10
+4. Current log-likelihood: -73768.21
+5. Current log-likelihood: -73759.69
+6. Current log-likelihood: -73755.13
+7. Current log-likelihood: -73752.53
+8. Current log-likelihood: -73750.96
+9. Current log-likelihood: -73749.97
+10. Current log-likelihood: -73749.31
+Optimal log-likelihood: -73748.85
+Proportion of invariable sites: 0.01
+Gamma shape alpha: 1.41
+Parameters optimization took 10 rounds (3.07 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.68057 secs using 576% CPU
+Computing ML distances took 0.681226 sec (of wall-clock time) 3.920417 sec (of CPU time)
+WARNING: Some pairwise ML distances are too long (saturated)
+Setting up auxiliary I and S matrices: done in 0.000164986 secs using 170.9% CPU
+Constructing RapidNJ tree: done in 0.0128319 secs using 60.91% CPU
+Computing RapidNJ tree took 0.013060 sec (of wall-clock time) 0.008123 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -73766.450
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+
+Do NNI search on 2 best initial trees
+Optimizing NNI: done in 2.90021 secs using 274.7% CPU
+Estimate model parameters (epsilon = 0.500)
+BETTER TREE FOUND at iteration 1: -73615.202
+Optimizing NNI: done in 3.07692 secs using 265.9% CPU
+Estimate model parameters (epsilon = 0.500)
+BETTER TREE FOUND at iteration 2: -73579.891
+Finish initializing candidate tree set (4)
+Current best tree score: -73579.891 / CPU time: 6.547
+Number of iterations: 2
+TREE SEARCH COMPLETED AFTER 2 ITERATIONS / Time: 0h:0m:11s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.050)
+1. Initial log-likelihood: -73579.891
+2. Current log-likelihood: -73579.722
+3. Current log-likelihood: -73579.595
+4. Current log-likelihood: -73579.500
+5. Current log-likelihood: -73579.427
+6. Current log-likelihood: -73579.370
+Optimal log-likelihood: -73579.324
+Proportion of invariable sites: 0.003
+Gamma shape alpha: 1.394
+Parameters optimization took 6 rounds (1.169 sec)
+BEST SCORE FOUND : -73579.324
+Total tree length: 90.020
+
+Total number of iterations: 2
+CPU time used for tree search: 18.479 sec (0h:0m:18s)
+Wall-clock time used for tree search: 6.548 sec (0h:0m:6s)
+Total CPU time used: 43.140 sec (0h:0m:43s)
+Total wall-clock time used: 12.401 sec (0h:0m:12s)
+
+Analysis results written to: 
+  IQ-TREE report:                results_part1_v3/LCM/LCM_aligned.fasta.iqtree
+  Maximum-likelihood tree:       results_part1_v3/LCM/LCM_aligned.fasta.treefile
+  Likelihood distances:          results_part1_v3/LCM/LCM_aligned.fasta.mldist
+  Screen log file:               results_part1_v3/LCM/LCM_aligned.fasta.log
+
+Date and Time: Mon Oct 20 22:05:15 2025

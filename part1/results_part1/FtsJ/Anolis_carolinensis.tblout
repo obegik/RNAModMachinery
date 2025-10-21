@@ -1,0 +1,38 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|H9GER0|H9GER0_ANOCA -          FtsJ                 PF01728.26   1.8e-50  171.4   0.0   2.3e-50  171.1   0.0   1.1   1   0   0   1   1   1   1 Mitochondrial rRNA methyltransferase 2 OS=Anolis carolinensis OX=28377 GN=MRM2 PE=3 SV=1
+tr|H9GNE3|H9GNE3_ANOCA -          FtsJ                 PF01728.26   1.2e-46  158.9   0.0   1.7e-46  158.5   0.0   1.2   1   0   0   1   1   1   1 FtsJ RNA methyltransferase homolog 1 OS=Anolis carolinensis OX=28377 GN=FTSJ1 PE=4 SV=2
+tr|G1KQ10|G1KQ10_ANOCA -          FtsJ                 PF01728.26   2.6e-35  122.0   0.0   4.9e-35  121.1   0.0   1.5   1   0   0   1   1   1   1 Cap methyltransferase 1 OS=Anolis carolinensis OX=28377 GN=CMTR1 PE=4 SV=1
+tr|G1KQ15|G1KQ15_ANOCA -          FtsJ                 PF01728.26   5.5e-28   98.2   0.0   1.7e-25   90.0   0.0   2.5   2   0   0   2   2   2   1 Cap methyltransferase 2 OS=Anolis carolinensis OX=28377 GN=CMTR2 PE=4 SV=2
+tr|G1KUJ1|G1KUJ1_ANOCA -          FtsJ                 PF01728.26   6.9e-24   84.8   0.0   1.9e-23   83.3   0.0   1.8   1   0   0   1   1   1   1 FtsJ RNA methyltransferase homolog 3 OS=Anolis carolinensis OX=28377 GN=FTSJ3 PE=4 SV=1
+tr|G1KRB4|G1KRB4_ANOCA -          FtsJ                 PF01728.26   7.6e-05   22.7   0.0   0.00016   21.7   0.0   1.5   1   0   0   1   1   1   1 Protein arginine methyltransferase 3 OS=Anolis carolinensis OX=28377 GN=PRMT3 PE=3 SV=2
+tr|H9G3D0|H9G3D0_ANOCA -          FtsJ                 PF01728.26   0.00025   21.0   0.0   0.00048   20.1   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Anolis carolinensis OX=28377 GN=nsun5 PE=3 SV=1
+tr|G1KIR5|G1KIR5_ANOCA -          FtsJ                 PF01728.26   0.00027   20.9   0.0   0.00055   19.9   0.0   1.5   1   0   0   1   1   1   1 Protein arginine methyltransferase 8 OS=Anolis carolinensis OX=28377 GN=PRMT8 PE=3 SV=2
+tr|G1KY28|G1KY28_ANOCA -          FtsJ                 PF01728.26   0.00081   19.4   0.0    0.0014   18.7   0.0   1.3   1   0   0   1   1   1   1 NOP2/Sun RNA methyltransferase family member 6 OS=Anolis carolinensis OX=28377 GN=NSUN6 PE=3 SV=1
+tr|H9G9N1|H9G9N1_ANOCA -          FtsJ                 PF01728.26    0.0018   18.3   0.0    0.0038   17.2   0.0   1.5   1   0   0   1   1   1   1 Protein arginine methyltransferase 1 OS=Anolis carolinensis OX=28377 GN=PRMT1 PE=3 SV=2
+tr|H9GBE5|H9GBE5_ANOCA -          FtsJ                 PF01728.26    0.0026   17.8   0.0    0.0072   16.3   0.0   1.8   1   0   0   1   1   1   1 Uncharacterized protein OS=Anolis carolinensis OX=28377 GN=nop2 PE=3 SV=2
+tr|G1K8Q2|G1K8Q2_ANOCA -          FtsJ                 PF01728.26    0.0031   17.5   0.0    0.0089   16.0   0.0   1.7   2   0   0   2   2   2   1 NOP2/Sun RNA methyltransferase family member 2 OS=Anolis carolinensis OX=28377 GN=NSUN2 PE=3 SV=2
+tr|G1KBP0|G1KBP0_ANOCA -          FtsJ                 PF01728.26    0.0035   17.3   0.0    0.0069   16.4   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Anolis carolinensis OX=28377 GN=LOC100566534 PE=3 SV=2
+tr|H9GHU6|H9GHU6_ANOCA -          FtsJ                 PF01728.26     0.004   17.1   0.0     0.014   15.4   0.0   1.8   2   0   0   2   2   2   1 Methylphosphate capping enzyme OS=Anolis carolinensis OX=28377 GN=MEPCE PE=4 SV=1
+tr|G1KAB5|G1KAB5_ANOCA -          FtsJ                 PF01728.26    0.0048   16.9   0.0      0.01   15.8   0.0   1.5   1   1   0   1   1   1   1 NOP2/Sun RNA methyltransferase family member 4 OS=Anolis carolinensis OX=28377 GN=NSUN4 PE=3 SV=1
+tr|G1KR09|G1KR09_ANOCA -          FtsJ                 PF01728.26    0.0049   16.9   0.0     0.013   15.5   0.0   1.7   1   1   0   1   1   1   1 Coactivator associated arginine methyltransferase 1 OS=Anolis carolinensis OX=28377 GN=CARM1 PE=3 SV=1
+tr|H9GBW3|H9GBW3_ANOCA -          FtsJ                 PF01728.26      0.01   15.8   0.0     0.021   14.8   0.0   1.6   1   1   0   1   1   1   0 Protein-L-isoaspartate (D-aspartate) O-methyltransferase OS=Anolis carolinensis OX=28377 GN=PCMT1 PE=4 SV=1
+tr|R4G9E3|R4G9E3_ANOCA -          FtsJ                 PF01728.26      0.03   14.3   0.0      0.05   13.6   0.0   1.4   1   0   0   1   1   1   0 Arsenite methyltransferase OS=Anolis carolinensis OX=28377 GN=AS3MT PE=4 SV=1
+tr|G1KIR9|G1KIR9_ANOCA -          FtsJ                 PF01728.26     0.038   14.0   0.0      0.06   13.3   0.0   1.2   1   0   0   1   1   1   0 tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRMT61A OS=Anolis carolinensis OX=28377 GN=TRMT61B PE=3 SV=2
+tr|R4GAD1|R4GAD1_ANOCA -          FtsJ                 PF01728.26     0.041   13.9   0.0     0.066   13.2   0.0   1.3   1   0   0   1   1   1   0 HemK methyltransferase family member 1 OS=Anolis carolinensis OX=28377 GN=HEMK1 PE=4 SV=1
+tr|G1KB36|G1KB36_ANOCA -          FtsJ                 PF01728.26     0.062   13.3   0.2      0.38   10.7   0.2   2.1   1   1   0   1   1   1   0 Uncharacterized protein OS=Anolis carolinensis OX=28377 GN=LOC100553237 PE=4 SV=1
+tr|H9GDC5|H9GDC5_ANOCA -          FtsJ                 PF01728.26     0.076   13.0   0.1      0.18   11.7   0.1   1.6   1   0   0   1   1   1   0 tRNA methyltransferase 2 homolog A OS=Anolis carolinensis OX=28377 GN=TRMT2A PE=3 SV=2
+tr|G1K8I3|G1K8I3_ANOCA -          FtsJ                 PF01728.26     0.081   12.9   0.0      0.49   10.3   0.0   2.2   1   1   0   1   1   1   0 NOP2/Sun RNA methyltransferase family member 3 OS=Anolis carolinensis OX=28377 GN=NSUN3 PE=3 SV=2
+tr|G1KBC8|G1KBC8_ANOCA -          FtsJ                 PF01728.26     0.086   12.8   0.0      0.12   12.4   0.0   1.4   1   1   0   1   1   1   0 Methyltransferase like 21C OS=Anolis carolinensis OX=28377 GN=METTL21C PE=4 SV=1
+tr|H9GKF5|H9GKF5_ANOCA -          FtsJ                 PF01728.26      0.14   12.1   0.0      0.21   11.5   0.0   1.3   1   0   0   1   1   1   0 Protein-L-isoaspartate O-methyltransferase OS=Anolis carolinensis OX=28377 GN=LOC100554054 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/FtsJ.hmm
+# Target file:     proteomes/Anolis_carolinensis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/FtsJ/Anolis_carolinensis.tblout --cpu 8 pfam_list/FtsJ.hmm proteomes/Anolis_carolinensis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:54 2025
+# [ok]

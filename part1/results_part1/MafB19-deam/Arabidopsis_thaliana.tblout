@@ -1,0 +1,20 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9S7I0|TADA_ARATH   -          MafB19-deam          PF14437.13   1.1e-25   90.7   0.0   3.8e-25   88.9   0.0   1.9   1   0   0   1   1   1   1 tRNA(adenine(34)) deaminase, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=TADA PE=1 SV=1
+sp|Q94BU8|GSDA_ARATH   -          MafB19-deam          PF14437.13   6.9e-23   81.6   0.3   9.4e-23   81.2   0.3   1.2   1   0   0   1   1   1   1 Guanosine deaminase OS=Arabidopsis thaliana OX=3702 GN=GSDA PE=1 SV=1
+sp|Q6IDB6|TAD2_ARATH   -          MafB19-deam          PF14437.13   6.2e-17   62.3   0.8   1.8e-16   60.8   0.8   1.6   1   1   0   1   1   1   1 tRNA-specific adenosine deaminase TAD2 OS=Arabidopsis thaliana OX=3702 GN=TAD2 PE=1 SV=1
+tr|Q9MA89|Q9MA89_ARATH -          MafB19-deam          PF14437.13   2.8e-15   56.9   0.2   3.3e-15   56.7   0.2   1.2   1   0   0   1   1   1   1 tRNA(adenine(34)) deaminase OS=Arabidopsis thaliana OX=3702 GN=At3g05300 PE=3 SV=1
+tr|Q1PEH3|Q1PEH3_ARATH -          MafB19-deam          PF14437.13   1.4e-12   48.2   0.0   1.9e-12   47.8   0.0   1.2   1   0   0   1   1   1   1 dCMP deaminase OS=Arabidopsis thaliana OX=3702 GN=At3g48540 PE=1 SV=1
+sp|Q8GWP5|RIBD_ARATH   -          MafB19-deam          PF14437.13   9.6e-09   35.8   0.0   1.8e-08   34.9   0.0   1.5   1   0   0   1   1   1   1 Riboflavin biosynthesis protein PYRD, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=PYRD PE=1 SV=1
+sp|F4KH86|TAD3_ARATH   -          MafB19-deam          PF14437.13    0.0031   18.0   0.0    0.0054   17.2   0.0   1.3   1   0   0   1   1   1   1 tRNA-specific adenosine deaminase TAD3 OS=Arabidopsis thaliana OX=3702 GN=TAD3 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MafB19-deam.hmm
+# Target file:     proteomes/Arabidopsis_thaliana.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MafB19-deam/Arabidopsis_thaliana.tblout --cpu 8 pfam_list/MafB19-deam.hmm proteomes/Arabidopsis_thaliana.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:09:21 2025
+# [ok]

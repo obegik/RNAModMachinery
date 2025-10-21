@@ -1,0 +1,22 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q75W64|AICDA_CANLF          -          APOBEC_N             PF08210.18   7.4e-67  224.8   0.5   8.5e-67  224.6   0.5   1.0   1   0   0   1   1   1   1 Single-stranded DNA cytosine deaminase OS=Canis lupus familiaris OX=9615 GN=AICDA PE=2 SV=1
+tr|A0A8I3Q6X2|A0A8I3Q6X2_CANLF -          APOBEC_N             PF08210.18   1.2e-66  224.1   0.5   1.5e-66  223.9   0.5   1.1   1   0   0   1   1   1   1 Single-stranded DNA cytosine deaminase OS=Canis lupus familiaris OX=9615 GN=AICDA PE=3 SV=1
+tr|A0A8I3P3P2|A0A8I3P3P2_CANLF -          APOBEC_N             PF08210.18     1e-60  204.9   0.1   1.2e-60  204.6   0.1   1.0   1   0   0   1   1   1   1 mRNA(cytosine(6666)) deaminase OS=Canis lupus familiaris OX=9615 GN=APOBEC2 PE=3 SV=1
+tr|A0A8I3PIE8|A0A8I3PIE8_CANLF -          APOBEC_N             PF08210.18   5.7e-48  163.3   0.1     7e-48  163.0   0.1   1.0   1   0   0   1   1   1   1 DNA dC->dU-editing enzyme APOBEC-3G OS=Canis lupus familiaris OX=9615 GN=APOBEC3Z1 PE=3 SV=1
+tr|A0A7R6SZJ1|A0A7R6SZJ1_CANLF -          APOBEC_N             PF08210.18   4.2e-47  160.5   4.2   4.9e-47  160.3   4.2   1.0   1   0   0   1   1   1   1 single-stranded DNA cytosine deaminase OS=Canis lupus familiaris OX=9615 GN=APOBEC3H PE=2 SV=1
+tr|A0A8I3Q1H3|A0A8I3Q1H3_CANLF -          APOBEC_N             PF08210.18   7.7e-35  120.6   0.3   1.1e-34  120.1   0.3   1.1   1   0   0   1   1   1   1 C->U-editing enzyme APOBEC-1 OS=Canis lupus familiaris OX=9615 GN=APOBEC1 PE=3 SV=1
+tr|A0A8I3RTR4|A0A8I3RTR4_CANLF -          APOBEC_N             PF08210.18   4.5e-28   98.6   0.0   6.5e-28   98.1   0.0   1.2   1   0   0   1   1   1   1 Apolipoprotein B mRNA editing enzyme catalytic polypeptide like 4 OS=Canis lupus familiaris OX=9615 GN=APOBEC4 PE=4 SV=1
+tr|A0A8I3RWU9|A0A8I3RWU9_CANLF -          APOBEC_N             PF08210.18     0.014   15.6   0.1     0.023   14.9   0.1   1.2   1   0   0   1   1   1   0 tRNA-specific adenosine deaminase 2 OS=Canis lupus familiaris OX=9615 GN=ADAT2 PE=3 SV=1
+tr|A0A8I3P2N3|A0A8I3P2N3_CANLF -          APOBEC_N             PF08210.18     0.025   14.8   0.1     0.034   14.4   0.1   1.2   1   0   0   1   1   1   0 Deoxycytidylate deaminase OS=Canis lupus familiaris OX=9615 GN=DCTD PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/APOBEC_N.hmm
+# Target file:     proteomes/Canis_familiaris.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/APOBEC_N/Canis_familiaris.tblout --cpu 8 pfam_list/APOBEC_N.hmm proteomes/Canis_familiaris.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:58:50 2025
+# [ok]

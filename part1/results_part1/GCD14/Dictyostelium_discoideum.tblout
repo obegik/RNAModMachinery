@@ -1,0 +1,52 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q86JJ0|TRM61_DICDI  -          GCD14                PF08704.17  1.6e-111  371.4   0.0  1.9e-111  371.1   0.0   1.1   1   0   0   1   1   1   1 tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit trmt61a OS=Dictyostelium discoideum OX=44689 GN=trmt61a PE=1 SV=1
+sp|Q55CW0|FBRL_DICDI   -          GCD14                PF08704.17   6.3e-05   22.2   0.1   0.00012   21.3   0.1   1.3   1   1   0   1   1   1   1 rRNA 2'-O-methyltransferase fibrillarin OS=Dictyostelium discoideum OX=44689 GN=fbl PE=3 SV=1
+tr|Q55BS3|Q55BS3_DICDI -          GCD14                PF08704.17    0.0012   18.0   1.6     0.014   14.6   1.4   2.2   2   0   0   2   2   2   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0191018 PE=4 SV=1
+tr|Q54SY4|Q54SY4_DICDI -          GCD14                PF08704.17    0.0035   16.5   1.6    0.0035   16.5   1.6   2.0   2   0   0   2   2   2   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0218362 PE=4 SV=1
+tr|Q55E89|Q55E89_DICDI -          GCD14                PF08704.17     0.094   11.9   1.5      0.13   11.4   1.5   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0190191 PE=4 SV=1
+tr|Q54RT4|Q54RT4_DICDI -          GCD14                PF08704.17      0.17   11.0   3.1       0.3   10.2   3.1   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0185272 PE=4 SV=1
+tr|Q54JB2|Q54JB2_DICDI -          GCD14                PF08704.17       0.3   10.2   8.0      0.47    9.6   8.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0219316 PE=4 SV=1
+tr|Q7KWT0|Q7KWT0_DICDI -          GCD14                PF08704.17       0.4    9.8   3.6      0.62    9.2   3.6   1.2   1   0   0   1   1   1   0 Rab GTPase OS=Dictyostelium discoideum OX=44689 GN=rabW PE=4 SV=1
+tr|Q54WJ7|Q54WJ7_DICDI -          GCD14                PF08704.17      0.67    9.1   6.4       1.2    8.3   6.4   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0205939 PE=4 SV=1
+tr|Q75JG2|Q75JG2_DICDI -          GCD14                PF08704.17      0.68    9.0   7.4      0.72    9.0   7.4   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0169522 PE=4 SV=1
+tr|Q54U11|Q54U11_DICDI -          GCD14                PF08704.17         1    8.4   8.0       1.3    8.2   8.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB_G0281395 PE=4 SV=1
+tr|Q55EZ3|Q55EZ3_DICDI -          GCD14                PF08704.17       1.3    8.2   7.3       1.4    8.0   7.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB_G0268936 PE=4 SV=1
+tr|Q54FS6|Q54FS6_DICDI -          GCD14                PF08704.17       1.4    8.1   6.2       1.8    7.6   6.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0219590 PE=4 SV=1
+tr|Q55E49|Q55E49_DICDI -          GCD14                PF08704.17       1.4    8.0  10.2       0.1   11.7   4.6   1.9   1   1   1   2   2   2   0 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0201713 PE=4 SV=1
+sp|Q54Z08|SYF1_DICDI   -          GCD14                PF08704.17       1.4    8.0   5.6         3    6.9   5.6   1.5   1   0   0   1   1   1   0 Pre-mRNA-splicing factor SYF1 OS=Dictyostelium discoideum OX=44689 GN=xab2 PE=3 SV=1
+sp|Q54BL9|PSF2_DICDI   -          GCD14                PF08704.17       1.7    7.7   4.7       2.6    7.1   4.7   1.3   1   0   0   1   1   1   0 Probable DNA replication complex GINS protein PSF2 OS=Dictyostelium discoideum OX=44689 GN=gins2 PE=3 SV=1
+tr|Q55BJ5|Q55BJ5_DICDI -          GCD14                PF08704.17       1.8    7.7   6.9       2.3    7.3   6.9   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0216781 PE=4 SV=1
+tr|Q54T83|Q54T83_DICDI -          GCD14                PF08704.17       1.8    7.6   8.6         3    6.9   8.6   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0204295 PE=4 SV=1
+tr|Q86HA3|Q86HA3_DICDI -          GCD14                PF08704.17       1.9    7.6   7.5       3.2    6.9   7.5   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0167286 PE=4 SV=1
+tr|Q54CG1|Q54CG1_DICDI -          GCD14                PF08704.17       2.2    7.4   5.0       4.6    6.3   5.0   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0219810 PE=4 SV=1
+sp|Q55F19|CCNH_DICDI   -          GCD14                PF08704.17       2.2    7.4   7.7       3.8    6.6   7.7   1.3   1   0   0   1   1   1   0 Putative cyclin-H OS=Dictyostelium discoideum OX=44689 GN=cycH PE=3 SV=1
+tr|Q54W92|Q54W92_DICDI -          GCD14                PF08704.17       2.4    7.2   6.6         4    6.5   6.6   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0206309 PE=4 SV=1
+tr|Q550I3|Q550I3_DICDI -          GCD14                PF08704.17       2.4    7.2   6.2         4    6.5   6.2   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0217904 PE=4 SV=1
+tr|Q54BW0|Q54BW0_DICDI -          GCD14                PF08704.17       2.6    7.1   6.4       1.2    8.2   1.3   2.2   2   1   0   2   2   2   0 Uncharacterized protein (Fragment) OS=Dictyostelium discoideum OX=44689 GN=DDB0219778 PE=4 SV=1
+tr|Q55G21|Q55G21_DICDI -          GCD14                PF08704.17         3    6.9   5.2       4.9    6.2   4.7   1.6   2   0   0   2   2   2   0 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0189598 PE=4 SV=1
+sp|Q8MN60|Y9248_DICDI  -          GCD14                PF08704.17       3.4    6.7   8.5       3.8    6.6   8.5   1.0   1   0   0   1   1   1   0 Putative uncharacterized protein DDB_G0277445 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0277445 PE=3 SV=1
+tr|Q54TG7|Q54TG7_DICDI -          GCD14                PF08704.17       3.7    6.6   7.3       6.6    5.8   7.3   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0204654 PE=4 SV=1
+tr|Q54U57|Q54U57_DICDI -          GCD14                PF08704.17       4.3    6.4   9.4       5.5    6.1   9.4   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0204118 PE=4 SV=1
+sp|Q54QG7|GRLN_DICDI   -          GCD14                PF08704.17       4.5    6.4   5.9        15    4.7   5.9   1.8   1   0   0   1   1   1   0 Metabotropic glutamate receptor-like protein N OS=Dictyostelium discoideum OX=44689 GN=grlN PE=2 SV=1
+tr|Q54N67|Q54N67_DICDI -          GCD14                PF08704.17       5.7    6.0   7.8         7    5.7   7.8   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0186518 PE=4 SV=1
+sp|Q54P08|Y8649_DICDI  -          GCD14                PF08704.17         6    5.9   6.7        11    5.0   6.7   1.5   1   0   0   1   1   1   0 Putative uncharacterized transmembrane protein DDB_G0285049 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0285049 PE=4 SV=1
+sp|Q54HW2|H2AV1_DICDI  -          GCD14                PF08704.17       6.1    5.9   8.3        12    5.0   8.3   1.5   1   0   0   1   1   1   0 Histone H2A.v1 OS=Dictyostelium discoideum OX=44689 GN=H2Av1 PE=3 SV=1
+tr|Q54NM1|Q54NM1_DICDI -          GCD14                PF08704.17       6.1    5.9  13.1      0.32   10.1   5.9   2.0   2   0   0   2   2   2   0 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0186370 PE=4 SV=1
+tr|Q54GW9|Q54GW9_DICDI -          GCD14                PF08704.17       6.8    5.8   6.5        16    4.6   6.5   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0188614 PE=4 SV=1
+tr|Q7KWM0|Q7KWM0_DICDI -          GCD14                PF08704.17       6.8    5.8   7.2        11    5.1   7.2   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0217889 PE=4 SV=1
+sp|Q54QL5|Y5670_DICDI  -          GCD14                PF08704.17       6.9    5.8   9.4       6.6    5.8   9.4   1.0   1   0   0   1   1   1   0 Putative uncharacterized protein DDB_G0283779 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0283779 PE=4 SV=1
+tr|Q54TC8|Q54TC8_DICDI -          GCD14                PF08704.17       9.2    5.3  10.1       3.3    6.8   0.8   2.4   1   1   1   2   2   2   0 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0204249 PE=4 SV=1
+tr|Q54D70|Q54D70_DICDI -          GCD14                PF08704.17       9.3    5.3  16.8      0.14   11.3   4.2   2.2   2   0   0   2   2   2   0 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0184405 PE=4 SV=1
+sp|Q54FQ3|PKS29_DICDI  -          GCD14                PF08704.17       9.6    5.3   8.1        40    3.2   6.8   2.7   2   0   0   2   2   2   0 Probable polyketide synthase 29 OS=Dictyostelium discoideum OX=44689 GN=pks29 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/GCD14.hmm
+# Target file:     proteomes/Dictyostelium_discoideum.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/GCD14/Dictyostelium_discoideum.tblout --cpu 8 pfam_list/GCD14.hmm proteomes/Dictyostelium_discoideum.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:10 2025
+# [ok]

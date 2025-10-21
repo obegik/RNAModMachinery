@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A9UTS9|A9UTS9_MONBE -          Gcd10p               PF04189.19   4.5e-43  146.5   0.0   6.8e-43  145.9   0.0   1.2   1   0   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=23559 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Gcd10p.hmm
+# Target file:     proteomes/Monosiga_brevicollis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Gcd10p/Monosiga_brevicollis.tblout --cpu 8 pfam_list/Gcd10p.hmm proteomes/Monosiga_brevicollis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:33 2025
+# [ok]

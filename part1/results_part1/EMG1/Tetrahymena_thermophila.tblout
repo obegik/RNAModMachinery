@@ -1,0 +1,18 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q237J4|Q237J4_TETTS -          EMG1                 PF03587.20     2e-66  223.8   0.2   3.2e-66  223.1   0.2   1.3   1   0   0   1   1   1   1 EMG1/NEP1 methyltransferase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00322910 PE=4 SV=1
+tr|Q235G7|Q235G7_TETTS -          EMG1                 PF03587.20    0.0095   16.1   2.4        96    3.0   0.0   4.4   5   0   0   5   5   5   0 Polyubiquitin OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00077240 PE=4 SV=1
+tr|Q23NQ7|Q23NQ7_TETTS -          EMG1                 PF03587.20     0.037   14.1   0.9        72    3.4   0.0   3.5   4   0   0   4   4   4   0 Polyubiquitin OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00346490 PE=4 SV=1
+tr|I7LVH7|I7LVH7_TETTS -          EMG1                 PF03587.20     0.037   14.1   0.9        72    3.4   0.0   3.5   4   0   0   4   4   4   0 Polyubiquitin OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00346510 PE=4 SV=1
+tr|W7XJ27|W7XJ27_TETTS -          EMG1                 PF03587.20     0.045   13.9   1.1        72    3.4   0.0   3.5   4   0   0   4   4   4   0 Polyubiquitin OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000346489 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/EMG1.hmm
+# Target file:     proteomes/Tetrahymena_thermophila.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/EMG1/Tetrahymena_thermophila.tblout --cpu 8 pfam_list/EMG1.hmm proteomes/Tetrahymena_thermophila.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:36 2025
+# [ok]

@@ -1,0 +1,20 @@
+#                                                                  --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name           accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#   ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|D6RBL4|D6RBL4_HUMAN  -          MT-A70               PF05063.21   1.4e-63  216.2   1.1   4.5e-63  214.5   0.0   1.9   2   0   0   2   2   2   1 Methyltransferase-like protein 14 OS=Homo sapiens GN=METTL14 PE=2 SV=1
+sp|Q9HCE5|MET14_HUMAN   -          MT-A70               PF05063.21   3.8e-63  214.7   0.0   5.4e-63  214.2   0.0   1.2   1   0   0   1   1   1   1 Methyltransferase-like protein 14 OS=Homo sapiens GN=METTL14 PE=1 SV=2
+sp|Q86U44|MTA70_HUMAN   -          MT-A70               PF05063.21   1.6e-61  209.4   0.0   3.1e-61  208.5   0.0   1.5   1   0   0   1   1   1   1 N6-adenosine-methyltransferase 70 kDa subunit OS=Homo sapiens GN=METTL3 PE=1 SV=2
+sp|Q8N3J2|METL4_HUMAN   -          MT-A70               PF05063.21   1.8e-38  134.4   0.5   4.7e-38  133.1   0.1   1.8   2   0   0   2   2   2   1 Methyltransferase-like protein 4 OS=Homo sapiens GN=METTL4 PE=2 SV=3
+sp|Q86U44-2|MTA70_HUMAN -          MT-A70               PF05063.21   3.1e-37  130.4   0.1   4.1e-37  130.0   0.1   1.1   1   0   0   1   1   1   1 Isoform 2 of N6-adenosine-methyltransferase 70 kDa subunit OS=Homo sapiens GN=METTL3
+tr|J3KNJ7|J3KNJ7_HUMAN  -          MT-A70               PF05063.21   1.8e-24   88.9   0.5   5.7e-24   87.2   0.1   2.0   2   0   0   2   2   2   1 Methyltransferase-like protein 4 OS=Homo sapiens GN=METTL4 PE=2 SV=1
+tr|I3L3W2|I3L3W2_HUMAN  -          MT-A70               PF05063.21   1.9e-19   72.5   1.7   2.3e-19   72.2   1.7   1.0   1   0   0   1   1   1   1 Methyltransferase-like protein 4 (Fragment) OS=Homo sapiens GN=METTL4 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MT-A70.hmm
+# Target file:     proteomes/Homo_sapiens.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MT-A70/Homo_sapiens.tblout --cpu 8 pfam_list/MT-A70.hmm proteomes/Homo_sapiens.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:05:18 2025
+# [ok]

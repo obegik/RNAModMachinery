@@ -1,0 +1,19 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A4VDC3|A4VDC3_TETTS -          MafB19-deam          PF14437.13   2.2e-16   60.5   0.3   2.6e-16   60.3   0.3   1.1   1   0   0   1   1   1   1 Cytidine and deoxycytidylate deaminase zinc-binding region protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00218899 PE=4 SV=1
+tr|I7MN23|I7MN23_TETTS -          MafB19-deam          PF14437.13   6.8e-15   55.7   0.0   1.5e-14   54.5   0.0   1.6   1   0   0   1   1   1   1 Cytidine and deoxycytidylate deaminase zinc-binding region protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00498180 PE=4 SV=2
+tr|I7M9H8|I7M9H8_TETTS -          MafB19-deam          PF14437.13   3.4e-12   46.9   0.6   4.8e-12   46.5   0.6   1.2   1   0   0   1   1   1   1 Cytidine and deoxycytidylate deaminase zinc-binding region protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00564260 PE=4 SV=2
+tr|Q22TJ9|Q22TJ9_TETTS -          MafB19-deam          PF14437.13   7.3e-05   23.2   1.2   0.00014   22.3   0.2   2.1   1   1   1   2   2   2   1 Cytidine and deoxycytidylate deaminase zinc-binding region protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00170240 PE=4 SV=2
+tr|I7M6V8|I7M6V8_TETTS -          MafB19-deam          PF14437.13     0.041   14.3   4.6      0.84   10.1   0.3   3.3   3   1   0   3   3   3   0 Kinase domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00058620 PE=4 SV=2
+tr|Q22XU2|Q22XU2_TETTS -          MafB19-deam          PF14437.13      0.34   11.3   3.6       1.3    9.4   0.1   3.1   3   0   0   3   3   3   0 Kinase domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01005040 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MafB19-deam.hmm
+# Target file:     proteomes/Tetrahymena_thermophila.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MafB19-deam/Tetrahymena_thermophila.tblout --cpu 8 pfam_list/MafB19-deam.hmm proteomes/Tetrahymena_thermophila.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:09:26 2025
+# [ok]

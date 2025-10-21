@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|B8CFF4|B8CFF4_THAPS -          Methyltransf_10      PF05971.19   2.2e-39  135.0   0.0   5.7e-24   84.4   0.0   2.6   1   1   1   2   2   2   2 Methyltransferase small domain-containing protein OS=Thalassiosira pseudonana OX=35128 GN=THAPSDRAFT_11744 PE=4 SV=1
+tr|B8C6G9|B8C6G9_THAPS -          Methyltransf_10      PF05971.19    0.0043   15.8   0.0    0.0059   15.4   0.0   1.2   1   0   0   1   1   1   1 S-adenosylmethionine-dependent methyltransferase domain-containing protein (Fragment) OS=Thalassiosira pseudonana OX=35128 GN=THAPSDRAFT_35911 PE=4 SV=1
+tr|B8BU87|B8BU87_THAPS -          Methyltransf_10      PF05971.19      0.14   10.8   3.0      0.15   10.7   0.0   2.0   2   0   0   2   2   2   0 Site-specific DNA-methyltransferase (adenine-specific) OS=Thalassiosira pseudonana OX=35128 GN=THAPSDRAFT_21256 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltransf_10.hmm
+# Target file:     proteomes/Thalassiosira_pseudonana.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltransf_10/Thalassiosira_pseudonana.tblout --cpu 8 pfam_list/Methyltransf_10.hmm proteomes/Thalassiosira_pseudonana.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:12:22 2025
+# [ok]

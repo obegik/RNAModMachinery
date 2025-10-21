@@ -1,0 +1,14 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P46554|LCMT1_CAEEL -          LCM                  PF04072.21   2.8e-32  112.3   0.0   5.9e-32  111.2   0.0   1.5   1   1   0   1   1   1   1 Leucine carboxyl methyltransferase 1 OS=Caenorhabditis elegans OX=6239 GN=lcmt-1 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/LCM.hmm
+# Target file:     proteomes/Caenorhabditis_elegans.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/LCM/Caenorhabditis_elegans.tblout --cpu 8 pfam_list/LCM.hmm proteomes/Caenorhabditis_elegans.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:43 2025
+# [ok]

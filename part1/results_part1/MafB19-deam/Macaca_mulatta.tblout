@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7GAS0|F7GAS0_MACMU         -          MafB19-deam          PF14437.13   9.8e-19   67.8   0.1   1.2e-18   67.5   0.1   1.2   1   0   0   1   1   1   1 Adenosine deaminase, tRNA specific 2 OS=Macaca mulatta OX=9544 GN=ADAT2 PE=3 SV=2
+tr|A0A1D5R474|A0A1D5R474_MACMU -          MafB19-deam          PF14437.13   1.4e-15   57.5   0.0   1.7e-15   57.3   0.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=DCTD PE=4 SV=1
+tr|F6ZM52|F6ZM52_MACMU         -          MafB19-deam          PF14437.13   7.1e-13   48.8   1.0   1.4e-05   25.2   0.1   2.9   2   1   0   2   2   2   2 Cytidine and dCMP deaminase domain containing 1 OS=Macaca mulatta OX=9544 GN=CDADC1 PE=2 SV=2
+sp|Q19Q52|ABC3H_MACMU          -          MafB19-deam          PF14437.13   7.3e-05   22.9   0.0   0.00011   22.2   0.0   1.2   1   0   0   1   1   1   1 DNA dC->dU-editing enzyme APOBEC-3H OS=Macaca mulatta OX=9544 GN=APOBEC3H PE=1 SV=1
+tr|A0A1D5QZU3|A0A1D5QZU3_MACMU -          MafB19-deam          PF14437.13     0.001   19.1   0.0    0.0016   18.5   0.0   1.2   1   0   0   1   1   1   1 DNA dC->dU-editing enzyme APOBEC-3H OS=Macaca mulatta OX=9544 GN=APOBEC3H PE=4 SV=1
+tr|F6XHA6|F6XHA6_MACMU         -          MafB19-deam          PF14437.13     0.026   14.6   0.7      0.55   10.3   0.1   2.2   2   0   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=APOBEC3D PE=4 SV=2
+tr|A0A1D5QZ92|A0A1D5QZ92_MACMU -          MafB19-deam          PF14437.13      0.11   12.6   0.1      0.22   11.6   0.1   1.5   1   0   0   1   1   1   0 26S proteasome non-ATPase regulatory subunit 10 isoform 1 OS=Macaca mulatta OX=9544 GN=PSMD10 PE=2 SV=1
+tr|F7H6K4|F7H6K4_MACMU         -          MafB19-deam          PF14437.13      0.17   12.0   0.0      0.33   11.0   0.0   1.5   2   0   0   2   2   2   0 Apolipoprotein B mRNA editing enzyme catalytic subunit 2 OS=Macaca mulatta OX=9544 GN=APOBEC2 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MafB19-deam.hmm
+# Target file:     proteomes/Macaca_mulatta.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MafB19-deam/Macaca_mulatta.tblout --cpu 8 pfam_list/MafB19-deam.hmm proteomes/Macaca_mulatta.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:09:23 2025
+# [ok]

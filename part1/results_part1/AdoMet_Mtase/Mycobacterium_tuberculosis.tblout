@@ -1,0 +1,14 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P71785|Y1506_MYCTU -          AdoMet_MTase         PF07757.19     0.013   13.6   0.0      0.03   12.4   0.0   1.6   1   0   0   1   1   1   0 Putative methyltransferase Rv1506c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1506c PE=3 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/AdoMet_Mtase.hmm
+# Target file:     proteomes/Mycobacterium_tuberculosis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/AdoMet_Mtase/Mycobacterium_tuberculosis.tblout --cpu 8 pfam_list/AdoMet_Mtase.hmm proteomes/Mycobacterium_tuberculosis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:44 2025
+# [ok]

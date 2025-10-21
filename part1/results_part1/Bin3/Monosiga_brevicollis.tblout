@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A9V8B1|A9V8B1_MONBE -          Bin3                 PF06859.19   4.1e-18   65.0   0.0   8.7e-18   63.9   0.0   1.5   1   0   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=33899 PE=4 SV=1
+tr|A9UQI2|A9UQI2_MONBE -          Bin3                 PF06859.19     0.069   12.8   0.0      0.18   11.4   0.0   1.7   1   1   0   1   1   1   0 Uncharacterized protein OS=Monosiga brevicollis OX=81824 GN=21077 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Bin3.hmm
+# Target file:     proteomes/Monosiga_brevicollis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Bin3/Monosiga_brevicollis.tblout --cpu 8 pfam_list/Bin3.hmm proteomes/Monosiga_brevicollis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:54 2025
+# [ok]

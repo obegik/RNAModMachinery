@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q57W17|Q57W17_TRYB2 -          MafB19-deam          PF14437.13   1.2e-10   40.3   1.6   2.5e-09   36.1   1.6   2.2   1   1   0   1   1   1   1 Deaminase, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.8.4180 PE=1 SV=1
+tr|Q381Q7|Q381Q7_TRYB2 -          MafB19-deam          PF14437.13   2.9e-05   22.9   0.0   5.4e-05   22.0   0.0   1.4   1   0   0   1   1   1   1 Deaminase, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.01.6930 PE=1 SV=1
+tr|Q387T2|Q387T2_TRYB2 -          MafB19-deam          PF14437.13     0.049   12.4   0.0     0.092   11.6   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.61.0480 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MafB19-deam.hmm
+# Target file:     proteomes/Trypanosoma_brucei.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MafB19-deam/Trypanosoma_brucei.tblout --cpu 8 pfam_list/MafB19-deam.hmm proteomes/Trypanosoma_brucei.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:09:27 2025
+# [ok]

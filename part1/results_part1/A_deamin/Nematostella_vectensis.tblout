@@ -1,0 +1,18 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A7REZ9|A7REZ9_NEMVE -          A_deamin             PF02137.25  1.8e-109  366.6   0.0  2.2e-109  366.3   0.0   1.1   1   0   0   1   1   1   1 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g157776 PE=4 SV=1
+tr|A7SFG1|A7SFG1_NEMVE -          A_deamin             PF02137.25  4.2e-108  362.1   0.0  9.1e-108  361.0   0.0   1.5   2   0   0   2   2   2   1 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g189235 PE=4 SV=1
+tr|A7SHE8|A7SHE8_NEMVE -          A_deamin             PF02137.25   2.6e-81  274.1   0.1   1.4e-47  163.2   0.0   2.0   1   1   1   2   2   2   2 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g118368 PE=4 SV=1
+tr|A7RRA2|A7RRA2_NEMVE -          A_deamin             PF02137.25     1e-68  232.7   0.0   1.7e-68  231.9   0.0   1.4   1   1   0   1   1   1   1 Predicted protein (Fragment) OS=Nematostella vectensis OX=45351 GN=v1g90751 PE=4 SV=1
+tr|A7SWP0|A7SWP0_NEMVE -          A_deamin             PF02137.25    0.0046   16.9   0.2    0.0046   16.9   0.2   1.1   1   0   0   1   1   1   1 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g247835 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/A_deamin.hmm
+# Target file:     proteomes/Nematostella_vectensis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/A_deamin/Nematostella_vectensis.tblout --cpu 8 pfam_list/A_deamin.hmm proteomes/Nematostella_vectensis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:10 2025
+# [ok]

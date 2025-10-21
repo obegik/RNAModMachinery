@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|B3S3V1|B3S3V1_TRIAD -          Methyltransf_10      PF05971.19   2.4e-81  272.7   0.1   2.8e-81  272.5   0.1   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_28751 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltransf_10.hmm
+# Target file:     proteomes/Trichoplax_adhaerens.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltransf_10/Trichoplax_adhaerens.tblout --cpu 8 pfam_list/Methyltransf_10.hmm proteomes/Trichoplax_adhaerens.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:12:22 2025
+# [ok]

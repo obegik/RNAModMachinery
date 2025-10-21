@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|H2L057|H2L057_CAEEL -          DNA_methylase        PF00145.24    0.0015   18.2   2.8    0.0015   18.2   2.8   2.0   3   0   0   3   3   3   1 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y43H11AL.1 PE=4 SV=1
+tr|Q65XY1|Q65XY1_CAEEL -          DNA_methylase        PF00145.24      0.99    8.9   5.8       1.5    8.3   5.8   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y119C1B.3 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DNA_methylase.hmm
+# Target file:     proteomes/Caenorhabditis_elegans.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DNA_methylase/Caenorhabditis_elegans.tblout --cpu 8 pfam_list/DNA_methylase.hmm proteomes/Caenorhabditis_elegans.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:00:08 2025
+# [ok]

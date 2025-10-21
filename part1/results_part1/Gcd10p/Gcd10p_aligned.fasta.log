@@ -1,0 +1,83 @@
+IQ-TREE version 3.0.1 for MacOS ARM 64-bit built Jul  9 2025
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    QY066DPX6V.crg.es (SSE4.2, 16 GB RAM)
+Command: iqtree -s results_part1_v3/Gcd10p/Gcd10p_aligned.fasta -st AA -m JTT+F+I+G4 -nt 8 --safe --redo --fast
+Seed:    637292 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon Oct 20 22:04:39 2025
+Kernel:  Safe SSE2 - 8 threads (10 CPU cores detected)
+
+Reading alignment file results_part1_v3/Gcd10p/Gcd10p_aligned.fasta ... Fasta format detected
+Reading fasta file: done in 0.000554085 secs using 89.88% CPU
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.000683069 secs using 65.88% CPU
+Alignment has 39 sequences with 1207 columns, 866 distinct patterns
+484 parsimony-informative, 259 singleton sites, 464 constant sites
+Analyzing sequences: done in 4.29153e-05 secs using 174.8% CPU
+WARNING: 37 sequences contain more than 50% gaps/ambiguity
+Checking for duplicate sequences: done in 0.000121117 secs using 85.04% CPU
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.01 seconds
+
+NOTE: 21 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.50)
+1. Initial log-likelihood: -31361.09
+2. Current log-likelihood: -29583.95
+3. Current log-likelihood: -29477.22
+4. Current log-likelihood: -29468.50
+5. Current log-likelihood: -29466.00
+6. Current log-likelihood: -29465.24
+Optimal log-likelihood: -29465.00
+Proportion of invariable sites: 0.01
+Gamma shape alpha: 1.45
+Parameters optimization took 6 rounds (0.52 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.087889 secs using 615.3% CPU
+Computing ML distances took 0.088111 sec (of wall-clock time) 0.541013 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.000118971 secs using 96.66% CPU
+Constructing RapidNJ tree: done in 0.00587702 secs using 44.7% CPU
+Computing RapidNJ tree took 0.006059 sec (of wall-clock time) 0.002786 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -29489.311
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+
+Do NNI search on 2 best initial trees
+Optimizing NNI: done in 0.965266 secs using 183.6% CPU
+Estimate model parameters (epsilon = 0.500)
+BETTER TREE FOUND at iteration 1: -29426.125
+Optimizing NNI: done in 0.737054 secs using 182.1% CPU
+Finish initializing candidate tree set (4)
+Current best tree score: -29426.125 / CPU time: 1.801
+Number of iterations: 2
+TREE SEARCH COMPLETED AFTER 2 ITERATIONS / Time: 0h:0m:2s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.050)
+1. Initial log-likelihood: -29426.125
+Optimal log-likelihood: -29426.072
+Proportion of invariable sites: 0.013
+Gamma shape alpha: 1.396
+Parameters optimization took 1 rounds (0.070 sec)
+BEST SCORE FOUND : -29426.072
+Total tree length: 38.684
+
+Total number of iterations: 2
+CPU time used for tree search: 3.498 sec (0h:0m:3s)
+Wall-clock time used for tree search: 1.802 sec (0h:0m:1s)
+Total CPU time used: 6.493 sec (0h:0m:6s)
+Total wall-clock time used: 2.802 sec (0h:0m:2s)
+
+Analysis results written to: 
+  IQ-TREE report:                results_part1_v3/Gcd10p/Gcd10p_aligned.fasta.iqtree
+  Maximum-likelihood tree:       results_part1_v3/Gcd10p/Gcd10p_aligned.fasta.treefile
+  Likelihood distances:          results_part1_v3/Gcd10p/Gcd10p_aligned.fasta.mldist
+  Screen log file:               results_part1_v3/Gcd10p/Gcd10p_aligned.fasta.log
+
+Date and Time: Mon Oct 20 22:04:42 2025

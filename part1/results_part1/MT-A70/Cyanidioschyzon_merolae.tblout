@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|M1UPJ1|M1UPJ1_CYAM1 -          MT-A70               PF05063.21   9.3e-37  124.8   0.0   1.3e-36  124.3   0.0   1.2   1   0   0   1   1   1   1 mRNA m(6)A methyltransferase OS=Cyanidioschyzon merolae (strain NIES-3377 / 10D) OX=280699 GN=CYME_CME116C PE=3 SV=1
+tr|M1UQD8|M1UQD8_CYAM1 -          MT-A70               PF05063.21     2e-36  123.7   0.0   5.2e-36  122.3   0.0   1.7   2   0   0   2   2   2   1 Similar to (N6-adenosine)-methyltransferase OS=Cyanidioschyzon merolae (strain NIES-3377 / 10D) OX=280699 GN=CYME_CMH026C PE=3 SV=1
+tr|M1V6T6|M1V6T6_CYAM1 -          MT-A70               PF05063.21     0.031   12.4   0.1       2.6    6.1   0.1   2.5   2   0   0   2   2   2   0 Uncharacterized protein OS=Cyanidioschyzon merolae (strain NIES-3377 / 10D) OX=280699 GN=CYME_CMD131C PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MT-A70.hmm
+# Target file:     proteomes/Cyanidioschyzon_merolae.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MT-A70/Cyanidioschyzon_merolae.tblout --cpu 8 pfam_list/MT-A70.hmm proteomes/Cyanidioschyzon_merolae.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:05:17 2025
+# [ok]

@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|I7M7M0|I7M7M0_TETTS -          Gcd10p               PF04189.19   4.5e-47  161.1  11.1   4.5e-47  161.1  11.1   1.5   2   0   0   2   2   2   1 Eukaryotic initiation factor 3, gamma subunit OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00522670 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Gcd10p.hmm
+# Target file:     proteomes/Tetrahymena_thermophila.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Gcd10p/Tetrahymena_thermophila.tblout --cpu 8 pfam_list/Gcd10p.hmm proteomes/Tetrahymena_thermophila.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:35 2025
+# [ok]

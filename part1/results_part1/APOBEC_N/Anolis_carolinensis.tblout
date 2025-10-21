@@ -1,0 +1,21 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|G1KTX0|G1KTX0_ANOCA -          APOBEC_N             PF08210.18   3.6e-65  219.1   2.0   4.1e-65  218.9   2.0   1.0   1   0   0   1   1   1   1 Activation induced cytidine deaminase OS=Anolis carolinensis OX=28377 GN=AICDA PE=4 SV=2
+tr|G1KZ85|G1KZ85_ANOCA -          APOBEC_N             PF08210.18   7.7e-62  208.3   0.4   9.7e-62  208.0   0.4   1.1   1   0   0   1   1   1   1 Apolipoprotein B mRNA editing enzyme catalytic subunit 2 OS=Anolis carolinensis OX=28377 GN=APOBEC2 PE=4 SV=1
+tr|R4GDA3|R4GDA3_ANOCA -          APOBEC_N             PF08210.18   4.9e-29  101.5   0.2     6e-29  101.3   0.2   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Anolis carolinensis OX=28377 PE=4 SV=1
+tr|G1KV46|G1KV46_ANOCA -          APOBEC_N             PF08210.18   2.1e-25   89.7   0.3   2.6e-25   89.4   0.3   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Anolis carolinensis OX=28377 GN=LOC103278301 PE=4 SV=2
+tr|H9GLZ8|H9GLZ8_ANOCA -          APOBEC_N             PF08210.18     2e-22   80.0   0.3   2.8e-22   79.6   0.3   1.1   1   0   0   1   1   1   1 Apolipoprotein B mRNA editing enzyme catalytic polypeptide like 4 OS=Anolis carolinensis OX=28377 GN=APOBEC4 PE=4 SV=2
+tr|R4GBK4|R4GBK4_ANOCA -          APOBEC_N             PF08210.18     0.016   15.2   0.2     0.024   14.7   0.2   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Anolis carolinensis OX=28377 GN=adat2 PE=4 SV=1
+tr|G1KLP7|G1KLP7_ANOCA -          APOBEC_N             PF08210.18     0.018   15.1   0.1      0.03   14.4   0.1   1.3   1   0   0   1   1   1   0 Adenosine deaminase domain containing 1 OS=Anolis carolinensis OX=28377 GN=ADAD1 PE=4 SV=2
+tr|H9GK09|H9GK09_ANOCA -          APOBEC_N             PF08210.18      0.14   12.2   0.1      0.19   11.7   0.1   1.2   1   0   0   1   1   1   0 dCMP deaminase OS=Anolis carolinensis OX=28377 GN=DCTD PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/APOBEC_N.hmm
+# Target file:     proteomes/Anolis_carolinensis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/APOBEC_N/Anolis_carolinensis.tblout --cpu 8 pfam_list/APOBEC_N.hmm proteomes/Anolis_carolinensis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:58:49 2025
+# [ok]

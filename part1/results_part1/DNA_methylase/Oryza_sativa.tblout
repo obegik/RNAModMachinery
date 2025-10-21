@@ -1,0 +1,24 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|B1Q3J6|DNM1B_ORYSJ          -          DNA_methylase        PF00145.24   4.5e-49  168.9   0.0   3.6e-47  162.6   0.0   2.6   1   1   0   1   1   1   1 DNA (cytosine-5)-methyltransferase 1B OS=Oryza sativa subsp. japonica OX=39947 GN=MET1B PE=2 SV=1
+sp|Q7Y1I7|DNM1A_ORYSJ          -          DNA_methylase        PF00145.24   6.4e-47  161.8   0.0     7e-41  141.9   0.0   2.8   3   0   0   3   3   3   2 DNA (cytosine-5)-methyltransferase 1A OS=Oryza sativa subsp. japonica OX=39947 GN=MET1A PE=2 SV=1
+sp|Q5KQL9|CMT2_ORYSJ           -          DNA_methylase        PF00145.24   2.8e-40  140.0   0.0   7.1e-35  122.2   0.0   3.2   2   2   0   2   2   2   2 DNA (cytosine-5)-methyltransferase CMT2 OS=Oryza sativa subsp. japonica OX=39947 GN=CMT2 PE=2 SV=2
+sp|C0SQ89|CMT3_ORYSJ           -          DNA_methylase        PF00145.24   1.2e-38  134.6   0.0   7.1e-34  118.9   0.0   2.7   2   1   0   2   2   2   2 DNA (cytosine-5)-methyltransferase CMT3 OS=Oryza sativa subsp. japonica OX=39947 GN=CMT3 PE=2 SV=1
+sp|A0A0P0VUY4|CMT1_ORYSJ       -          DNA_methylase        PF00145.24   1.7e-37  130.9   0.0   9.3e-31  108.7   0.0   3.3   3   1   0   3   3   3   2 DNA (cytosine-5)-methyltransferase CMT1 OS=Oryza sativa subsp. japonica OX=39947 GN=CMT1 PE=3 SV=1
+tr|A0A0P0V598|A0A0P0V598_ORYSJ -          DNA_methylase        PF00145.24   2.8e-24   87.4   0.0   3.2e-24   87.2   0.0   1.0   1   0   0   1   1   1   1 Os01g0612000 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os01g0612000 PE=3 SV=1
+sp|Q10SU5|DRM2_ORYSJ           -          DNA_methylase        PF00145.24   2.2e-15   58.2   0.0   1.1e-10   42.7   0.0   2.4   2   0   0   2   2   2   2 DNA (cytosine-5)-methyltransferase DRM2 OS=Oryza sativa subsp. japonica OX=39947 GN=DRM2 PE=1 SV=1
+sp|Q2RBJ4|DRM1A_ORYSJ          -          DNA_methylase        PF00145.24   3.3e-10   41.2   0.0   4.9e-09   37.3   0.0   2.2   2   0   0   2   2   2   1 DNA (cytosine-5)-methyltransferase DRM1A OS=Oryza sativa subsp. japonica OX=39947 GN=DRM1A PE=2 SV=1
+sp|Q6AUQ7|DRM3_ORYSJ           -          DNA_methylase        PF00145.24    0.0075   17.0   0.0     0.032   14.9   0.0   2.1   3   0   0   3   3   3   1 Probable inactive DNA (cytosine-5)-methyltransferase DRM3 OS=Oryza sativa subsp. japonica OX=39947 GN=DRM3 PE=2 SV=1
+sp|Q8H4D4|TYW23_ORYSJ          -          DNA_methylase        PF00145.24      0.04   14.6   0.0     0.061   14.0   0.0   1.2   1   0   0   1   1   1   0 tRNA wybutosine-synthesizing protein 2/3/4 OS=Oryza sativa subsp. japonica OX=39947 GN=Os07g0515000 PE=2 SV=1
+tr|Q9FEB7|Q9FEB7_ORYSJ         -          DNA_methylase        PF00145.24     0.042   14.5   0.0      0.44   11.2   0.0   2.0   2   0   0   2   2   2   0 Os01g0193600 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os01g0193600 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DNA_methylase.hmm
+# Target file:     proteomes/Oryza_sativa.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DNA_methylase/Oryza_sativa.tblout --cpu 8 pfam_list/DNA_methylase.hmm proteomes/Oryza_sativa.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:00:12 2025
+# [ok]

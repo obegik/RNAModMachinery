@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|S4RXB8|S4RXB8_PETMA -          Gcd10p               PF04189.19   3.5e-42  144.1   0.2   4.3e-42  143.8   0.2   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Petromyzon marinus OX=7757 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Gcd10p.hmm
+# Target file:     proteomes/Petromyzon_marinus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Gcd10p/Petromyzon_marinus.tblout --cpu 8 pfam_list/Gcd10p.hmm proteomes/Petromyzon_marinus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:34 2025
+# [ok]

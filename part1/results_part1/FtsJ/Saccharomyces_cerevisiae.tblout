@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P25582|SPB1_YEAST -          FtsJ                 PF01728.26   2.6e-52  175.8   0.1     6e-52  174.7   0.1   1.7   1   0   0   1   1   1   1 27S pre-rRNA (guanosine(2922)-2'-O)-methyltransferase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SPB1 PE=1 SV=2
+sp|P38238|TRM7_YEAST -          FtsJ                 PF01728.26     5e-52  174.9   0.0   6.3e-52  174.6   0.0   1.1   1   0   0   1   1   1   1 tRNA (cytidine(32)/guanosine(34)-2'-O)-methyltransferase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TRM7 PE=1 SV=1
+sp|P53123|MRM2_YEAST -          FtsJ                 PF01728.26   2.2e-46  156.5   0.0   6.5e-46  155.0   0.0   1.7   1   1   0   1   1   1   1 rRNA methyltransferase 2, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=MRM2 PE=1 SV=1
+sp|P38074|HMT1_YEAST -          FtsJ                 PF01728.26   6.4e-06   24.7   0.0   1.9e-05   23.1   0.0   1.7   2   0   0   2   2   2   1 Protein arginine N-methyltransferase 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=HMT1 PE=1 SV=1
+sp|P15646|FBRL_YEAST -          FtsJ                 PF01728.26    0.0021   16.5   0.0    0.0027   16.1   0.0   1.2   1   0   0   1   1   1   1 rRNA 2'-O-methyltransferase fibrillarin OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NOP1 PE=1 SV=1
+sp|P38205|NCL1_YEAST -          FtsJ                 PF01728.26    0.0045   15.4   0.0      0.01   14.2   0.0   1.6   1   0   0   1   1   1   1 Multisite-specific tRNA:(cytosine-C(5))-methyltransferase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NCL1 PE=1 SV=1
+sp|P40991|NOP2_YEAST -          FtsJ                 PF01728.26    0.0054   15.1   0.2     0.017   13.5   0.0   2.0   2   0   0   2   2   2   1 25S rRNA (cytosine(2870)-C(5))-methyltransferase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NOP2 PE=1 SV=1
+sp|P25087|ERG6_YEAST -          FtsJ                 PF01728.26    0.0087   14.4   0.0     0.023   13.1   0.0   1.5   1   1   0   1   1   1   1 Sterol 24-C-methyltransferase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=ERG6 PE=1 SV=4
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/FtsJ.hmm
+# Target file:     proteomes/Saccharomyces_cerevisiae.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/FtsJ/Saccharomyces_cerevisiae.tblout --cpu 8 pfam_list/FtsJ.hmm proteomes/Saccharomyces_cerevisiae.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:58 2025
+# [ok]

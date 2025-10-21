@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1D5RB84|A0A1D5RB84_MACMU -          AdoMet_MTase         PF07757.19     0.047   14.1   0.2      0.23   11.9   0.0   1.9   2   0   0   2   2   2   0 Family with sequence similarity 173 member B OS=Macaca mulatta OX=9544 GN=FAM173B PE=4 SV=1
+tr|F6V6X0|F6V6X0_MACMU         -          AdoMet_MTase         PF07757.19     0.088   13.3   0.0      0.16   12.4   0.0   1.5   1   0   0   1   1   1   0 Methyltransferase like 5 OS=Macaca mulatta OX=9544 GN=METTL5 PE=4 SV=1
+tr|A0A1D5Q4C9|A0A1D5Q4C9_MACMU -          AdoMet_MTase         PF07757.19      0.17   12.3   0.0      0.31   11.5   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=BUD23 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/AdoMet_Mtase.hmm
+# Target file:     proteomes/Macaca_mulatta.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/AdoMet_Mtase/Macaca_mulatta.tblout --cpu 8 pfam_list/AdoMet_Mtase.hmm proteomes/Macaca_mulatta.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:44 2025
+# [ok]

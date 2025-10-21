@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|P72601|P72601_SYNY3 -          AdoMet_MTase         PF07757.19     0.018   13.0   0.0     0.045   11.7   0.0   1.7   1   0   0   1   1   1   0 Sll1407 protein OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=sll1407 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/AdoMet_Mtase.hmm
+# Target file:     proteomes/Synechocystis_sp.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/AdoMet_Mtase/Synechocystis_sp.tblout --cpu 8 pfam_list/AdoMet_Mtase.hmm proteomes/Synechocystis_sp.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:45 2025
+# [ok]

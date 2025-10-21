@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3CVA4|A0A2K3CVA4_CHLRE -          LCM                  PF04072.21   1.4e-34  119.6   2.0   4.2e-28   98.5   0.0   3.5   2   1   0   3   3   3   2 S-adenosyl-L-methionine-dependent methyltransferase OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_16g677600v5 PE=4 SV=1
+tr|A0A2K3CRI0|A0A2K3CRI0_CHLRE -          LCM                  PF04072.21   9.2e-34  116.9   0.0   1.3e-33  116.5   0.0   1.2   1   0   0   1   1   1   1 S-adenosyl-L-methionine-dependent methyltransferase OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_17g737650v5 PE=3 SV=1
+tr|A0A2K3D8H7|A0A2K3D8H7_CHLRE -          LCM                  PF04072.21   1.4e-27   96.7   0.0   5.6e-26   91.6   0.0   2.6   2   1   0   2   2   2   1 S-adenosyl-L-methionine-dependent methyltransferase OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_11g478300v5 PE=3 SV=1
+tr|A0A2K3CT69|A0A2K3CT69_CHLRE -          LCM                  PF04072.21   1.8e-27   96.4   0.1   4.7e-27   95.1   0.1   1.6   1   1   0   1   1   1   1 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_16g655900v5 PE=4 SV=1
+tr|A0A2K3E8E0|A0A2K3E8E0_CHLRE -          LCM                  PF04072.21   5.7e-26   91.5   0.1   7.7e-26   91.1   0.1   1.2   1   0   0   1   1   1   1 S-adenosyl-L-methionine-dependent methyltransferase OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_01g055469v5 PE=3 SV=1
+tr|A0A2K3D819|A0A2K3D819_CHLRE -          LCM                  PF04072.21   6.4e-23   81.6   0.1   1.2e-14   54.6   0.1   2.7   2   1   0   2   2   2   2 S-adenosyl-L-methionine-dependent methyltransferase OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_11g467450v5 PE=4 SV=1
+tr|A0A2K3DUV7|A0A2K3DUV7_CHLRE -          LCM                  PF04072.21   3.7e-20   72.6   0.3   6.4e-19   68.6   0.3   2.4   1   1   0   1   1   1   1 [phosphatase 2A protein]-leucine-carboxy methyltransferase OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_04g229350v5 PE=3 SV=1
+tr|A0A2K3DDU2|A0A2K3DDU2_CHLRE -          LCM                  PF04072.21   3.8e-08   33.4   0.1   6.5e-07   29.4   0.1   2.7   1   1   0   1   1   1   1 Rhodanese domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_09g387282v5 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/LCM.hmm
+# Target file:     proteomes/Chlamydomonas_reinhardtii.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/LCM/Chlamydomonas_reinhardtii.tblout --cpu 8 pfam_list/LCM.hmm proteomes/Chlamydomonas_reinhardtii.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:43 2025
+# [ok]

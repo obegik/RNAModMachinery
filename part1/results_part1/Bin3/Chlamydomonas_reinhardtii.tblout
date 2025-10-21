@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3CWH8|A0A2K3CWH8_CHLRE -          Bin3                 PF06859.19   3.3e-33  114.5   0.0   5.2e-33  113.8   0.0   1.3   1   0   0   1   1   1   1 RNA methyltransferase OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_15g636450v5 PE=3 SV=1
+tr|A8JBY3|A8JBY3_CHLRE         -          Bin3                 PF06859.19    0.0081   16.7   0.0     0.016   15.7   0.0   1.5   1   0   0   1   1   1   1 Methyltransferase domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_11g467740v5 PE=4 SV=1
+tr|A8IYB8|A8IYB8_CHLRE         -          Bin3                 PF06859.19     0.033   14.7   0.0     0.085   13.4   0.0   1.7   2   0   0   2   2   2   0 Methyltransferase type 11 domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g547100v5 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Bin3.hmm
+# Target file:     proteomes/Chlamydomonas_reinhardtii.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Bin3/Chlamydomonas_reinhardtii.tblout --cpu 8 pfam_list/Bin3.hmm proteomes/Chlamydomonas_reinhardtii.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:52 2025
+# [ok]

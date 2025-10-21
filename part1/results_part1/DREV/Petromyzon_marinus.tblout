@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|S4R939|S4R939_PETMA -          DREV                 PF05219.18   1.9e-74  249.7   0.0   2.4e-74  249.4   0.0   1.1   1   0   0   1   1   1   1 Methyltransferase like 9 OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4R4I3|S4R4I3_PETMA -          DREV                 PF05219.18   0.00068   18.4   0.3     0.036   12.8   0.0   2.5   3   0   0   3   3   3   2 Phosphoethanolamine methyltransferase OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RW71|S4RW71_PETMA -          DREV                 PF05219.18      0.15   10.8   0.0      0.23   10.1   0.0   1.2   1   0   0   1   1   1   0 Protein arginine methyltransferase 2 OS=Petromyzon marinus OX=7757 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DREV.hmm
+# Target file:     proteomes/Petromyzon_marinus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DREV/Petromyzon_marinus.tblout --cpu 8 pfam_list/DREV.hmm proteomes/Petromyzon_marinus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:24 2025
+# [ok]

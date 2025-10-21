@@ -1,0 +1,17 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|I7MFA3|I7MFA3_TETTS -          Fibrillarin          PF01269.24  6.1e-107  356.5   0.0  6.8e-107  356.3   0.0   1.0   1   0   0   1   1   1   1 rRNA 2'-O-methyltransferase fibrillarin OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00138080 PE=3 SV=1
+tr|I7M457|I7M457_TETTS -          Fibrillarin          PF01269.24    0.0017   18.1   0.0    0.0047   16.6   0.0   1.8   1   1   0   1   1   1   1 NOL1/NOP2/sun family protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00685920 PE=3 SV=1
+tr|Q23UC8|Q23UC8_TETTS -          Fibrillarin          PF01269.24    0.0027   17.4   0.0    0.0085   15.8   0.0   1.7   1   1   0   1   1   1   1 tRNA (adenine(58)-N(1))-methyltransferase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00797980 PE=3 SV=3
+tr|Q22CK0|Q22CK0_TETTS -          Fibrillarin          PF01269.24     0.091   12.5   0.0     0.091   12.5   0.0   1.0   1   0   0   1   1   1   0 40S ribosomal protein S27 OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01043090 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Fibrillarin.hmm
+# Target file:     proteomes/Tetrahymena_thermophila.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Fibrillarin/Tetrahymena_thermophila.tblout --cpu 8 pfam_list/Fibrillarin.hmm proteomes/Tetrahymena_thermophila.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:44 2025
+# [ok]

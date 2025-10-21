@@ -1,0 +1,88 @@
+IQ-TREE version 3.0.1 for MacOS ARM 64-bit built Jul  9 2025
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    QY066DPX6V.crg.es (SSE4.2, 16 GB RAM)
+Command: iqtree -s results_part1_v3/Bin3/Bin3_aligned.fasta -st AA -m JTT+F+I+G4 -nt 8 --safe --redo --fast
+Seed:    780195 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon Oct 20 22:00:02 2025
+Kernel:  Safe SSE2 - 8 threads (10 CPU cores detected)
+
+Reading alignment file results_part1_v3/Bin3/Bin3_aligned.fasta ... Fasta format detected
+Reading fasta file: done in 0.00124788 secs using 89.11% CPU
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.00135994 secs using 68.02% CPU
+Alignment has 51 sequences with 2215 columns, 1578 distinct patterns
+625 parsimony-informative, 792 singleton sites, 798 constant sites
+Analyzing sequences: done in 9.58443e-05 secs using 186.8% CPU
+WARNING: 50 sequences contain more than 50% gaps/ambiguity
+Checking for duplicate sequences: done in 0.0002141 secs using 91.08% CPU
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.01 seconds
+
+NOTE: 50 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.50)
+1. Initial log-likelihood: -42872.34
+2. Current log-likelihood: -37602.49
+3. Current log-likelihood: -37518.25
+4. Current log-likelihood: -37503.39
+5. Current log-likelihood: -37497.02
+6. Current log-likelihood: -37494.24
+7. Current log-likelihood: -37493.02
+8. Current log-likelihood: -37492.49
+Optimal log-likelihood: -37492.25
+Proportion of invariable sites: 0.01
+Gamma shape alpha: 1.18
+Parameters optimization took 8 rounds (1.11 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.150572 secs using 666.1% CPU
+Computing ML distances took 0.150845 sec (of wall-clock time) 1.003287 sec (of CPU time)
+WARNING: Some pairwise ML distances are too long (saturated)
+Setting up auxiliary I and S matrices: done in 0.000133991 secs using 166.4% CPU
+Constructing RapidNJ tree: done in 0.0060401 secs using 51.72% CPU
+Computing RapidNJ tree took 0.006244 sec (of wall-clock time) 0.003393 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -37496.004
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+
+Do NNI search on 2 best initial trees
+Optimizing NNI: done in 1.35174 secs using 215.2% CPU
+Estimate model parameters (epsilon = 0.500)
+BETTER TREE FOUND at iteration 1: -37393.484
+Optimizing NNI: done in 1.29821 secs using 229.8% CPU
+Estimate model parameters (epsilon = 0.500)
+BETTER TREE FOUND at iteration 2: -37388.574
+Finish initializing candidate tree set (4)
+Current best tree score: -37388.574 / CPU time: 2.949
+Number of iterations: 2
+TREE SEARCH COMPLETED AFTER 2 ITERATIONS / Time: 0h:0m:4s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.050)
+1. Initial log-likelihood: -37388.574
+Optimal log-likelihood: -37388.552
+Proportion of invariable sites: 0.009
+Gamma shape alpha: 1.171
+Parameters optimization took 1 rounds (0.121 sec)
+BEST SCORE FOUND : -37388.552
+Total tree length: 49.206
+
+Total number of iterations: 2
+CPU time used for tree search: 6.965 sec (0h:0m:6s)
+Wall-clock time used for tree search: 2.949 sec (0h:0m:2s)
+Total CPU time used: 14.090 sec (0h:0m:14s)
+Total wall-clock time used: 4.926 sec (0h:0m:4s)
+
+Analysis results written to: 
+  IQ-TREE report:                results_part1_v3/Bin3/Bin3_aligned.fasta.iqtree
+  Maximum-likelihood tree:       results_part1_v3/Bin3/Bin3_aligned.fasta.treefile
+  Likelihood distances:          results_part1_v3/Bin3/Bin3_aligned.fasta.mldist
+  Screen log file:               results_part1_v3/Bin3/Bin3_aligned.fasta.log
+
+Date and Time: Mon Oct 20 22:00:07 2025

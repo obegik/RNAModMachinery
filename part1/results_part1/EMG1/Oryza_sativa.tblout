@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q6K882|Q6K882_ORYSJ         -          EMG1                 PF03587.20   5.8e-69  232.8   0.0   6.9e-69  232.5   0.0   1.0   1   0   0   1   1   1   1 Os02g0290400 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os02g0290400 PE=1 SV=1
+tr|A0A0P0WKS6|A0A0P0WKS6_ORYSJ -          EMG1                 PF03587.20      0.55   11.0   0.0      0.65   10.8   0.0   1.1   1   0   0   1   1   1   0 Os05g0328300 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os05g0328300 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/EMG1.hmm
+# Target file:     proteomes/Oryza_sativa.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/EMG1/Oryza_sativa.tblout --cpu 8 pfam_list/EMG1.hmm proteomes/Oryza_sativa.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:34 2025
+# [ok]

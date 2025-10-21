@@ -1,0 +1,15 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9NII1|ADAR_DROME  -          A_deamin             PF02137.25  1.1e-108  363.2   0.0  1.5e-108  362.8   0.0   1.2   1   0   0   1   1   1   1 Double-stranded RNA-specific editase Adar OS=Drosophila melanogaster OX=7227 GN=Adar PE=1 SV=2
+sp|Q9V3R6|ADAT1_DROME -          A_deamin             PF02137.25   4.2e-90  302.2   0.0   4.9e-90  301.9   0.0   1.0   1   0   0   1   1   1   1 tRNA-specific adenosine deaminase 1 OS=Drosophila melanogaster OX=7227 GN=Adat1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/A_deamin.hmm
+# Target file:     proteomes/Drosophila_melanogaster.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/A_deamin/Drosophila_melanogaster.tblout --cpu 8 pfam_list/A_deamin.hmm proteomes/Drosophila_melanogaster.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:08 2025
+# [ok]

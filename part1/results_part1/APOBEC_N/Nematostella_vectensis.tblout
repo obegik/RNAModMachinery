@@ -1,0 +1,23 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A7T1Z8|A7T1Z8_NEMVE -          APOBEC_N             PF08210.18   3.5e-07   30.8   0.3   4.7e-07   30.4   0.3   1.2   1   0   0   1   1   1   1 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g248558 PE=4 SV=1
+tr|A7SRQ4|A7SRQ4_NEMVE -          APOBEC_N             PF08210.18   4.4e-06   27.2   0.2   5.6e-06   26.9   0.2   1.2   1   0   0   1   1   1   1 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g246982 PE=4 SV=1
+tr|A7SN78|A7SN78_NEMVE -          APOBEC_N             PF08210.18   6.5e-06   26.7   0.7   0.00018   22.0   0.7   2.1   1   1   0   1   1   1   1 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g246327 PE=4 SV=1
+tr|A7RT49|A7RT49_NEMVE -          APOBEC_N             PF08210.18   6.1e-05   23.5   0.1     0.036   14.5   0.0   2.4   2   0   0   2   2   2   2 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g201752 PE=4 SV=1
+tr|A7SGR7|A7SGR7_NEMVE -          APOBEC_N             PF08210.18    0.0029   18.1   0.0       2.8    8.3   0.0   2.4   2   0   0   2   2   2   2 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g212049 PE=4 SV=1
+tr|A7RLD8|A7RLD8_NEMVE -          APOBEC_N             PF08210.18    0.0037   17.7   0.7       0.9   10.0   0.1   2.3   2   0   0   2   2   2   2 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g198805 PE=4 SV=1
+tr|A7S8C7|A7S8C7_NEMVE -          APOBEC_N             PF08210.18     0.043   14.2   0.1     0.067   13.6   0.1   1.4   1   0   0   1   1   1   0 Sulfhydryl oxidase OS=Nematostella vectensis OX=45351 GN=v1g108683 PE=4 SV=1
+tr|A7S6X9|A7S6X9_NEMVE -          APOBEC_N             PF08210.18      0.13   12.7   0.1      0.19   12.2   0.1   1.2   1   0   0   1   1   1   0 Predicted protein (Fragment) OS=Nematostella vectensis OX=45351 GN=v1g106903 PE=4 SV=1
+tr|A7SGH8|A7SGH8_NEMVE -          APOBEC_N             PF08210.18      0.16   12.4   0.0      0.23   11.9   0.0   1.3   1   0   0   1   1   1   0 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g233184 PE=4 SV=1
+tr|A7S1Z2|A7S1Z2_NEMVE -          APOBEC_N             PF08210.18      0.17   12.3   0.3      0.21   12.0   0.3   1.1   1   0   0   1   1   1   0 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g101232 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/APOBEC_N.hmm
+# Target file:     proteomes/Nematostella_vectensis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/APOBEC_N/Nematostella_vectensis.tblout --cpu 8 pfam_list/APOBEC_N.hmm proteomes/Nematostella_vectensis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:58:52 2025
+# [ok]

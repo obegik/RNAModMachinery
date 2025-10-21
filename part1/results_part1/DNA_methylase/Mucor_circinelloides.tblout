@@ -1,0 +1,18 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|S2JMX7|S2JMX7_MUCC1 -          DNA_methylase        PF00145.24     3e-38  131.5   0.0   3.5e-38  131.2   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Mucor circinelloides f. circinelloides (strain 1006PhL) OX=1220926 GN=HMPREF1544_12169 PE=3 SV=1
+tr|S2JA69|S2JA69_MUCC1 -          DNA_methylase        PF00145.24   2.3e-32  112.1   0.1   1.3e-31  109.7   0.2   1.8   2   0   0   2   2   2   1 Uncharacterized protein OS=Mucor circinelloides f. circinelloides (strain 1006PhL) OX=1220926 GN=HMPREF1544_06638 PE=3 SV=1
+tr|S2JMY6|S2JMY6_MUCC1 -          DNA_methylase        PF00145.24     0.001   18.0   1.7    0.0013   17.7   1.7   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Mucor circinelloides f. circinelloides (strain 1006PhL) OX=1220926 GN=HMPREF1544_12162 PE=4 SV=1
+tr|S2KGT4|S2KGT4_MUCC1 -          DNA_methylase        PF00145.24     0.036   12.9   0.0     0.066   12.0   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Mucor circinelloides f. circinelloides (strain 1006PhL) OX=1220926 GN=HMPREF1544_01537 PE=4 SV=1
+tr|S2IUI1|S2IUI1_MUCC1 -          DNA_methylase        PF00145.24     0.069   12.0   0.1     0.078   11.8   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein (Fragment) OS=Mucor circinelloides f. circinelloides (strain 1006PhL) OX=1220926 GN=HMPREF1544_12374 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DNA_methylase.hmm
+# Target file:     proteomes/Mucor_circinelloides.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DNA_methylase/Mucor_circinelloides.tblout --cpu 8 pfam_list/DNA_methylase.hmm proteomes/Mucor_circinelloides.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:00:11 2025
+# [ok]

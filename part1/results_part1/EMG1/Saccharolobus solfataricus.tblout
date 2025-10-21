@@ -1,0 +1,14 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q97WJ0|NEP1_SACS2 -          EMG1                 PF03587.20   2.9e-59  197.3   0.2   3.2e-59  197.2   0.2   1.0   1   0   0   1   1   1   1 Ribosomal RNA small subunit methyltransferase Nep1 OS=Saccharolobus solfataricus (strain ATCC 35092 / DSM 1617 / JCM 11322 / P2) OX=273057 GN=nep1 PE=3 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/EMG1.hmm
+# Target file:     proteomes/Saccharolobus solfataricus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/EMG1/Saccharolobus solfataricus.tblout --cpu 8 pfam_list/EMG1.hmm proteomes/Saccharolobus solfataricus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:35 2025
+# [ok]

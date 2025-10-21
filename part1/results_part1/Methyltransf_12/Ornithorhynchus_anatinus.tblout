@@ -1,0 +1,56 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6ZQ80|F6ZQ80_ORNAN -          Methyltransf_12      PF08242.19   2.4e-15   57.3   0.0   1.5e-14   54.8   0.0   2.1   2   1   0   2   2   2   1 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 GN=LOC100076547 PE=4 SV=2
+tr|F7C4G1|F7C4G1_ORNAN -          Methyltransf_12      PF08242.19   3.6e-15   56.7   0.1   1.1e-13   52.0   0.0   2.2   2   0   0   2   2   2   1 Methyltransferase-like protein OS=Ornithorhynchus anatinus OX=9258 GN=METTL6 PE=3 SV=1
+tr|F7D2J5|F7D2J5_ORNAN -          Methyltransf_12      PF08242.19   4.7e-15   56.4   0.1   8.4e-15   55.6   0.1   1.4   1   0   0   1   1   1   1 Ubiquinone biosynthesis O-methyltransferase, mitochondrial OS=Ornithorhynchus anatinus OX=9258 GN=COQ3 PE=3 SV=2
+tr|F6QF05|F6QF05_ORNAN -          Methyltransf_12      PF08242.19   1.4e-14   54.8   0.1     5e-14   53.1   0.0   2.0   2   1   1   3   3   1   1 Methyltransferase-like protein OS=Ornithorhynchus anatinus OX=9258 GN=LOC100088601 PE=3 SV=2
+tr|F7D0U5|F7D0U5_ORNAN -          Methyltransf_12      PF08242.19   4.3e-13   50.1   0.0   7.6e-13   49.3   0.0   1.4   1   0   0   1   1   1   1 Arsenite methyltransferase OS=Ornithorhynchus anatinus OX=9258 GN=AS3MT PE=4 SV=2
+tr|F6RB43|F6RB43_ORNAN -          Methyltransf_12      PF08242.19   4.9e-13   49.9   0.0   7.7e-13   49.3   0.0   1.3   1   0   0   1   1   1   1 NADH:ubiquinone oxidoreductase complex assembly factor 5 OS=Ornithorhynchus anatinus OX=9258 GN=NDUFAF5 PE=4 SV=1
+tr|F6PIF6|F6PIF6_ORNAN -          Methyltransf_12      PF08242.19   1.8e-12   48.1   0.1   4.6e-12   46.8   0.0   1.8   2   0   0   2   2   1   1 Methyltransferase-like protein OS=Ornithorhynchus anatinus OX=9258 GN=METTL8 PE=3 SV=1
+tr|F7ALK5|F7ALK5_ORNAN -          Methyltransf_12      PF08242.19   2.9e-10   41.0   0.0   5.4e-10   40.1   0.0   1.5   1   0   0   1   1   1   1 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 PE=4 SV=2
+tr|F7CZD8|F7CZD8_ORNAN -          Methyltransf_12      PF08242.19     1e-09   39.3   0.0   2.7e-08   34.7   0.0   2.4   1   1   1   2   2   2   1 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial OS=Ornithorhynchus anatinus OX=9258 GN=COQ5 PE=3 SV=1
+tr|F6RBT8|F6RBT8_ORNAN -          Methyltransf_12      PF08242.19   1.1e-09   39.2   0.0   0.00011   23.1   0.0   3.2   3   0   0   3   3   3   2 Methyltransferase like 13 OS=Ornithorhynchus anatinus OX=9258 GN=METTL13 PE=4 SV=1
+tr|F6RR08|F6RR08_ORNAN -          Methyltransf_12      PF08242.19   3.7e-09   37.5   0.0   6.2e-09   36.7   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 PE=4 SV=1
+tr|F6SFX6|F6SFX6_ORNAN -          Methyltransf_12      PF08242.19   2.4e-07   31.6   0.3     6e-07   30.4   0.1   1.9   2   0   0   2   2   1   1 AlkB homolog 8, tRNA methyltransferase OS=Ornithorhynchus anatinus OX=9258 GN=ALKBH8 PE=4 SV=2
+tr|F6PJP3|F6PJP3_ORNAN -          Methyltransf_12      PF08242.19   2.8e-06   28.2   0.0   4.8e-06   27.5   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 PE=4 SV=2
+tr|F7F4Q5|F7F4Q5_ORNAN -          Methyltransf_12      PF08242.19   5.5e-06   27.3   0.0   1.5e-05   25.9   0.0   1.8   2   0   0   2   2   1   1 Histamine N-methyltransferase OS=Ornithorhynchus anatinus OX=9258 GN=HNMT PE=4 SV=2
+tr|F6REM3|F6REM3_ORNAN -          Methyltransf_12      PF08242.19   6.2e-06   27.1   0.0   1.5e-05   25.8   0.0   1.7   1   0   0   1   1   1   1 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 PE=4 SV=1
+tr|F7G0W8|F7G0W8_ORNAN -          Methyltransf_12      PF08242.19   6.6e-06   27.0   0.0     1e-05   26.4   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 PE=4 SV=1
+tr|F6S1N7|F6S1N7_ORNAN -          Methyltransf_12      PF08242.19     7e-06   27.0   0.0   0.00012   23.0   0.0   2.1   1   1   1   2   2   2   1 BCDIN3 domain containing RNA methyltransferase OS=Ornithorhynchus anatinus OX=9258 GN=BCDIN3D PE=4 SV=2
+tr|F6VXP3|F6VXP3_ORNAN -          Methyltransf_12      PF08242.19   9.9e-06   26.5   0.0   2.9e-05   25.0   0.0   1.9   1   1   0   1   1   1   1 mRNA cap guanine-N7 methyltransferase OS=Ornithorhynchus anatinus OX=9258 GN=RNMT PE=3 SV=1
+tr|F7F8D3|F7F8D3_ORNAN -          Methyltransf_12      PF08242.19   1.3e-05   26.1   0.0   4.7e-05   24.3   0.0   2.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 PE=4 SV=1
+tr|F7DN03|F7DN03_ORNAN -          Methyltransf_12      PF08242.19   2.5e-05   25.2   0.0   7.1e-05   23.7   0.0   1.8   2   0   0   2   2   1   1 Protein arginine methyltransferase 2 OS=Ornithorhynchus anatinus OX=9258 GN=PRMT2 PE=3 SV=2
+tr|F6WPW7|F6WPW7_ORNAN -          Methyltransf_12      PF08242.19   2.6e-05   25.1   0.0   5.9e-05   24.0   0.0   1.6   1   0   0   1   1   1   1 Methyltransferase like 11B OS=Ornithorhynchus anatinus OX=9258 GN=METTL11B PE=4 SV=1
+tr|F6ZHP4|F6ZHP4_ORNAN -          Methyltransf_12      PF08242.19   5.8e-05   24.0   0.0   0.00012   23.0   0.0   1.5   1   0   0   1   1   1   1 Acetylserotonin O-methyltransferase OS=Ornithorhynchus anatinus OX=9258 GN=ASMT PE=4 SV=2
+tr|F6R9A4|F6R9A4_ORNAN -          Methyltransf_12      PF08242.19   5.9e-05   24.0   0.0   0.00016   22.6   0.0   1.7   2   0   0   2   2   1   1 Methyltransferase like 5 OS=Ornithorhynchus anatinus OX=9258 GN=METTL5 PE=4 SV=1
+tr|F7DFT6|F7DFT6_ORNAN -          Methyltransf_12      PF08242.19   0.00015   22.7   0.1   0.00057   20.8   0.0   2.0   2   0   0   2   2   1   1 Protein arginine methyltransferase 3 OS=Ornithorhynchus anatinus OX=9258 GN=PRMT3 PE=3 SV=2
+tr|F7FS45|F7FS45_ORNAN -          Methyltransf_12      PF08242.19   0.00029   21.8   0.0    0.0013   19.7   0.0   2.2   2   1   0   2   2   1   1 Acetylserotonin O-methyltransferase like OS=Ornithorhynchus anatinus OX=9258 GN=ASMTL PE=3 SV=2
+tr|F6SVR4|F6SVR4_ORNAN -          Methyltransf_12      PF08242.19   0.00047   21.1   0.0   0.00089   20.2   0.0   1.5   1   0   0   1   1   1   1 Phenylethanolamine N-methyltransferase OS=Ornithorhynchus anatinus OX=9258 GN=PNMT PE=4 SV=1
+tr|F7EXM1|F7EXM1_ORNAN -          Methyltransf_12      PF08242.19    0.0005   21.0   0.0    0.0011   19.9   0.0   1.6   1   0   0   1   1   1   1 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 PE=4 SV=1
+tr|F6ZAJ2|F6ZAJ2_ORNAN -          Methyltransf_12      PF08242.19   0.00066   20.6   0.0    0.0016   19.4   0.0   1.6   1   0   0   1   1   1   1 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 PE=4 SV=1
+tr|K7EHB8|K7EHB8_ORNAN -          Methyltransf_12      PF08242.19    0.0011   19.9   0.0    0.0017   19.3   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 PE=4 SV=1
+tr|F7GEX8|F7GEX8_ORNAN -          Methyltransf_12      PF08242.19    0.0014   19.6   0.1    0.0037   18.2   0.1   1.8   1   1   0   1   1   1   1 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 GN=LOC100082766 PE=4 SV=1
+tr|F6RDG7|F6RDG7_ORNAN -          Methyltransf_12      PF08242.19    0.0015   19.4   0.1    0.0029   18.6   0.1   1.5   1   0   0   1   1   1   1 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 PE=4 SV=1
+tr|F6YXL2|F6YXL2_ORNAN -          Methyltransf_12      PF08242.19    0.0041   18.1   0.1      0.02   15.8   0.0   2.3   2   0   0   2   2   1   1 Trimethylguanosine synthase 1 OS=Ornithorhynchus anatinus OX=9258 GN=TGS1 PE=4 SV=2
+tr|F7C6N0|F7C6N0_ORNAN -          Methyltransf_12      PF08242.19    0.0081   17.1   0.0     0.014   16.3   0.0   1.4   1   0   0   1   1   1   1 Protein arginine methyltransferase 8 OS=Ornithorhynchus anatinus OX=9258 GN=PRMT8 PE=3 SV=2
+tr|F7FMN0|F7FMN0_ORNAN -          Methyltransf_12      PF08242.19     0.011   16.7   0.0     0.055   14.4   0.0   2.1   2   0   0   2   2   2   0 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 GN=PCMTD2 PE=4 SV=2
+tr|F6UXT8|F6UXT8_ORNAN -          Methyltransf_12      PF08242.19     0.013   16.5   0.0      0.17   12.9   0.0   2.2   1   1   1   2   2   2   0 Nicotinamide N-methyltransferase OS=Ornithorhynchus anatinus OX=9258 GN=NNMT PE=4 SV=1
+tr|F6UXS5|F6UXS5_ORNAN -          Methyltransf_12      PF08242.19     0.017   16.1   0.0      0.33   12.0   0.0   2.2   1   1   1   2   2   2   0 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 PE=4 SV=2
+tr|F7BAI5|F7BAI5_ORNAN -          Methyltransf_12      PF08242.19     0.023   15.6   0.1       2.3    9.2   0.0   3.1   3   0   0   3   3   3   0 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 GN=METTL15 PE=3 SV=1
+tr|F6VIV0|F6VIV0_ORNAN -          Methyltransf_12      PF08242.19     0.027   15.5   0.0       1.7    9.7   0.0   2.6   2   0   0   2   2   2   0 Protein arginine methyltransferase 9 OS=Ornithorhynchus anatinus OX=9258 GN=PRMT9 PE=3 SV=2
+tr|F7DK97|F7DK97_ORNAN -          Methyltransf_12      PF08242.19     0.031   15.2   0.0     0.071   14.1   0.0   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 PE=4 SV=2
+tr|K7EI91|K7EI91_ORNAN -          Methyltransf_12      PF08242.19       0.1   13.6   0.0      0.14   13.1   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 PE=4 SV=1
+tr|F7CKF0|F7CKF0_ORNAN -          Methyltransf_12      PF08242.19      0.16   13.0   0.0      0.37   11.8   0.0   1.6   1   0   0   1   1   1   0 Protein-L-isoaspartate (D-aspartate) O-methyltransferase domain containing 1 OS=Ornithorhynchus anatinus OX=9258 GN=PCMTD1 PE=4 SV=1
+tr|F7CTJ5|F7CTJ5_ORNAN -          Methyltransf_12      PF08242.19      0.19   12.7   0.0      0.38   11.8   0.0   1.5   1   1   0   1   1   1   0 Methyltransferase like 21C OS=Ornithorhynchus anatinus OX=9258 GN=METTL21C PE=4 SV=1
+tr|F6UKD6|F6UKD6_ORNAN -          Methyltransf_12      PF08242.19      0.19   12.7   0.0      0.37   11.8   0.0   1.5   1   0   0   1   1   1   0 tRNA (guanine-N(7)-)-methyltransferase OS=Ornithorhynchus anatinus OX=9258 GN=METTL1 PE=3 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltransf_12.hmm
+# Target file:     proteomes/Ornithorhynchus_anatinus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltransf_12/Ornithorhynchus_anatinus.tblout --cpu 8 pfam_list/Methyltransf_12.hmm proteomes/Ornithorhynchus_anatinus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 23:27:17 2025
+# [ok]

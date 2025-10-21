@@ -1,0 +1,20 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6QE78|F6QE78_XENTR         -          DNA_methylase        PF00145.24   1.1e-49  170.1   0.0     4e-49  168.2   0.0   2.1   1   1   0   1   1   1   1 DNA (cytosine-5)-methyltransferase OS=Xenopus tropicalis OX=8364 GN=dnmt1 PE=3 SV=1
+tr|F6VLZ7|F6VLZ7_XENTR         -          DNA_methylase        PF00145.24   1.4e-41  143.4   0.0     2e-41  142.9   0.0   1.2   1   0   0   1   1   1   1 tRNA aspartic acid methyltransferase 1 OS=Xenopus tropicalis OX=8364 GN=trdmt1 PE=3 SV=1
+tr|F7BU15|F7BU15_XENTR         -          DNA_methylase        PF00145.24   1.3e-15   58.1   0.0   1.2e-11   45.0   0.0   2.4   2   0   0   2   2   2   2 DNA (cytosine-5-)-methyltransferase 3 alpha OS=Xenopus tropicalis OX=8364 GN=dnmt3a PE=3 SV=1
+tr|F7AIW5|F7AIW5_XENTR         -          DNA_methylase        PF00145.24    0.0012   18.7   0.0    0.0024   17.7   0.0   1.5   1   0   0   1   1   1   1 Methyltransferase-like 5 OS=Xenopus tropicalis OX=8364 GN=mettl5 PE=4 SV=1
+tr|A0A1B8XTI8|A0A1B8XTI8_XENTR -          DNA_methylase        PF00145.24      0.18   11.6   0.0      0.24   11.2   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus tropicalis OX=8364 GN=etfbkmt PE=4 SV=1
+tr|F6SYY7|F6SYY7_XENTR         -          DNA_methylase        PF00145.24      0.19   11.5   0.0      0.25   11.1   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus tropicalis OX=8364 PE=4 SV=1
+tr|A0A1B8Y9F5|A0A1B8Y9F5_XENTR -          DNA_methylase        PF00145.24       1.1    9.0   6.5      0.16   11.7   2.4   1.7   2   0   0   2   2   2   0 Uncharacterized protein OS=Xenopus tropicalis OX=8364 GN=krt222 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DNA_methylase.hmm
+# Target file:     proteomes/Xenopus_tropicalis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DNA_methylase/Xenopus_tropicalis.tblout --cpu 8 pfam_list/DNA_methylase.hmm proteomes/Xenopus_tropicalis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:00:14 2025
+# [ok]

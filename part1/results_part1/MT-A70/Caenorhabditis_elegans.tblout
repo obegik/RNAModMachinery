@@ -1,0 +1,14 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q09956|DAMT1_CAEEL -          MT-A70               PF05063.21   1.3e-49  168.6   0.1   2.6e-49  167.6   0.1   1.5   1   0   0   1   1   1   1 DNA N6-methyl methyltransferase OS=Caenorhabditis elegans OX=6239 GN=damt-1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MT-A70.hmm
+# Target file:     proteomes/Caenorhabditis_elegans.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MT-A70/Caenorhabditis_elegans.tblout --cpu 8 pfam_list/MT-A70.hmm proteomes/Caenorhabditis_elegans.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:05:16 2025
+# [ok]

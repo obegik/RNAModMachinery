@@ -1,0 +1,14 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q45500|YKTD_BACSU -          LCM                  PF04072.21   3.7e-48  161.9   0.0   5.4e-48  161.3   0.0   1.2   1   0   0   1   1   1   1 Putative S-adenosyl-L-methionine-dependent methyltransferase YktD OS=Bacillus subtilis (strain 168) OX=224308 GN=yktD PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/LCM.hmm
+# Target file:     proteomes/Bacillus_subtilis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/LCM/Bacillus_subtilis.tblout --cpu 8 pfam_list/LCM.hmm proteomes/Bacillus_subtilis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:43 2025
+# [ok]

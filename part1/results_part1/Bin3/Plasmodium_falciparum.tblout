@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q8IHR1|Q8IHR1_PLAF7 -          Bin3                 PF06859.19     1e-25   88.7   4.1     1e-25   88.7   4.1   2.4   3   0   0   3   3   3   1 RNA methyltransferase OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1145700 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Bin3.hmm
+# Target file:     proteomes/Plasmodium_falciparum.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Bin3/Plasmodium_falciparum.tblout --cpu 8 pfam_list/Bin3.hmm proteomes/Plasmodium_falciparum.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:55 2025
+# [ok]

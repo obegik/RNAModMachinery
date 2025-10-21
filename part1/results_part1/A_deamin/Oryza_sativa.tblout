@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q7XPV6|Q7XPV6_ORYSJ -          A_deamin             PF02137.25   3.4e-59  202.2   0.2   2.4e-43  150.1   0.0   2.0   2   0   0   2   2   2   2 Os04g0683500 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os04g0683500 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/A_deamin.hmm
+# Target file:     proteomes/Oryza_sativa.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/A_deamin/Oryza_sativa.tblout --cpu 8 pfam_list/A_deamin.hmm proteomes/Oryza_sativa.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:10 2025
+# [ok]

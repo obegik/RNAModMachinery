@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A0U1RNF2|A0A0U1RNF2_MOUSE -          LCM                  PF04072.21     2e-29  103.1   0.0   6.3e-29  101.5   0.0   1.7   1   1   0   1   1   1   1 Leucine carboxyl methyltransferase 1 OS=Mus musculus OX=10090 GN=Lcmt1 PE=1 SV=1
+sp|Q8BYR1|TYW4_MOUSE           -          LCM                  PF04072.21   1.4e-22   80.8   0.0     4e-22   79.3   0.0   1.7   1   1   0   1   1   1   1 tRNA wybutosine-synthesizing protein 4 OS=Mus musculus OX=10090 GN=Lcmt2 PE=2 SV=4
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/LCM.hmm
+# Target file:     proteomes/Mus_musculus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/LCM/Mus_musculus.tblout --cpu 8 pfam_list/LCM.hmm proteomes/Mus_musculus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:46 2025
+# [ok]

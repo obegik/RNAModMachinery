@@ -1,0 +1,14 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A0L0DLQ7|A0A0L0DLQ7_THETB -          EMG1                 PF03587.20   2.5e-72  241.7   0.0   2.9e-72  241.5   0.0   1.0   1   0   0   1   1   1   1 Ribosomal RNA small subunit methyltransferase NEP1 OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_09151 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/EMG1.hmm
+# Target file:     proteomes/Thecamonas_trahens.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/EMG1/Thecamonas_trahens.tblout --cpu 8 pfam_list/EMG1.hmm proteomes/Thecamonas_trahens.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:36 2025
+# [ok]

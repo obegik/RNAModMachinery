@@ -1,0 +1,18 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|H2R0J0|H2R0J0_PANTR -          DREV                 PF05219.18  1.3e-140  467.3   0.1  1.5e-140  467.1   0.1   1.0   1   0   0   1   1   1   1 METTL9 isoform 1 OS=Pan troglodytes OX=9598 GN=METTL9 PE=2 SV=1
+tr|H2QQ96|H2QQ96_PANTR -          DREV                 PF05219.18    0.0056   16.2   0.0     0.013   15.0   0.0   1.5   1   0   0   1   1   1   1 Protein arginine methyltransferase 9 OS=Pan troglodytes OX=9598 GN=PRMT9 PE=3 SV=2
+tr|H2Q658|H2Q658_PANTR -          DREV                 PF05219.18      0.12   11.8   0.0      0.18   11.3   0.0   1.2   1   0   0   1   1   1   0 METTL7B isoform 1 OS=Pan troglodytes OX=9598 GN=METTL7B PE=2 SV=2
+tr|H2R0U4|H2R0U4_PANTR -          DREV                 PF05219.18      0.17   11.3   0.0      0.74    9.2   0.0   2.0   2   0   0   2   2   2   0 CARM1 isoform 1 OS=Pan troglodytes OX=9598 GN=CARM1 PE=3 SV=2
+tr|H2PZI7|H2PZI7_PANTR -          DREV                 PF05219.18      0.22   11.0   0.0      0.33   10.4   0.0   1.2   1   0   0   1   1   1   0 PRMT6 isoform 1 OS=Pan troglodytes OX=9598 GN=PRMT6 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DREV.hmm
+# Target file:     proteomes/Pan_troglodytes.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DREV/Pan_troglodytes.tblout --cpu 8 pfam_list/DREV.hmm proteomes/Pan_troglodytes.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:24 2025
+# [ok]

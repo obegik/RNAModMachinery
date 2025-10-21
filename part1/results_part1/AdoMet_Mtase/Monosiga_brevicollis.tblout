@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A9UR49|A9UR49_MONBE -          AdoMet_MTase         PF07757.19   2.8e-27   94.3   0.0   6.6e-27   93.1   0.0   1.6   2   0   0   2   2   2   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=23080 PE=4 SV=1
+tr|A9V2F3|A9V2F3_MONBE -          AdoMet_MTase         PF07757.19    0.0015   17.8   0.1       4.8    6.5   0.0   4.0   4   0   0   4   4   4   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=32905 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/AdoMet_Mtase.hmm
+# Target file:     proteomes/Monosiga_brevicollis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/AdoMet_Mtase/Monosiga_brevicollis.tblout --cpu 8 pfam_list/AdoMet_Mtase.hmm proteomes/Monosiga_brevicollis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:44 2025
+# [ok]

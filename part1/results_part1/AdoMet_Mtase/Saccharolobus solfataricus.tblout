@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q97WN4|Q97WN4_SACS2 -          AdoMet_MTase         PF07757.19    0.0072   14.0   0.0     0.014   13.0   0.0   1.6   1   0   0   1   1   1   1 SAM-dependent methyltransferase, putative OS=Saccharolobus solfataricus (strain ATCC 35092 / DSM 1617 / JCM 11322 / P2) OX=273057 GN=SSO2177 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/AdoMet_Mtase.hmm
+# Target file:     proteomes/Saccharolobus solfataricus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/AdoMet_Mtase/Saccharolobus solfataricus.tblout --cpu 8 pfam_list/AdoMet_Mtase.hmm proteomes/Saccharolobus solfataricus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:45 2025
+# [ok]

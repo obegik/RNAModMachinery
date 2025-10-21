@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|P73717|P73717_SYNY3 -          APOBEC_N             PF08210.18    0.0021   15.7   0.0    0.0036   15.0   0.0   1.3   1   0   0   1   1   1   1 tRNA-specific adenosine deaminase OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=tadA PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/APOBEC_N.hmm
+# Target file:     proteomes/Synechocystis_sp.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/APOBEC_N/Synechocystis_sp.tblout --cpu 8 pfam_list/APOBEC_N.hmm proteomes/Synechocystis_sp.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:58:53 2025
+# [ok]

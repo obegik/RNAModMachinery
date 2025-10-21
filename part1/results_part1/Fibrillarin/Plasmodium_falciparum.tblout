@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q8IM23|Q8IM23_PLAF7 -          Fibrillarin          PF01269.24  2.7e-103  342.3   0.0  3.2e-103  342.0   0.0   1.0   1   0   0   1   1   1   1 rRNA 2'-O-methyltransferase fibrillarin OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1407100 PE=1 SV=1
+tr|Q8IEF7|Q8IEF7_PLAF7 -          Fibrillarin          PF01269.24    0.0063   13.9   0.0    0.0099   13.3   0.0   1.3   1   0   0   1   1   1   1 tRNA (adenine(58)-N(1))-methyltransferase OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1315700 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Fibrillarin.hmm
+# Target file:     proteomes/Plasmodium_falciparum.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Fibrillarin/Plasmodium_falciparum.tblout --cpu 8 pfam_list/Fibrillarin.hmm proteomes/Plasmodium_falciparum.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:44 2025
+# [ok]

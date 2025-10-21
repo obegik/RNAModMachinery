@@ -1,0 +1,16 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|O82486|MTA70_ARATH -          MT-A70               PF05063.21   5.5e-62  209.3   0.1   9.6e-62  208.5   0.1   1.4   1   0   0   1   1   1   1 N(6)-adenosine-methyltransferase MT-A70-like OS=Arabidopsis thaliana OX=3702 GN=MTA PE=1 SV=2
+sp|Q94AI4|METL1_ARATH -          MT-A70               PF05063.21   3.4e-37  128.6   0.0     5e-37  128.0   0.0   1.2   1   0   0   1   1   1   1 N6-adenosine-methyltransferase non-catalytic subunit MTB OS=Arabidopsis thaliana OX=3702 GN=MTB PE=1 SV=1
+sp|Q8LFA9|METL2_ARATH -          MT-A70               PF05063.21   7.7e-34  117.7   0.0   1.1e-33  117.2   0.0   1.2   1   0   0   1   1   1   1 Methyltransferase-like protein 2 OS=Arabidopsis thaliana OX=3702 GN=At1g19340 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MT-A70.hmm
+# Target file:     proteomes/Arabidopsis_thaliana.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MT-A70/Arabidopsis_thaliana.tblout --cpu 8 pfam_list/MT-A70.hmm proteomes/Arabidopsis_thaliana.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:05:16 2025
+# [ok]

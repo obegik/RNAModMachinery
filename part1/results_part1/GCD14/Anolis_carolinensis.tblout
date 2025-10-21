@@ -1,0 +1,21 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|R4GBY7|R4GBY7_ANOCA -          GCD14                PF08704.17  3.2e-114  380.8   0.0  3.8e-114  380.5   0.0   1.0   1   0   0   1   1   1   1 tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRMT61A OS=Anolis carolinensis OX=28377 GN=TRMT61A PE=3 SV=1
+tr|G1KIR9|G1KIR9_ANOCA -          GCD14                PF08704.17   1.4e-21   77.3   0.0     2e-21   76.9   0.0   1.1   1   0   0   1   1   1   1 tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRMT61A OS=Anolis carolinensis OX=28377 GN=TRMT61B PE=3 SV=2
+tr|H9GKF5|H9GKF5_ANOCA -          GCD14                PF08704.17   4.7e-05   23.2   0.0   5.7e-05   22.9   0.0   1.2   1   0   0   1   1   1   1 Protein-L-isoaspartate O-methyltransferase OS=Anolis carolinensis OX=28377 GN=LOC100554054 PE=3 SV=1
+tr|H9GNL4|H9GNL4_ANOCA -          GCD14                PF08704.17   4.8e-05   23.2   0.0   6.7e-05   22.7   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Anolis carolinensis OX=28377 GN=fbl PE=3 SV=2
+tr|H9GBW3|H9GBW3_ANOCA -          GCD14                PF08704.17   8.7e-05   22.3   0.0   0.00013   21.8   0.0   1.2   1   0   0   1   1   1   1 Protein-L-isoaspartate (D-aspartate) O-methyltransferase OS=Anolis carolinensis OX=28377 GN=PCMT1 PE=4 SV=1
+tr|H9GPW8|H9GPW8_ANOCA -          GCD14                PF08704.17     0.013   15.2   0.0     0.042   13.6   0.0   1.7   2   0   0   2   2   2   0 Protein-L-isoaspartate (D-aspartate) O-methyltransferase domain containing 1 OS=Anolis carolinensis OX=28377 GN=PCMTD1 PE=4 SV=1
+tr|G1KF57|G1KF57_ANOCA -          GCD14                PF08704.17     0.018   14.8   0.0     0.032   13.9   0.0   1.4   1   0   0   1   1   1   0 Protein-L-isoaspartate (D-aspartate) O-methyltransferase domain containing 2 OS=Anolis carolinensis OX=28377 GN=PCMTD2 PE=4 SV=1
+tr|R4GAD1|R4GAD1_ANOCA -          GCD14                PF08704.17      0.11   12.1   0.0      0.17   11.6   0.0   1.2   1   0   0   1   1   1   0 HemK methyltransferase family member 1 OS=Anolis carolinensis OX=28377 GN=HEMK1 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/GCD14.hmm
+# Target file:     proteomes/Anolis_carolinensis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/GCD14/Anolis_carolinensis.tblout --cpu 8 pfam_list/GCD14.hmm proteomes/Anolis_carolinensis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:08 2025
+# [ok]

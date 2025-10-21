@@ -1,0 +1,17 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|B3S5V8|B3S5V8_TRIAD -          Fibrillarin          PF01269.24  3.7e-110  365.8   0.2  4.4e-110  365.6   0.2   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_64190 PE=3 SV=1
+tr|B3RJQ6|B3RJQ6_TRIAD -          Fibrillarin          PF01269.24    0.0007   18.2   0.1    0.0011   17.5   0.1   1.2   1   0   0   1   1   1   1 Protein-L-isoaspartate O-methyltransferase OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_49594 PE=3 SV=1
+tr|B3RI87|B3RI87_TRIAD -          Fibrillarin          PF01269.24   0.00075   18.1   0.0    0.0039   15.7   0.0   2.1   3   0   0   3   3   3   1 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_52388 PE=3 SV=1
+tr|B3S3E8|B3S3E8_TRIAD -          Fibrillarin          PF01269.24       0.1   11.1   0.1      0.52    8.8   0.0   2.0   2   0   0   2   2   2   0 Uncharacterized protein (Fragment) OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_28123 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Fibrillarin.hmm
+# Target file:     proteomes/Trichoplax_adhaerens.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Fibrillarin/Trichoplax_adhaerens.tblout --cpu 8 pfam_list/Fibrillarin.hmm proteomes/Trichoplax_adhaerens.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:45 2025
+# [ok]

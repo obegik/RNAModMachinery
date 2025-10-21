@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A2F5I8|A2F5I8_TRIVA -          MafB19-deam          PF14437.13   2.4e-21   77.5   0.2   2.8e-21   77.3   0.2   1.1   1   0   0   1   1   1   1 Cytidine and deoxycytidylate deaminase zinc-binding region family protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_087960 PE=4 SV=1
+tr|A2DS60|A2DS60_TRIVA -          MafB19-deam          PF14437.13   0.00026   22.3   0.2    0.0005   21.4   0.2   1.5   1   0   0   1   1   1   1 Cytidine and deoxycytidylate deaminase zinc-binding region family protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_447890 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MafB19-deam.hmm
+# Target file:     proteomes/Trichomonas_vaginalis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MafB19-deam/Trichomonas_vaginalis.tblout --cpu 8 pfam_list/MafB19-deam.hmm proteomes/Trichomonas_vaginalis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:09:26 2025
+# [ok]

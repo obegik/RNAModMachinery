@@ -1,0 +1,21 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q54TL4|Q54TL4_DICDI -          Methyltr_RsmB-F      PF01189.24     8e-72  240.6   0.0   1.8e-71  239.4   0.0   1.6   1   0   0   1   1   1   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0204605 PE=3 SV=1
+tr|Q54FX0|Q54FX0_DICDI -          Methyltr_RsmB-F      PF01189.24   9.4e-38  129.4   0.0     9e-36  122.9   0.0   2.3   1   1   0   1   1   1   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0188951 PE=3 SV=1
+tr|C7G023|C7G023_DICDI -          Methyltr_RsmB-F      PF01189.24     1e-37  129.3   0.0   8.8e-27   93.6   0.0   3.3   3   0   0   3   3   3   3 NOL1/NOP2/Sun family protein OS=Dictyostelium discoideum OX=44689 GN=DDB_G0295715 PE=3 SV=1
+tr|Q55DF6|Q55DF6_DICDI -          Methyltr_RsmB-F      PF01189.24   1.2e-32  112.7   0.0     1e-18   67.2   0.0   2.6   2   0   0   2   2   2   2 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0190459 PE=3 SV=1
+tr|Q55G09|Q55G09_DICDI -          Methyltr_RsmB-F      PF01189.24   1.2e-21   76.8   3.2   1.2e-12   47.4   2.2   3.8   1   1   1   2   2   2   2 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0189607 PE=3 SV=1
+sp|Q86AH1|MRM2_DICDI   -          Methyltr_RsmB-F      PF01189.24    0.0049   16.0   0.0     0.052   12.7   0.0   2.6   2   0   0   2   2   2   1 rRNA methyltransferase 2, mitochondrial OS=Dictyostelium discoideum OX=44689 GN=fsjB PE=3 SV=1
+sp|Q9GPS6|PIMT_DICDI   -          Methyltr_RsmB-F      PF01189.24     0.036   13.2   0.0      0.11   11.6   0.0   1.7   1   1   1   2   2   2   0 Probable protein-L-isoaspartate O-methyltransferase OS=Dictyostelium discoideum OX=44689 GN=pcmA PE=3 SV=1
+tr|Q54UI9|Q54UI9_DICDI -          Methyltr_RsmB-F      PF01189.24     0.057   12.6   0.0      0.11   11.7   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB_G0281053 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltr_RsmB-F.hmm
+# Target file:     proteomes/Dictyostelium_discoideum.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltr_RsmB-F/Dictyostelium_discoideum.tblout --cpu 8 pfam_list/Methyltr_RsmB-F.hmm proteomes/Dictyostelium_discoideum.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:10:14 2025
+# [ok]

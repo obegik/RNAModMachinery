@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A2EHM0|A2EHM0_TRIVA -          EMG1                 PF03587.20   1.1e-28  101.5   0.2   1.4e-28  101.3   0.2   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_312150 PE=4 SV=1
+tr|A2E5Z3|A2E5Z3_TRIVA -          EMG1                 PF03587.20   8.5e-09   36.7   0.2   1.4e-08   36.0   0.2   1.3   1   1   0   1   1   1   1 Uncharacterized protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_399550 PE=4 SV=1
+tr|A2G9X2|A2G9X2_TRIVA -          EMG1                 PF03587.20     0.026   15.5   0.4       2.5    9.0   0.0   2.6   2   1   1   3   3   3   0 Uncharacterized protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_236480 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/EMG1.hmm
+# Target file:     proteomes/Trichomonas_vaginalis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/EMG1/Trichomonas_vaginalis.tblout --cpu 8 pfam_list/EMG1.hmm proteomes/Trichomonas_vaginalis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:36 2025
+# [ok]

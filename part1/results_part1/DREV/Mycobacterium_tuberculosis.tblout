@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|I6X9X6|I6X9X6_MYCTU -          DREV                 PF05219.18    0.0093   12.9   0.0     0.015   12.3   0.0   1.2   1   0   0   1   1   1   1 Methyltransferase domain-containing protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0839 PE=1 SV=1
+sp|O53532|Y2258_MYCTU  -          DREV                 PF05219.18     0.023   11.7   0.0     0.035   11.1   0.0   1.2   1   0   0   1   1   1   0 S-adenosylmethionine-dependent methyltransferase Rv2258c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2258c PE=1 SV=1
+sp|P9WK01|Y3342_MYCTU  -          DREV                 PF05219.18     0.051   10.5   0.0     0.062   10.3   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized methyltransferase Rv3342 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3342 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DREV.hmm
+# Target file:     proteomes/Mycobacterium_tuberculosis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DREV/Mycobacterium_tuberculosis.tblout --cpu 8 pfam_list/DREV.hmm proteomes/Mycobacterium_tuberculosis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:23 2025
+# [ok]

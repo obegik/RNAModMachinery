@@ -1,0 +1,17 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6XUV4|F6XUV4_CIOIN -          DNA_methylase        PF00145.24   2.5e-48  165.1   0.0   1.1e-47  163.0   0.0   1.9   1   1   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 GN=zf(cxxc)-5 PE=3 SV=2
+tr|F6YI25|F6YI25_CIOIN -          DNA_methylase        PF00145.24     7e-48  163.6   0.0   7.8e-48  163.4   0.0   1.0   1   0   0   1   1   1   1 tRNA (Cytosine(38)-C(5))-methyltransferase-like OS=Ciona intestinalis OX=7719 GN=LOC100183289 PE=3 SV=1
+tr|F6WB92|F6WB92_CIOIN -          DNA_methylase        PF00145.24   0.00017   21.0   0.1   0.00024   20.5   0.1   1.4   1   1   0   1   1   1   1 methyltransferase-like protein 5 isoform X4 OS=Ciona intestinalis OX=7719 GN=LOC100184601 PE=4 SV=2
+tr|H2Y0C0|H2Y0C0_CIOIN -          DNA_methylase        PF00145.24       0.1   11.9   0.0      0.21   10.9   0.0   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DNA_methylase.hmm
+# Target file:     proteomes/Ciona_intestinalis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DNA_methylase/Ciona_intestinalis.tblout --cpu 8 pfam_list/DNA_methylase.hmm proteomes/Ciona_intestinalis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:00:09 2025
+# [ok]

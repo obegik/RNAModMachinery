@@ -1,0 +1,23 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|B3RZP1|B3RZP1_TRIAD -          Methyltr_RsmB-F      PF01189.24   2.5e-72  242.1   0.0   3.3e-72  241.7   0.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_26585 PE=3 SV=1
+tr|B3S3E8|B3S3E8_TRIAD -          Methyltr_RsmB-F      PF01189.24   1.1e-45  155.1   0.0   4.4e-45  153.2   0.0   1.8   2   0   0   2   2   2   1 Uncharacterized protein (Fragment) OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_28123 PE=3 SV=1
+tr|B3RJG2|B3RJG2_TRIAD -          Methyltr_RsmB-F      PF01189.24   2.8e-37  127.7   0.0   1.1e-35  122.5   0.0   2.4   1   1   0   1   1   1   1 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_19981 PE=3 SV=1
+tr|B3RI87|B3RI87_TRIAD -          Methyltr_RsmB-F      PF01189.24   9.6e-27   93.3   0.0   3.2e-26   91.6   0.0   1.8   1   1   0   1   1   1   1 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_52388 PE=3 SV=1
+tr|B3RLV1|B3RLV1_TRIAD -          Methyltr_RsmB-F      PF01189.24    0.0008   18.5   0.0    0.0022   17.0   0.0   1.7   2   0   0   2   2   2   1 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_19892 PE=3 SV=1
+tr|B3RUJ8|B3RUJ8_TRIAD -          Methyltr_RsmB-F      PF01189.24    0.0035   16.4   0.0    0.0088   15.1   0.0   1.6   1   0   0   1   1   1   1 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_24037 PE=4 SV=1
+tr|B3SDC9|B3SDC9_TRIAD -          Methyltr_RsmB-F      PF01189.24     0.022   13.7   0.1     0.049   12.6   0.1   1.6   1   1   0   1   1   1   0 Putative tRNA (cytidine(32)/guanosine(34)-2'-O)-methyltransferase OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_62287 PE=3 SV=1
+tr|B3S5V8|B3S5V8_TRIAD -          Methyltr_RsmB-F      PF01189.24     0.033   13.2   0.0     0.069   12.2   0.0   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_64190 PE=3 SV=1
+tr|B3RQF2|B3RQF2_TRIAD -          Methyltr_RsmB-F      PF01189.24     0.047   12.7   0.0     0.058   12.4   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_54966 PE=4 SV=1
+tr|B3RJQ6|B3RJQ6_TRIAD -          Methyltr_RsmB-F      PF01189.24     0.061   12.3   0.0      0.15   11.1   0.0   1.7   1   1   1   2   2   2   0 Protein-L-isoaspartate O-methyltransferase OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_49594 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltr_RsmB-F.hmm
+# Target file:     proteomes/Trichoplax_adhaerens.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltr_RsmB-F/Trichoplax_adhaerens.tblout --cpu 8 pfam_list/Methyltr_RsmB-F.hmm proteomes/Trichoplax_adhaerens.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:10:18 2025
+# [ok]

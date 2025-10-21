@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2I3RKI1|A0A2I3RKI1_PANTR -          AdoMet_MTase         PF07757.19     5e-32  110.9   0.0     1e-31  109.9   0.0   1.5   1   0   0   1   1   1   1 tRNA methyltransferase 44 homolog OS=Pan troglodytes OX=9598 GN=TRMT44 PE=4 SV=1
+tr|A0A2I3SPD6|A0A2I3SPD6_PANTR -          AdoMet_MTase         PF07757.19      0.15   12.6   0.0      0.29   11.7   0.0   1.4   1   0   0   1   1   1   0 Methyltransferase like 5 OS=Pan troglodytes OX=9598 GN=METTL5 PE=4 SV=1
+tr|H2QUQ0|H2QUQ0_PANTR         -          AdoMet_MTase         PF07757.19      0.16   12.6   0.0       0.3   11.7   0.0   1.4   1   0   0   1   1   1   0 BUD23 isoform 3 OS=Pan troglodytes OX=9598 GN=BUD23 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/AdoMet_Mtase.hmm
+# Target file:     proteomes/Pan_troglodytes.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/AdoMet_Mtase/Pan_troglodytes.tblout --cpu 8 pfam_list/AdoMet_Mtase.hmm proteomes/Pan_troglodytes.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:45 2025
+# [ok]

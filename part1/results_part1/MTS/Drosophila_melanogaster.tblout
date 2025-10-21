@@ -1,0 +1,53 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q9VMD3|Q9VMD3_DROME         -          MTS                  PF05175.21   8.3e-14   51.1   0.0   1.4e-11   43.8   0.0   2.4   1   1   1   2   2   2   1 Uncharacterized protein, isoform A OS=Drosophila melanogaster OX=7227 GN=HemK1 PE=1 SV=1
+tr|Q8MSW4|Q8MSW4_DROME         -          MTS                  PF05175.21   1.7e-11   43.6   0.0   2.4e-11   43.1   0.0   1.2   1   0   0   1   1   1   1 LD25448p2 OS=Drosophila melanogaster OX=7227 GN=CG42374-RA PE=2 SV=1
+tr|Q9VQF8|Q9VQF8_DROME         -          MTS                  PF05175.21   1.3e-10   40.7   0.0   1.1e-09   37.7   0.0   1.9   2   0   0   2   2   2   1 GH13185p2 OS=Drosophila melanogaster OX=7227 GN=HemK2 PE=1 SV=1
+tr|Q9VQJ8|Q9VQJ8_DROME         -          MTS                  PF05175.21   5.9e-10   38.6   0.0   9.5e-10   37.9   0.0   1.3   1   0   0   1   1   1   1 Protein-lysine N-methyltransferase CG9643 OS=Drosophila melanogaster OX=7227 GN=Dmel\CG9643 PE=1 SV=1
+sp|Q7K3B9|MET16_DROME          -          MTS                  PF05175.21   2.6e-07   30.0   0.0   6.2e-07   28.7   0.0   1.6   1   0   0   1   1   1   1 U6 small nuclear RNA (adenine-(43)-N(6))-methyltransferase OS=Drosophila melanogaster OX=7227 GN=CG7544 PE=2 SV=1
+tr|Q9VFB3|Q9VFB3_DROME         -          MTS                  PF05175.21   6.9e-07   28.6   0.0   1.2e-06   27.8   0.0   1.4   1   0   0   1   1   1   1 Arginine methyltransferase 3, isoform A OS=Drosophila melanogaster OX=7227 GN=Art3 PE=1 SV=1
+tr|Q9VFP8|Q9VFP8_DROME         -          MTS                  PF05175.21   1.1e-06   28.0   0.1   1.9e-06   27.2   0.1   1.3   1   0   0   1   1   1   1 Arginine methyltransferase 6 OS=Drosophila melanogaster OX=7227 GN=Art6 PE=2 SV=1
+tr|Q9VVV7|Q9VVV7_DROME         -          MTS                  PF05175.21   3.4e-06   26.4   0.1   6.4e-06   25.5   0.1   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=cg3808 PE=1 SV=3
+tr|Q8SX32|Q8SX32_DROME         -          MTS                  PF05175.21   3.8e-06   26.2   0.2   6.7e-06   25.4   0.2   1.3   1   0   0   1   1   1   1 Arginine methyltransferase 8 OS=Drosophila melanogaster OX=7227 GN=Art8 PE=1 SV=1
+sp|Q9VH48|CARM1_DROME          -          MTS                  PF05175.21   5.4e-06   25.7   0.0   9.8e-06   24.9   0.0   1.3   1   0   0   1   1   1   1 Probable histone-arginine methyltransferase CARMER OS=Drosophila melanogaster OX=7227 GN=Art4 PE=1 SV=1
+sp|Q9VIK9|MET13_DROME          -          MTS                  PF05175.21   6.7e-06   25.4   0.0     0.034   13.3   0.0   2.5   2   0   0   2   2   2   2 Methyltransferase-like protein 13 OS=Drosophila melanogaster OX=7227 GN=CG2614 PE=2 SV=1
+tr|Q9VQX9|Q9VQX9_DROME         -          MTS                  PF05175.21   1.2e-05   24.5   0.1   1.9e-05   23.9   0.1   1.2   1   0   0   1   1   1   1 Arginine methyltransferase 2, isoform A OS=Drosophila melanogaster OX=7227 GN=Art2 PE=2 SV=1
+tr|Q9VQK8|Q9VQK8_DROME         -          MTS                  PF05175.21   1.5e-05   24.3   0.0   9.3e-05   21.7   0.0   2.1   2   0   0   2   2   2   1 FI02048p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG17219 PE=1 SV=2
+tr|Q9VGW7|Q9VGW7_DROME         -          MTS                  PF05175.21   1.6e-05   24.2   0.1   2.7e-05   23.4   0.1   1.4   1   0   0   1   1   1   1 Arginine methyltransferase 1 OS=Drosophila melanogaster OX=7227 GN=Art1 PE=1 SV=1
+tr|Q9VG42|Q9VG42_DROME         -          MTS                  PF05175.21   2.2e-05   23.7   0.0   4.5e-05   22.7   0.0   1.6   1   1   0   1   1   1   1 Glycine N-methyltransferase OS=Drosophila melanogaster OX=7227 GN=Gnmt PE=1 SV=1
+tr|A4V0X6|A4V0X6_DROME         -          MTS                  PF05175.21   2.8e-05   23.4   0.0     5e-05   22.6   0.0   1.4   1   0   0   1   1   1   1 FI04554p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG10947 PE=2 SV=1
+sp|Q9VNH1|BN3D2_DROME          -          MTS                  PF05175.21   2.8e-05   23.4   0.0   0.00011   21.4   0.0   2.0   1   1   0   1   1   1   1 Probable RNA methyltransferase CG1239 OS=Drosophila melanogaster OX=7227 GN=CG1239 PE=2 SV=2
+tr|Q9VDC8|Q9VDC8_DROME         -          MTS                  PF05175.21   4.4e-05   22.7   0.0   6.4e-05   22.2   0.0   1.2   1   0   0   1   1   1   1 FI06469p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG3337 PE=2 SV=1
+sp|Q86BS6|METL_DROME           -          MTS                  PF05175.21   0.00014   21.1   0.0   0.00026   20.2   0.0   1.3   1   0   0   1   1   1   1 Methyltransferase-like protein OS=Drosophila melanogaster OX=7227 GN=metl PE=1 SV=2
+tr|Q9VWJ9|Q9VWJ9_DROME         -          MTS                  PF05175.21   0.00019   20.7   0.0   0.00026   20.2   0.0   1.3   1   0   0   1   1   1   1 FI07229p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG7889 PE=1 SV=1
+tr|Q9VIF3|Q9VIF3_DROME         -          MTS                  PF05175.21   0.00021   20.5   0.0   0.00038   19.7   0.0   1.3   1   0   0   1   1   1   1 Ubiquinone biosynthesis O-methyltransferase, mitochondrial OS=Drosophila melanogaster OX=7227 GN=Coq3 PE=3 SV=3
+tr|Q7K1S1|Q7K1S1_DROME         -          MTS                  PF05175.21    0.0004   19.6   0.0   0.00066   18.9   0.0   1.3   1   0   0   1   1   1   1 LD45826p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG8067 PE=2 SV=1
+sp|Q7K480|BN3D1_DROME          -          MTS                  PF05175.21   0.00049   19.3   0.0    0.0026   17.0   0.0   2.0   2   0   0   2   2   2   1 Probable RNA methyltransferase bin3 OS=Drosophila melanogaster OX=7227 GN=bin3 PE=1 SV=1
+sp|Q9VJ34|GSTCD_DROME          -          MTS                  PF05175.21    0.0013   17.9   0.0    0.0035   16.6   0.0   1.6   1   0   0   1   1   1   1 Glutathione S-transferase C-terminal domain-containing protein homolog OS=Drosophila melanogaster OX=7227 GN=CG10428 PE=2 SV=2
+sp|Q9VAQ5|DIM1_DROME           -          MTS                  PF05175.21    0.0031   16.7   0.0    0.0072   15.5   0.0   1.6   2   0   0   2   2   2   1 Probable dimethyladenosine transferase OS=Drosophila melanogaster OX=7227 GN=CG11837 PE=2 SV=1
+tr|Q8IQN1|Q8IQN1_DROME         -          MTS                  PF05175.21     0.004   16.4   0.0     0.008   15.4   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein, isoform B OS=Drosophila melanogaster OX=7227 GN=Dmel\CG32152 PE=3 SV=2
+sp|Q7K2B0|RRP8_DROME           -          MTS                  PF05175.21      0.01   15.0   0.0     0.037   13.2   0.0   1.9   1   1   1   2   2   2   0 Ribosomal RNA-processing protein 8 OS=Drosophila melanogaster OX=7227 GN=CG7137 PE=1 SV=1
+sp|Q9W1V1|ANM7_DROME           -          MTS                  PF05175.21     0.012   14.8   0.1     0.025   13.7   0.1   1.5   1   0   0   1   1   1   0 Protein arginine N-methyltransferase 7 OS=Drosophila melanogaster OX=7227 GN=Art7 PE=2 SV=4
+tr|Q9VEA4|Q9VEA4_DROME         -          MTS                  PF05175.21     0.012   14.8   0.0     0.039   13.1   0.0   1.8   2   0   0   2   2   2   0 Trimethylguanosine synthase 1 OS=Drosophila melanogaster OX=7227 GN=Tgs1 PE=4 SV=3
+tr|Q9VHA1|Q9VHA1_DROME         -          MTS                  PF05175.21     0.023   13.9   0.0     0.033   13.4   0.0   1.2   1   0   0   1   1   1   0 Spermidine synthase, isoform A OS=Drosophila melanogaster OX=7227 GN=SpdS PE=1 SV=1
+tr|Q9VP86|Q9VP86_DROME         -          MTS                  PF05175.21     0.024   13.8   0.0     0.036   13.3   0.0   1.2   1   0   0   1   1   1   0 IP09210p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG10584 PE=2 SV=1
+tr|Q9VKB3|Q9VKB3_DROME         -          MTS                  PF05175.21     0.026   13.7   0.0     0.042   13.0   0.0   1.2   1   0   0   1   1   1   0 Methyltransferase 2, isoform C OS=Drosophila melanogaster OX=7227 GN=Mt2 PE=3 SV=2
+sp|Q27869|PIMT_DROME           -          MTS                  PF05175.21     0.028   13.6   0.0     0.055   12.7   0.0   1.5   1   0   0   1   1   1   0 Protein-L-isoaspartate(D-aspartate) O-methyltransferase OS=Drosophila melanogaster OX=7227 GN=Pcmt PE=1 SV=2
+tr|X2JGL7|X2JGL7_DROME         -          MTS                  PF05175.21     0.055   12.7   0.0      0.26   10.5   0.0   2.1   1   1   0   1   1   1   0 Uncharacterized protein, isoform D OS=Drosophila melanogaster OX=7227 GN=Sms PE=1 SV=1
+tr|Q9VHW6|Q9VHW6_DROME         -          MTS                  PF05175.21     0.069   12.3   0.0      0.11   11.7   0.0   1.3   1   0   0   1   1   1   0 RE22146p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG10903 PE=1 SV=1
+sp|Q6NN40|NTM1_DROME           -          MTS                  PF05175.21      0.07   12.3   0.0      0.16   11.1   0.0   1.5   1   0   0   1   1   1   0 Alpha N-terminal protein methyltransferase 1 OS=Drosophila melanogaster OX=7227 GN=Ntmt PE=1 SV=1
+tr|A0A384ZCM4|A0A384ZCM4_DROME -          MTS                  PF05175.21      0.07   12.3   0.0      0.16   11.1   0.0   1.5   1   0   0   1   1   1   0 N-terminal methyltransferase, isoform B OS=Drosophila melanogaster OX=7227 GN=Ntmt PE=4 SV=1
+sp|Q9VK89|TRM1_DROME           -          MTS                  PF05175.21     0.076   12.2   0.1      0.38    9.9   0.1   2.1   1   1   1   2   2   2   0 Probable tRNA (guanine(26)-N(2))-dimethyltransferase OS=Drosophila melanogaster OX=7227 GN=CG6388 PE=2 SV=1
+sp|Q9VZD2|BN3D3_DROME          -          MTS                  PF05175.21      0.11   11.7   0.0      0.44    9.7   0.0   2.0   3   0   0   3   3   2   0 Probable RNA methyltransferase CG11342 OS=Drosophila melanogaster OX=7227 GN=CG11342 PE=3 SV=1
+tr|Q86NX3|Q86NX3_DROME         -          MTS                  PF05175.21      0.12   11.5   0.1      0.22   10.7   0.1   1.3   1   0   0   1   1   1   0 GM20958p OS=Drosophila melanogaster OX=7227 GN=CG13174 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MTS.hmm
+# Target file:     proteomes/Drosophila_melanogaster.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MTS/Drosophila_melanogaster.tblout --cpu 8 pfam_list/MTS.hmm proteomes/Drosophila_melanogaster.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:05:56 2025
+# [ok]

@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q245D9|Q245D9_TETTS -          AdoMet_MTase         PF07757.19     0.013   16.3   0.0      0.04   14.7   0.0   1.8   1   0   0   1   1   1   0 UbiE/COQ5 family methyltransferase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00732720 PE=4 SV=2
+tr|Q235D9|Q235D9_TETTS -          AdoMet_MTase         PF07757.19       0.1   13.4   0.3      0.32   11.8   0.0   1.9   2   0   0   2   2   2   0 Ubiquinone biosynthesis O-methyltransferase, mitochondrial OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00803610 PE=3 SV=2
+tr|W7XIH0|W7XIH0_TETTS -          AdoMet_MTase         PF07757.19       6.7    7.5   8.8        34    5.3   0.8   3.9   3   0   0   3   3   3   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000051969 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/AdoMet_Mtase.hmm
+# Target file:     proteomes/Tetrahymena_thermophila.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/AdoMet_Mtase/Tetrahymena_thermophila.tblout --cpu 8 pfam_list/AdoMet_Mtase.hmm proteomes/Tetrahymena_thermophila.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:46 2025
+# [ok]

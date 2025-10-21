@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P37543|YABB_BACSU -          Methyltransf_10      PF05971.19   8.1e-08   29.9   0.0     1e-07   29.6   0.0   1.1   1   0   0   1   1   1   1 Probable RNA methyltransferase YabB OS=Bacillus subtilis (strain 168) OX=224308 GN=yabB PE=3 SV=1
+sp|P45873|PRMC_BACSU -          Methyltransf_10      PF05971.19    0.0012   16.3   0.0    0.0017   15.7   0.0   1.2   1   0   0   1   1   1   1 Release factor glutamine methyltransferase OS=Bacillus subtilis (strain 168) OX=224308 GN=prmC PE=3 SV=1
+sp|P42307|YXIP_BACSU -          Methyltransf_10      PF05971.19     0.024   11.9   2.8     0.011   13.0   0.4   1.6   2   0   0   2   2   2   0 Uncharacterized protein YxiP OS=Bacillus subtilis (strain 168) OX=224308 GN=yxiP PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltransf_10.hmm
+# Target file:     proteomes/Bacillus_subtilis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltransf_10/Bacillus_subtilis.tblout --cpu 8 pfam_list/Methyltransf_10.hmm proteomes/Bacillus_subtilis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:12:17 2025
+# [ok]

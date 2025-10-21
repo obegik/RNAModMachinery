@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|A3KQ55|MEPCE_DANRE          -          Bin3                 PF06859.19   3.7e-46  156.7   0.0   9.1e-46  155.4   0.0   1.7   1   0   0   1   1   1   1 7SK snRNA methylphosphate capping enzyme OS=Danio rerio OX=7955 GN=mepce PE=3 SV=2
+tr|F1R5Z5|F1R5Z5_DANRE         -          Bin3                 PF06859.19   3.8e-36  124.5   0.0     7e-36  123.6   0.0   1.4   1   0   0   1   1   1   1 Si:ch1073-157b13.1 OS=Danio rerio OX=7955 GN=si:ch1073-157b13.1 PE=4 SV=2
+sp|A8E7D2|BN3D2_DANRE          -          Bin3                 PF06859.19   1.1e-17   65.0   0.0   2.2e-17   64.1   0.0   1.5   1   0   0   1   1   1   1 Pre-miRNA 5'-monophosphate methyltransferase OS=Danio rerio OX=7955 GN=bcdin3d PE=3 SV=2
+sp|B8JM82|NTM1B_DANRE          -          Bin3                 PF06859.19     0.035   15.2   0.0      0.11   13.5   0.0   1.8   1   1   0   1   1   1   0 Alpha N-terminal protein methyltransferase 1B OS=Danio rerio OX=7955 GN=mettl11b PE=3 SV=2
+sp|Q6NYZ6|SCM2A_DANRE          -          Bin3                 PF06859.19     0.062   14.4   0.4        12    7.1   0.2   2.5   2   0   0   2   2   2   0 Calcium-binding mitochondrial carrier protein SCaMC-2-A OS=Danio rerio OX=7955 GN=slc25a25a PE=2 SV=1
+tr|A0A2R8QIW3|A0A2R8QIW3_DANRE -          Bin3                 PF06859.19      0.11   13.6   1.9        15    6.7   0.1   3.6   2   2   1   3   3   3   0 Phosphoethanolamine methyltransferase OS=Danio rerio OX=7955 GN=pmt PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Bin3.hmm
+# Target file:     proteomes/Danio_rerio.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Bin3/Danio_rerio.tblout --cpu 8 pfam_list/Bin3.hmm proteomes/Danio_rerio.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:52 2025
+# [ok]

@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|H9GCE9|H9GCE9_ANOCA -          EMG1                 PF03587.20   3.1e-76  255.3   0.0   3.6e-76  255.1   0.0   1.0   1   0   0   1   1   1   1 EMG1, N1-specific pseudouridine methyltransferase OS=Anolis carolinensis OX=28377 GN=EMG1 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/EMG1.hmm
+# Target file:     proteomes/Anolis_carolinensis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/EMG1/Anolis_carolinensis.tblout --cpu 8 pfam_list/EMG1.hmm proteomes/Anolis_carolinensis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:31 2025
+# [ok]

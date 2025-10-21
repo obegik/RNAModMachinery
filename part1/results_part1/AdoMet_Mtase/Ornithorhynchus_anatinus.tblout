@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7EDA7|F7EDA7_ORNAN -          AdoMet_MTase         PF07757.19   9.2e-33  113.2   0.0   1.2e-32  112.8   0.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 PE=4 SV=2
+tr|F6YGH0|F6YGH0_ORNAN -          AdoMet_MTase         PF07757.19     0.064   13.7   0.0     0.081   13.4   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 PE=4 SV=1
+tr|F6R9A4|F6R9A4_ORNAN -          AdoMet_MTase         PF07757.19       0.1   13.1   0.1      0.21   12.0   0.0   1.6   2   0   0   2   2   2   0 Methyltransferase like 5 OS=Ornithorhynchus anatinus OX=9258 GN=METTL5 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/AdoMet_Mtase.hmm
+# Target file:     proteomes/Ornithorhynchus_anatinus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/AdoMet_Mtase/Ornithorhynchus_anatinus.tblout --cpu 8 pfam_list/AdoMet_Mtase.hmm proteomes/Ornithorhynchus_anatinus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:45 2025
+# [ok]

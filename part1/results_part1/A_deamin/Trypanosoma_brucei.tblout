@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q389P9|Q389P9_TRYB2 -          A_deamin             PF02137.25     1e-22   80.0   0.0     5e-22   77.7   0.0   2.0   1   1   0   1   1   1   1 Adenosine deaminase-like protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.406.0070 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/A_deamin.hmm
+# Target file:     proteomes/Trypanosoma_brucei.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/A_deamin/Trypanosoma_brucei.tblout --cpu 8 pfam_list/A_deamin.hmm proteomes/Trypanosoma_brucei.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:12 2025
+# [ok]

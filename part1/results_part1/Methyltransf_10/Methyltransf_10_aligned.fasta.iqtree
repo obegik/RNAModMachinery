@@ -1,0 +1,203 @@
+IQ-TREE 3.0.1 built Jul  9 2025
+
+Input file name: results_part1_v3/Methyltransf_10/Methyltransf_10_aligned.fasta
+Type of analysis: tree reconstruction
+Random seed number: 763423
+
+REFERENCES
+----------
+
+To cite IQ-TREE 3 please use:
+
+Thomas K.F. Wong, Nhan Ly-Trong, Huaiyan Ren, Hector Banos, Andrew J. Roger,
+Edward Susko, Chris Bielow, Nicola De Maio, Nick Goldman, Matthew W. Hahn,
+Gavin Huttley, Robert Lanfear, Bui Quang Minh (2025)
+IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models.
+Submitted.
+
+Please also cite the following paper(s) for the feature(s) that you used:
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 45 sequences with 1763 amino-acid sites
+Number of constant sites: 869 (= 49.291% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 869 (= 49.291% of all sites)
+Number of parsimony informative sites: 548
+Number of distinct site patterns: 1107
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: JTT+F+I+G4
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.0663
+  pi(R) = 0.0580
+  pi(N) = 0.0563
+  pi(D) = 0.0514
+  pi(C) = 0.0240
+  pi(Q) = 0.0395
+  pi(E) = 0.0731
+  pi(G) = 0.0559
+  pi(H) = 0.0231
+  pi(I) = 0.0527
+  pi(L) = 0.0920
+  pi(K) = 0.0694
+  pi(M) = 0.0232
+  pi(F) = 0.0389
+  pi(P) = 0.0539
+  pi(S) = 0.0664
+  pi(T) = 0.0510
+  pi(W) = 0.0177
+  pi(Y) = 0.0277
+  pi(V) = 0.0597
+
+Model of rate heterogeneity: Invar+Gamma with 4 categories
+Proportion of invariable sites: 0.0059
+Gamma shape alpha: 0.8566
+
+ Category  Relative_rate  Proportion
+  0         0              0.0059
+  1         0.1082         0.2485
+  2         0.4315         0.2485
+  3         0.9773         0.2485
+  4         2.5069         0.2485
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -30842.7091 (s.e. 888.0115)
+Unconstrained log-likelihood (without tree): -11206.9831
+Number of free parameters (#branches + #model parameters): 108
+Akaike information criterion (AIC) score: 61901.4182
+Corrected Akaike information criterion (AICc) score: 61915.6528
+Bayesian information criterion (BIC) score: 62492.6936
+
+Total tree length (sum of branch lengths): 74.5326
+Sum of internal branch lengths: 16.3717 (21.9659% of tree length)
+
+WARNING: 3 near-zero internal branches (<0.0006) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'tr|A0A1X7U5N0|A0A1X7U5N0_AMPQE' is drawn at root
+
++------------tr|A0A1X7U5N0|A0A1X7U5N0_AMPQE
+|
+|                                +--tr|G1KT98|G1KT98_ANOCA
+|                             +--|
+|                             |  |  +--tr|A0A8V1A2N3|A0A8V1A2N3_CHICK
+|                             |  +--|
+|                             |     +**sp|Q5ZIA0|MET16_CHICK
+|                          +--|
+|                          |  |        +--tr|A0A8I3NTP2|A0A8I3NTP2_CANLF
+|                          |  |     +--|
+|                          |  |     |  |                 +--tr|G3R2P8|G3R2P8_GORGO
+|                          |  |     |  |              +--|
+|                          |  |     |  |              |  |     +**sp|Q86W50|MET16_HUMAN
+|                          |  |     |  |              |  |  +--|
+|                          |  |     |  |              |  |  |  +**tr|B7Z3X7|B7Z3X7_HUMAN
+|                          |  |     |  |              |  +--|
+|                          |  |     |  |              |     +--tr|A0A2I3RSR0|A0A2I3RSR0_PANTR
+|                          |  |     |  |           +**|
+|                          |  |     |  |           |  +---tr|K7EKQ8|K7EKQ8_HUMAN
+|                          |  |     |  |        +**|
+|                          |  |     |  |        |  +**tr|I3L4V1|I3L4V1_HUMAN
+|                          |  |     |  |     +**|
+|                          |  |     |  |     |  +--tr|F7DQI0|F7DQI0_MACMU
+|                          |  |     |  |  +--|
+|                          |  |     |  |  |  |  +**tr|I3L362|I3L362_HUMAN
+|                          |  |     |  |  |  +--|
+|                          |  |     |  |  |     +--tr|I3L3W3|I3L3W3_HUMAN
+|                          |  |     |  +--|
+|                          |  |     |     +--sp|Q9CQG2|MET16_MOUSE
+|                          |  |  +--|
+|                          |  |  |  +--tr|F7FJY5|F7FJY5_MONDO
+|                          |  +--|
+|                          |     +--tr|F6WLG9|F6WLG9_ORNAN
+|                       +--|
+|                       |  +--tr|B3DL09|B3DL09_XENTR
+|                    +--|
+|                    |  +--tr|A0A4W3IDF2|A0A4W3IDF2_CALMI
+|                 +--|
+|                 |  |  +--sp|Q6DC64|MET16_DANRE
+|                 |  +--|
+|                 |     +--tr|H2UTY0|H2UTY0_TAKRU
+|              +--|
+|              |  +--tr|S4RS03|S4RS03_PETMA
+|           +--|
+|           |  +---tr|S4RH34|S4RH34_PETMA
+|        +--|
+|        |  +----tr|C3XVT6|C3XVT6_BRAFL
+|     +--|
+|     |  +------tr|W4YFA7|W4YFA7_STRPU
+|  +--|
+|  |  |  +-----tr|A7SK94|A7SK94_NEMVE
+|  |  +--|
+|  |     +------tr|B3S3V1|B3S3V1_TRIAD
++--|
+|  |                    +--tr|F4IGH3|F4IGH3_ARATH
+|  |              +-----|
+|  |              |     +--tr|Q6YUR7|Q6YUR7_ORYSJ
+|  |           +--|
+|  |           |  +---------tr|A0A2K3E7L6|A0A2K3E7L6_CHLRE
+|  |        +--|
+|  |        |  |           +------sp|P75782|RLMF_ECOLI
+|  |        |  |     +-----|
+|  |        |  |     |     +----sp|Q9HXG4|RLMF_PSEAE
+|  |        |  |  +--|
+|  |        |  |  |  +------------------------tr|Q8ILX8|Q8ILX8_PLAF7
+|  |        |  +--|
+|  |        |     +------------------tr|Q231G1|Q231G1_TETTS
+|  |     +--|
+|  |     |  |                +--------------------------------------sp|P37543|YABB_BACSU
+|  |     |  |     +----------|
+|  |     |  |     |          |                   +----sp|Q60354|Y046_METJA
+|  |     |  |     |          +-------------------|
+|  |     |  |     |                              +-------------tr|Q5JJ79|Q5JJ79_THEKO
+|  |     |  |  +--|
+|  |     |  |  |  +-----------tr|A9V4W7|A9V4W7_MONBE
+|  |     |  +--|
+|  |     |     |  +-------------------tr|B8CFF4|B8CFF4_THAPS
+|  |     |     +--|
+|  |     |        +---------------tr|A0A0L0DR59|A0A0L0DR59_THETB
+|  |  +--|
+|  |  |  +----------tr|S2JGU6|S2JGU6_MUCC1
+|  +--|
+|     |  +-----------sp|Q09357|MET16_CAEEL
+|     +--|
+|        +------------sp|Q554C9|MET16_DICDI
+|
+|  +------------sp|Q7K3B9|MET16_DROME
++--|
+   +--------tr|A0ABM4CQA7|A0ABM4CQA7_HYDVU
+
+Tree in newick format:
+
+(tr|A0A1X7U5N0|A0A1X7U5N0_AMPQE:2.5240895301,(((((((((((tr|G1KT98|G1KT98_ANOCA:0.3537931360,(tr|A0A8V1A2N3|A0A8V1A2N3_CHICK:0.0019921181,sp|Q5ZIA0|MET16_CHICK:0.0000013192):0.1562503254):0.0557298934,(((tr|A0A8I3NTP2|A0A8I3NTP2_CANLF:0.0379503876,((((((tr|G3R2P8|G3R2P8_GORGO:0.0038892966,((sp|Q86W50|MET16_HUMAN:0.0000013192,tr|B7Z3X7|B7Z3X7_HUMAN:0.0000013192):0.0019902079,tr|A0A2I3RSR0|A0A2I3RSR0_PANTR:0.0214177064):0.0022847573):0.0119754851,tr|K7EKQ8|K7EKQ8_HUMAN:0.7676398396):0.0000173749,tr|I3L4V1|I3L4V1_HUMAN:0.0000013192):0.0000015831,tr|F7DQI0|F7DQI0_MACMU:0.0244034868):0.0000028831,(tr|I3L362|I3L362_HUMAN:0.0000013192,tr|I3L3W3|I3L3W3_HUMAN:0.0158743810):0.1252871959):0.0236963530,sp|Q9CQG2|MET16_MOUSE:0.1076334701):0.0160782001):0.1087436583,tr|F7FJY5|F7FJY5_MONDO:0.1445110595):0.0602252432,tr|F6WLG9|F6WLG9_ORNAN:0.1850177280):0.0752055401):0.0562453292,tr|B3DL09|B3DL09_XENTR:0.3444011992):0.0671458167,tr|A0A4W3IDF2|A0A4W3IDF2_CALMI:0.3741756873):0.1140150164,(sp|Q6DC64|MET16_DANRE:0.2194697495,tr|H2UTY0|H2UTY0_TAKRU:0.3750652722):0.0804191139):0.1576661629,tr|S4RS03|S4RS03_PETMA:0.5182243093):0.0767060989,tr|S4RH34|S4RH34_PETMA:0.8199739826):0.4908281761,tr|C3XVT6|C3XVT6_BRAFL:1.1244485457):0.1955326102,tr|W4YFA7|W4YFA7_STRPU:1.3340652598):0.2687661856,(tr|A7SK94|A7SK94_NEMVE:1.2627675295,tr|B3S3V1|B3S3V1_TRIAD:1.4290190825):0.2791963739):0.3254232162,((((((tr|F4IGH3|F4IGH3_ARATH:0.7162628985,tr|Q6YUR7|Q6YUR7_ORYSJ:0.4423263913):1.1952143917,tr|A0A2K3E7L6|A0A2K3E7L6_CHLRE:1.9686270055):0.5450107091,(((sp|P75782|RLMF_ECOLI:1.3699298515,sp|Q9HXG4|RLMF_PSEAE:1.1326906238):1.2566570102,tr|Q8ILX8|Q8ILX8_PLAF7:4.7619193652):0.5726314787,tr|Q231G1|Q231G1_TETTS:3.6109227838):0.5741050453):0.6132740777,(((sp|P37543|YABB_BACSU:7.5626730011,(sp|Q60354|Y046_METJA:1.0722015952,tr|Q5JJ79|Q5JJ79_THEKO:2.6907340480):3.8155668262):2.1928211910,tr|A9V4W7|A9V4W7_MONBE:2.4190783818):0.2221600224,(tr|B8CFF4|B8CFF4_THAPS:3.8473039121,tr|A0A0L0DR59|A0A0L0DR59_THETB:3.1832178744):0.5833881598):0.1040995024):0.3825065429,tr|S2JGU6|S2JGU6_MUCC1:2.1673762740):0.2472718192,(sp|Q09357|MET16_CAEEL:2.2968676442,sp|Q554C9|MET16_DICDI:2.6047285992):0.4023885331):0.3805720679):0.2701129304,(sp|Q7K3B9|MET16_DROME:2.5729139259,tr|A0ABM4CQA7|A0ABM4CQA7_HYDVU:1.7492174176):0.2665242150);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t results_part1_v3/Methyltransf_10/Methyltransf_10_aligned.fasta.treefile -m "JTT+F+I{0.00593413}+G4{0.856639}" --length 1763
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s results_part1_v3/Methyltransf_10/Methyltransf_10_aligned.fasta --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s results_part1_v3/Methyltransf_10/Methyltransf_10_aligned.fasta --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Mon Oct 20 22:12:32 2025
+Total CPU time used: 11.967 seconds (0h:0m:11s)
+Total wall-clock time used: 4.51554 seconds (0h:0m:4s)
+

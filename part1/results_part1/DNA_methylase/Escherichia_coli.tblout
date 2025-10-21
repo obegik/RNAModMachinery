@@ -1,0 +1,15 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P0AED9|DCM_ECOLI  -          DNA_methylase        PF00145.24     7e-78  260.3   0.0   1.2e-77  259.5   0.0   1.3   1   0   0   1   1   1   1 DNA-cytosine methyltransferase OS=Escherichia coli (strain K12) OX=83333 GN=dcm PE=1 SV=1
+sp|P04825|AMPN_ECOLI -          DNA_methylase        PF00145.24      0.04   11.3   0.0       2.8    5.2   0.0   2.2   2   0   0   2   2   2   0 Aminopeptidase N OS=Escherichia coli (strain K12) OX=83333 GN=pepN PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DNA_methylase.hmm
+# Target file:     proteomes/Escherichia_coli.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DNA_methylase/Escherichia_coli.tblout --cpu 8 pfam_list/DNA_methylase.hmm proteomes/Escherichia_coli.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:00:09 2025
+# [ok]

@@ -1,0 +1,18 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7CLK5|F7CLK5_ORNAN -          APOBEC_N             PF08210.18   1.7e-66  223.7   0.4   1.9e-66  223.5   0.4   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 GN=AICDA PE=4 SV=1
+tr|F6PKH9|F6PKH9_ORNAN -          APOBEC_N             PF08210.18   8.3e-57  192.2   0.2   9.4e-57  192.0   0.2   1.0   1   0   0   1   1   1   1 Apolipoprotein B mRNA editing enzyme catalytic subunit 2 OS=Ornithorhynchus anatinus OX=9258 GN=APOBEC2 PE=4 SV=1
+tr|F6VU78|F6VU78_ORNAN -          APOBEC_N             PF08210.18     1e-19   71.4   0.0   1.4e-19   71.0   0.0   1.1   1   0   0   1   1   1   1 Apolipoprotein B mRNA editing enzyme catalytic polypeptide like 4 OS=Ornithorhynchus anatinus OX=9258 GN=APOBEC4 PE=4 SV=1
+tr|F7EUV1|F7EUV1_ORNAN -          APOBEC_N             PF08210.18     0.003   17.8   0.0    0.0039   17.5   0.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 PE=4 SV=1
+tr|F6V0Z2|F6V0Z2_ORNAN -          APOBEC_N             PF08210.18     0.072   13.3   0.0     0.079   13.2   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 GN=DCTD PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/APOBEC_N.hmm
+# Target file:     proteomes/Ornithorhynchus_anatinus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/APOBEC_N/Ornithorhynchus_anatinus.tblout --cpu 8 pfam_list/APOBEC_N.hmm proteomes/Ornithorhynchus_anatinus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:58:53 2025
+# [ok]

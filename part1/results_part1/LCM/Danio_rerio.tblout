@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2R8Q906|A0A2R8Q906_DANRE -          LCM                  PF04072.21     3e-28   99.5   0.0   6.3e-28   98.4   0.0   1.4   1   1   0   1   1   1   1 Leucine carboxyl methyltransferase 1 OS=Danio rerio OX=7955 GN=lcmt1 PE=1 SV=1
+tr|A8WHX0|A8WHX0_DANRE         -          LCM                  PF04072.21   1.6e-23   84.1   0.0   3.1e-23   83.2   0.0   1.4   1   0   0   1   1   1   1 Leucine carboxyl methyltransferase 2 OS=Danio rerio OX=7955 GN=lcmt2 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/LCM.hmm
+# Target file:     proteomes/Danio_rerio.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/LCM/Danio_rerio.tblout --cpu 8 pfam_list/LCM.hmm proteomes/Danio_rerio.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:44 2025
+# [ok]

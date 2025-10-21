@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|H9G5U3|H9G5U3_ANOCA -          LCM                  PF04072.21   5.7e-31  107.9   0.0   3.4e-30  105.4   0.0   1.9   1   1   0   1   1   1   1 Leucine carboxyl methyltransferase 1 OS=Anolis carolinensis OX=28377 GN=lcmt1 PE=3 SV=2
+tr|G1KED0|G1KED0_ANOCA -          LCM                  PF04072.21      0.14   12.1   0.0      0.46   10.4   0.0   1.8   2   0   0   2   2   2   0 Centrosomal protein 44 OS=Anolis carolinensis OX=28377 GN=CEP44 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/LCM.hmm
+# Target file:     proteomes/Anolis_carolinensis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/LCM/Anolis_carolinensis.tblout --cpu 8 pfam_list/LCM.hmm proteomes/Anolis_carolinensis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:42 2025
+# [ok]

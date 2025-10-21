@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A9V4W7|A9V4W7_MONBE -          Methyltransf_10      PF05971.19   4.3e-60  202.6   0.1   1.9e-31  108.6   0.1   2.9   2   1   0   2   2   2   2 Predicted protein OS=Monosiga brevicollis OX=81824 GN=27301 PE=4 SV=1
+tr|A9UWC2|A9UWC2_MONBE -          Methyltransf_10      PF05971.19     0.018   13.5   0.0     0.022   13.2   0.0   1.1   1   0   0   1   1   1   0 Predicted protein OS=Monosiga brevicollis OX=81824 GN=36597 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltransf_10.hmm
+# Target file:     proteomes/Monosiga_brevicollis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltransf_10/Monosiga_brevicollis.tblout --cpu 8 pfam_list/Methyltransf_10.hmm proteomes/Monosiga_brevicollis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:12:20 2025
+# [ok]

@@ -1,0 +1,64 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6X6T3|F6X6T3_MACMU         -          Methyltransf_11      PF08241.19   3.4e-21   75.9   0.0   5.2e-21   75.3   0.0   1.3   1   0   0   1   1   1   1 Methyltransferase like 7B OS=Macaca mulatta OX=9544 GN=METTL7B PE=4 SV=1
+tr|F6X1K2|F6X1K2_MACMU         -          Methyltransf_11      PF08241.19     1e-20   74.4   0.0   1.6e-20   73.8   0.0   1.3   1   0   0   1   1   1   1 Methyltransferase like 7A OS=Macaca mulatta OX=9544 GN=METTL7A PE=4 SV=1
+tr|F7EJI0|F7EJI0_MACMU         -          Methyltransf_11      PF08241.19     3e-20   72.9   0.0   7.2e-20   71.7   0.0   1.6   2   0   0   2   2   1   1 NADH:ubiquinone oxidoreductase complex assembly factor 5 OS=Macaca mulatta OX=9544 GN=NDUFAF5 PE=4 SV=2
+tr|A0A1D5Q0I7|A0A1D5Q0I7_MACMU -          Methyltransf_11      PF08241.19   8.7e-19   68.2   0.1   4.3e-18   66.0   0.0   2.1   2   0   0   2   2   2   1 tRNA methyltransferase 9B (putative) OS=Macaca mulatta OX=9544 GN=TRMT9B PE=4 SV=1
+tr|A0A1D5QG92|A0A1D5QG92_MACMU -          Methyltransf_11      PF08241.19   1.9e-18   67.1   0.0   5.6e-18   65.6   0.0   1.8   2   0   0   2   2   1   1 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial OS=Macaca mulatta OX=9544 GN=COQ5 PE=3 SV=1
+tr|F7FCI4|F7FCI4_MACMU         -          Methyltransf_11      PF08241.19   1.4e-17   64.3   0.1   2.6e-13   50.7   0.0   4.2   4   0   0   4   4   4   1 Methyltransferase like 13 OS=Macaca mulatta OX=9544 GN=METTL13 PE=4 SV=1
+tr|A0A1D5R6R2|A0A1D5R6R2_MACMU -          Methyltransf_11      PF08241.19   2.4e-17   63.6   0.0   4.5e-17   62.7   0.0   1.5   1   0   0   1   1   1   1 Arsenite methyltransferase OS=Macaca mulatta OX=9544 GN=AS3MT PE=4 SV=1
+tr|A0A1D5QHE1|A0A1D5QHE1_MACMU -          Methyltransf_11      PF08241.19   8.3e-16   58.6   0.1   1.7e-15   57.7   0.1   1.5   1   0   0   1   1   1   1 AlkB homolog 8, tRNA methyltransferase OS=Macaca mulatta OX=9544 GN=ALKBH8 PE=4 SV=1
+tr|F6XTE0|F6XTE0_MACMU         -          Methyltransf_11      PF08241.19   2.1e-12   47.8   0.0     4e-11   43.6   0.0   2.7   3   0   0   3   3   3   1 Methyltransferase-like protein OS=Macaca mulatta OX=9544 GN=METTL2A PE=2 SV=1
+tr|F7HMB4|F7HMB4_MACMU         -          Methyltransf_11      PF08241.19   9.2e-12   45.7   0.0   1.5e-11   45.0   0.0   1.3   1   0   0   1   1   1   1 Alpha N-terminal protein methyltransferase 1A OS=Macaca mulatta OX=9544 GN=NTMT1 PE=2 SV=1
+tr|A0A1D5Q4C9|A0A1D5Q4C9_MACMU -          Methyltransf_11      PF08241.19   1.3e-11   45.2   0.0   2.2e-11   44.4   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=BUD23 PE=4 SV=1
+tr|G7MJV8|G7MJV8_MACMU         -          Methyltransf_11      PF08241.19   8.5e-11   42.6   0.2   3.3e-10   40.7   0.0   1.9   2   0   0   2   2   2   1 Methyltransferase-like protein OS=Macaca mulatta OX=9544 GN=METTL6 PE=2 SV=1
+tr|F7C3H4|F7C3H4_MACMU         -          Methyltransf_11      PF08241.19   3.8e-09   37.3   0.1   1.9e-08   35.0   0.1   2.1   1   1   0   1   1   1   1 Ribosomal RNA processing 8 OS=Macaca mulatta OX=9544 GN=RRP8 PE=4 SV=1
+tr|G7NCT4|G7NCT4_MACMU         -          Methyltransf_11      PF08241.19     1e-08   35.9   0.0   1.6e-08   35.3   0.0   1.3   1   0   0   1   1   1   1 Methyltransferase-like protein 12, mitochondrial OS=Macaca mulatta OX=9544 GN=METTL12 PE=2 SV=1
+tr|F7CZP8|F7CZP8_MACMU         -          Methyltransf_11      PF08241.19   1.3e-08   35.6   0.0   2.4e-08   34.7   0.0   1.5   1   0   0   1   1   1   1 Glycine N-methyltransferase OS=Macaca mulatta OX=9544 GN=GNMT PE=2 SV=1
+tr|H9FSY6|H9FSY6_MACMU         -          Methyltransf_11      PF08241.19   1.7e-08   35.2   0.1   1.5e-07   32.2   0.1   2.3   2   0   0   2   2   2   1 tRNA (Uracil-5-)-methyltransferase homolog A OS=Macaca mulatta OX=9544 GN=TRMT2A PE=2 SV=1
+tr|F7H715|F7H715_MACMU         -          Methyltransf_11      PF08241.19   1.9e-08   35.1   0.0   4.8e-08   33.8   0.0   1.8   1   0   0   1   1   1   1 THUMP domain containing 2 OS=Macaca mulatta OX=9544 GN=THUMPD2 PE=4 SV=2
+tr|A0A1D5QJG6|A0A1D5QJG6_MACMU -          Methyltransf_11      PF08241.19     2e-08   35.0   0.0   5.3e-08   33.6   0.0   1.8   1   0   0   1   1   1   1 Protein arginine methyltransferase 3 OS=Macaca mulatta OX=9544 GN=PRMT3 PE=3 SV=1
+tr|F7EXI8|F7EXI8_MACMU         -          Methyltransf_11      PF08241.19   3.3e-08   34.3   0.0     0.011   16.6   0.0   2.4   2   0   0   2   2   2   2 7SK snRNA methylphosphate capping enzyme isoform A OS=Macaca mulatta OX=9544 GN=MEPCE PE=2 SV=2
+tr|F7D7T3|F7D7T3_MACMU         -          Methyltransf_11      PF08241.19   3.4e-08   34.2   0.0   1.1e-07   32.7   0.0   1.9   2   0   0   2   2   1   1 mRNA cap guanine-N7 methyltransferase OS=Macaca mulatta OX=9544 GN=RNMT PE=3 SV=2
+tr|F6U0L7|F6U0L7_MACMU         -          Methyltransf_11      PF08241.19   4.9e-08   33.7   0.0   1.4e-07   32.3   0.0   1.8   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=LOC702851 PE=4 SV=2
+tr|A0A1D5RAB9|A0A1D5RAB9_MACMU -          Methyltransf_11      PF08241.19   1.4e-07   32.3   0.0   4.7e-07   30.6   0.0   1.9   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=PRMT1 PE=3 SV=1
+tr|F7H1A9|F7H1A9_MACMU         -          Methyltransf_11      PF08241.19   6.8e-07   30.1   0.1   1.8e-06   28.7   0.0   1.7   2   0   0   2   2   1   1 Protein arginine N-methyltransferase 6 OS=Macaca mulatta OX=9544 GN=PRMT6 PE=2 SV=1
+tr|F7ALQ3|F7ALQ3_MACMU         -          Methyltransf_11      PF08241.19   8.1e-07   29.8   0.0     2e-06   28.6   0.0   1.7   1   0   0   1   1   1   1 Protein arginine methyltransferase 8 OS=Macaca mulatta OX=9544 GN=PRMT8 PE=3 SV=2
+tr|H9FV79|H9FV79_MACMU         -          Methyltransf_11      PF08241.19   9.2e-07   29.6   0.0   1.7e-06   28.8   0.0   1.5   1   0   0   1   1   1   1 Methyltransferase like 9 OS=Macaca mulatta OX=9544 GN=METTL9 PE=2 SV=1
+tr|F7FM77|F7FM77_MACMU         -          Methyltransf_11      PF08241.19   4.1e-06   27.6   0.0   9.9e-06   26.3   0.0   1.7   1   0   0   1   1   1   1 Coactivator associated arginine methyltransferase 1 OS=Macaca mulatta OX=9544 GN=CARM1 PE=3 SV=2
+tr|F6X5A5|F6X5A5_MACMU         -          Methyltransf_11      PF08241.19   8.1e-06   26.6   0.0   1.6e-05   25.7   0.0   1.4   1   0   0   1   1   1   1 rRNA adenine N(6)-methyltransferase OS=Macaca mulatta OX=9544 GN=DIMT1 PE=3 SV=2
+tr|F6VWE5|F6VWE5_MACMU         -          Methyltransf_11      PF08241.19   8.7e-06   26.5   0.0   1.7e-05   25.6   0.0   1.4   1   1   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=4 SV=2
+tr|F6V6X0|F6V6X0_MACMU         -          Methyltransf_11      PF08241.19     2e-05   25.3   0.1   4.4e-05   24.3   0.1   1.5   1   0   0   1   1   1   1 Methyltransferase like 5 OS=Macaca mulatta OX=9544 GN=METTL5 PE=4 SV=1
+tr|A0A1D5RD03|A0A1D5RD03_MACMU -          Methyltransf_11      PF08241.19     3e-05   24.8   0.0   7.6e-05   23.5   0.0   1.7   1   0   0   1   1   1   1 HemK methyltransferase family member 1 OS=Macaca mulatta OX=9544 GN=HEMK1 PE=4 SV=1
+tr|F7EJY8|F7EJY8_MACMU         -          Methyltransf_11      PF08241.19   5.4e-05   24.0   0.0   9.8e-05   23.1   0.0   1.5   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=PRMT2 PE=3 SV=2
+tr|F7GFV2|F7GFV2_MACMU         -          Methyltransf_11      PF08241.19   0.00015   22.5   0.1   0.00037   21.3   0.1   1.7   1   1   0   1   1   1   1 Protein-L-isoaspartate O-methyltransferase OS=Macaca mulatta OX=9544 GN=PCMT1 PE=3 SV=2
+tr|F7EP83|F7EP83_MACMU         -          Methyltransf_11      PF08241.19   0.00016   22.4   0.0   0.00056   20.7   0.0   1.9   2   0   0   2   2   1   1 Methyltransferase like 17 OS=Macaca mulatta OX=9544 GN=METTL17 PE=4 SV=1
+tr|F6PYE7|F6PYE7_MACMU         -          Methyltransf_11      PF08241.19   0.00018   22.3   0.0   0.00096   20.0   0.0   2.3   2   0   0   2   2   1   1 Fatty acid synthase OS=Macaca mulatta OX=9544 GN=FASN PE=2 SV=2
+tr|H9FXF1|H9FXF1_MACMU         -          Methyltransf_11      PF08241.19   0.00027   21.7   0.1   0.00074   20.3   0.0   1.9   2   0   0   2   2   1   1 Anamorsin OS=Macaca mulatta OX=9544 GN=CIAPIN1 PE=2 SV=1
+tr|F7G2A0|F7G2A0_MACMU         -          Methyltransf_11      PF08241.19   0.00051   20.8   0.0    0.0011   19.7   0.0   1.6   1   0   0   1   1   1   1 Trimethylguanosine synthase 1 OS=Macaca mulatta OX=9544 GN=TGS1 PE=4 SV=2
+tr|F7ERX8|F7ERX8_MACMU         -          Methyltransf_11      PF08241.19   0.00054   20.8   0.0      0.57   11.1   0.0   2.4   1   1   1   2   2   2   1 Nicotinamide N-methyltransferase OS=Macaca mulatta OX=9544 GN=NNMT PE=1 SV=1
+tr|F7HIR5|F7HIR5_MACMU         -          Methyltransf_11      PF08241.19    0.0014   19.4   0.0    0.0029   18.4   0.0   1.6   1   0   0   1   1   1   1 Calmodulin-lysine N-methyltransferase OS=Macaca mulatta OX=9544 GN=CAMKMT PE=4 SV=2
+tr|F6UTK6|F6UTK6_MACMU         -          Methyltransf_11      PF08241.19    0.0025   18.7   0.0    0.0049   17.7   0.0   1.5   1   0   0   1   1   1   1 tRNA methyltransferase 2 homolog B OS=Macaca mulatta OX=9544 GN=TRMT2B PE=3 SV=2
+tr|G7MS35|G7MS35_MACMU         -          Methyltransf_11      PF08241.19    0.0028   18.5   0.0    0.0082   17.0   0.0   1.8   1   0   0   1   1   1   1 Protein arginine methyltransferase 9 OS=Macaca mulatta OX=9544 GN=PRMT10 PE=2 SV=1
+tr|F7HEH7|F7HEH7_MACMU         -          Methyltransf_11      PF08241.19    0.0079   17.0   0.0     0.051   14.5   0.0   2.4   1   1   1   2   2   1   1 Methyltransferase like 25 OS=Macaca mulatta OX=9544 GN=METTL25 PE=4 SV=2
+tr|F6YM16|F6YM16_MACMU         -          Methyltransf_11      PF08241.19     0.013   16.4   0.0     0.029   15.2   0.0   1.7   1   1   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=4 SV=2
+tr|F6SE63|F6SE63_MACMU         -          Methyltransf_11      PF08241.19     0.021   15.6   0.0     0.041   14.7   0.0   1.5   1   0   0   1   1   1   0 N-6 adenine-specific DNA methyltransferase 1 OS=Macaca mulatta OX=9544 GN=N6AMT1 PE=4 SV=2
+tr|A0A1D5Q6J0|A0A1D5Q6J0_MACMU -          Methyltransf_11      PF08241.19     0.074   13.9   0.2       7.7    7.5   0.0   3.4   2   1   0   2   2   2   0 BCDIN3 domain containing RNA methyltransferase OS=Macaca mulatta OX=9544 GN=BCDIN3D PE=4 SV=1
+tr|F7C5E4|F7C5E4_MACMU         -          Methyltransf_11      PF08241.19     0.085   13.7   0.0      0.13   13.2   0.0   1.3   1   0   0   1   1   1   0 Family with sequence similarity 173 member A OS=Macaca mulatta OX=9544 GN=FAM173A PE=4 SV=2
+tr|F6S6A3|F6S6A3_MACMU         -          Methyltransf_11      PF08241.19     0.088   13.7   0.1      0.23   12.3   0.1   1.7   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=METTL22 PE=4 SV=1
+tr|A0A1D5RB84|A0A1D5RB84_MACMU -          Methyltransf_11      PF08241.19      0.11   13.4   0.0      0.19   12.6   0.0   1.5   1   0   0   1   1   1   0 Family with sequence similarity 173 member B OS=Macaca mulatta OX=9544 GN=FAM173B PE=4 SV=1
+tr|F6TPF9|F6TPF9_MACMU         -          Methyltransf_11      PF08241.19      0.12   13.2   0.0      0.53   11.2   0.0   2.0   1   1   0   1   1   1   0 Thiopurine S-methyltransferase OS=Macaca mulatta OX=9544 GN=TPMT PE=3 SV=1
+tr|F7D8N8|F7D8N8_MACMU         -          Methyltransf_11      PF08241.19      0.12   13.2   0.0      0.27   12.1   0.0   1.6   1   0   0   1   1   1   0 Carnosine N-methyltransferase 1 OS=Macaca mulatta OX=9544 GN=CARNMT1 PE=4 SV=2
+tr|H9FSL6|H9FSL6_MACMU         -          Methyltransf_11      PF08241.19      0.15   13.0   0.0      0.81   10.6   0.0   2.3   1   1   0   1   1   1   0 THUMP domain containing 3 OS=Macaca mulatta OX=9544 GN=THUMPD3 PE=2 SV=1
+tr|F7H0K8|F7H0K8_MACMU         -          Methyltransf_11      PF08241.19      0.17   12.8   0.0         2    9.3   0.0   2.4   1   1   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=HENMT1 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltransf_11.hmm
+# Target file:     proteomes/Macaca_mulatta.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltransf_11/Macaca_mulatta.tblout --cpu 8 pfam_list/Methyltransf_11.hmm proteomes/Macaca_mulatta.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:12:36 2025
+# [ok]

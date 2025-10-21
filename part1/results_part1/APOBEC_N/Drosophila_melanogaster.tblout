@@ -1,0 +1,14 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9VWA2|DCTD_DROME -          APOBEC_N             PF08210.18      0.13   11.9   0.0      0.21   11.2   0.0   1.4   1   0   0   1   1   1   0 Probable deoxycytidylate deaminase OS=Drosophila melanogaster OX=7227 GN=CG6951 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/APOBEC_N.hmm
+# Target file:     proteomes/Drosophila_melanogaster.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/APOBEC_N/Drosophila_melanogaster.tblout --cpu 8 pfam_list/APOBEC_N.hmm proteomes/Drosophila_melanogaster.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:58:50 2025
+# [ok]

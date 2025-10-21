@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|H2QTU8|H2QTU8_PANTR         -          MafB19-deam          PF14437.13   8.7e-19   68.1   0.1   1.1e-18   67.8   0.1   1.2   1   0   0   1   1   1   1 ADAT2 isoform 2 OS=Pan troglodytes OX=9598 GN=ADAT2 PE=2 SV=1
+tr|K6ZVZ8|K6ZVZ8_PANTR         -          MafB19-deam          PF14437.13   1.4e-15   57.6   0.0   1.8e-15   57.4   0.0   1.1   1   0   0   1   1   1   1 DCTD isoform 7 OS=Pan troglodytes OX=9598 GN=DCTD PE=2 SV=1
+tr|K7B8T4|K7B8T4_PANTR         -          MafB19-deam          PF14437.13   7.7e-13   48.8   1.0   1.6e-05   25.1   0.1   2.9   2   1   0   2   2   2   2 CDADC1 isoform 1 OS=Pan troglodytes OX=9598 GN=CDADC1 PE=2 SV=1
+tr|H2R7B7|H2R7B7_PANTR         -          MafB19-deam          PF14437.13     0.043   14.0   0.0     0.093   12.9   0.0   1.5   2   0   0   2   2   2   0 APOBEC2 isoform 1 OS=Pan troglodytes OX=9598 GN=APOBEC2 PE=4 SV=2
+tr|A0A2I3T2F3|A0A2I3T2F3_PANTR -          MafB19-deam          PF14437.13      0.11   12.7   0.2      0.17   12.1   0.2   1.2   1   0   0   1   1   1   0 Apolipoprotein B mRNA editing enzyme catalytic subunit 3H OS=Pan troglodytes OX=9598 GN=APOBEC3H PE=4 SV=1
+tr|H2R235|H2R235_PANTR         -          MafB19-deam          PF14437.13      0.11   12.6   0.1      0.24   11.6   0.1   1.5   1   0   0   1   1   1   0 PSMD10 isoform 1 OS=Pan troglodytes OX=9598 GN=PSMD10 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MafB19-deam.hmm
+# Target file:     proteomes/Pan_troglodytes.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MafB19-deam/Pan_troglodytes.tblout --cpu 8 pfam_list/MafB19-deam.hmm proteomes/Pan_troglodytes.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:09:25 2025
+# [ok]

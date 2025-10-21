@@ -1,0 +1,19 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|S4RSN2|S4RSN2_PETMA -          A_deamin             PF02137.25  1.2e-114  382.8   0.0  1.5e-114  382.4   0.0   1.1   1   0   0   1   1   1   1 Adenosine deaminase, RNA specific B1 OS=Petromyzon marinus OX=7757 GN=ADARB1 (1 of many) PE=4 SV=1
+tr|S4RGK3|S4RGK3_PETMA -          A_deamin             PF02137.25   2.6e-85  286.4   0.0   3.4e-85  286.0   0.0   1.1   1   0   0   1   1   1   1 Adenosine deaminase, tRNA-specific 1 OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RL18|S4RL18_PETMA -          A_deamin             PF02137.25   1.2e-67  228.3   0.0   3.1e-66  223.7   0.0   2.0   1   1   0   1   1   1   1 Uncharacterized protein OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RID4|S4RID4_PETMA -          A_deamin             PF02137.25   4.1e-50  170.7   0.0   4.5e-50  170.6   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RQD5|S4RQD5_PETMA -          A_deamin             PF02137.25   2.1e-18   66.5   0.6   3.1e-18   65.9   0.1   1.5   2   0   0   2   2   2   1 Adenosine deaminase, RNA specific B1 OS=Petromyzon marinus OX=7757 GN=ADARB1 (1 of many) PE=4 SV=1
+tr|S4RDB3|S4RDB3_PETMA -          A_deamin             PF02137.25   2.2e-17   63.1   0.0   2.4e-17   63.0   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Petromyzon marinus OX=7757 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/A_deamin.hmm
+# Target file:     proteomes/Petromyzon_marinus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/A_deamin/Petromyzon_marinus.tblout --cpu 8 pfam_list/A_deamin.hmm proteomes/Petromyzon_marinus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:11 2025
+# [ok]

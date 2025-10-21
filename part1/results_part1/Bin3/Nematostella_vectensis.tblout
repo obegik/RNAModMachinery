@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A7SJ10|A7SJ10_NEMVE -          Bin3                 PF06859.19   3.3e-43  147.1   0.0   6.3e-43  146.2   0.0   1.5   1   0   0   1   1   1   1 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g120055 PE=4 SV=1
+tr|A7STP3|A7STP3_NEMVE -          Bin3                 PF06859.19    0.0047   17.9   0.1    0.0075   17.3   0.1   1.4   1   0   0   1   1   1   1 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g131345 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Bin3.hmm
+# Target file:     proteomes/Nematostella_vectensis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Bin3/Nematostella_vectensis.tblout --cpu 8 pfam_list/Bin3.hmm proteomes/Nematostella_vectensis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:54 2025
+# [ok]

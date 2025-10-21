@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A2F938|A2F938_TRIVA -          Methyltransf_10      PF05971.19      0.38   11.5   1.2       2.2    9.0   0.1   2.0   2   0   0   2   2   2   0 Uncharacterized protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_429190 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltransf_10.hmm
+# Target file:     proteomes/Trichomonas_vaginalis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltransf_10/Trichomonas_vaginalis.tblout --cpu 8 pfam_list/Methyltransf_10.hmm proteomes/Trichomonas_vaginalis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:12:22 2025
+# [ok]

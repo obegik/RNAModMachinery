@@ -1,0 +1,21 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q6NPC9|BIN3D_ARATH  -          Bin3                 PF06859.19   3.5e-43  147.2   0.0   3.5e-43  147.2   0.0   2.1   2   0   0   2   2   2   1 Probable RNA methyltransferase At5g51130 OS=Arabidopsis thaliana OX=3702 GN=At5g51130 PE=2 SV=1
+tr|Q9SS89|Q9SS89_ARATH -          Bin3                 PF06859.19    0.0015   19.7   0.0    0.0064   17.6   0.0   2.0   1   1   1   2   2   2   1 At3g01660 OS=Arabidopsis thaliana OX=3702 GN=At3g01660 PE=1 SV=1
+sp|Q9FK25|OMT1_ARATH   -          Bin3                 PF06859.19     0.063   14.4   0.0      0.15   13.3   0.0   1.5   1   0   0   1   1   1   0 Flavone 3'-O-methyltransferase 1 OS=Arabidopsis thaliana OX=3702 GN=OMT1 PE=1 SV=1
+tr|Q9CAQ4|Q9CAQ4_ARATH -          Bin3                 PF06859.19     0.063   14.4   0.1      0.26   12.4   0.1   2.0   2   0   0   2   2   2   0 O-methyltransferase family protein OS=Arabidopsis thaliana OX=3702 GN=At1g77520 PE=1 SV=1
+tr|Q9CAQ3|Q9CAQ3_ARATH -          Bin3                 PF06859.19     0.067   14.4   0.1      0.36   12.0   0.2   2.1   2   0   0   2   2   2   0 O-methyltransferase family protein OS=Arabidopsis thaliana OX=3702 GN=At1g77530 PE=1 SV=1
+tr|Q9FHZ5|Q9FHZ5_ARATH -          Bin3                 PF06859.19     0.091   13.9   0.4      0.28   12.4   0.1   1.9   2   0   0   2   2   2   0 O-methyltransferase OS=Arabidopsis thaliana OX=3702 GN=MGN6.20 PE=2 SV=1
+sp|Q9SCP7|NAMT1_ARATH  -          Bin3                 PF06859.19      0.13   13.4   0.0      0.29   12.3   0.0   1.5   1   0   0   1   1   1   0 Nicotinate N-methyltransferase 1 OS=Arabidopsis thaliana OX=3702 GN=NANMT1 PE=1 SV=1
+sp|Q9C6B9|PEAM3_ARATH  -          Bin3                 PF06859.19      0.24   12.5   0.8        30    5.8   0.3   3.1   2   2   0   2   2   2   0 Phosphoethanolamine N-methyltransferase 3 OS=Arabidopsis thaliana OX=3702 GN=NMT3 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Bin3.hmm
+# Target file:     proteomes/Arabidopsis_thaliana.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Bin3/Arabidopsis_thaliana.tblout --cpu 8 pfam_list/Bin3.hmm proteomes/Arabidopsis_thaliana.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:51 2025
+# [ok]

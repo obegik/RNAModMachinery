@@ -1,0 +1,33 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q389Z0|Q389Z0_TRYB2 -          MTS                  PF05175.21   1.9e-13   49.3   0.2   5.8e-10   37.9   0.0   2.5   1   1   1   2   2   2   2 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.6k15.0440 PE=4 SV=1
+tr|Q4GYA9|Q4GYA9_TRYB2 -          MTS                  PF05175.21   1.1e-08   33.8   0.2   1.8e-08   33.1   0.2   1.2   1   0   0   1   1   1   1 Arginine N-methyltransferase, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=TB927.1.4690 PE=3 SV=1
+tr|Q381Q6|Q381Q6_TRYB2 -          MTS                  PF05175.21   2.3e-07   29.5   0.2      0.36    9.3   0.1   4.0   2   1   1   3   3   3   2 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.01.6940 PE=4 SV=1
+tr|Q38BP3|Q38BP3_TRYB2 -          MTS                  PF05175.21   1.5e-06   26.8   0.0   2.4e-06   26.2   0.0   1.3   1   0   0   1   1   1   1 Arginine N-methyltransferase, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.70.3860 PE=4 SV=1
+tr|Q4GYR8|Q4GYR8_TRYB2 -          MTS                  PF05175.21   3.8e-06   25.5   0.0   6.8e-06   24.7   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=TB927.1.3050 PE=3 SV=1
+sp|Q582G4|ANM7_TRYB2   -          MTS                  PF05175.21   4.1e-06   25.4   0.0   6.6e-06   24.7   0.0   1.3   1   0   0   1   1   1   1 Protein arginine N-methyltransferase 7 OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=PRMT7 PE=1 SV=1
+tr|Q385L0|Q385L0_TRYB2 -          MTS                  PF05175.21   0.00044   18.8   0.1   0.00081   17.9   0.1   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.02.3280 PE=4 SV=1
+tr|Q584S3|Q584S3_TRYB2 -          MTS                  PF05175.21    0.0022   16.5   0.0    0.0032   16.0   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.6.2270 PE=4 SV=1
+tr|Q57Y67|Q57Y67_TRYB2 -          MTS                  PF05175.21    0.0048   15.4   0.2     0.018   13.6   0.0   1.9   2   0   0   2   2   2   1 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.7.6620 PE=4 SV=1
+tr|Q38DV8|Q38DV8_TRYB2 -          MTS                  PF05175.21    0.0063   15.0   0.0      0.01   14.4   0.0   1.3   1   0   0   1   1   1   1 Ubiquinone biosynthesis O-methyltransferase, mitochondrial OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.211.1960 PE=3 SV=1
+tr|Q57U70|Q57U70_TRYB2 -          MTS                  PF05175.21     0.013   14.0   0.0     0.022   13.3   0.0   1.3   1   0   0   1   1   1   0 Arginine N-methyltransferase, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.5.3960 PE=1 SV=1
+tr|Q4FKJ2|Q4FKJ2_TRYB2 -          MTS                  PF05175.21     0.016   13.7   0.0     0.094   11.2   0.0   2.0   2   0   0   2   2   2   0 Methyltransferase OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.6k15.3820 PE=3 SV=1
+tr|Q585P9|Q585P9_TRYB2 -          MTS                  PF05175.21     0.019   13.5   0.0     0.034   12.6   0.0   1.4   1   0   0   1   1   1   0 rRNA adenine N(6)-methyltransferase OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.6.1610 PE=3 SV=1
+tr|Q38D36|Q38D36_TRYB2 -          MTS                  PF05175.21     0.025   13.1   0.0     0.044   12.3   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.211.4740 PE=4 SV=1
+tr|Q57ZS4|Q57ZS4_TRYB2 -          MTS                  PF05175.21     0.036   12.6   0.1     0.065   11.7   0.1   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.5.2050 PE=4 SV=1
+tr|Q38AH9|Q38AH9_TRYB2 -          MTS                  PF05175.21     0.038   12.5   0.0     0.066   11.7   0.0   1.4   1   0   0   1   1   1   0 Protein-L-isoaspartate, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.6k15.2720 PE=4 SV=1
+tr|Q4GZF2|Q4GZF2_TRYB2 -          MTS                  PF05175.21     0.062   11.8   0.0     0.099   11.1   0.0   1.3   1   0   0   1   1   1   0 Histone-lysine N-methyltransferase, H3 lysine-79 specific OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=TB927.1.570 PE=3 SV=1
+tr|Q385P4|Q385P4_TRYB2 -          MTS                  PF05175.21     0.067   11.7   0.0      0.12   10.9   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.02.2910 PE=4 SV=1
+tr|Q381M3|Q381M3_TRYB2 -          MTS                  PF05175.21     0.098   11.2   0.0      0.15   10.6   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.01.7280 PE=3 SV=1
+tr|Q38FT0|Q38FT0_TRYB2 -          MTS                  PF05175.21      0.11   11.0   0.0      0.23   10.0   0.0   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.160.1070 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MTS.hmm
+# Target file:     proteomes/Trypanosoma_brucei.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MTS/Trypanosoma_brucei.tblout --cpu 8 pfam_list/MTS.hmm proteomes/Trypanosoma_brucei.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:06:01 2025
+# [ok]

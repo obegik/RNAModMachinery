@@ -1,0 +1,19 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q91ZS8|RED1_MOUSE  -          A_deamin             PF02137.25  5.7e-117  391.1   0.0    8e-117  390.7   0.0   1.2   1   0   0   1   1   1   1 Double-stranded RNA-specific editase 1 OS=Mus musculus OX=10090 GN=Adarb1 PE=1 SV=1
+sp|Q9JI20|RED2_MOUSE  -          A_deamin             PF02137.25  2.7e-108  362.6   0.0  3.9e-108  362.1   0.0   1.3   1   0   0   1   1   1   1 Double-stranded RNA-specific editase B2 OS=Mus musculus OX=10090 GN=Adarb2 PE=2 SV=2
+sp|Q9JHI2|ADAT1_MOUSE -          A_deamin             PF02137.25  1.3e-105  353.8   0.0  1.5e-105  353.6   0.0   1.1   1   0   0   1   1   1   1 tRNA-specific adenosine deaminase 1 OS=Mus musculus OX=10090 GN=Adat1 PE=1 SV=1
+sp|Q5SUE7|ADAD1_MOUSE -          A_deamin             PF02137.25  6.3e-104  348.3   0.0  8.4e-104  347.9   0.0   1.1   1   0   0   1   1   1   1 Adenosine deaminase domain-containing protein 1 OS=Mus musculus OX=10090 GN=Adad1 PE=1 SV=1
+sp|Q99MU3|DSRAD_MOUSE -          A_deamin             PF02137.25  3.1e-102  342.7   0.0  4.3e-102  342.2   0.0   1.2   1   0   0   1   1   1   1 Double-stranded RNA-specific adenosine deaminase OS=Mus musculus OX=10090 GN=Adar PE=1 SV=2
+sp|Q9D5P4|ADAD2_MOUSE -          A_deamin             PF02137.25   5.6e-80  269.6   0.0   6.9e-80  269.3   0.0   1.1   1   0   0   1   1   1   1 Adenosine deaminase domain-containing protein 2 OS=Mus musculus OX=10090 GN=Adad2 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/A_deamin.hmm
+# Target file:     proteomes/Mus_musculus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/A_deamin/Mus_musculus.tblout --cpu 8 pfam_list/A_deamin.hmm proteomes/Mus_musculus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:10 2025
+# [ok]

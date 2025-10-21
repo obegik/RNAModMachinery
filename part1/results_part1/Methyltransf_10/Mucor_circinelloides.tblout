@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|S2JGU6|S2JGU6_MUCC1 -          Methyltransf_10      PF05971.19   7.3e-80  267.9   0.0   3.6e-78  262.4   0.0   2.0   2   0   0   2   2   2   2 U6 small nuclear RNA (adenine-(43)-N(6))-methyltransferase OS=Mucor circinelloides f. circinelloides (strain 1006PhL) OX=1220926 GN=HMPREF1544_11552 PE=3 SV=1
+tr|S2KFK9|S2KFK9_MUCC1 -          Methyltransf_10      PF05971.19     2e-05   23.5   0.0   3.6e-05   22.7   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Mucor circinelloides f. circinelloides (strain 1006PhL) OX=1220926 GN=HMPREF1544_02045 PE=4 SV=1
+tr|S2J949|S2J949_MUCC1 -          Methyltransf_10      PF05971.19     0.034   12.9   0.0     0.047   12.5   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Mucor circinelloides f. circinelloides (strain 1006PhL) OX=1220926 GN=HMPREF1544_06991 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltransf_10.hmm
+# Target file:     proteomes/Mucor_circinelloides.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltransf_10/Mucor_circinelloides.tblout --cpu 8 pfam_list/Methyltransf_10.hmm proteomes/Mucor_circinelloides.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:12:20 2025
+# [ok]

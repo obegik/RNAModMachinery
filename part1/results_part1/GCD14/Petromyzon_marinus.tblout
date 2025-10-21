@@ -1,0 +1,20 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|S4RY21|S4RY21_PETMA -          GCD14                PF08704.17   6.1e-98  327.0   0.0   7.9e-98  326.6   0.0   1.1   1   0   0   1   1   1   1 tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRMT61A OS=Petromyzon marinus OX=7757 GN=TRMT61A PE=3 SV=1
+tr|S4R827|S4R827_PETMA -          GCD14                PF08704.17     4e-07   29.5   0.0   5.2e-07   29.2   0.0   1.2   1   0   0   1   1   1   1 Protein-L-isoaspartate (D-aspartate) O-methyltransferase OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RW29|S4RW29_PETMA -          GCD14                PF08704.17   3.9e-05   23.0   0.0   7.7e-05   22.1   0.0   1.4   2   0   0   2   2   2   1 Protein-L-isoaspartate O-methyltransferase OS=Petromyzon marinus OX=7757 PE=3 SV=1
+tr|S4RTL8|S4RTL8_PETMA -          GCD14                PF08704.17   7.3e-05   22.1   0.1   0.00014   21.2   0.1   1.4   1   1   0   1   1   1   1 Fibrillarin OS=Petromyzon marinus OX=7757 PE=3 SV=1
+tr|S4RHT4|S4RHT4_PETMA -          GCD14                PF08704.17   0.00077   18.8   0.0     0.008   15.4   0.0   2.1   1   1   1   2   2   2   1 tRNA (guanine(26)-N(2))-dimethyltransferase OS=Petromyzon marinus OX=7757 PE=3 SV=1
+tr|S4RCL0|S4RCL0_PETMA -          GCD14                PF08704.17     0.025   13.8   0.1     0.035   13.3   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RMF5|S4RMF5_PETMA -          GCD14                PF08704.17      0.17   11.1   0.0      0.24   10.6   0.0   1.1   1   0   0   1   1   1   0 HemK methyltransferase family member 1 OS=Petromyzon marinus OX=7757 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/GCD14.hmm
+# Target file:     proteomes/Petromyzon_marinus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/GCD14/Petromyzon_marinus.tblout --cpu 8 pfam_list/GCD14.hmm proteomes/Petromyzon_marinus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:13 2025
+# [ok]

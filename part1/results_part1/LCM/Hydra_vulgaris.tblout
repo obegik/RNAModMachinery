@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0ABM4CJU5|A0ABM4CJU5_HYDVU -          LCM                  PF04072.21   1.2e-24   87.6   0.0     6e-24   85.3   0.0   1.9   1   1   0   1   1   1   1 Leucine carboxyl methyltransferase 1 OS=Hydra vulgaris OX=6087 GN=LOC100200532 PE=4 SV=1
+tr|A0ABM4CXI8|A0ABM4CXI8_HYDVU -          LCM                  PF04072.21   4.5e-22   79.2   0.0   1.2e-21   77.8   0.0   1.7   1   0   0   1   1   1   1 tRNA wybutosine-synthesizing protein 4 isoform X2 OS=Hydra vulgaris OX=6087 GN=LOC100197557 PE=4 SV=1
+tr|A0ABM4BDJ0|A0ABM4BDJ0_HYDVU -          LCM                  PF04072.21      0.23   11.7   0.9      0.35   11.1   0.2   1.7   2   0   0   2   2   2   0 Uncharacterized protein LOC100209689 OS=Hydra vulgaris OX=6087 GN=LOC100209689 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/LCM.hmm
+# Target file:     proteomes/Hydra_vulgaris.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/LCM/Hydra_vulgaris.tblout --cpu 8 pfam_list/LCM.hmm proteomes/Hydra_vulgaris.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:45 2025
+# [ok]

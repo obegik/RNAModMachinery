@@ -1,0 +1,14 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A0L0DD87|A0A0L0DD87_THETB -          APOBEC_N             PF08210.18     0.017   14.4   0.0      0.22   10.8   0.0   2.0   2   0   0   2   2   2   0 Cytosine deaminase OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_06315 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/APOBEC_N.hmm
+# Target file:     proteomes/Thecamonas_trahens.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/APOBEC_N/Thecamonas_trahens.tblout --cpu 8 pfam_list/APOBEC_N.hmm proteomes/Thecamonas_trahens.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:58:54 2025
+# [ok]

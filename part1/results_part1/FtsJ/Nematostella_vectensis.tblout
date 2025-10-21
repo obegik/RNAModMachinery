@@ -1,0 +1,50 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A7RWX8|A7RWX8_NEMVE -          FtsJ                 PF01728.26   2.8e-55  187.5   0.0   3.2e-55  187.3   0.0   1.0   1   0   0   1   1   1   1 Predicted protein (Fragment) OS=Nematostella vectensis OX=45351 GN=v1g96085 PE=3 SV=1
+tr|A7SLJ2|A7SLJ2_NEMVE -          FtsJ                 PF01728.26   5.2e-54  183.3   0.0   6.6e-54  183.0   0.0   1.1   1   0   0   1   1   1   1 Putative tRNA (cytidine(32)/guanosine(34)-2'-O)-methyltransferase OS=Nematostella vectensis OX=45351 GN=v1g214143 PE=3 SV=1
+tr|A7RM32|A7RM32_NEMVE -          FtsJ                 PF01728.26   4.9e-52  176.9   0.1     1e-51  175.9   0.0   1.5   2   0   0   2   2   2   1 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g160369 PE=3 SV=1
+tr|A7RM31|A7RM31_NEMVE -          FtsJ                 PF01728.26   4.7e-24   85.7   0.1   1.4e-23   84.2   0.0   1.8   2   0   0   2   2   1   1 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g239275 PE=4 SV=1
+tr|A7RV47|A7RV47_NEMVE -          FtsJ                 PF01728.26   6.4e-24   85.3   0.0   9.2e-24   84.8   0.0   1.2   1   0   0   1   1   1   1 Predicted protein (Fragment) OS=Nematostella vectensis OX=45351 GN=v1g163068 PE=4 SV=1
+tr|A7RT21|A7RT21_NEMVE -          FtsJ                 PF01728.26   2.8e-05   24.6   1.4   0.00011   22.7   0.0   2.4   2   1   0   2   2   2   1 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g240471 PE=3 SV=1
+tr|A7RLV9|A7RLV9_NEMVE -          FtsJ                 PF01728.26   3.6e-05   24.2   0.0   0.00036   20.9   0.0   2.4   2   0   0   2   2   2   1 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g199029 PE=3 SV=1
+tr|A7RWP0|A7RWP0_NEMVE -          FtsJ                 PF01728.26   4.3e-05   24.0   0.0   9.8e-05   22.8   0.0   1.6   1   1   0   1   1   1   1 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g203274 PE=4 SV=1
+tr|A7SAV4|A7SAV4_NEMVE -          FtsJ                 PF01728.26   8.8e-05   22.9   0.0   0.00015   22.1   0.0   1.3   1   0   0   1   1   1   1 Predicted protein (Fragment) OS=Nematostella vectensis OX=45351 GN=v1g111525 PE=3 SV=1
+tr|A7SXL3|A7SXL3_NEMVE -          FtsJ                 PF01728.26   0.00012   22.5   0.0   0.00018   21.9   0.0   1.4   1   0   0   1   1   1   1 Protein-L-isoaspartate O-methyltransferase OS=Nematostella vectensis OX=45351 GN=v1g136839 PE=3 SV=1
+tr|A7SB91|A7SB91_NEMVE -          FtsJ                 PF01728.26   0.00014   22.3   0.0   0.00021   21.7   0.0   1.3   1   0   0   1   1   1   1 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g168568 PE=4 SV=1
+tr|A7SEM2|A7SEM2_NEMVE -          FtsJ                 PF01728.26   0.00024   21.5   0.0   0.00044   20.7   0.0   1.3   1   0   0   1   1   1   1 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g211081 PE=3 SV=1
+tr|A7RLI7|A7RLI7_NEMVE -          FtsJ                 PF01728.26   0.00036   20.9   0.0   0.00076   19.9   0.0   1.5   1   0   0   1   1   1   1 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g179399 PE=3 SV=1
+tr|A7S0M9|A7S0M9_NEMVE -          FtsJ                 PF01728.26    0.0005   20.5   0.0    0.0039   17.5   0.0   2.0   1   1   1   2   2   2   1 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g164983 PE=4 SV=1
+tr|A7SJF3|A7SJF3_NEMVE -          FtsJ                 PF01728.26   0.00051   20.4   0.0   0.00095   19.6   0.0   1.5   1   1   0   1   1   1   1 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g245654 PE=4 SV=1
+tr|A7SLP3|A7SLP3_NEMVE -          FtsJ                 PF01728.26   0.00083   19.8   0.0     0.001   19.5   0.0   1.2   1   0   0   1   1   1   1 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g246063 PE=4 SV=1
+tr|A7RER6|A7RER6_NEMVE -          FtsJ                 PF01728.26    0.0011   19.3   0.0    0.0023   18.3   0.0   1.5   1   0   0   1   1   1   1 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g176908 PE=3 SV=1
+tr|A7S5Z9|A7S5Z9_NEMVE -          FtsJ                 PF01728.26    0.0016   18.8   0.0     0.004   17.5   0.0   1.7   2   0   0   2   2   1   1 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g166855 PE=3 SV=1
+tr|A7RZB0|A7RZB0_NEMVE -          FtsJ                 PF01728.26    0.0021   18.4   0.0    0.0038   17.6   0.0   1.4   1   0   0   1   1   1   1 Predicted protein (Fragment) OS=Nematostella vectensis OX=45351 GN=v1g61262 PE=4 SV=1
+tr|A7S108|A7S108_NEMVE -          FtsJ                 PF01728.26     0.003   17.9   0.0    0.0044   17.4   0.0   1.3   1   0   0   1   1   1   1 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g242091 PE=4 SV=1
+tr|A7RZM6|A7RZM6_NEMVE -          FtsJ                 PF01728.26    0.0035   17.7   0.1    0.0059   17.0   0.1   1.4   1   0   0   1   1   1   1 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g98842 PE=4 SV=1
+tr|A7T9Z7|A7T9Z7_NEMVE -          FtsJ                 PF01728.26    0.0036   17.7   0.0    0.0072   16.7   0.0   1.5   1   0   0   1   1   1   1 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g248861 PE=4 SV=1
+tr|A7SZN3|A7SZN3_NEMVE -          FtsJ                 PF01728.26    0.0038   17.6   0.0    0.0072   16.7   0.0   1.4   1   0   0   1   1   1   1 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g248239 PE=4 SV=1
+tr|A7RIE8|A7RIE8_NEMVE -          FtsJ                 PF01728.26    0.0068   16.8   0.0       3.5    7.9   0.0   2.4   2   0   0   2   2   2   1 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g159091 PE=3 SV=1
+tr|A7RHS3|A7RHS3_NEMVE -          FtsJ                 PF01728.26     0.015   15.7   0.0     0.029   14.7   0.0   1.5   1   0   0   1   1   1   0 Predicted protein (Fragment) OS=Nematostella vectensis OX=45351 GN=v1g197305 PE=4 SV=1
+tr|A8DWI0|A8DWI0_NEMVE -          FtsJ                 PF01728.26     0.016   15.6   0.0     0.025   14.9   0.0   1.3   1   0   0   1   1   1   0 Predicted protein (Fragment) OS=Nematostella vectensis OX=45351 GN=v1g226006 PE=4 SV=1
+tr|A7SHL2|A7SHL2_NEMVE -          FtsJ                 PF01728.26     0.025   14.9   0.0     0.038   14.3   0.0   1.3   1   0   0   1   1   1   0 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g245326 PE=4 SV=1
+tr|A7RFL5|A7RFL5_NEMVE -          FtsJ                 PF01728.26     0.026   14.9   0.2     0.082   13.3   0.2   1.9   1   1   0   1   1   1   0 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g237881 PE=4 SV=1
+tr|A7S6Z4|A7S6Z4_NEMVE -          FtsJ                 PF01728.26     0.036   14.4   0.0      0.12   12.8   0.0   1.9   1   1   0   1   1   1   0 Predicted protein (Fragment) OS=Nematostella vectensis OX=45351 GN=v1g12461 PE=4 SV=1
+tr|A7SAM8|A7SAM8_NEMVE -          FtsJ                 PF01728.26     0.053   13.9   0.0      0.15   12.4   0.0   1.8   1   0   0   1   1   1   0 Predicted protein (Fragment) OS=Nematostella vectensis OX=45351 GN=v1g20689 PE=3 SV=1
+tr|A7RKE7|A7RKE7_NEMVE -          FtsJ                 PF01728.26     0.053   13.9   0.0      0.11   12.8   0.0   1.5   2   0   0   2   2   1   0 Predicted protein (Fragment) OS=Nematostella vectensis OX=45351 GN=v1g34681 PE=4 SV=1
+tr|A7RYX9|A7RYX9_NEMVE -          FtsJ                 PF01728.26     0.056   13.8   0.0     0.076   13.4   0.0   1.2   1   0   0   1   1   1   0 Predicted protein (Fragment) OS=Nematostella vectensis OX=45351 GN=v1g98246 PE=4 SV=1
+tr|A7SV30|A7SV30_NEMVE -          FtsJ                 PF01728.26     0.091   13.1   0.0      0.16   12.3   0.0   1.3   1   0   0   1   1   1   0 rRNA adenine N(6)-methyltransferase OS=Nematostella vectensis OX=45351 GN=v1g174677 PE=3 SV=1
+tr|A7RQR0|A7RQR0_NEMVE -          FtsJ                 PF01728.26      0.11   12.8   0.0      0.18   12.1   0.0   1.3   1   1   0   1   1   1   0 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g90326 PE=4 SV=1
+tr|A7RZB1|A7RZB1_NEMVE -          FtsJ                 PF01728.26      0.14   12.5   0.1       0.2   12.0   0.1   1.4   1   1   0   1   1   1   0 Predicted protein (Fragment) OS=Nematostella vectensis OX=45351 GN=v1g98596 PE=4 SV=1
+tr|A7SJ10|A7SJ10_NEMVE -          FtsJ                 PF01728.26      0.16   12.3   0.0      0.38   11.1   0.0   1.6   2   0   0   2   2   1   0 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g120055 PE=4 SV=1
+tr|A7ST73|A7ST73_NEMVE -          FtsJ                 PF01728.26      0.17   12.2   2.8        12    6.2   0.1   2.4   2   0   0   2   2   2   0 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g217122 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/FtsJ.hmm
+# Target file:     proteomes/Nematostella_vectensis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/FtsJ/Nematostella_vectensis.tblout --cpu 8 pfam_list/FtsJ.hmm proteomes/Nematostella_vectensis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:57 2025
+# [ok]

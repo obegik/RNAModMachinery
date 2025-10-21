@@ -1,0 +1,191 @@
+IQ-TREE 3.0.1 built Jul  9 2025
+
+Input file name: results_part1_v3/Gcd10p/Gcd10p_aligned.fasta
+Type of analysis: tree reconstruction
+Random seed number: 637292
+
+REFERENCES
+----------
+
+To cite IQ-TREE 3 please use:
+
+Thomas K.F. Wong, Nhan Ly-Trong, Huaiyan Ren, Hector Banos, Andrew J. Roger,
+Edward Susko, Chris Bielow, Nicola De Maio, Nick Goldman, Matthew W. Hahn,
+Gavin Huttley, Robert Lanfear, Bui Quang Minh (2025)
+IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models.
+Submitted.
+
+Please also cite the following paper(s) for the feature(s) that you used:
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 39 sequences with 1207 amino-acid sites
+Number of constant sites: 464 (= 38.4424% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 464 (= 38.4424% of all sites)
+Number of parsimony informative sites: 484
+Number of distinct site patterns: 866
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: JTT+F+I+G4
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.0647
+  pi(R) = 0.0515
+  pi(N) = 0.0471
+  pi(D) = 0.0536
+  pi(C) = 0.0141
+  pi(Q) = 0.0451
+  pi(E) = 0.0805
+  pi(G) = 0.0660
+  pi(H) = 0.0220
+  pi(I) = 0.0539
+  pi(L) = 0.0913
+  pi(K) = 0.0806
+  pi(M) = 0.0268
+  pi(F) = 0.0325
+  pi(P) = 0.0457
+  pi(S) = 0.0706
+  pi(T) = 0.0570
+  pi(W) = 0.0060
+  pi(Y) = 0.0304
+  pi(V) = 0.0605
+
+Model of rate heterogeneity: Invar+Gamma with 4 categories
+Proportion of invariable sites: 0.0125
+Gamma shape alpha: 1.3956
+
+ Category  Relative_rate  Proportion
+  0         0              0.0125
+  1         0.2114         0.2469
+  2         0.5774         0.2469
+  3         1.0569         0.2469
+  4         2.2050         0.2469
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -29426.0723 (s.e. 895.4258)
+Unconstrained log-likelihood (without tree): -7633.9763
+Number of free parameters (#branches + #model parameters): 96
+Akaike information criterion (AIC) score: 59044.1445
+Corrected Akaike information criterion (AICc) score: 59060.9229
+Bayesian information criterion (BIC) score: 59533.3503
+
+Total tree length (sum of branch lengths): 38.6844
+Sum of internal branch lengths: 6.9274 (17.9076% of tree length)
+
+WARNING: 1 near-zero internal branches (<0.0008) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'tr|A0A1X7UZN4|A0A1X7UZN4_AMPQE' is drawn at root
+
++-------------tr|A0A1X7UZN4|A0A1X7UZN4_AMPQE
+|
+|                   +--tr|G1K8L7|G1K8L7_ANOCA
+|                +--|
+|                |  +--tr|A0A8V0Z2L3|A0A8V0Z2L3_CHICK
+|             +--|
+|             |  |           +--tr|A0A8I3PUD6|A0A8I3PUD6_CANLF
+|             |  |        +--|
+|             |  |        |  |        +--tr|G3QZT5|G3QZT5_GORGO
+|             |  |        |  |     +**|
+|             |  |        |  |     |  +--tr|H2QJX7|H2QJX7_PANTR
+|             |  |        |  |  +--|
+|             |  |        |  |  |  |  +**sp|Q9UJA5|TRM6_HUMAN
+|             |  |        |  |  |  +--|
+|             |  |        |  |  |     +**tr|B4DUV6|B4DUV6_HUMAN
+|             |  |        |  +--|
+|             |  |        |     +--tr|F6RWA5|F6RWA5_MACMU
+|             |  |     +--|
+|             |  |     |  +--sp|Q8CE96|TRM6_MOUSE
+|             |  |  +--|
+|             |  |  |  +--tr|F7AA51|F7AA51_MONDO
+|             |  +--|
+|             |     |  +--tr|F6SN38|F6SN38_ORNAN
+|             |     +--|
+|             |        +--tr|F6WQ55|F6WQ55_ORNAN
+|          +--|
+|          |  +---tr|F7CW52|F7CW52_XENTR
+|       +--|
+|       |  +----tr|A0A4W3JKD6|A0A4W3JKD6_CALMI
+|  +----|
+|  |    |     +--tr|F1QFE5|F1QFE5_DANRE
+|  |    |  +--|
+|  |    |  |  +------------tr|S4RXB8|S4RXB8_PETMA
+|  |    +--|
+|  |       +---tr|A0A674PDM5|A0A674PDM5_TAKRU
++--|
+|  |                                    +----tr|O80846|O80846_ARATH
+|  |                         +----------|
+|  |                         |          +-----tr|Q7XQC2|Q7XQC2_ORYSJ
+|  |                    +----|
+|  |                    |    +--------------tr|A0A2K3D6S5|A0A2K3D6S5_CHLRE
+|  |                 +--|
+|  |                 |  +--------------sp|Q54UB1|TRM6_DICDI
+|  |              +--|
+|  |              |  +---------------------tr|A9UTS9|A9UTS9_MONBE
+|  |           +--|
+|  |           |  |           +-----------------------------------------tr|M1V4L3|M1V4L3_CYAM1
+|  |           |  |        +--|
+|  |           |  |        |  |     +----------------------------------tr|Q8I324|Q8I324_PLAF7
+|  |           |  |        |  |  +--|
+|  |           |  |        |  |  |  +-----------------------tr|I7M7M0|I7M7M0_TETTS
+|  |           |  |        |  +--|
+|  |           |  |        |     +----------------------tr|Q38A72|Q38A72_TRYB2
+|  |           |  |     +--|
+|  |           |  |     |  +--------------------------tr|A0A0L0DVG8|A0A0L0DVG8_THETB
+|  |           |  |  +--|
+|  |           |  |  |  |            +---------tr|S2JJG4|S2JJG4_MUCC1
+|  |           |  |  |  +------------|
+|  |           |  |  |               +----------------------sp|P41814|TRM6_YEAST
+|  |           |  +--|
+|  |           |     +---------------------------tr|Q8MS69|Q8MS69_DROME
+|  |        +--|
+|  |        |  +-----------------------tr|Q94416|Q94416_CAEEL
+|  |     +--|
+|  |     |  +-----------------tr|B3S6F9|B3S6F9_TRIAD
+|  |  +--|
+|  |  |  +---------tr|C3XZG9|C3XZG9_BRAFL
+|  +--|
+|     |     +-------------tr|A0ABM4BTG0|A0ABM4BTG0_HYDVU
+|     |  +--|
+|     |  |  +-------------tr|W4YE41|W4YE41_STRPU
+|     +--|
+|        +---------tr|A7SIP3|A7SIP3_NEMVE
+|
+|           +--tr|F7B480|F7B480_CIOIN
++-----------|
+            +--tr|H2YBX2|H2YBX2_CIOSA
+
+Tree in newick format:
+
+(tr|A0A1X7UZN4|A0A1X7UZN4_AMPQE:1.0417347789,((((((tr|G1K8L7|G1K8L7_ANOCA:0.2387878260,tr|A0A8V0Z2L3|A0A8V0Z2L3_CHICK:0.1654946428):0.0516539934,((((tr|A0A8I3PUD6|A0A8I3PUD6_CANLF:0.0424637217,(((tr|G3QZT5|G3QZT5_GORGO:0.0021036088,tr|H2QJX7|H2QJX7_PANTR:0.0020997476):0.0000012225,(sp|Q9UJA5|TRM6_HUMAN:0.0000012225,tr|B4DUV6|B4DUV6_HUMAN:0.0000012225):0.0021003468):0.0037790620,tr|F6RWA5|F6RWA5_MACMU:0.0088773336):0.0269329950):0.0064397801,sp|Q8CE96|TRM6_MOUSE:0.1495121502):0.0818582214,tr|F7AA51|F7AA51_MONDO:0.1591799711):0.0638254850,(tr|F6SN38|F6SN38_ORNAN:0.0435936856,tr|F6WQ55|F6WQ55_ORNAN:0.0104289681):0.0806232708):0.0550084028):0.1499740650,tr|F7CW52|F7CW52_XENTR:0.3206470155):0.0847653150,tr|A0A4W3JKD6|A0A4W3JKD6_CALMI:0.3929035769):0.0699076347,((tr|F1QFE5|F1QFE5_DANRE:0.1620754100,tr|S4RXB8|S4RXB8_PETMA:1.0024231879):0.1116238564,tr|A0A674PDM5|A0A674PDM5_TAKRU:0.3200384587):0.1909442903):0.3989283500,(((((((((tr|O80846|O80846_ARATH:0.3655704951,tr|Q7XQC2|Q7XQC2_ORYSJ:0.4629512663):0.8105024421,tr|A0A2K3D6S5|A0A2K3D6S5_CHLRE:1.1543852816):0.3760369934,sp|Q54UB1|TRM6_DICDI:1.1505714552):0.2156756080,tr|A9UTS9|A9UTS9_MONBE:1.6657107577):0.0947041532,((((tr|M1V4L3|M1V4L3_CYAM1:3.0706257953,((tr|Q8I324|Q8I324_PLAF7:2.5839224320,tr|I7M7M0|I7M7M0_TETTS:1.7768244365):0.2377175404,tr|Q38A72|Q38A72_TRYB2:1.7042976520):0.2046937790):0.1543500069,tr|A0A0L0DVG8|A0A0L0DVG8_THETB:1.9632306516):0.1526942619,(tr|S2JJG4|S2JJG4_MUCC1:0.7411924827,sp|P41814|TRM6_YEAST:1.7447237447):0.9839478633):0.0456824218,tr|Q8MS69|Q8MS69_DROME:2.0395226302):0.1092784754):0.1633810851,tr|Q94416|Q94416_CAEEL:1.7746723111):0.1446949129,tr|B3S6F9|B3S6F9_TRIAD:1.3588881199):0.0962383684,tr|C3XZG9|C3XZG9_BRAFL:0.7697204601):0.1102619123,((tr|A0ABM4BTG0|A0ABM4BTG0_HYDVU:1.0605650722,tr|W4YE41|W4YE41_STRPU:1.0779939050):0.2530451015,tr|A7SIP3|A7SIP3_NEMVE:0.7954891718):0.1600646039):0.0949923928):0.2203174504,(tr|F7B480|F7B480_CIOIN:0.2714581579,tr|H2YBX2|H2YBX2_CIOSA:0.1601311334):0.9228954542);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t results_part1_v3/Gcd10p/Gcd10p_aligned.fasta.treefile -m "JTT+F+I{0.0125106}+G4{1.39564}" --length 1207
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s results_part1_v3/Gcd10p/Gcd10p_aligned.fasta --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s results_part1_v3/Gcd10p/Gcd10p_aligned.fasta --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Mon Oct 20 22:04:42 2025
+Total CPU time used: 6.49285 seconds (0h:0m:6s)
+Total wall-clock time used: 2.80359 seconds (0h:0m:2s)
+

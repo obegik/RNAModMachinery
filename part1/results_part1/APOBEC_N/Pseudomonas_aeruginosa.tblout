@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q9I0Y3|Q9I0Y3_PSEAE -          APOBEC_N             PF08210.18     0.017   13.5   0.0      0.02   13.2   0.0   1.2   1   0   0   1   1   1   0 Probable deaminase OS=Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1) OX=208964 GN=PA2499 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/APOBEC_N.hmm
+# Target file:     proteomes/Pseudomonas_aeruginosa.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/APOBEC_N/Pseudomonas_aeruginosa.tblout --cpu 8 pfam_list/APOBEC_N.hmm proteomes/Pseudomonas_aeruginosa.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:58:53 2025
+# [ok]

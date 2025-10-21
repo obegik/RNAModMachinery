@@ -1,0 +1,15 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q57598|TRMI_METJA -          GCD14                PF08704.17   2.5e-32  109.2   0.2   2.5e-29   99.4   0.0   3.1   1   1   1   2   2   2   2 tRNA (adenine(57)-N(1)/adenine(58)-N(1))-methyltransferase TrmI OS=Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) OX=243232 GN=trmI PE=3 SV=1
+sp|Q57636|PIMT_METJA -          GCD14                PF08704.17   0.00068   16.1   0.0   0.00098   15.5   0.0   1.2   1   0   0   1   1   1   1 Protein-L-isoaspartate O-methyltransferase OS=Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) OX=243232 GN=pcm PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/GCD14.hmm
+# Target file:     proteomes/Methanococcus_jannaschii.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/GCD14/Methanococcus_jannaschii.tblout --cpu 8 pfam_list/GCD14.hmm proteomes/Methanococcus_jannaschii.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:12 2025
+# [ok]

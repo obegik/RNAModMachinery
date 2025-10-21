@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q8H8N5|Q8H8N5_ORYSJ -          LCM                  PF04072.21   1.4e-42  146.9   0.5   2.1e-42  146.4   0.5   1.2   1   0   0   1   1   1   1 Methyltransferase, putative, TIGR00027 family protein, expressed OS=Oryza sativa subsp. japonica OX=39947 GN=LOC_Os03g56370 PE=1 SV=1
+sp|Q6YSY5|MTS1_ORYSJ   -          LCM                  PF04072.21   6.9e-20   73.0   0.0   1.1e-19   72.4   0.0   1.3   1   0   0   1   1   1   1 O-methyltransferase 1, chloroplastic OS=Oryza sativa subsp. japonica OX=39947 GN=MTS1 PE=1 SV=1
+tr|Q5VPE9|Q5VPE9_ORYSJ -          LCM                  PF04072.21   5.7e-19   70.0   0.0   1.2e-18   68.9   0.0   1.4   1   1   0   1   1   1   1 Leucine carboxyl methyltransferase 1 homolog OS=Oryza sativa subsp. japonica OX=39947 GN=Os06g0140100 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/LCM.hmm
+# Target file:     proteomes/Oryza_sativa.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/LCM/Oryza_sativa.tblout --cpu 8 pfam_list/LCM.hmm proteomes/Oryza_sativa.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:46 2025
+# [ok]

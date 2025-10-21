@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6RR08|F6RR08_ORNAN -          DREV                 PF05219.18    5e-101  337.5   0.1  5.6e-101  337.4   0.1   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 PE=4 SV=1
+tr|F6ZQ80|F6ZQ80_ORNAN -          DREV                 PF05219.18   9.4e-08   31.7   0.0   1.7e-07   30.9   0.0   1.4   2   0   0   2   2   2   1 Uncharacterized protein OS=Ornithorhynchus anatinus OX=9258 GN=LOC100076547 PE=4 SV=2
+tr|F7DN03|F7DN03_ORNAN -          DREV                 PF05219.18     0.076   12.4   0.0      0.13   11.6   0.0   1.3   1   0   0   1   1   1   0 Protein arginine methyltransferase 2 OS=Ornithorhynchus anatinus OX=9258 GN=PRMT2 PE=3 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DREV.hmm
+# Target file:     proteomes/Ornithorhynchus_anatinus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DREV/Ornithorhynchus_anatinus.tblout --cpu 8 pfam_list/DREV.hmm proteomes/Ornithorhynchus_anatinus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:24 2025
+# [ok]

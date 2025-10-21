@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q0D7H8|Q0D7H8_ORYSJ -          APOBEC_N             PF08210.18      0.13   13.5   0.4       0.2   12.9   0.4   1.2   1   0   0   1   1   1   0 Os07g0245100 protein (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=Os07g0245100 PE=1 SV=1
+tr|Q67VW4|Q67VW4_ORYSJ -          APOBEC_N             PF08210.18      0.18   13.0   0.0      0.44   11.8   0.0   1.6   1   0   0   1   1   1   0 tRNA(adenine(34)) deaminase OS=Oryza sativa subsp. japonica OX=39947 GN=Os06g0489500 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/APOBEC_N.hmm
+# Target file:     proteomes/Oryza_sativa.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/APOBEC_N/Oryza_sativa.tblout --cpu 8 pfam_list/APOBEC_N.hmm proteomes/Oryza_sativa.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:58:53 2025
+# [ok]

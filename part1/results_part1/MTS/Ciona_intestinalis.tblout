@@ -1,0 +1,67 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6WB92|F6WB92_CIOIN -          MTS                  PF05175.21   7.7e-12   45.0   0.0     1e-11   44.6   0.0   1.3   1   0   0   1   1   1   1 methyltransferase-like protein 5 isoform X4 OS=Ciona intestinalis OX=7719 GN=LOC100184601 PE=4 SV=2
+tr|F6UK82|F6UK82_CIOIN -          MTS                  PF05175.21   1.5e-07   31.0   0.1   2.9e-07   30.1   0.1   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=3 SV=2
+tr|H2XWY6|H2XWY6_CIOIN -          MTS                  PF05175.21   2.4e-07   30.4   0.0   3.2e-07   29.9   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=1
+tr|F6TPM4|F6TPM4_CIOIN -          MTS                  PF05175.21   1.6e-06   27.7   0.0   2.6e-06   27.0   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=2
+tr|F6YWW0|F6YWW0_CIOIN -          MTS                  PF05175.21   3.5e-06   26.6   0.0   5.2e-06   26.0   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=2
+tr|H2XUU0|H2XUU0_CIOIN -          MTS                  PF05175.21   4.2e-06   26.3   0.0   5.7e-06   25.9   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=1
+tr|H2XYT3|H2XYT3_CIOIN -          MTS                  PF05175.21   9.5e-06   25.2   0.0   6.2e-05   22.5   0.0   1.9   1   1   0   1   1   1   1 tRNA (guanine-N(7)-)-methyltransferase OS=Ciona intestinalis OX=7719 GN=LOC100180383 PE=3 SV=1
+tr|L7N0T2|L7N0T2_CIOIN -          MTS                  PF05175.21   1.5e-05   24.6   0.1   1.7e-05   24.3   0.1   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=3 SV=1
+tr|F6X5I5|F6X5I5_CIOIN -          MTS                  PF05175.21   1.6e-05   24.4   0.0   2.6e-05   23.7   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=3 SV=2
+tr|H2XT31|H2XT31_CIOIN -          MTS                  PF05175.21     3e-05   23.6   0.0   4.1e-05   23.1   0.0   1.3   1   0   0   1   1   1   1 uncharacterized protein LOC101242218 isoform X1 OS=Ciona intestinalis OX=7719 GN=LOC101242218 PE=4 SV=1
+tr|F6ZLL7|F6ZLL7_CIOIN -          MTS                  PF05175.21   3.1e-05   23.5   0.0   4.7e-05   22.9   0.0   1.3   1   0   0   1   1   1   1 Protein-lysine N-methyltransferase OS=Ciona intestinalis OX=7719 PE=3 SV=2
+tr|F6RNA2|F6RNA2_CIOIN -          MTS                  PF05175.21   3.3e-05   23.4   0.0   4.2e-05   23.1   0.0   1.2   1   0   0   1   1   1   1 Williams-Beuren syndrome chromosomal region 27 protein-like OS=Ciona intestinalis OX=7719 GN=LOC100176602 PE=4 SV=1
+tr|H2Y1L1|H2Y1L1_CIOIN -          MTS                  PF05175.21   6.9e-05   22.4   0.0   0.00012   21.5   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=1
+tr|F6XXQ7|F6XXQ7_CIOIN -          MTS                  PF05175.21   8.1e-05   22.1   0.1   0.00015   21.2   0.1   1.5   1   1   0   1   1   1   1 uncharacterized protein LOC100175264 OS=Ciona intestinalis OX=7719 GN=LOC100175264 PE=4 SV=2
+tr|F6UIG7|F6UIG7_CIOIN -          MTS                  PF05175.21   0.00012   21.6   0.0   0.00024   20.6   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=3 SV=2
+tr|H2XLP1|H2XLP1_CIOIN -          MTS                  PF05175.21   0.00026   20.5   0.1   0.00074   19.0   0.1   1.7   1   1   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 GN=LOC108950095 PE=4 SV=1
+tr|F6UKV2|F6UKV2_CIOIN -          MTS                  PF05175.21   0.00057   19.4   0.0    0.0017   17.8   0.0   1.8   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=3 SV=2
+tr|F6UUI8|F6UUI8_CIOIN -          MTS                  PF05175.21   0.00058   19.3   0.1   0.00058   19.3   0.1   2.5   3   0   0   3   3   3   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 GN=LOC100182889 PE=3 SV=2
+tr|F6UIA2|F6UIA2_CIOIN -          MTS                  PF05175.21   0.00078   18.9   0.1    0.0014   18.1   0.1   1.3   1   0   0   1   1   1   1 Protein arginine N-methyltransferase OS=Ciona intestinalis OX=7719 PE=3 SV=2
+tr|H2Y0C0|H2Y0C0_CIOIN -          MTS                  PF05175.21   0.00083   18.8   0.0    0.0013   18.2   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=1
+tr|F6RK63|F6RK63_CIOIN -          MTS                  PF05175.21   0.00093   18.7   0.0    0.0015   18.0   0.0   1.3   1   0   0   1   1   1   1 uncharacterized protein LOC100185027 OS=Ciona intestinalis OX=7719 GN=LOC100185027 PE=4 SV=1
+tr|H2XS53|H2XS53_CIOIN -          MTS                  PF05175.21    0.0011   18.5   0.0    0.0026   17.2   0.0   1.6   1   1   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=1
+tr|F6VYQ8|F6VYQ8_CIOIN -          MTS                  PF05175.21    0.0011   18.4   0.0    0.0016   17.9   0.0   1.2   1   0   0   1   1   1   1 uncharacterized protein LOC100177375 OS=Ciona intestinalis OX=7719 GN=LOC100177375 PE=4 SV=1
+tr|H2XNZ2|H2XNZ2_CIOIN -          MTS                  PF05175.21    0.0013   18.2   0.0    0.0024   17.4   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=1
+tr|F6TIA8|F6TIA8_CIOIN -          MTS                  PF05175.21    0.0014   18.2   0.1    0.0025   17.3   0.1   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=2
+tr|F6XYB7|F6XYB7_CIOIN -          MTS                  PF05175.21    0.0014   18.1   0.0    0.0025   17.3   0.0   1.5   1   1   0   1   1   1   1 Methyltransferase-like protein OS=Ciona intestinalis OX=7719 GN=LOC100181090 PE=3 SV=2
+tr|H2XKE6|H2XKE6_CIOIN -          MTS                  PF05175.21    0.0015   18.1   0.0    0.0024   17.4   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 GN=LOC100176401 PE=4 SV=1
+tr|H2Y3J5|H2Y3J5_CIOIN -          MTS                  PF05175.21    0.0015   18.0   0.0    0.0033   16.9   0.0   1.5   1   1   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=1
+tr|F6Q929|F6Q929_CIOIN -          MTS                  PF05175.21    0.0016   17.9   0.0    0.0025   17.3   0.0   1.3   1   0   0   1   1   1   1 uncharacterized protein LOC100181888 OS=Ciona intestinalis OX=7719 GN=LOC100181888 PE=4 SV=2
+tr|F6SN53|F6SN53_CIOIN -          MTS                  PF05175.21    0.0024   17.4   0.0    0.0047   16.4   0.0   1.6   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=2
+tr|H2XY59|H2XY59_CIOIN -          MTS                  PF05175.21    0.0028   17.1   0.0     0.005   16.3   0.0   1.4   1   1   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 GN=LOC100178073 PE=4 SV=1
+tr|F7B383|F7B383_CIOIN -          MTS                  PF05175.21    0.0039   16.7   0.1    0.0096   15.4   0.1   1.6   1   1   0   1   1   1   1 Ubiquinone biosynthesis O-methyltransferase, mitochondrial OS=Ciona intestinalis OX=7719 PE=3 SV=1
+tr|F6ZIX6|F6ZIX6_CIOIN -          MTS                  PF05175.21    0.0039   16.6   0.0    0.0067   15.9   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 GN=LOC100181209 PE=4 SV=2
+tr|F6YXT8|F6YXT8_CIOIN -          MTS                  PF05175.21    0.0041   16.6   0.0     0.012   15.1   0.0   1.7   1   1   0   1   1   1   1 mRNA cap guanine-N7 methyltransferase OS=Ciona intestinalis OX=7719 GN=LOC100184027 PE=3 SV=1
+tr|H2Y2K6|H2Y2K6_CIOIN -          MTS                  PF05175.21    0.0083   15.6   0.0     0.017   14.6   0.0   1.5   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 GN=LOC100177275 PE=3 SV=1
+tr|H2XK62|H2XK62_CIOIN -          MTS                  PF05175.21     0.009   15.5   0.1     0.015   14.7   0.1   1.3   1   0   0   1   1   1   1 Histone-lysine N-methyltransferase, H3 lysine-79 specific OS=Ciona intestinalis OX=7719 PE=3 SV=1
+tr|F6V0S1|F6V0S1_CIOIN -          MTS                  PF05175.21    0.0095   15.4   0.0     0.012   15.1   0.0   1.3   1   0   0   1   1   1   1 uncharacterized protein LOC100175793 OS=Ciona intestinalis OX=7719 GN=LOC100175793 PE=4 SV=1
+tr|H2XY27|H2XY27_CIOIN -          MTS                  PF05175.21     0.011   15.2   0.0     0.046   13.2   0.0   1.9   1   1   0   1   1   1   0 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial OS=Ciona intestinalis OX=7719 PE=3 SV=1
+tr|F6U6H9|F6U6H9_CIOIN -          MTS                  PF05175.21     0.013   15.0   0.0     0.018   14.5   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=2
+tr|F6UFY6|F6UFY6_CIOIN -          MTS                  PF05175.21     0.022   14.2   0.0     0.044   13.3   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=1
+tr|I6L7H7|I6L7H7_CIOIN -          MTS                  PF05175.21     0.023   14.1   0.0     0.062   12.8   0.0   1.7   2   0   0   2   2   1   0 tRNA (guanine(37)-N1)-methyltransferase OS=Ciona intestinalis OX=7719 PE=3 SV=1
+tr|F6TU78|F6TU78_CIOIN -          MTS                  PF05175.21     0.024   14.1   0.0     0.034   13.6   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=2
+sp|F7A355|TRM5_CIOIN   -          MTS                  PF05175.21     0.025   14.0   0.0     0.061   12.8   0.0   1.6   1   0   0   1   1   1   0 tRNA (guanine(37)-N1)-methyltransferase OS=Ciona intestinalis OX=7719 PE=3 SV=1
+tr|F7AGV8|F7AGV8_CIOIN -          MTS                  PF05175.21     0.037   13.5   0.1     0.064   12.7   0.1   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=2
+tr|F6RBS2|F6RBS2_CIOIN -          MTS                  PF05175.21     0.039   13.4   0.0      0.13   11.8   0.0   1.7   1   1   0   1   1   1   0 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=2
+tr|F6QVW6|F6QVW6_CIOIN -          MTS                  PF05175.21     0.047   13.1   0.1       1.7    8.1   0.0   2.8   3   0   0   3   3   3   0 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=3 SV=2
+tr|F6YCY6|F6YCY6_CIOIN -          MTS                  PF05175.21     0.057   12.9   0.0     0.094   12.2   0.0   1.3   1   0   0   1   1   1   0 Methyltransferase-like protein OS=Ciona intestinalis OX=7719 PE=3 SV=2
+tr|H2XVH5|H2XVH5_CIOIN -          MTS                  PF05175.21     0.065   12.7   0.0      0.12   11.8   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=1
+tr|F6PZV6|F6PZV6_CIOIN -          MTS                  PF05175.21     0.066   12.7   0.0      0.13   11.7   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=1
+tr|F6SN27|F6SN27_CIOIN -          MTS                  PF05175.21     0.082   12.4   0.0      0.16   11.4   0.0   1.4   1   0   0   1   1   1   0 rRNA adenine N(6)-methyltransferase OS=Ciona intestinalis OX=7719 GN=LOC100181797 PE=3 SV=1
+tr|F6TKR9|F6TKR9_CIOIN -          MTS                  PF05175.21     0.086   12.3   0.2      0.31   10.5   0.2   1.8   1   1   0   1   1   1   0 uncharacterized protein LOC100180278 OS=Ciona intestinalis OX=7719 GN=LOC100180278 PE=3 SV=1
+tr|F6PMW1|F6PMW1_CIOIN -          MTS                  PF05175.21     0.092   12.2   0.1       0.2   11.1   0.1   1.6   1   1   1   2   2   2   0 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=2
+tr|F6TFE2|F6TFE2_CIOIN -          MTS                  PF05175.21      0.12   11.8   0.0      0.21   11.0   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=2
+tr|F6SVN8|F6SVN8_CIOIN -          MTS                  PF05175.21      0.13   11.7   0.0      0.24   10.9   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MTS.hmm
+# Target file:     proteomes/Ciona_intestinalis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MTS/Ciona_intestinalis.tblout --cpu 8 pfam_list/MTS.hmm proteomes/Ciona_intestinalis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:05:55 2025
+# [ok]

@@ -1,0 +1,25 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1X7TJ66|A0A1X7TJ66_AMPQE -          DNA_methylase        PF00145.24   1.3e-55  190.4   0.0   1.6e-55  190.1   0.0   1.1   1   0   0   1   1   1   1 Cytosine-specific methyltransferase OS=Amphimedon queenslandica OX=400682 PE=3 SV=1
+tr|A0A1X7VAU3|A0A1X7VAU3_AMPQE -          DNA_methylase        PF00145.24   1.5e-54  186.8   0.7   3.8e-53  182.3   0.0   3.4   3   1   0   3   3   3   1 DNA (cytosine-5)-methyltransferase OS=Amphimedon queenslandica OX=400682 PE=3 SV=1
+tr|A0A1X7TKI6|A0A1X7TKI6_AMPQE -          DNA_methylase        PF00145.24   1.8e-51  176.7   0.0   6.7e-51  174.9   0.0   1.8   1   1   0   1   1   1   1 Cytosine-specific methyltransferase OS=Amphimedon queenslandica OX=400682 PE=3 SV=1
+tr|A0A1X7U0G0|A0A1X7U0G0_AMPQE -          DNA_methylase        PF00145.24   2.3e-38  133.7   0.0   3.1e-38  133.2   0.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=3 SV=1
+tr|A0A1X7U3G5|A0A1X7U3G5_AMPQE -          DNA_methylase        PF00145.24   4.5e-34  119.6   0.0   5.1e-24   86.5   0.0   2.2   2   0   0   2   2   2   2 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=3 SV=1
+tr|A0A1X7V196|A0A1X7V196_AMPQE -          DNA_methylase        PF00145.24   5.3e-17   63.5   0.0     1e-16   62.6   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=3 SV=1
+tr|A0A1X7UGK9|A0A1X7UGK9_AMPQE -          DNA_methylase        PF00145.24   2.5e-14   54.7   0.0   9.5e-14   52.8   0.0   1.7   2   0   0   2   2   2   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7TJC1|A0A1X7TJC1_AMPQE -          DNA_methylase        PF00145.24   1.6e-07   32.3   0.0   1.9e-07   32.1   0.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7TED2|A0A1X7TED2_AMPQE -          DNA_methylase        PF00145.24    0.0048   17.6   0.0    0.0082   16.8   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7U0X0|A0A1X7U0X0_AMPQE -          DNA_methylase        PF00145.24     0.025   15.3   0.2     0.056   14.1   0.0   1.6   2   0   0   2   2   2   0 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7T699|A0A1X7T699_AMPQE -          DNA_methylase        PF00145.24     0.088   13.5   0.0     0.098   13.3   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7V411|A0A1X7V411_AMPQE -          DNA_methylase        PF00145.24     0.088   13.5   0.0       0.1   13.2   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DNA_methylase.hmm
+# Target file:     proteomes/Amphimedon_queenslandica.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DNA_methylase/Amphimedon_queenslandica.tblout --cpu 8 pfam_list/DNA_methylase.hmm proteomes/Amphimedon_queenslandica.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:00:07 2025
+# [ok]

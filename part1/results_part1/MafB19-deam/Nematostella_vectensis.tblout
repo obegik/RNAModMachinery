@@ -1,0 +1,21 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A7S1Z0|A7S1Z0_NEMVE -          MafB19-deam          PF14437.13   1.2e-16   61.2   0.0   1.5e-16   60.9   0.0   1.1   1   0   0   1   1   1   1 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g205539 PE=4 SV=1
+tr|A7SGR7|A7SGR7_NEMVE -          MafB19-deam          PF14437.13   2.9e-15   56.7   0.1   6.3e-08   33.0   0.0   2.4   2   1   0   2   2   2   2 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g212049 PE=4 SV=1
+tr|A7S1Z2|A7S1Z2_NEMVE -          MafB19-deam          PF14437.13   6.1e-15   55.7   0.1   6.8e-15   55.5   0.1   1.0   1   0   0   1   1   1   1 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g101232 PE=4 SV=1
+tr|A7SGH8|A7SGH8_NEMVE -          MafB19-deam          PF14437.13   6.9e-15   55.5   0.0   8.4e-15   55.2   0.0   1.2   1   0   0   1   1   1   1 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g233184 PE=4 SV=1
+tr|A7RLD8|A7RLD8_NEMVE -          MafB19-deam          PF14437.13   4.2e-13   49.8   0.1   5.5e-06   26.7   0.0   2.3   2   0   0   2   2   2   2 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g198805 PE=4 SV=1
+tr|A7RT49|A7RT49_NEMVE -          MafB19-deam          PF14437.13   3.4e-12   46.8   0.0   1.9e-06   28.2   0.0   2.8   2   1   1   3   3   3   2 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g201752 PE=4 SV=1
+tr|A7SKU7|A7SKU7_NEMVE -          MafB19-deam          PF14437.13     6e-09   36.3   0.4   2.9e-07   30.8   0.0   2.1   2   0   0   2   2   2   1 Predicted protein (Fragment) OS=Nematostella vectensis OX=45351 GN=v1g122036 PE=4 SV=1
+tr|A7SK40|A7SK40_NEMVE -          MafB19-deam          PF14437.13    0.0036   17.6  17.6         2    8.7   0.8   4.6   1   1   4   5   5   5   5 Predicted protein (Fragment) OS=Nematostella vectensis OX=45351 GN=v1g57497 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MafB19-deam.hmm
+# Target file:     proteomes/Nematostella_vectensis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MafB19-deam/Nematostella_vectensis.tblout --cpu 8 pfam_list/MafB19-deam.hmm proteomes/Nematostella_vectensis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:09:24 2025
+# [ok]

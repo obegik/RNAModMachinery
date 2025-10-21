@@ -1,0 +1,30 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|C3ZBH4|C3ZBH4_BRAFL -          DREV                 PF05219.18   8.4e-90  301.1   0.0   9.7e-90  300.9   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_260172 PE=4 SV=1
+tr|C3Z583|C3Z583_BRAFL -          DREV                 PF05219.18   3.4e-14   53.2   0.0    0.0028   17.4   0.0   3.2   3   0   0   3   3   3   3 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_130336 PE=4 SV=1
+tr|C3YGA4|C3YGA4_BRAFL -          DREV                 PF05219.18   0.00031   20.6   0.0   0.00044   20.1   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_92848 PE=4 SV=1
+tr|C3ZHD7|C3ZHD7_BRAFL -          DREV                 PF05219.18   0.00064   19.6   0.0    0.0022   17.8   0.0   1.7   2   0   0   2   2   2   1 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_99360 PE=4 SV=1
+tr|C3XZH6|C3XZH6_BRAFL -          DREV                 PF05219.18    0.0032   17.3   0.0     0.005   16.6   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_65649 PE=4 SV=1
+tr|C3YM50|C3YM50_BRAFL -          DREV                 PF05219.18    0.0052   16.6   0.0    0.0078   16.0   0.0   1.2   1   0   0   1   1   1   1 rRNA adenine N(6)-methyltransferase OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_225323 PE=3 SV=1
+tr|C3Y0I3|C3Y0I3_BRAFL -          DREV                 PF05219.18    0.0089   15.8   0.0     0.015   15.0   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_92966 PE=4 SV=1
+tr|C3YBS7|C3YBS7_BRAFL -          DREV                 PF05219.18     0.012   15.4   0.0     0.022   14.5   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_67676 PE=4 SV=1
+tr|C3ZB51|C3ZB51_BRAFL -          DREV                 PF05219.18     0.049   13.4   0.0      0.15   11.8   0.0   1.7   2   0   0   2   2   2   0 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_68483 PE=4 SV=1
+tr|C3ZSK0|C3ZSK0_BRAFL -          DREV                 PF05219.18     0.053   13.3   0.0     0.066   13.0   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_63343 PE=4 SV=1
+tr|C3ZB63|C3ZB63_BRAFL -          DREV                 PF05219.18     0.063   13.0   0.1       8.3    6.1   0.0   2.5   3   0   0   3   3   3   0 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_118790 PE=4 SV=1
+tr|C3YW96|C3YW96_BRAFL -          DREV                 PF05219.18     0.092   12.5   0.0      0.12   12.1   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein (Fragment) OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_242773 PE=4 SV=1
+tr|C3YMM3|C3YMM3_BRAFL -          DREV                 PF05219.18     0.094   12.5   0.0      0.22   11.2   0.0   1.6   1   1   0   1   1   1   0 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_98019 PE=4 SV=1
+tr|C3YJJ2|C3YJJ2_BRAFL -          DREV                 PF05219.18      0.11   12.2   0.0      0.15   11.8   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_93226 PE=4 SV=1
+tr|C3XVW9|C3XVW9_BRAFL -          DREV                 PF05219.18      0.12   12.1   0.0       0.2   11.4   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_106799 PE=3 SV=1
+tr|C3Z3W4|C3Z3W4_BRAFL -          DREV                 PF05219.18      0.17   11.6   0.0       1.2    8.9   0.0   1.9   2   0   0   2   2   2   0 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_99768 PE=4 SV=1
+tr|C3ZBD1|C3ZBD1_BRAFL -          DREV                 PF05219.18      0.24   11.1   0.0       0.3   10.8   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_65009 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DREV.hmm
+# Target file:     proteomes/Branchiostoma_floridae.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DREV/Branchiostoma_floridae.tblout --cpu 8 pfam_list/DREV.hmm proteomes/Branchiostoma_floridae.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:21 2025
+# [ok]

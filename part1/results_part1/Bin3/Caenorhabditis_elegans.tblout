@@ -1,0 +1,15 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9U2R0|BIN3D_CAEEL -          Bin3                 PF06859.19   3.6e-42  143.5   0.0     9e-42  142.2   0.0   1.7   1   0   0   1   1   1   1 Probable RNA methyltransferase Y17G7B.18 OS=Caenorhabditis elegans OX=6239 GN=Y17G7B.18 PE=3 SV=1
+sp|Q9N4D9|NTM1_CAEEL  -          Bin3                 PF06859.19     0.007   17.1   0.0     0.011   16.4   0.0   1.4   1   0   0   1   1   1   1 Alpha N-terminal protein methyltransferase 1 OS=Caenorhabditis elegans OX=6239 GN=homt-1 PE=2 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Bin3.hmm
+# Target file:     proteomes/Caenorhabditis_elegans.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Bin3/Caenorhabditis_elegans.tblout --cpu 8 pfam_list/Bin3.hmm proteomes/Caenorhabditis_elegans.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:51 2025
+# [ok]

@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q38BF5|Q38BF5_TRYB2 -          LCM                  PF04072.21   1.5e-23   82.6   0.0   7.8e-23   80.3   0.0   2.0   1   1   0   1   1   1   1 Leucine carboxyl methyltransferase 1 OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.70.2760 PE=3 SV=1
+tr|Q38DD6|Q38DD6_TRYB2 -          LCM                  PF04072.21   1.4e-18   66.5   0.0   4.7e-17   61.5   0.0   2.4   2   0   0   2   2   2   1 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.211.3730 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/LCM.hmm
+# Target file:     proteomes/Trypanosoma_brucei.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/LCM/Trypanosoma_brucei.tblout --cpu 8 pfam_list/LCM.hmm proteomes/Trypanosoma_brucei.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:48 2025
+# [ok]

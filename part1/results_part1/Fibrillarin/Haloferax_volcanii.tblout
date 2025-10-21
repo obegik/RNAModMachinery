@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|D4GZN3|D4GZN3_HALVD -          Fibrillarin          PF01269.24   2.4e-53  178.4   0.0   2.9e-53  178.2   0.0   1.0   1   0   0   1   1   1   1 Fibrillarin-like rRNA/tRNA 2'-O-methyltransferase OS=Haloferax volcanii (strain ATCC 29605 / DSM 3757 / JCM 8879 / NBRC 14742 / NCIMB 2012 / VKM B-1768 / DS2) OX=309800 GN=fib PE=3 SV=1
+tr|D4GSS3|D4GSS3_HALVD -          Fibrillarin          PF01269.24    0.0013   15.7   0.0    0.0031   14.5   0.0   1.5   2   0   0   2   2   2   1 S-adenosylmethionine-dependent methyltransferase OS=Haloferax volcanii (strain ATCC 29605 / DSM 3757 / JCM 8879 / NBRC 14742 / NCIMB 2012 / VKM B-1768 / DS2) OX=309800 GN=HVO_0663 PE=4 SV=1
+tr|D4GS14|D4GS14_HALVD -          Fibrillarin          PF01269.24    0.0046   13.9   0.0    0.0063   13.5   0.0   1.1   1   0   0   1   1   1   1 protein-L-isoaspartate(D-aspartate) O-methyltransferase OS=Haloferax volcanii (strain ATCC 29605 / DSM 3757 / JCM 8879 / NBRC 14742 / NCIMB 2012 / VKM B-1768 / DS2) OX=309800 GN=pimT PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Fibrillarin.hmm
+# Target file:     proteomes/Haloferax_volcanii.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Fibrillarin/Haloferax_volcanii.tblout --cpu 8 pfam_list/Fibrillarin.hmm proteomes/Haloferax_volcanii.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:42 2025
+# [ok]

@@ -1,0 +1,22 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|H2SWH0|H2SWH0_TAKRU         -          A_deamin             PF02137.25  9.1e-121  403.6   0.0  1.7e-120  402.7   0.0   1.4   1   0   0   1   1   1   1 Adenosine deaminase RNA specific B1b OS=Takifugu rubripes OX=31033 GN=adarb1b PE=4 SV=2
+tr|A0A674PB81|A0A674PB81_TAKRU -          A_deamin             PF02137.25  1.6e-119  399.5   0.8  1.9e-119  399.3   0.0   1.5   2   0   0   2   2   2   1 Adenosine deaminase RNA specific B1a OS=Takifugu rubripes OX=31033 GN=adarb1a PE=4 SV=1
+tr|H2TRV5|H2TRV5_TAKRU         -          A_deamin             PF02137.25  2.7e-115  385.6   0.1  3.8e-115  385.1   0.1   1.2   1   0   0   1   1   1   1 Adenosine deaminase RNA specific B2 (inactive) OS=Takifugu rubripes OX=31033 GN=adarb2 PE=4 SV=3
+tr|H2TCA4|H2TCA4_TAKRU         -          A_deamin             PF02137.25  1.8e-107  359.8   0.0  3.8e-107  358.8   0.0   1.6   1   0   0   1   1   1   1 Adenosine deaminase RNA specific OS=Takifugu rubripes OX=31033 GN=adar PE=4 SV=3
+tr|A0A674MVK5|A0A674MVK5_TAKRU -          A_deamin             PF02137.25   3.8e-96  322.6   0.2   4.9e-96  322.3   0.2   1.1   1   0   0   1   1   1   1 Adenosine deaminase domain containing 1 (testis-specific) OS=Takifugu rubripes OX=31033 GN=LOC101067483 PE=4 SV=1
+tr|A0A674P7Z9|A0A674P7Z9_TAKRU -          A_deamin             PF02137.25   6.5e-94  315.3   0.0   8.9e-94  314.8   0.0   1.2   1   0   0   1   1   1   1 Adenosine deaminase RNA specific B2 (inactive) OS=Takifugu rubripes OX=31033 GN=LOC101080158 PE=4 SV=1
+tr|A0A674P6T3|A0A674P6T3_TAKRU -          A_deamin             PF02137.25   1.6e-93  314.0   0.2   2.1e-93  313.6   0.2   1.1   1   0   0   1   1   1   1 Adenosine deaminase domain containing 1 (testis-specific) OS=Takifugu rubripes OX=31033 GN=adad1 PE=4 SV=1
+tr|H2S4J5|H2S4J5_TAKRU         -          A_deamin             PF02137.25   8.4e-93  311.6   0.0   1.4e-92  310.9   0.0   1.4   1   1   0   1   1   1   1 tRNA-specific adenosine deaminase 1 OS=Takifugu rubripes OX=31033 GN=adat1 PE=3 SV=3
+tr|H2TQD2|H2TQD2_TAKRU         -          A_deamin             PF02137.25   4.8e-71  240.1   0.0   6.7e-71  239.7   0.0   1.2   1   0   0   1   1   1   1 Adenosine deaminase domain containing 2 OS=Takifugu rubripes OX=31033 GN=adad2 PE=4 SV=3
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/A_deamin.hmm
+# Target file:     proteomes/Takifugu_rubripes.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/A_deamin/Takifugu_rubripes.tblout --cpu 8 pfam_list/A_deamin.hmm proteomes/Takifugu_rubripes.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:11 2025
+# [ok]

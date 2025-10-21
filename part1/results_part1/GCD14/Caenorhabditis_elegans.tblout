@@ -1,0 +1,18 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|G5EGR8|G5EGR8_CAEEL -          GCD14                PF08704.17   6.5e-73  245.6   0.0   7.9e-73  245.3   0.0   1.1   1   0   0   1   1   1   1 tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRMT61A OS=Caenorhabditis elegans OX=6239 GN=CELE_W02A11.1 PE=1 SV=1
+sp|Q22053|FBRL_CAEEL   -          GCD14                PF08704.17    0.0007   19.5   0.0    0.0011   18.8   0.0   1.3   1   0   0   1   1   1   1 rRNA 2'-O-methyltransferase fibrillarin OS=Caenorhabditis elegans OX=6239 GN=fib-1 PE=2 SV=1
+tr|Q9N3T7|Q9N3T7_CAEEL -          GCD14                PF08704.17     0.051   13.4   0.7     0.078   12.8   0.2   1.5   1   1   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y47G6A.13 PE=1 SV=1
+sp|Q27873|PIMT_CAEEL   -          GCD14                PF08704.17     0.067   13.0   0.0     0.085   12.6   0.0   1.2   1   0   0   1   1   1   0 Protein-L-isoaspartate O-methyltransferase OS=Caenorhabditis elegans OX=6239 GN=pcm-1 PE=2 SV=1
+tr|Q21536|Q21536_CAEEL -          GCD14                PF08704.17       9.8    5.9   8.5       2.1    8.1   0.5   2.6   2   0   0   2   2   2   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_M117.4 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/GCD14.hmm
+# Target file:     proteomes/Caenorhabditis_elegans.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/GCD14/Caenorhabditis_elegans.tblout --cpu 8 pfam_list/GCD14.hmm proteomes/Caenorhabditis_elegans.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:08 2025
+# [ok]

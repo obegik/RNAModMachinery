@@ -1,0 +1,19 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A2G151|A2G151_TRIVA -          LCM                  PF04072.21   3.5e-40  139.4   0.0   5.1e-40  138.8   0.0   1.2   1   0   0   1   1   1   1 Methyltransferase, putative, TIGR00027 family protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_009470 PE=4 SV=1
+tr|A2E9W0|A2E9W0_TRIVA -          LCM                  PF04072.21   9.9e-24   85.7   0.0   1.9e-23   84.8   0.0   1.5   1   1   0   1   1   1   1 Leucine carboxyl methyltransferase 1 OS=Trichomonas vaginalis OX=5722 GN=TVAG_184240 PE=3 SV=1
+tr|A2FN76|A2FN76_TRIVA -          LCM                  PF04072.21   1.2e-23   85.5   0.0   2.4e-23   84.5   0.0   1.5   1   1   0   1   1   1   1 Leucine carboxyl methyltransferase 1 OS=Trichomonas vaginalis OX=5722 GN=TVAG_003240 PE=3 SV=1
+tr|A2EQ50|A2EQ50_TRIVA -          LCM                  PF04072.21   5.2e-23   83.4   0.0     1e-22   82.4   0.0   1.5   1   1   0   1   1   1   1 Leucine carboxyl methyltransferase 1 OS=Trichomonas vaginalis OX=5722 GN=TVAG_474040 PE=3 SV=1
+tr|A2EY25|A2EY25_TRIVA -          LCM                  PF04072.21     3e-17   64.6   0.0   4.9e-17   63.9   0.0   1.4   1   0   0   1   1   1   1 Leucine carboxyl methyltransferase 1 OS=Trichomonas vaginalis OX=5722 GN=TVAG_044530 PE=3 SV=1
+tr|A2F5C5|A2F5C5_TRIVA -          LCM                  PF04072.21   1.8e-14   55.5   0.0     1e-13   53.1   0.0   2.1   1   1   0   1   1   1   1 O-methyltransferase N-terminus family protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_222490 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/LCM.hmm
+# Target file:     proteomes/Trichomonas_vaginalis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/LCM/Trichomonas_vaginalis.tblout --cpu 8 pfam_list/LCM.hmm proteomes/Trichomonas_vaginalis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:48 2025
+# [ok]

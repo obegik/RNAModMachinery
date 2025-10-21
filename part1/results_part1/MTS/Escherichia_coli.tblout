@@ -1,0 +1,44 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P39406|RSMC_ECOLI  -          MTS                  PF05175.21   8.1e-64  212.3   0.0   1.2e-63  211.7   0.0   1.2   1   0   0   1   1   1   1 Ribosomal RNA small subunit methyltransferase C OS=Escherichia coli (strain K12) OX=83333 GN=rsmC PE=1 SV=3
+sp|P42596|RLMG_ECOLI  -          MTS                  PF05175.21   2.9e-60  200.7   0.0   6.2e-59  196.4   0.0   2.1   2   0   0   2   2   2   1 Ribosomal RNA large subunit methyltransferase G OS=Escherichia coli (strain K12) OX=83333 GN=rlmG PE=1 SV=2
+sp|P0ACC1|PRMC_ECOLI  -          MTS                  PF05175.21   6.8e-19   66.0   0.1   8.8e-18   62.4   0.0   2.0   2   0   0   2   2   2   1 Release factor glutamine methyltransferase OS=Escherichia coli (strain K12) OX=83333 GN=prmC PE=1 SV=1
+sp|P39199|PRMB_ECOLI  -          MTS                  PF05175.21   3.7e-17   60.4   0.1   7.2e-16   56.2   0.0   2.1   2   0   0   2   2   2   1 Ribosomal protein uL3 glutamine methyltransferase OS=Escherichia coli (strain K12) OX=83333 GN=prmB PE=1 SV=3
+sp|P31825|TRMN6_ECOLI -          MTS                  PF05175.21   1.5e-13   48.7   0.0   3.1e-13   47.7   0.0   1.5   1   1   0   1   1   1   1 tRNA1(Val) (adenine(37)-N6)-methyltransferase OS=Escherichia coli (strain K12) OX=83333 GN=yfiC PE=1 SV=2
+sp|P0A8T1|PRMA_ECOLI  -          MTS                  PF05175.21   4.2e-11   40.7   0.0   6.4e-11   40.1   0.0   1.2   1   0   0   1   1   1   1 Ribosomal protein L11 methyltransferase OS=Escherichia coli (strain K12) OX=83333 GN=prmA PE=1 SV=1
+sp|P25397|TEHB_ECOLI  -          MTS                  PF05175.21   3.1e-08   31.4   0.0   4.6e-08   30.8   0.0   1.3   1   0   0   1   1   1   1 Tellurite methyltransferase OS=Escherichia coli (strain K12) OX=83333 GN=tehB PE=1 SV=1
+sp|P75864|RLMKL_ECOLI -          MTS                  PF05175.21   1.9e-07   28.8   0.0    0.0029   15.2   0.0   2.5   2   0   0   2   2   2   2 Ribosomal RNA large subunit methyltransferase K/L OS=Escherichia coli (strain K12) OX=83333 GN=rlmL PE=1 SV=1
+sp|P17993|UBIG_ECOLI  -          MTS                  PF05175.21   3.4e-07   28.0   0.0   4.8e-07   27.5   0.0   1.3   1   0   0   1   1   1   1 Ubiquinone biosynthesis O-methyltransferase OS=Escherichia coli (strain K12) OX=83333 GN=ubiG PE=1 SV=1
+sp|P75876|RLMI_ECOLI  -          MTS                  PF05175.21   4.3e-07   27.7   0.0   6.7e-07   27.0   0.0   1.2   1   0   0   1   1   1   1 Ribosomal RNA large subunit methyltransferase I OS=Escherichia coli (strain K12) OX=83333 GN=rlmI PE=1 SV=2
+sp|P36566|CMOM_ECOLI  -          MTS                  PF05175.21   1.9e-06   25.6   0.0   2.8e-06   25.0   0.0   1.2   1   0   0   1   1   1   1 tRNA 5-carboxymethoxyuridine methyltransferase OS=Escherichia coli (strain K12) OX=83333 GN=cmoM PE=1 SV=2
+sp|P36999|RLMA_ECOLI  -          MTS                  PF05175.21   2.8e-06   25.0   0.0   4.1e-06   24.5   0.0   1.2   1   0   0   1   1   1   1 23S rRNA (guanine(745)-N(1))-methyltransferase OS=Escherichia coli (strain K12) OX=83333 GN=rlmA PE=1 SV=1
+sp|P75817|RLMC_ECOLI  -          MTS                  PF05175.21   4.3e-06   24.4   0.0     7e-06   23.7   0.0   1.3   1   0   0   1   1   1   1 23S rRNA (uracil(747)-C(5))-methyltransferase RlmC OS=Escherichia coli (strain K12) OX=83333 GN=rlmC PE=1 SV=1
+sp|P0A9H7|CFA_ECOLI   -          MTS                  PF05175.21   4.3e-06   24.4   0.0   7.3e-06   23.7   0.0   1.3   1   0   0   1   1   1   1 Cyclopropane-fatty-acyl-phospholipid synthase OS=Escherichia coli (strain K12) OX=83333 GN=cfa PE=1 SV=2
+sp|P76145|TAM_ECOLI   -          MTS                  PF05175.21   1.1e-05   23.0   0.0   1.7e-05   22.4   0.0   1.3   1   0   0   1   1   1   1 Trans-aconitate 2-methyltransferase OS=Escherichia coli (strain K12) OX=83333 GN=tam PE=1 SV=3
+sp|P55135|RLMD_ECOLI  -          MTS                  PF05175.21   1.3e-05   22.8   0.0   2.8e-05   21.8   0.0   1.5   1   0   0   1   1   1   1 23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD OS=Escherichia coli (strain K12) OX=83333 GN=rlmD PE=1 SV=3
+sp|P77460|YBCY_ECOLI  -          MTS                  PF05175.21   1.4e-05   22.7   0.0   0.00017   19.2   0.0   2.1   2   0   0   2   2   2   1 Putative uncharacterized protein YbcY OS=Escherichia coli (strain K12) OX=83333 GN=ybcY PE=5 SV=2
+sp|P75782|RLMF_ECOLI  -          MTS                  PF05175.21   2.5e-05   21.9   0.0   6.5e-05   20.6   0.0   1.6   1   1   0   1   1   1   1 Ribosomal RNA large subunit methyltransferase F OS=Escherichia coli (strain K12) OX=83333 GN=rlmF PE=1 SV=2
+sp|P09158|SPEE_ECOLI  -          MTS                  PF05175.21   3.5e-05   21.4   0.0   6.2e-05   20.6   0.0   1.4   1   0   0   1   1   1   1 Polyamine aminopropyltransferase OS=Escherichia coli (strain K12) OX=83333 GN=speE PE=1 SV=2
+sp|P76290|CMOA_ECOLI  -          MTS                  PF05175.21   5.8e-05   20.7   0.0   8.3e-05   20.2   0.0   1.2   1   0   0   1   1   1   1 Carboxy-S-adenosyl-L-methionine synthase OS=Escherichia coli (strain K12) OX=83333 GN=cmoA PE=1 SV=1
+sp|P0A887|UBIE_ECOLI  -          MTS                  PF05175.21     6e-05   20.7   0.0   0.00012   19.7   0.0   1.5   1   0   0   1   1   1   1 Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE OS=Escherichia coli (strain K12) OX=83333 GN=ubiE PE=1 SV=1
+sp|P0ADX9|RSMD_ECOLI  -          MTS                  PF05175.21   6.1e-05   20.6   0.0   8.5e-05   20.2   0.0   1.1   1   0   0   1   1   1   1 Ribosomal RNA small subunit methyltransferase D OS=Escherichia coli (strain K12) OX=83333 GN=rsmD PE=1 SV=1
+sp|P36929|RSMB_ECOLI  -          MTS                  PF05175.21   8.6e-05   20.2   0.0   0.00029   18.4   0.0   1.8   2   0   0   2   2   2   1 Ribosomal RNA small subunit methyltransferase B OS=Escherichia coli (strain K12) OX=83333 GN=rsmB PE=1 SV=2
+sp|P23003|TRMA_ECOLI  -          MTS                  PF05175.21   0.00012   19.7   0.0   0.00022   18.9   0.0   1.4   1   0   0   1   1   1   1 tRNA/tmRNA (uracil-C(5))-methyltransferase OS=Escherichia coli (strain K12) OX=83333 GN=trmA PE=1 SV=1
+sp|P12999|BIOC_ECOLI  -          MTS                  PF05175.21   0.00044   17.9   0.0   0.00068   17.2   0.0   1.3   1   0   0   1   1   1   1 Malonyl-[acyl-carrier protein] O-methyltransferase OS=Escherichia coli (strain K12) OX=83333 GN=bioC PE=1 SV=2
+sp|P39367|YJHP_ECOLI  -          MTS                  PF05175.21    0.0013   16.4   0.0    0.0022   15.6   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein YjhP OS=Escherichia coli (strain K12) OX=83333 GN=yjhP PE=1 SV=1
+sp|P0A6U5|RSMG_ECOLI  -          MTS                  PF05175.21    0.0022   15.6   0.0    0.0033   15.0   0.0   1.2   1   0   0   1   1   1   1 Ribosomal RNA small subunit methyltransferase G OS=Escherichia coli (strain K12) OX=83333 GN=rsmG PE=1 SV=1
+sp|P75967|YMFD_ECOLI  -          MTS                  PF05175.21    0.0067   14.0   0.0      0.11   10.0   0.0   2.1   1   1   0   1   1   1   1 Uncharacterized protein YmfD OS=Escherichia coli (strain K12) OX=83333 GN=ymfD PE=4 SV=1
+sp|P0A9S3|GATD_ECOLI  -          MTS                  PF05175.21     0.017   12.7   0.0     0.028   12.0   0.0   1.3   1   0   0   1   1   1   0 Galactitol 1-phosphate 5-dehydrogenase OS=Escherichia coli (strain K12) OX=83333 GN=gatD PE=1 SV=1
+sp|P07913|TDH_ECOLI   -          MTS                  PF05175.21     0.018   12.6   0.1      0.03   11.9   0.1   1.3   1   0   0   1   1   1   0 L-threonine 3-dehydrogenase OS=Escherichia coli (strain K12) OX=83333 GN=tdh PE=1 SV=1
+sp|P0A7A5|PIMT_ECOLI  -          MTS                  PF05175.21      0.03   11.9   0.0     0.044   11.4   0.0   1.3   1   0   0   1   1   1   0 Protein-L-isoaspartate O-methyltransferase OS=Escherichia coli (strain K12) OX=83333 GN=pcm PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MTS.hmm
+# Target file:     proteomes/Escherichia_coli.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MTS/Escherichia_coli.tblout --cpu 8 pfam_list/MTS.hmm proteomes/Escherichia_coli.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:05:56 2025
+# [ok]

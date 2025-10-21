@@ -1,0 +1,17 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|R4GBK4|R4GBK4_ANOCA -          MafB19-deam          PF14437.13   1.2e-17   64.1   0.5   1.6e-17   63.6   0.5   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Anolis carolinensis OX=28377 GN=adat2 PE=4 SV=1
+tr|H9GK09|H9GK09_ANOCA -          MafB19-deam          PF14437.13     1e-15   57.8   0.0   1.3e-15   57.5   0.0   1.2   1   0   0   1   1   1   1 dCMP deaminase OS=Anolis carolinensis OX=28377 GN=DCTD PE=4 SV=2
+tr|H9GW10|H9GW10_ANOCA -          MafB19-deam          PF14437.13   9.5e-11   41.7   0.0   1.5e-09   37.8   0.0   2.1   1   1   0   1   1   1   1 Adenosine deaminase, tRNA specific 3 OS=Anolis carolinensis OX=28377 GN=ADAT3 PE=4 SV=1
+tr|H9GHF6|H9GHF6_ANOCA -          MafB19-deam          PF14437.13      0.17   11.8   0.0      0.37   10.7   0.0   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Anolis carolinensis OX=28377 GN=ssh1 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MafB19-deam.hmm
+# Target file:     proteomes/Anolis_carolinensis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MafB19-deam/Anolis_carolinensis.tblout --cpu 8 pfam_list/MafB19-deam.hmm proteomes/Anolis_carolinensis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:09:21 2025
+# [ok]

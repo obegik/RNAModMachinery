@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6YAE8|F6YAE8_MONDO -          Fibrillarin          PF01269.24  3.3e-109  363.6   0.0  3.9e-109  363.3   0.0   1.0   1   0   0   1   1   1   1 Fibrillarin OS=Monodelphis domestica OX=13616 GN=FBL PE=3 SV=2
+tr|K7DYZ6|K7DYZ6_MONDO -          Fibrillarin          PF01269.24     0.059   12.7   0.0     0.091   12.1   0.0   1.2   1   0   0   1   1   1   0 Solute carrier family 25 member 15 OS=Monodelphis domestica OX=13616 GN=SLC25A15 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Fibrillarin.hmm
+# Target file:     proteomes/Monodelphis_domestica.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Fibrillarin/Monodelphis_domestica.tblout --cpu 8 pfam_list/Fibrillarin.hmm proteomes/Monodelphis_domestica.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:43 2025
+# [ok]

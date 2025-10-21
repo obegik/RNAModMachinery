@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A8I3M9Y0|A0A8I3M9Y0_CANLF -          A_deamin             PF02137.25  1.6e-108  363.3   0.0  2.1e-108  362.9   0.0   1.2   1   0   0   1   1   1   1 Adenosine deaminase RNA specific B2 (inactive) OS=Canis lupus familiaris OX=9615 GN=ADARB2 PE=4 SV=1
+tr|A0A8I3NVI3|A0A8I3NVI3_CANLF -          A_deamin             PF02137.25    4e-103  345.5   0.0  6.2e-103  344.9   0.0   1.3   1   0   0   1   1   1   1 Double-stranded RNA-specific adenosine deaminase OS=Canis lupus familiaris OX=9615 GN=ADAR PE=4 SV=1
+tr|A0A8I3P6Y2|A0A8I3P6Y2_CANLF -          A_deamin             PF02137.25  4.2e-103  345.5   0.1  5.7e-103  345.1   0.1   1.2   1   0   0   1   1   1   1 Adenosine deaminase domain-containing protein 1 OS=Canis lupus familiaris OX=9615 GN=ADAD1 PE=3 SV=1
+tr|A0A8I3S5B5|A0A8I3S5B5_CANLF -          A_deamin             PF02137.25  3.6e-102  342.4   0.0  5.3e-102  341.9   0.0   1.2   1   0   0   1   1   1   1 Adenosine deaminase RNA specific B1 OS=Canis lupus familiaris OX=9615 GN=ADARB1 PE=4 SV=1
+tr|A0A8I3PNG4|A0A8I3PNG4_CANLF -          A_deamin             PF02137.25   4.6e-88  296.1   0.0     6e-88  295.7   0.0   1.1   1   0   0   1   1   1   1 tRNA-specific adenosine deaminase 1 OS=Canis lupus familiaris OX=9615 GN=ADAT1 PE=3 SV=1
+tr|A0A8I3RSA4|A0A8I3RSA4_CANLF -          A_deamin             PF02137.25     2e-77  261.1   0.0   2.4e-77  260.8   0.0   1.1   1   0   0   1   1   1   1 Adenosine deaminase domain-containing protein 2 OS=Canis lupus familiaris OX=9615 GN=ADAD2 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/A_deamin.hmm
+# Target file:     proteomes/Canis_familiaris.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/A_deamin/Canis_familiaris.tblout --cpu 8 pfam_list/A_deamin.hmm proteomes/Canis_familiaris.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:07 2025
+# [ok]

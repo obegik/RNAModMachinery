@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A0L0DKQ6|A0A0L0DKQ6_THETB -          Fibrillarin          PF01269.24  4.8e-108  358.8   0.0  5.7e-108  358.5   0.0   1.0   1   0   0   1   1   1   1 rRNA 2'-O-methyltransferase fibrillarin OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_09053 PE=3 SV=1
+tr|A0A0L0DNA3|A0A0L0DNA3_THETB -          Fibrillarin          PF01269.24   1.2e-90  301.9   0.0   1.7e-90  301.4   0.0   1.2   1   0   0   1   1   1   1 rRNA 2'-O-methyltransferase fibrillarin OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_12230 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Fibrillarin.hmm
+# Target file:     proteomes/Thecamonas_trahens.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Fibrillarin/Thecamonas_trahens.tblout --cpu 8 pfam_list/Fibrillarin.hmm proteomes/Thecamonas_trahens.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:45 2025
+# [ok]

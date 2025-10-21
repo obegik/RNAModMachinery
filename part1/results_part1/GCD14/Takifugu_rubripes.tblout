@@ -1,0 +1,22 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|H2T538|H2T538_TAKRU         -          GCD14                PF08704.17  3.2e-108  361.3   0.1  4.5e-108  360.8   0.1   1.2   1   0   0   1   1   1   1 tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRMT61A OS=Takifugu rubripes OX=31033 GN=trmt61a PE=3 SV=2
+tr|A0A3B5K4C5|A0A3B5K4C5_TAKRU -          GCD14                PF08704.17   1.4e-14   54.6   0.0   2.3e-14   53.9   0.0   1.3   1   0   0   1   1   1   1 tRNA (adenine(58)-N(1))-methyltransferase OS=Takifugu rubripes OX=31033 GN=trmt61b PE=4 SV=2
+tr|H2SDJ0|H2SDJ0_TAKRU         -          GCD14                PF08704.17   3.9e-05   23.7   0.0   5.7e-05   23.1   0.0   1.2   1   0   0   1   1   1   1 rRNA 2'-O-methyltransferase fibrillarin OS=Takifugu rubripes OX=31033 GN=fbl PE=3 SV=3
+tr|A0A674MN08|A0A674MN08_TAKRU -          GCD14                PF08704.17   5.9e-05   23.1   0.0   8.7e-05   22.5   0.0   1.3   1   0   0   1   1   1   1 Protein-L-isoaspartate O-methyltransferase OS=Takifugu rubripes OX=31033 GN=pcmtl PE=3 SV=1
+tr|H2RSL9|H2RSL9_TAKRU         -          GCD14                PF08704.17   0.00079   19.4   0.0     0.001   19.0   0.0   1.2   1   0   0   1   1   1   1 Protein-L-isoaspartate(D-aspartate) O-methyltransferase OS=Takifugu rubripes OX=31033 GN=pcmt PE=3 SV=3
+tr|A0A3B5KG40|A0A3B5KG40_TAKRU -          GCD14                PF08704.17    0.0021   18.0   0.1     0.006   16.5   0.0   1.7   2   0   0   2   2   2   1 Protein-L-isoaspartate O-methyltransferase domain-containing protein 1 OS=Takifugu rubripes OX=31033 GN=pcmtd1 PE=3 SV=1
+tr|H2USR9|H2USR9_TAKRU         -          GCD14                PF08704.17     0.022   14.6   0.3       0.2   11.5   0.1   2.1   2   0   0   2   2   2   0 Kelch-like ECH-associated protein 1a OS=Takifugu rubripes OX=31033 GN=keap1a PE=3 SV=3
+tr|A0A674PGW9|A0A674PGW9_TAKRU -          GCD14                PF08704.17     0.032   14.1   0.0     0.042   13.7   0.0   1.1   1   0   0   1   1   1   0 Catechol-O-methyltransferase domain containing 1 OS=Takifugu rubripes OX=31033 GN=LOC101069961 PE=3 SV=1
+tr|H2V8F8|H2V8F8_TAKRU         -          GCD14                PF08704.17     0.091   12.6   0.2      0.42   10.5   0.0   2.2   2   0   0   2   2   2   0 NOP2/Sun RNA methyltransferase 5 OS=Takifugu rubripes OX=31033 GN=nsun5 PE=3 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/GCD14.hmm
+# Target file:     proteomes/Takifugu_rubripes.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/GCD14/Takifugu_rubripes.tblout --cpu 8 pfam_list/GCD14.hmm proteomes/Takifugu_rubripes.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:14 2025
+# [ok]

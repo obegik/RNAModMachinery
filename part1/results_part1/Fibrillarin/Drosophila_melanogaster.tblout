@@ -1,0 +1,18 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9W1V3|FBRL_DROME   -          Fibrillarin          PF01269.24  2.5e-108  360.1   0.0  2.9e-108  359.9   0.0   1.0   1   0   0   1   1   1   1 rRNA 2'-O-methyltransferase fibrillarin OS=Drosophila melanogaster OX=7227 GN=Fib PE=2 SV=1
+tr|Q9VG21|Q9VG21_DROME -          Fibrillarin          PF01269.24   2.3e-78  262.1   0.0   2.8e-78  261.8   0.0   1.1   1   0   0   1   1   1   1 IP10714p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG10909 PE=2 SV=1
+tr|Q9VDZ4|Q9VDZ4_DROME -          Fibrillarin          PF01269.24   2.4e-06   26.5   0.0   3.8e-06   25.8   0.0   1.3   1   0   0   1   1   1   1 LD16340p OS=Drosophila melanogaster OX=7227 GN=Nsun5 PE=1 SV=1
+tr|Q8IPS4|Q8IPS4_DROME -          Fibrillarin          PF01269.24   0.00086   18.1   0.0    0.0014   17.4   0.0   1.2   1   0   0   1   1   1   1 FI01826p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG11109 PE=2 SV=1
+tr|A1Z909|A1Z909_DROME -          Fibrillarin          PF01269.24     0.072   11.8   0.0      0.14   10.8   0.0   1.4   1   0   0   1   1   1   0 LD11307p OS=Drosophila melanogaster OX=7227 GN=CG8545-RA PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Fibrillarin.hmm
+# Target file:     proteomes/Drosophila_melanogaster.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Fibrillarin/Drosophila_melanogaster.tblout --cpu 8 pfam_list/Fibrillarin.hmm proteomes/Drosophila_melanogaster.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:41 2025
+# [ok]

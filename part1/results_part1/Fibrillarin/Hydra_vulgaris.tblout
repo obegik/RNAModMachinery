@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0ABM4B4Y4|A0ABM4B4Y4_HYDVU -          Fibrillarin          PF01269.24  8.8e-108  359.0   0.0  1.1e-107  358.7   0.0   1.0   1   0   0   1   1   1   1 rRNA 2'-O-methyltransferase fibrillarin isoform X3 OS=Hydra vulgaris OX=6087 GN=LOC100212665 PE=4 SV=1
+tr|A0ABM4BHC5|A0ABM4BHC5_HYDVU -          Fibrillarin          PF01269.24   0.00091   18.7   0.0    0.0015   18.0   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized 37.1 kDa protein in transposon TN4556 isoform X2 OS=Hydra vulgaris OX=6087 GN=LOC101240403 PE=4 SV=1
+tr|A0ABM4C307|A0ABM4C307_HYDVU -          Fibrillarin          PF01269.24     0.038   13.4   0.1     0.056   12.9   0.1   1.2   1   0   0   1   1   1   0 Protein-L-isoaspartate(D-aspartate) O-methyltransferase isoform X5 OS=Hydra vulgaris OX=6087 GN=LOC100205307 PE=4 SV=1
+tr|A0ABM4D6G0|A0ABM4D6G0_HYDVU -          Fibrillarin          PF01269.24      0.19   11.2   0.7      0.51    9.7   0.2   1.7   2   0   0   2   2   2   0 Protein-L-isoaspartate O-methyltransferase domain-containing protein 2 isoform X2 OS=Hydra vulgaris OX=6087 GN=LOC100197667 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Fibrillarin.hmm
+# Target file:     proteomes/Hydra_vulgaris.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Fibrillarin/Hydra_vulgaris.tblout --cpu 8 pfam_list/Fibrillarin.hmm proteomes/Hydra_vulgaris.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:42 2025
+# [ok]

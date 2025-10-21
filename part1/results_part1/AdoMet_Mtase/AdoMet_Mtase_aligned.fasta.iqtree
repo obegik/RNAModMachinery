@@ -1,0 +1,171 @@
+IQ-TREE 3.0.1 built Jul  9 2025
+
+Input file name: results_part1_v3/AdoMet_Mtase/AdoMet_Mtase_aligned.fasta
+Type of analysis: tree reconstruction
+Random seed number: 534509
+
+REFERENCES
+----------
+
+To cite IQ-TREE 3 please use:
+
+Thomas K.F. Wong, Nhan Ly-Trong, Huaiyan Ren, Hector Banos, Andrew J. Roger,
+Edward Susko, Chris Bielow, Nicola De Maio, Nick Goldman, Matthew W. Hahn,
+Gavin Huttley, Robert Lanfear, Bui Quang Minh (2025)
+IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models.
+Submitted.
+
+Please also cite the following paper(s) for the feature(s) that you used:
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 30 sequences with 1133 amino-acid sites
+Number of constant sites: 238 (= 21.0062% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 238 (= 21.0062% of all sites)
+Number of parsimony informative sites: 607
+Number of distinct site patterns: 1035
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: JTT+F+I+G4
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.0599
+  pi(R) = 0.0624
+  pi(N) = 0.0380
+  pi(D) = 0.0528
+  pi(C) = 0.0295
+  pi(Q) = 0.0390
+  pi(E) = 0.0778
+  pi(G) = 0.0635
+  pi(H) = 0.0245
+  pi(I) = 0.0502
+  pi(L) = 0.0937
+  pi(K) = 0.0679
+  pi(M) = 0.0119
+  pi(F) = 0.0382
+  pi(P) = 0.0539
+  pi(S) = 0.0716
+  pi(T) = 0.0483
+  pi(W) = 0.0232
+  pi(Y) = 0.0296
+  pi(V) = 0.0642
+
+Model of rate heterogeneity: Invar+Gamma with 4 categories
+Proportion of invariable sites: 0.0199
+Gamma shape alpha: 0.9892
+
+ Category  Relative_rate  Proportion
+  0         0              0.0199
+  1         0.1375         0.2450
+  2         0.4831         0.2450
+  3         1.0184         0.2450
+  4         2.4420         0.2450
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -28305.5557 (s.e. 650.1021)
+Unconstrained log-likelihood (without tree): -7793.1446
+Number of free parameters (#branches + #model parameters): 78
+Akaike information criterion (AIC) score: 56767.1114
+Corrected Akaike information criterion (AICc) score: 56778.8040
+Bayesian information criterion (BIC) score: 57159.6561
+
+Total tree length (sum of branch lengths): 43.1310
+Sum of internal branch lengths: 6.3433 (14.7069% of tree length)
+
+WARNING: 1 too long branches (>9.8000) should be treated with caution!
+NOTE: Tree is UNROOTED although outgroup taxon 'tr|A0A1X7UQ33|A0A1X7UQ33_AMPQE' is drawn at root
+
++----tr|A0A1X7UQ33|A0A1X7UQ33_AMPQE
+|
+|                             +--tr|H9GIL7|H9GIL7_ANOCA
+|                          +--|
+|                          |  +--tr|A0A8V0YXQ6|A0A8V0YXQ6_CHICK
+|                       +--|
+|                       |  |        +--tr|A0A8I3NG73|A0A8I3NG73_CANLF
+|                       |  |     +--|
+|                       |  |     |  +--sp|Q9D2Q2|TRM44_MOUSE
+|                       |  |  +--|
+|                       |  |  |  |     +--tr|G3QYB3|G3QYB3_GORGO
+|                       |  |  |  |  +--|
+|                       |  |  |  |  |  +--sp|Q8IYL2|TRM44_HUMAN
+|                       |  |  |  +--|
+|                       |  |  |     +--tr|A0A2I3RKI1|A0A2I3RKI1_PANTR
+|                       |  +--|
+|                       |     +--tr|F6WDH2|F6WDH2_MONDO
+|                    +--|
+|                    |  |  +--tr|A0A4W3H4Y8|A0A4W3H4Y8_CALMI
+|                    |  +--|
+|                    |     +--tr|F6Q1V9|F6Q1V9_XENTR
+|                 +--|
+|                 |  +--tr|F7EDA7|F7EDA7_ORNAN
+|              +--|
+|              |  |  +--tr|E9QD66|E9QD66_DANRE
+|              |  +--|
+|              |     +--tr|H2TTI4|H2TTI4_TAKRU
+|           +--|
+|           |  +--tr|S4RR13|S4RR13_PETMA
+|        +--|
+|        |  |        +-----------sp|Q45EK7|TRM44_CAEEL
+|        |  |     +--|
+|        |  |     |  |      +---tr|Q55E88|Q55E88_DICDI
+|        |  |     |  |  +---|
+|        |  |     |  |  |   +----------------------------------------------tr|Q8I2Y6|Q8I2Y6_PLAF7
+|        |  |     |  +--|
+|        |  |     |     |  +-----tr|S2JHY5|S2JHY5_MUCC1
+|        |  |     |     +--|
+|        |  |     |        |  +----------sp|Q02648|TRM44_YEAST
+|        |  |     |        +--|
+|        |  |     |           +---------tr|A0A0L0DDY6|A0A0L0DDY6_THETB
+|        |  |  +--|
+|        |  |  |  +-------------tr|A9UR49|A9UR49_MONBE
+|        |  +--|
+|        |     +--------sp|Q9VHB9|TRM44_DROME
+|     +--|
+|     |  +----tr|B3S4H9|B3S4H9_TRIAD
+|  +--|
+|  |  |     +----tr|C3ZL96|C3ZL96_BRAFL
+|  |  |  +--|
+|  |  |  |  +------tr|A0ABM4CPQ2|A0ABM4CPQ2_HYDVU
+|  |  +--|
+|  |     +--tr|A7RVH0|A7RVH0_NEMVE
++--|
+|  +----tr|W4XAK1|W4XAK1_STRPU
+|
+|   +--tr|F6Y5N8|F6Y5N8_CIOIN
++---|
+    +--tr|H2YET4|H2YET4_CIOSA
+
+Tree in newick format:
+
+(tr|A0A1X7UQ33|A0A1X7UQ33_AMPQE:1.0979755458,((((((((((tr|H9GIL7|H9GIL7_ANOCA:0.3199902413,tr|A0A8V0YXQ6|A0A8V0YXQ6_CHICK:0.2787635180):0.0944197152,(((tr|A0A8I3NG73|A0A8I3NG73_CANLF:0.1967624409,sp|Q9D2Q2|TRM44_MOUSE:0.2699390859):0.0548602419,((tr|G3QYB3|G3QYB3_GORGO:0.0093886754,sp|Q8IYL2|TRM44_HUMAN:0.0101528891):0.0012261783,tr|A0A2I3RKI1|A0A2I3RKI1_PANTR:0.0021169941):0.1399912394):0.1333176308,tr|F6WDH2|F6WDH2_MONDO:0.3551816882):0.0933759502):0.0778994502,(tr|A0A4W3H4Y8|A0A4W3H4Y8_CALMI:0.5303436592,tr|F6Q1V9|F6Q1V9_XENTR:0.6497434152):0.0735015246):0.0830196277,tr|F7EDA7|F7EDA7_ORNAN:0.7070115969):0.0376766809,(tr|E9QD66|E9QD66_DANRE:0.4009515953,tr|H2TTI4|H2TTI4_TAKRU:0.5189778368):0.2682474671):0.2084467423,tr|S4RR13|S4RR13_PETMA:0.7928782551):0.3375921906,(((sp|Q45EK7|TRM44_CAEEL:2.5357368721,((tr|Q55E88|Q55E88_DICDI:0.8516126097,tr|Q8I2Y6|Q8I2Y6_PLAF7:9.9016952222):0.8717489787,(tr|S2JHY5|S2JHY5_MUCC1:1.3150966412,(sp|Q02648|TRM44_YEAST:2.3165192630,tr|A0A0L0DDY6|A0A0L0DDY6_THETB:2.2015493518):0.6914539857):0.2069145511):0.6854760597):0.2818449324,tr|A9UR49|A9UR49_MONBE:3.0699213649):0.0814441939,sp|Q9VHB9|TRM44_DROME:2.0898408278):0.3608057944):0.0310439134,tr|B3S4H9|B3S4H9_TRIAD:1.1758823317):0.0804330491,((tr|C3ZL96|C3ZL96_BRAFL:1.0661175254,tr|A0ABM4CPQ2|A0ABM4CPQ2_HYDVU:1.5224361039):0.1152377892,tr|A7RVH0|A7RVH0_NEMVE:0.7358406195):0.1763012201):0.0769190877,tr|W4XAK1|W4XAK1_STRPU:1.2187107014):0.2313626427,(tr|F6Y5N8|F6Y5N8_CIOIN:0.2579808009,tr|H2YET4|H2YET4_CIOSA:0.3886397784):0.8486900937);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t results_part1_v3/AdoMet_Mtase/AdoMet_Mtase_aligned.fasta.treefile -m "JTT+F+I{0.0198601}+G4{0.989216}" --length 1133
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s results_part1_v3/AdoMet_Mtase/AdoMet_Mtase_aligned.fasta --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s results_part1_v3/AdoMet_Mtase/AdoMet_Mtase_aligned.fasta --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Mon Oct 20 21:59:50 2025
+Total CPU time used: 4.84312 seconds (0h:0m:4s)
+Total wall-clock time used: 2.06981 seconds (0h:0m:2s)
+

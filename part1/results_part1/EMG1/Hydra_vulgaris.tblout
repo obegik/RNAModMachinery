@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0ABM4CQM5|A0ABM4CQM5_HYDVU -          EMG1                 PF03587.20   1.9e-77  259.5   0.1   2.3e-77  259.3   0.1   1.0   1   0   0   1   1   1   1 Ribosomal RNA small subunit methyltransferase NEP1 OS=Hydra vulgaris OX=6087 GN=LOC100209283 PE=4 SV=1
+tr|A0ABM4CM97|A0ABM4CM97_HYDVU -          EMG1                 PF03587.20       1.1    9.1   9.6       4.3    7.1   8.7   2.3   1   1   0   1   1   1   0 Uncharacterized protein LOC136085540 OS=Hydra vulgaris OX=6087 GN=LOC136085540 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/EMG1.hmm
+# Target file:     proteomes/Hydra_vulgaris.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/EMG1/Hydra_vulgaris.tblout --cpu 8 pfam_list/EMG1.hmm proteomes/Hydra_vulgaris.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:33 2025
+# [ok]

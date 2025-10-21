@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|B8CFI1|B8CFI1_THAPS -          Bin3                 PF06859.19   1.4e-07   31.4   0.0   2.4e-07   30.7   0.0   1.4   1   0   0   1   1   1   1 RNA methyltransferase OS=Thalassiosira pseudonana OX=35128 GN=THAPSDRAFT_25718 PE=3 SV=1
+tr|B5YP68|B5YP68_THAPS -          Bin3                 PF06859.19     0.062   13.3   0.0     0.099   12.6   0.0   1.4   1   0   0   1   1   1   0 SAM domain-containing protein OS=Thalassiosira pseudonana OX=35128 GN=THAPS_23343 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Bin3.hmm
+# Target file:     proteomes/Thalassiosira_pseudonana.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Bin3/Thalassiosira_pseudonana.tblout --cpu 8 pfam_list/Bin3.hmm proteomes/Thalassiosira_pseudonana.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:56 2025
+# [ok]

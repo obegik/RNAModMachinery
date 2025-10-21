@@ -1,0 +1,18 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7GPW3|F7GPW3_MACMU -          DNA_methylase        PF00145.24   5.2e-48  164.4   0.0   5.2e-48  164.4   0.0   3.1   2   2   0   2   2   2   1 DNA (cytosine-5)-methyltransferase OS=Macaca mulatta OX=9544 GN=DNMT1 PE=3 SV=2
+tr|F7FME0|F7FME0_MACMU -          DNA_methylase        PF00145.24   7.5e-15   55.4   0.0   3.6e-11   43.3   0.0   2.3   2   0   0   2   2   2   2 DNA methyltransferase 3 alpha OS=Macaca mulatta OX=9544 GN=DNMT3A PE=3 SV=2
+tr|G7N534|G7N534_MACMU -          DNA_methylase        PF00145.24   9.6e-15   55.0   0.3   4.3e-11   43.0   0.0   2.6   3   0   0   3   3   3   2 DNA (Cytosine-5)-methyltransferase 3B OS=Macaca mulatta OX=9544 GN=DNMT3B PE=3 SV=1
+tr|F6V6X0|F6V6X0_MACMU -          DNA_methylase        PF00145.24   0.00062   19.5   0.0    0.0013   18.5   0.0   1.4   1   0   0   1   1   1   1 Methyltransferase like 5 OS=Macaca mulatta OX=9544 GN=METTL5 PE=4 SV=1
+tr|F7EXK6|F7EXK6_MACMU -          DNA_methylase        PF00145.24       0.2   11.3   8.0     0.027   14.1   2.7   2.2   1   1   1   2   2   2   0 EF-hand calcium binding domain 12 OS=Macaca mulatta OX=9544 GN=EFCAB12 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DNA_methylase.hmm
+# Target file:     proteomes/Macaca_mulatta.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DNA_methylase/Macaca_mulatta.tblout --cpu 8 pfam_list/DNA_methylase.hmm proteomes/Macaca_mulatta.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:00:11 2025
+# [ok]

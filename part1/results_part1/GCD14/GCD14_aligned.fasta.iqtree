@@ -1,0 +1,265 @@
+IQ-TREE 3.0.1 built Jul  9 2025
+
+Input file name: results_part1_v3/GCD14/GCD14_aligned.fasta
+Type of analysis: tree reconstruction
+Random seed number: 375916
+
+REFERENCES
+----------
+
+To cite IQ-TREE 3 please use:
+
+Thomas K.F. Wong, Nhan Ly-Trong, Huaiyan Ren, Hector Banos, Andrew J. Roger,
+Edward Susko, Chris Bielow, Nicola De Maio, Nick Goldman, Matthew W. Hahn,
+Gavin Huttley, Robert Lanfear, Bui Quang Minh (2025)
+IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models.
+Submitted.
+
+Please also cite the following paper(s) for the feature(s) that you used:
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 77 sequences with 1838 amino-acid sites
+Number of constant sites: 789 (= 42.9271% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 789 (= 42.9271% of all sites)
+Number of parsimony informative sites: 502
+Number of distinct site patterns: 1228
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: JTT+F+I+G4
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.0685
+  pi(R) = 0.0619
+  pi(N) = 0.0337
+  pi(D) = 0.0497
+  pi(C) = 0.0243
+  pi(Q) = 0.0385
+  pi(E) = 0.0621
+  pi(G) = 0.0833
+  pi(H) = 0.0372
+  pi(I) = 0.0513
+  pi(L) = 0.0799
+  pi(K) = 0.0516
+  pi(M) = 0.0269
+  pi(F) = 0.0408
+  pi(P) = 0.0536
+  pi(S) = 0.0660
+  pi(T) = 0.0549
+  pi(W) = 0.0181
+  pi(Y) = 0.0282
+  pi(V) = 0.0696
+
+Model of rate heterogeneity: Invar+Gamma with 4 categories
+Proportion of invariable sites: 0.0079
+Gamma shape alpha: 1.4731
+
+ Category  Relative_rate  Proportion
+  0         0              0.0079
+  1         0.2229         0.2480
+  2         0.5887         0.2480
+  3         1.0572         0.2480
+  4         2.1632         0.2480
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -41463.4175 (s.e. 1532.6705)
+Unconstrained log-likelihood (without tree): -12143.9417
+Number of free parameters (#branches + #model parameters): 170
+Akaike information criterion (AIC) score: 83266.8351
+Corrected Akaike information criterion (AICc) score: 83301.7121
+Bayesian information criterion (BIC) score: 84204.6288
+
+Total tree length (sum of branch lengths): 62.9474
+Sum of internal branch lengths: 17.3086 (27.4970% of tree length)
+
+WARNING: 3 near-zero internal branches (<0.0005) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'tr|A0A1X7U326|A0A1X7U326_AMPQE' is drawn at root
+
++-----tr|A0A1X7U326|A0A1X7U326_AMPQE
+|
+|                                               +------------tr|A0A1X7VAV2|A0A1X7VAV2_AMPQE
+|                                            +--|
+|                                            |  +---------tr|B3S6G3|B3S6G3_TRIAD
+|                                         +--|
+|                                         |  |              +---tr|G1KIR9|G1KIR9_ANOCA
+|                                         |  |           +--|
+|                                         |  |           |  +----tr|A0A8V0Z9V7|A0A8V0Z9V7_CHICK
+|                                         |  |        +--|
+|                                         |  |        |  |         +--tr|A0A8I3NFT6|A0A8I3NFT6_CANLF
+|                                         |  |        |  |     +---|
+|                                         |  |        |  |     |   |     +--tr|G3RIP8|G3RIP8_GORGO
+|                                         |  |        |  |     |   |  +--|
+|                                         |  |        |  |     |   |  |  |     +**sp|Q9BVS5|TR61B_HUMAN
+|                                         |  |        |  |     |   |  |  |  +**|
+|                                         |  |        |  |     |   |  |  |  |  +--tr|H2QHP4|H2QHP4_PANTR
+|                                         |  |        |  |     |   |  |  +--|
+|                                         |  |        |  |     |   |  |     +--tr|F8WDR2|F8WDR2_HUMAN
+|                                         |  |        |  |     |   +--|
+|                                         |  |        |  |     |      +--tr|F7D1K5|F7D1K5_MACMU
+|                                         |  |        |  |  +--|
+|                                         |  |        |  |  |  +--tr|K7E169|K7E169_MONDO
+|                                         |  |        |  +--|
+|                                         |  |        |     +--tr|F7BD68|F7BD68_ORNAN
+|                                         |  |     +--|
+|                                         |  |     |  +---tr|A0A4W3GBM4|A0A4W3GBM4_CALMI
+|                                         |  |  +--|
+|                                         |  |  |  |   +----tr|X1WF30|X1WF30_DANRE
+|                                         |  |  |  +---|
+|                                         |  |  |      +---tr|A0A3B5K4C5|A0A3B5K4C5_TAKRU
+|                                         |  +--|
+|                                         |     |  +-------tr|C3Y0B5|C3Y0B5_BRAFL
+|                                         |     +--|
+|                                         |        +-----------tr|W4ZGG3|W4ZGG3_STRPU
+|                                      +--|
+|                                      |  +--------------tr|S2J880|S2J880_MUCC1
+|                                   +--|
+|                                   |  +-----------sp|P9WFZ1|TRMI_MYCTU
+|                                +--|
+|                                |  |                               +--tr|D4GXU5|D4GXU5_HALVD
+|                                |  |             +-----------------|
+|                                |  |             |                 +----tr|M1XTL7|M1XTL7_NATM8
+|                                |  |        +----|
+|                                |  |        |    +----sp|Q57598|TRMI_METJA
+|                                |  |     +--|
+|                                |  |     |  +-------tr|Q5JGS7|Q5JGS7_THEKO
+|                                |  +-----|
+|                                |        +--------------tr|Q97ZZ3|Q97ZZ3_SACS2
+|                             +--|
+|                             |  |                   +---------------sp|O32036|TRMR_BACSU
+|                             |  |    +--------------|
+|                             |  |    |              +-----------------------tr|A7S758|A7S758_NEMVE
+|                             |  +----|
+|                             |       |                                              +--tr|F7A5J2|F7A5J2_CIOIN
+|                             |       |                                           +--|
+|                             |       |                                           |  +--tr|H2YFA0|H2YFA0_CIOSA
+|                             |       |                                        +--|
+|                             |       |                                        |  +--tr|A0ABM4B4Y4|A0ABM4B4Y4_HYDVU
+|                             |       |                                     +--|
+|                             |       |                                     |  |  +--tr|W4ZAS4|W4ZAS4_STRPU
+|                             |       |                                     |  +--|
+|                             |       |                                     |     +--tr|B3S5V8|B3S5V8_TRIAD
+|                             |       |                                  +--|
+|                             |       |                                  |  +--sp|P15646|FBRL_YEAST
+|                             |       |                               +--|
+|                             |       |                               |  |   +**tr|Q388C9|Q388C9_TRYB2
+|                             |       |                               |  +---|
+|                             |       |                               |      +**tr|Q388E0|Q388E0_TRYB2
+|                             |       |                            +--|
+|                             |       |                            |  +----tr|I7MFA3|I7MFA3_TETTS
+|                             |       |  +-------------------------|
+|                             |       |  |                         +-----tr|A2E9S9|A2E9S9_TRIVA
+|                             |       +--|
+|                             |          |   +---------------------------tr|S4R827|S4R827_PETMA
+|                             |          +---|
+|                             |              +------------------------------sp|Q97WC7|CBIT_SACS2
+|                          +**|
+|                          |  +----------------tr|Q8IEF7|Q8IEF7_PLAF7
+|                       +--|
+|                       |  +-----------------------tr|M1VEJ6|M1VEJ6_CYAM1
+|                    +--|
+|                    |  +-------tr|A9VAA8|A9VAA8_MONBE
+|                 +--|
+|                 |  |  +-------tr|A0A0L0DPM3|A0A0L0DPM3_THETB
+|                 |  +--|
+|                 |     +----------tr|Q383B4|Q383B4_TRYB2
+|              +--|
+|              |  |     +--tr|Q84K50|Q84K50_ARATH
+|              |  |  +--|
+|              |  |  |  +--tr|Q7XTH1|Q7XTH1_ORYSJ
+|              |  +--|
+|              |     +------tr|A0A2K3DSA0|A0A2K3DSA0_CHLRE
+|           +--|
+|           |  |  +--------sp|Q86JJ0|TRM61_DICDI
+|           |  +--|
+|           |     +-----------tr|Q23UC8|Q23UC8_TETTS
+|        +--|
+|        |  |     +---------tr|G5EGR8|G5EGR8_CAEEL
+|        |  |  +--|
+|        |  |  |  +----------tr|B8BYB4|B8BYB4_THAPS
+|        |  +--|
+|        |     |  +------tr|S2JEN4|S2JEN4_MUCC1
+|        |     +--|
+|        |        +----------sp|P46959|TRM61_YEAST
+|     +--|
+|     |  +--------tr|Q9VBH7|Q9VBH7_DROME
+|  +--|
+|  |  |                 +--tr|R4GBY7|R4GBY7_ANOCA
+|  |  |              +--|
+|  |  |              |  |     +--tr|V9KYY3|V9KYY3_CALMI
+|  |  |              |  |  +--|
+|  |  |              |  |  |  +--tr|Q6DFS3|Q6DFS3_XENTR
+|  |  |              |  +--|
+|  |  |              |     +--tr|F1NZ19|F1NZ19_CHICK
+|  |  |           +--|
+|  |  |           |  |           +--tr|A0A8I3PDB7|A0A8I3PDB7_CANLF
+|  |  |           |  |        +--|
+|  |  |           |  |        |  |        +**tr|G3RSR2|G3RSR2_GORGO
+|  |  |           |  |        |  |     +**|
+|  |  |           |  |        |  |     |  +**sp|Q96FX7|TRM61_HUMAN
+|  |  |           |  |        |  |  +--|
+|  |  |           |  |        |  |  |  +--tr|H0Y2Q1|H0Y2Q1_HUMAN
+|  |  |           |  |        |  +--|
+|  |  |           |  |        |     +--tr|F7D5P9|F7D5P9_MACMU
+|  |  |           |  |     +--|
+|  |  |           |  |     |  +--sp|Q80XC2|TRM61_MOUSE
+|  |  |           |  |  +--|
+|  |  |           |  |  |  +--tr|F7F8B1|F7F8B1_MONDO
+|  |  |           |  +--|
+|  |  |           |     +--tr|F6RDG7|F6RDG7_ORNAN
+|  |  |        +--|
+|  |  |        |  |  +--tr|F1QTY5|F1QTY5_DANRE
+|  |  |        |  +--|
+|  |  |        |     +--tr|H2T538|H2T538_TAKRU
+|  |  |     +--|
+|  |  |     |  +---tr|S4RY21|S4RY21_PETMA
+|  |  |  +--|
+|  |  |  |  |   +--tr|H2XSX6|H2XSX6_CIOIN
+|  |  |  |  +---|
+|  |  |  |      +--tr|H2Z0U5|H2Z0U5_CIOSA
+|  |  +--|
+|  |     |  +--tr|C3Y0D5|C3Y0D5_BRAFL
+|  |     +--|
+|  |        +-----tr|W4Y137|W4Y137_STRPU
++--|
+|  +-----tr|A0ABM4CT15|A0ABM4CT15_HYDVU
+|
+|  +----tr|A7RHG9|A7RHG9_NEMVE
++--|
+   +------tr|B3S082|B3S082_TRIAD
+
+Tree in newick format:
+
+(tr|A0A1X7U326|A0A1X7U326_AMPQE:0.6265630457,((((((((((((((((tr|A0A1X7VAV2|A0A1X7VAV2_AMPQE:1.2214025379,tr|B3S6G3|B3S6G3_TRIAD:0.9919729221):0.2144725701,(((((tr|G1KIR9|G1KIR9_ANOCA:0.4363255769,tr|A0A8V0Z9V7|A0A8V0Z9V7_CHICK:0.5420149368):0.1181275909,(((tr|A0A8I3NFT6|A0A8I3NFT6_CANLF:0.1528002220,((tr|G3RIP8|G3RIP8_GORGO:0.0085096443,((sp|Q9BVS5|TR61B_HUMAN:0.0000012631,tr|H2QHP4|H2QHP4_PANTR:0.0084190398):0.0000027844,tr|F8WDR2|F8WDR2_HUMAN:0.0089698460):0.0020242056):0.0566910869,tr|F7D1K5|F7D1K5_MACMU:0.0503335189):0.1844071629):0.3783045132,tr|K7E169|K7E169_MONDO:0.3615148933):0.0894814854,tr|F7BD68|F7BD68_ORNAN:0.3506317281):0.1566899475):0.2073891817,tr|A0A4W3GBM4|A0A4W3GBM4_CALMI:0.4158816534):0.0405687556,(tr|X1WF30|X1WF30_DANRE:0.4843120745,tr|A0A3B5K4C5|A0A3B5K4C5_TAKRU:0.4325921377):0.4387102776):0.1674640734,(tr|C3Y0B5|C3Y0B5_BRAFL:0.8295748293,tr|W4ZGG3|W4ZGG3_STRPU:1.1514135555):0.3028780605):0.3180973964):0.2911988616,tr|S2J880|S2J880_MUCC1:1.4490000761):0.2538610048,sp|P9WFZ1|TRMI_MYCTU:1.1510036531):0.2747152472,((((tr|D4GXU5|D4GXU5_HALVD:0.1591083219,tr|M1XTL7|M1XTL7_NATM8:0.4929800299):1.7640434400,sp|Q57598|TRMI_METJA:0.5420249305):0.4747755018,tr|Q5JGS7|Q5JGS7_THEKO:0.8421004736):0.2305599077,tr|Q97ZZ3|Q97ZZ3_SACS2:1.4562165043):0.6523274362):0.2634614443,((sp|O32036|TRMR_BACSU:1.5505522313,tr|A7S758|A7S758_NEMVE:2.2853738188):1.4164848243,((((((((tr|F7A5J2|F7A5J2_CIOIN:0.0200541325,tr|H2YFA0|H2YFA0_CIOSA:0.0235117306):0.1495367712,tr|A0ABM4B4Y4|A0ABM4B4Y4_HYDVU:0.0749945950):0.0346489839,(tr|W4ZAS4|W4ZAS4_STRPU:0.1354799829,tr|B3S5V8|B3S5V8_TRIAD:0.1134725073):0.0266026958):0.0679136988,sp|P15646|FBRL_YEAST:0.3399734668):0.0335441344,(tr|Q388C9|Q388C9_TRYB2:0.0000012631,tr|Q388E0|Q388E0_TRYB2:0.0000012631):0.4473426144):0.0577062477,tr|I7MFA3|I7MFA3_TETTS:0.4839290450):0.1119379156,tr|A2E9S9|A2E9S9_TRIVA:0.6557357301):2.4707083050,(tr|S4R827|S4R827_PETMA:2.6998648202,sp|Q97WC7|CBIT_SACS2:2.9716345967):0.4066751620):0.3147047899):0.5467146365):0.2267016466,tr|Q8IEF7|Q8IEF7_PLAF7:1.6288423606):0.0000027444,tr|M1VEJ6|M1VEJ6_CYAM1:2.3020527293):0.2447548590,tr|A9VAA8|A9VAA8_MONBE:0.7969837780):0.1425582015,(tr|A0A0L0DPM3|A0A0L0DPM3_THETB:0.8063482667,tr|Q383B4|Q383B4_TRYB2:1.0312725456):0.2316529619):0.1453207380,((tr|Q84K50|Q84K50_ARATH:0.2881712667,tr|Q7XTH1|Q7XTH1_ORYSJ:0.3710879412):0.3300238143,tr|A0A2K3DSA0|A0A2K3DSA0_CHLRE:0.6986058806):0.2579294145):0.1413079333,(sp|Q86JJ0|TRM61_DICDI:0.8526722815,tr|Q23UC8|Q23UC8_TETTS:1.2106191750):0.1440733442):0.0719709893,((tr|G5EGR8|G5EGR8_CAEEL:1.0076301146,tr|B8BYB4|B8BYB4_THAPS:1.0937018489):0.1112468837,(tr|S2JEN4|S2JEN4_MUCC1:0.6597558085,sp|P46959|TRM61_YEAST:1.0459354235):0.2495703679):0.0676667914):0.2069078579,tr|Q9VBH7|Q9VBH7_DROME:0.8782571341):0.0338760815,((((((tr|R4GBY7|R4GBY7_ANOCA:0.0499208996,((tr|V9KYY3|V9KYY3_CALMI:0.2604807595,tr|Q6DFS3|Q6DFS3_XENTR:0.1259122958):0.0442378024,tr|F1NZ19|F1NZ19_CHICK:0.0776815959):0.0273601372):0.0844159503,((((tr|A0A8I3PDB7|A0A8I3PDB7_CANLF:0.0269044395,(((tr|G3RSR2|G3RSR2_GORGO:0.0000012631,sp|Q96FX7|TRM61_HUMAN:0.0000012631):0.0000012632,tr|H0Y2Q1|H0Y2Q1_HUMAN:0.0494422597):0.0117199938,tr|F7D5P9|F7D5P9_MACMU:0.0046965591):0.0197805009):0.0329135216,sp|Q80XC2|TRM61_MOUSE:0.0860070635):0.2311524891,tr|F7F8B1|F7F8B1_MONDO:0.2015711449):0.0762064707,tr|F6RDG7|F6RDG7_ORNAN:0.1582040145):0.0737385828):0.1813031510,(tr|F1QTY5|F1QTY5_DANRE:0.2565572794,tr|H2T538|H2T538_TAKRU:0.1667850026):0.1132252993):0.1294123394,tr|S4RY21|S4RY21_PETMA:0.4558205437):0.1977339752,(tr|H2XSX6|H2XSX6_CIOIN:0.1850892785,tr|H2Z0U5|H2Z0U5_CIOSA:0.1539559477):0.4491704943):0.1106935347,(tr|C3Y0D5|C3Y0D5_BRAFL:0.3207213616,tr|W4Y137|W4Y137_STRPU:0.5703934592):0.0675829286):0.0919801442):0.1072503651,tr|A0ABM4CT15|A0ABM4CT15_HYDVU:0.6103690669):0.0515506209,(tr|A7RHG9|A7RHG9_NEMVE:0.4997730648,tr|B3S082|B3S082_TRIAD:0.7389293444):0.0841914070);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t results_part1_v3/GCD14/GCD14_aligned.fasta.treefile -m "JTT+F+I{0.00793632}+G4{1.47311}" --length 1838
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s results_part1_v3/GCD14/GCD14_aligned.fasta --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s results_part1_v3/GCD14/GCD14_aligned.fasta --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Mon Oct 20 22:04:30 2025
+Total CPU time used: 20.0576 seconds (0h:0m:20s)
+Total wall-clock time used: 6.7802 seconds (0h:0m:6s)
+

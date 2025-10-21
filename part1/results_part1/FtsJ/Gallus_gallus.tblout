@@ -1,0 +1,36 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A8V1A5K7|A0A8V1A5K7_CHICK -          FtsJ                 PF01728.26   1.4e-53  181.6   0.2   4.8e-53  179.8   0.0   2.1   2   0   0   2   2   2   1 pre-rRNA processing protein FTSJ3 OS=Gallus gallus OX=9031 GN=FTSJ3 PE=3 SV=1
+sp|Q5ZKM1|SPB1_CHICK           -          FtsJ                 PF01728.26   1.4e-53  181.6   0.2   4.8e-53  179.8   0.0   2.1   2   0   0   2   2   2   1 pre-rRNA 2'-O-ribose RNA methyltransferase FTSJ3 OS=Gallus gallus OX=9031 GN=FTSJ3 PE=2 SV=2
+tr|A0A8V0ZAX4|A0A8V0ZAX4_CHICK -          FtsJ                 PF01728.26     5e-52  176.5   0.0   6.6e-52  176.1   0.0   1.2   1   0   0   1   1   1   1 rRNA methyltransferase 2, mitochondrial OS=Gallus gallus OX=9031 GN=MRM2 PE=3 SV=1
+tr|A0A8V0X797|A0A8V0X797_CHICK -          FtsJ                 PF01728.26   2.7e-46  157.8   0.0   6.8e-46  156.5   0.0   1.6   2   0   0   2   2   1   1 tRNA (cytidine(32)/guanosine(34)-2'-O)-methyltransferase OS=Gallus gallus OX=9031 GN=FTSJ1 PE=3 SV=1
+tr|A0A8V0ZDM0|A0A8V0ZDM0_CHICK -          FtsJ                 PF01728.26   4.6e-37  127.7   0.0   8.4e-37  126.9   0.0   1.4   1   0   0   1   1   1   1 Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase 1 OS=Gallus gallus OX=9031 GN=CMTR1 PE=1 SV=1
+tr|A0A6G9KCI8|A0A6G9KCI8_CHICK -          FtsJ                 PF01728.26   4.1e-27   95.3   0.0   2.1e-26   93.0   0.0   2.2   2   0   0   2   2   2   1 Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase 2 OS=Gallus gallus OX=9031 GN=CMTR2 PE=2 SV=1
+tr|A0A8V0XWR6|A0A8V0XWR6_CHICK -          FtsJ                 PF01728.26   7.8e-07   29.2   0.0   1.7e-06   28.1   0.0   1.5   1   0   0   1   1   1   1 NOP2/Sun RNA methyltransferase 6 OS=Gallus gallus OX=9031 GN=NSUN6 PE=3 SV=1
+tr|A0A8V0ZDB7|A0A8V0ZDB7_CHICK -          FtsJ                 PF01728.26   1.3e-05   25.2   0.1   6.7e-05   22.9   0.0   2.0   2   0   0   2   2   2   1 Protein arginine N-methyltransferase 3 OS=Gallus gallus OX=9031 GN=PRMT3 PE=1 SV=1
+tr|A0A8V1AML9|A0A8V1AML9_CHICK -          FtsJ                 PF01728.26   0.00011   22.2   0.0   0.00018   21.5   0.0   1.3   1   0   0   1   1   1   1 28S rRNA (cytosine-C(5))-methyltransferase OS=Gallus gallus OX=9031 GN=NSUN5 PE=1 SV=1
+tr|A0A8V0XY00|A0A8V0XY00_CHICK -          FtsJ                 PF01728.26   0.00042   20.3   0.0    0.0009   19.2   0.0   1.5   1   1   0   1   1   1   1 NOP2/Sun RNA methyltransferase 3 OS=Gallus gallus OX=9031 GN=NSUN3 PE=3 SV=1
+tr|F1NJK8|F1NJK8_CHICK         -          FtsJ                 PF01728.26   0.00097   19.1   0.0    0.0019   18.2   0.0   1.4   1   0   0   1   1   1   1 type I protein arginine methyltransferase OS=Gallus gallus OX=9031 GN=PRMT1 PE=4 SV=3
+tr|A0A8V0ZTI0|A0A8V0ZTI0_CHICK -          FtsJ                 PF01728.26     0.001   19.1   0.0    0.0017   18.4   0.0   1.3   1   0   0   1   1   1   1 5-cytosine rRNA methyltransferase NSUN4 OS=Gallus gallus OX=9031 GN=NSUN4 PE=3 SV=1
+tr|A0A8V0YYR3|A0A8V0YYR3_CHICK -          FtsJ                 PF01728.26    0.0014   18.6   0.1    0.0044   17.0   0.0   1.9   2   0   0   2   2   2   1 Arsenite methyltransferase OS=Gallus gallus OX=9031 GN=AS3MT PE=1 SV=1
+tr|A0A8V0ZNS4|A0A8V0ZNS4_CHICK -          FtsJ                 PF01728.26    0.0019   18.2   0.0    0.0035   17.3   0.0   1.4   1   0   0   1   1   1   1 NOP2 nucleolar protein OS=Gallus gallus OX=9031 GN=NOP2 PE=1 SV=1
+sp|Q5ZLV4|NSUN2_CHICK          -          FtsJ                 PF01728.26    0.0043   17.0   0.0    0.0082   16.1   0.0   1.4   1   0   0   1   1   1   1 RNA cytosine-C(5)-methyltransferase NSUN2 OS=Gallus gallus OX=9031 GN=NSUN2 PE=2 SV=1
+tr|A0A8V0ZTC5|A0A8V0ZTC5_CHICK -          FtsJ                 PF01728.26    0.0047   16.9   0.2     0.011   15.7   0.2   1.6   1   1   0   1   1   1   1 Methyltransferase-like protein 5 OS=Gallus gallus OX=9031 GN=METTL5 PE=3 SV=1
+tr|A0A8V0X3G6|A0A8V0X3G6_CHICK -          FtsJ                 PF01728.26    0.0049   16.8   0.0    0.0094   15.9   0.0   1.4   1   0   0   1   1   1   1 tRNA (cytosine(34)-C(5))-methyltransferase OS=Gallus gallus OX=9031 GN=NSUN2 PE=3 SV=1
+tr|A0A8V0ZM48|A0A8V0ZM48_CHICK -          FtsJ                 PF01728.26    0.0053   16.7   0.0      0.12   12.4   0.0   2.3   2   0   0   2   2   2   1 tRNA (uracil(54)-C(5))-methyltransferase OS=Gallus gallus OX=9031 GN=TRMT2A PE=1 SV=1
+tr|F1NAM7|F1NAM7_CHICK         -          FtsJ                 PF01728.26      0.02   14.9   0.0     0.027   14.4   0.0   1.3   1   0   0   1   1   1   0 Dehydrogenase/reductase SDR family member 6 OS=Gallus gallus OX=9031 GN=BDH2 PE=1 SV=2
+tr|E1BSL9|E1BSL9_CHICK         -          FtsJ                 PF01728.26     0.042   13.8   0.0     0.076   13.0   0.0   1.3   1   1   0   1   1   1   0 Methyltransferase 21C, AARS1 lysine OS=Gallus gallus OX=9031 GN=METTL21C PE=4 SV=3
+sp|Q5F3N1|PIMT_CHICK           -          FtsJ                 PF01728.26     0.043   13.7   0.0      0.09   12.7   0.0   1.6   1   1   0   1   1   1   0 Protein-L-isoaspartate(D-aspartate) O-methyltransferase OS=Gallus gallus OX=9031 GN=PCMT1 PE=2 SV=3
+tr|A0A8V0XPL4|A0A8V0XPL4_CHICK -          FtsJ                 PF01728.26      0.08   12.9   0.1      0.16   11.9   0.1   1.6   1   1   0   1   1   1   0 Protein-L-isoaspartate O-methyltransferase OS=Gallus gallus OX=9031 GN=PCMT1 PE=3 SV=1
+tr|A0A1D5PIN1|A0A1D5PIN1_CHICK -          FtsJ                 PF01728.26       0.1   12.5   0.0      0.15   12.0   0.0   1.3   1   0   0   1   1   1   0 Protein-L-isoaspartate O-methyltransferase OS=Gallus gallus OX=9031 GN=PCMT1L PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/FtsJ.hmm
+# Target file:     proteomes/Gallus_gallus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/FtsJ/Gallus_gallus.tblout --cpu 8 pfam_list/FtsJ.hmm proteomes/Gallus_gallus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:55 2025
+# [ok]

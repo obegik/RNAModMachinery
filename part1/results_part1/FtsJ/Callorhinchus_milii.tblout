@@ -1,0 +1,33 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A4W3I9V6|A0A4W3I9V6_CALMI -          FtsJ                 PF01728.26   1.3e-50  171.9   0.0   1.7e-50  171.6   0.0   1.1   1   0   0   1   1   1   1 rRNA methyltransferase 2, mitochondrial OS=Callorhinchus milii OX=7868 GN=mrm2 PE=3 SV=1
+tr|V9KC40|V9KC40_CALMI         -          FtsJ                 PF01728.26   1.1e-35  123.3   0.0   1.8e-35  122.6   0.0   1.4   1   0   0   1   1   1   1 Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase 1 OS=Callorhinchus milii OX=7868 GN=cmtr1 PE=2 SV=1
+tr|A0A4W3H4B6|A0A4W3H4B6_CALMI -          FtsJ                 PF01728.26   2.2e-25   89.7   0.0   3.3e-23   82.7   0.0   2.2   2   0   0   2   2   2   1 Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase 2 OS=Callorhinchus milii OX=7868 PE=4 SV=1
+tr|A0A4W3HDU9|A0A4W3HDU9_CALMI -          FtsJ                 PF01728.26   1.5e-05   25.1   0.0   3.3e-05   24.0   0.0   1.5   1   0   0   1   1   1   1 NOP2/Sun RNA methyltransferase 6 OS=Callorhinchus milii OX=7868 GN=nsun6 PE=3 SV=1
+tr|A0A4W3HT47|A0A4W3HT47_CALMI -          FtsJ                 PF01728.26   4.3e-05   23.6   0.0   8.5e-05   22.6   0.0   1.4   1   0   0   1   1   1   1 5-cytosine rRNA methyltransferase NSUN4 OS=Callorhinchus milii OX=7868 PE=3 SV=1
+tr|A0A4W3JAD1|A0A4W3JAD1_CALMI -          FtsJ                 PF01728.26   0.00012   22.1   0.0   0.00024   21.2   0.0   1.5   1   0   0   1   1   1   1 Protein arginine N-methyltransferase 3 OS=Callorhinchus milii OX=7868 GN=prmt3 PE=4 SV=1
+tr|A0A4W3ILV1|A0A4W3ILV1_CALMI -          FtsJ                 PF01728.26   0.00041   20.4   0.0   0.00077   19.5   0.0   1.5   1   0   0   1   1   1   1 Protein arginine N-methyltransferase 6 OS=Callorhinchus milii OX=7868 GN=prmt6 PE=4 SV=1
+tr|A0A4W3K6G0|A0A4W3K6G0_CALMI -          FtsJ                 PF01728.26    0.0005   20.2   0.0    0.0011   19.0   0.0   1.6   1   1   0   1   1   1   1 mRNA (guanine-N(7))-methyltransferase OS=Callorhinchus milii OX=7868 PE=3 SV=1
+tr|A0A4W3H003|A0A4W3H003_CALMI -          FtsJ                 PF01728.26     0.001   19.2   0.0     0.002   18.2   0.0   1.4   1   0   0   1   1   1   1 type I protein arginine methyltransferase OS=Callorhinchus milii OX=7868 PE=4 SV=1
+tr|A0A4W3JN83|A0A4W3JN83_CALMI -          FtsJ                 PF01728.26     0.002   18.2   0.0    0.0033   17.5   0.0   1.3   1   0   0   1   1   1   1 peptide chain release factor N(5)-glutamine methyltransferase OS=Callorhinchus milii OX=7868 PE=4 SV=1
+tr|A0A4W3JNG7|A0A4W3JNG7_CALMI -          FtsJ                 PF01728.26    0.0041   17.2   0.0    0.0097   16.0   0.0   1.6   1   0   0   1   1   1   1 type I protein arginine methyltransferase OS=Callorhinchus milii OX=7868 GN=prmt8b PE=4 SV=1
+tr|A0A4W3GE14|A0A4W3GE14_CALMI -          FtsJ                 PF01728.26    0.0089   16.1   0.0     0.017   15.1   0.0   1.4   1   0   0   1   1   1   1 Histone-arginine methyltransferase CARM1 OS=Callorhinchus milii OX=7868 GN=timm29 PE=4 SV=1
+tr|A0A4W3IDM9|A0A4W3IDM9_CALMI -          FtsJ                 PF01728.26     0.012   15.7   0.0     0.033   14.2   0.0   1.8   1   1   0   1   1   1   0 28S rRNA (cytosine-C(5))-methyltransferase OS=Callorhinchus milii OX=7868 PE=3 SV=1
+tr|A0A4W3GR83|A0A4W3GR83_CALMI -          FtsJ                 PF01728.26     0.018   15.1   0.1     0.065   13.2   0.0   1.9   2   0   0   2   2   2   0 tRNA (guanine(37)-N1)-methyltransferase OS=Callorhinchus milii OX=7868 GN=TRMT5 PE=3 SV=1
+tr|A0A4W3HHL5|A0A4W3HHL5_CALMI -          FtsJ                 PF01728.26     0.022   14.8   0.0     0.053   13.5   0.0   1.6   1   0   0   1   1   1   0 tRNA (cytosine(34)-C(5))-methyltransferase OS=Callorhinchus milii OX=7868 GN=nsun2 PE=3 SV=1
+tr|A0A4W3I368|A0A4W3I368_CALMI -          FtsJ                 PF01728.26     0.027   14.5   0.0      0.18   11.8   0.0   2.2   1   1   0   1   1   1   0 Methyltransferase 22, Kin17 lysine OS=Callorhinchus milii OX=7868 GN=mettl22 PE=4 SV=1
+tr|A0A4W3K1F1|A0A4W3K1F1_CALMI -          FtsJ                 PF01728.26     0.028   14.5   0.0     0.076   13.0   0.0   1.7   2   0   0   2   2   2   0 Protein-L-isoaspartate O-methyltransferase OS=Callorhinchus milii OX=7868 PE=3 SV=1
+tr|A0A4W3J853|A0A4W3J853_CALMI -          FtsJ                 PF01728.26     0.047   13.7   0.0      0.83    9.7   0.0   2.4   2   0   0   2   2   2   0 12S rRNA N(4)-cytidine methyltransferase METTL15 OS=Callorhinchus milii OX=7868 GN=mettl15 PE=3 SV=1
+tr|A0A4W3GB14|A0A4W3GB14_CALMI -          FtsJ                 PF01728.26     0.072   13.1   0.0      0.23   11.5   0.0   1.8   3   0   0   3   3   2   0 RNA methyltransferase OS=Callorhinchus milii OX=7868 GN=LOC103171835 PE=3 SV=1
+tr|A0A4W3GIW9|A0A4W3GIW9_CALMI -          FtsJ                 PF01728.26      0.11   12.5   0.0      0.21   11.6   0.0   1.4   1   0   0   1   1   1   0 Methyltransferase like 25 OS=Callorhinchus milii OX=7868 GN=mettl25 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/FtsJ.hmm
+# Target file:     proteomes/Callorhinchus_milii.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/FtsJ/Callorhinchus_milii.tblout --cpu 8 pfam_list/FtsJ.hmm proteomes/Callorhinchus_milii.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:54 2025
+# [ok]

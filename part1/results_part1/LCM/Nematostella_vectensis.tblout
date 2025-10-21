@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A7SU99|A7SU99_NEMVE -          LCM                  PF04072.21   1.7e-26   93.7   0.0   1.1e-25   91.0   0.0   1.9   1   1   0   1   1   1   1 Leucine carboxyl methyltransferase 1 OS=Nematostella vectensis OX=45351 GN=v1g131993 PE=3 SV=1
+tr|A7S1F7|A7S1F7_NEMVE -          LCM                  PF04072.21   1.8e-19   70.8   0.0   2.8e-19   70.2   0.0   1.3   1   0   0   1   1   1   1 Predicted protein (Fragment) OS=Nematostella vectensis OX=45351 GN=v1g100718 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/LCM.hmm
+# Target file:     proteomes/Nematostella_vectensis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/LCM/Nematostella_vectensis.tblout --cpu 8 pfam_list/LCM.hmm proteomes/Nematostella_vectensis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:46 2025
+# [ok]

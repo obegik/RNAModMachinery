@@ -1,0 +1,51 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|W4Z872|W4Z872_STRPU -          FtsJ                 PF01728.26   3.3e-50  171.2   0.0   3.9e-50  170.9   0.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+tr|W4Z6I8|W4Z6I8_STRPU -          FtsJ                 PF01728.26   1.7e-45  155.8   0.0   2.6e-45  155.2   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4ZFB5|W4ZFB5_STRPU -          FtsJ                 PF01728.26   4.7e-34  118.5   0.0     8e-34  117.8   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4YEX4|W4YEX4_STRPU -          FtsJ                 PF01728.26   2.2e-31  109.8   0.0   3.5e-31  109.2   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4ZGU3|W4ZGU3_STRPU -          FtsJ                 PF01728.26   1.2e-27   97.7   0.0   2.1e-27   96.9   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4XQM2|W4XQM2_STRPU -          FtsJ                 PF01728.26   9.4e-23   81.7   0.0   1.8e-22   80.8   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4ZFB4|W4ZFB4_STRPU -          FtsJ                 PF01728.26   2.8e-12   47.6   0.0   3.4e-12   47.3   0.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4Y7A2|W4Y7A2_STRPU -          FtsJ                 PF01728.26   4.7e-07   30.6   0.0     0.036   14.6   0.0   2.4   2   0   0   2   2   2   2 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+tr|W4YIM5|W4YIM5_STRPU -          FtsJ                 PF01728.26   5.7e-06   27.0   0.0   0.00043   20.9   0.0   2.2   2   0   0   2   2   2   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+tr|W4XE58|W4XE58_STRPU -          FtsJ                 PF01728.26   5.7e-05   23.8   0.0   0.00011   22.8   0.0   1.6   1   1   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4Y7K6|W4Y7K6_STRPU -          FtsJ                 PF01728.26   8.9e-05   23.1   0.1   0.00016   22.3   0.1   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+tr|W4XPI8|W4XPI8_STRPU -          FtsJ                 PF01728.26   0.00031   21.4   0.0   0.00048   20.8   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+tr|W4Z4G8|W4Z4G8_STRPU -          FtsJ                 PF01728.26   0.00036   21.2   0.0   0.00075   20.1   0.0   1.6   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+tr|W4XRJ4|W4XRJ4_STRPU -          FtsJ                 PF01728.26   0.00053   20.6   0.0   0.00081   20.0   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+tr|W4Z5B8|W4Z5B8_STRPU -          FtsJ                 PF01728.26   0.00064   20.3   0.0   0.00084   19.9   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4YGN5|W4YGN5_STRPU -          FtsJ                 PF01728.26   0.00075   20.1   0.0     0.002   18.7   0.0   1.6   1   1   0   2   2   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4Z0W7|W4Z0W7_STRPU -          FtsJ                 PF01728.26    0.0025   18.4   0.0    0.0037   17.9   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4YGK2|W4YGK2_STRPU -          FtsJ                 PF01728.26     0.005   17.4   0.0    0.0098   16.5   0.0   1.5   1   1   0   1   1   1   1 Protein-L-isoaspartate O-methyltransferase OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+tr|W4XJA0|W4XJA0_STRPU -          FtsJ                 PF01728.26    0.0053   17.4   0.0    0.0082   16.7   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4YD96|W4YD96_STRPU -          FtsJ                 PF01728.26     0.006   17.2   0.1     0.015   15.9   0.1   1.6   1   1   0   1   1   1   1 mRNA cap guanine-N7 methyltransferase OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+tr|W4ZK94|W4ZK94_STRPU -          FtsJ                 PF01728.26    0.0068   17.0   0.0     0.027   15.0   0.0   1.8   1   1   0   2   2   2   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4Y9T3|W4Y9T3_STRPU -          FtsJ                 PF01728.26    0.0088   16.6   0.0     0.016   15.8   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4ZBP9|W4ZBP9_STRPU -          FtsJ                 PF01728.26    0.0097   16.5   0.0     0.021   15.4   0.0   1.6   1   1   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+tr|W4Z9L9|W4Z9L9_STRPU -          FtsJ                 PF01728.26      0.01   16.4   0.0     0.019   15.5   0.0   1.4   1   1   0   1   1   1   0 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4XRY6|W4XRY6_STRPU -          FtsJ                 PF01728.26     0.014   16.0   0.2     0.045   14.3   0.0   2.0   2   0   0   2   2   2   0 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+tr|W4ZFV8|W4ZFV8_STRPU -          FtsJ                 PF01728.26     0.015   15.9   0.0     0.039   14.5   0.0   1.8   1   1   0   1   1   1   0 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4XYP7|W4XYP7_STRPU -          FtsJ                 PF01728.26     0.018   15.6   0.0     0.029   14.9   0.0   1.4   1   1   0   1   1   1   0 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4ZJS9|W4ZJS9_STRPU -          FtsJ                 PF01728.26     0.021   15.4   0.0     0.044   14.4   0.0   1.6   1   1   0   1   1   1   0 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4XUV2|W4XUV2_STRPU -          FtsJ                 PF01728.26     0.044   14.4   0.1     0.077   13.6   0.1   1.4   1   1   0   1   1   1   0 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4YRU1|W4YRU1_STRPU -          FtsJ                 PF01728.26     0.057   14.0   0.0      0.13   12.8   0.0   1.7   1   1   0   1   1   1   0 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4YYK4|W4YYK4_STRPU -          FtsJ                 PF01728.26     0.058   14.0   0.0       0.1   13.1   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4Y3J6|W4Y3J6_STRPU -          FtsJ                 PF01728.26     0.064   13.8   0.0      0.15   12.6   0.0   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+tr|W4YWL7|W4YWL7_STRPU -          FtsJ                 PF01728.26     0.075   13.6   0.0       0.1   13.2   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4XX51|W4XX51_STRPU -          FtsJ                 PF01728.26     0.083   13.5   0.1      0.32   11.5   0.1   1.9   1   1   0   1   1   1   0 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+tr|W4XZA2|W4XZA2_STRPU -          FtsJ                 PF01728.26     0.091   13.3   0.0      0.17   12.5   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4YGJ0|W4YGJ0_STRPU -          FtsJ                 PF01728.26      0.13   12.8   0.0      0.18   12.4   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4XDE9|W4XDE9_STRPU -          FtsJ                 PF01728.26      0.15   12.6   0.0       1.5    9.4   0.0   2.1   2   0   0   2   2   2   0 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4XXT3|W4XXT3_STRPU -          FtsJ                 PF01728.26      0.19   12.3   0.1      0.29   11.7   0.1   1.5   1   1   0   1   1   1   0 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/FtsJ.hmm
+# Target file:     proteomes/Strongylocentrotus_purpuratus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/FtsJ/Strongylocentrotus_purpuratus.tblout --cpu 8 pfam_list/FtsJ.hmm proteomes/Strongylocentrotus_purpuratus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:58 2025
+# [ok]

@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1X7VLN2|A0A1X7VLN2_AMPQE -          Bin3                 PF06859.19   1.5e-43  149.0   0.1   2.4e-43  148.4   0.1   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7VHW0|A0A1X7VHW0_AMPQE -          Bin3                 PF06859.19     0.018   16.8   0.0     0.035   15.9   0.0   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7VEF1|A0A1X7VEF1_AMPQE -          Bin3                 PF06859.19     0.033   16.0   0.2     0.084   14.7   0.2   1.8   1   1   0   1   1   1   0 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7TZT1|A0A1X7TZT1_AMPQE -          Bin3                 PF06859.19       0.2   13.5   0.0      0.78   11.6   0.0   2.1   1   1   0   1   1   1   0 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Bin3.hmm
+# Target file:     proteomes/Amphimedon_queenslandica.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Bin3/Amphimedon_queenslandica.tblout --cpu 8 pfam_list/Bin3.hmm proteomes/Amphimedon_queenslandica.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:50 2025
+# [ok]

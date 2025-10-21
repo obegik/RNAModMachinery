@@ -1,0 +1,20 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|B3RVI8|B3RVI8_TRIAD -          DREV                 PF05219.18   2.2e-72  242.7   0.0   2.6e-72  242.5   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_55668 PE=4 SV=1
+tr|B3S9J8|B3S9J8_TRIAD -          DREV                 PF05219.18    0.0027   16.2   0.0    0.0039   15.7   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_60934 PE=4 SV=1
+tr|B3RMS2|B3RMS2_TRIAD -          DREV                 PF05219.18    0.0055   15.2   0.1     0.045   12.2   0.0   2.0   1   1   0   2   2   2   1 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_21429 PE=4 SV=1
+tr|B3S4V8|B3S4V8_TRIAD -          DREV                 PF05219.18     0.046   12.2   0.0     0.078   11.4   0.0   1.3   1   0   0   1   1   1   0 rRNA adenine N(6)-methyltransferase OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_29342 PE=3 SV=1
+tr|B3S2L1|B3S2L1_TRIAD -          DREV                 PF05219.18      0.05   12.1   0.0     0.089   11.2   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein (Fragment) OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_1535 PE=3 SV=1
+tr|B3S8A4|B3S8A4_TRIAD -          DREV                 PF05219.18     0.057   11.9   0.0     0.083   11.3   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_60467 PE=3 SV=1
+tr|B3S011|B3S011_TRIAD -          DREV                 PF05219.18     0.099   11.1   0.0      0.14   10.6   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_57643 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DREV.hmm
+# Target file:     proteomes/Trichoplax_adhaerens.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DREV/Trichoplax_adhaerens.tblout --cpu 8 pfam_list/DREV.hmm proteomes/Trichoplax_adhaerens.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:25 2025
+# [ok]

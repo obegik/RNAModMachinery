@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A674NXE8|A0A674NXE8_TAKRU -          APOBEC_N             PF08210.18     4e-59  199.6   1.1   4.9e-59  199.4   1.1   1.1   1   0   0   1   1   1   1 Activation-induced cytidine deaminase OS=Takifugu rubripes OX=31033 GN=aicda PE=3 SV=1
+tr|H2TE47|H2TE47_TAKRU         -          APOBEC_N             PF08210.18   2.4e-52  177.6   0.4   3.1e-52  177.2   0.4   1.1   1   0   0   1   1   1   1 Apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 2a OS=Takifugu rubripes OX=31033 GN=apobec2a PE=3 SV=1
+tr|H2U6E4|H2U6E4_TAKRU         -          APOBEC_N             PF08210.18   1.9e-50  171.4   0.5   2.7e-50  170.9   0.5   1.2   1   0   0   1   1   1   1 Apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 2b OS=Takifugu rubripes OX=31033 GN=apobec2b PE=3 SV=1
+tr|A0A3B5KKD3|A0A3B5KKD3_TAKRU -          APOBEC_N             PF08210.18   0.00032   21.0   0.3    0.0018   18.5   0.1   1.9   2   0   0   2   2   2   1 tRNA-specific adenosine deaminase 2 OS=Takifugu rubripes OX=31033 GN=adat2 PE=3 SV=2
+tr|H2SGF6|H2SGF6_TAKRU         -          APOBEC_N             PF08210.18      0.02   15.1   0.4       1.8    8.8   0.0   2.4   2   0   0   2   2   2   0 Cytidine and dCMP deaminase domain containing 1 OS=Takifugu rubripes OX=31033 GN=cdadc1 PE=3 SV=3
+tr|H2TSR2|H2TSR2_TAKRU         -          APOBEC_N             PF08210.18     0.077   13.2   0.2      0.11   12.7   0.2   1.2   1   0   0   1   1   1   0 Deoxycytidylate deaminase OS=Takifugu rubripes OX=31033 GN=dctd PE=3 SV=3
+sp|Q8AXC6|KIT_TAKRU            -          APOBEC_N             PF08210.18      0.17   12.1   0.1       4.7    7.4   0.0   2.4   2   0   0   2   2   2   0 Mast/stem cell growth factor receptor Kit OS=Takifugu rubripes OX=31033 GN=kit PE=3 SV=1
+tr|A0A674MR93|A0A674MR93_TAKRU -          APOBEC_N             PF08210.18      0.17   12.1   0.1       4.8    7.4   0.0   2.4   2   0   0   2   2   2   0 receptor protein-tyrosine kinase OS=Takifugu rubripes OX=31033 GN=kita PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/APOBEC_N.hmm
+# Target file:     proteomes/Takifugu_rubripes.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/APOBEC_N/Takifugu_rubripes.tblout --cpu 8 pfam_list/APOBEC_N.hmm proteomes/Takifugu_rubripes.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:58:53 2025
+# [ok]

@@ -1,0 +1,30 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A0L0DCK6|A0A0L0DCK6_THETB -          FtsJ                 PF01728.26   7.9e-54  181.6   0.0   1.3e-53  180.9   0.0   1.3   1   1   0   1   1   1   1 Putative tRNA (cytidine(32)/guanosine(34)-2'-O)-methyltransferase OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_05729 PE=3 SV=1
+tr|A0A0L0DC61|A0A0L0DC61_THETB -          FtsJ                 PF01728.26   1.8e-51  173.9   0.0   3.8e-51  172.8   0.0   1.6   1   0   0   1   1   1   1 Putative rRNA methyltransferase OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_06241 PE=3 SV=1
+tr|A0A0L0DA31|A0A0L0DA31_THETB -          FtsJ                 PF01728.26   3.5e-33  114.3   0.0   4.2e-33  114.0   0.0   1.1   1   0   0   1   1   1   1 rRNA methyltransferase 2, mitochondrial OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_04377 PE=3 SV=1
+tr|A0A0L0D412|A0A0L0D412_THETB -          FtsJ                 PF01728.26   2.2e-25   88.9   0.0   3.3e-25   88.3   0.0   1.3   1   0   0   1   1   1   1 Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase 1 (Fragment) OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_11581 PE=4 SV=1
+tr|A0A0L0DJ27|A0A0L0DJ27_THETB -          FtsJ                 PF01728.26   2.9e-22   78.7   0.0   6.3e-22   77.6   0.0   1.6   1   1   0   1   1   1   1 Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase 1 OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_08379 PE=4 SV=1
+tr|A0A0L0D5F6|A0A0L0D5F6_THETB -          FtsJ                 PF01728.26   2.1e-05   23.8   0.1   5.4e-05   22.4   0.0   1.7   2   0   0   2   2   2   1 PRMT-1 protein OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_03754 PE=4 SV=1
+tr|A0A0L0DVC2|A0A0L0DVC2_THETB -          FtsJ                 PF01728.26   6.2e-05   22.2   0.0   0.00013   21.2   0.0   1.6   1   0   0   1   1   1   1 Methyltransferase OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_01752 PE=3 SV=1
+tr|A0A0L0DPB5|A0A0L0DPB5_THETB -          FtsJ                 PF01728.26    0.0016   17.6   0.0    0.0046   16.1   0.0   1.7   2   0   0   2   2   2   1 Cyclopropane-fatty-acyl-phospholipid synthase OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_08759 PE=4 SV=1
+tr|A0A0L0DMZ7|A0A0L0DMZ7_THETB -          FtsJ                 PF01728.26    0.0022   17.2   0.0    0.0034   16.6   0.0   1.3   1   0   0   1   1   1   1 type I protein arginine methyltransferase OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_01393 PE=4 SV=1
+tr|A0A0L0DBZ0|A0A0L0DBZ0_THETB -          FtsJ                 PF01728.26    0.0027   16.9   0.1    0.0044   16.2   0.1   1.3   1   0   0   1   1   1   1 Arsenite methyltransferase OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_06153 PE=3 SV=1
+tr|A0A0L0D9Y7|A0A0L0D9Y7_THETB -          FtsJ                 PF01728.26    0.0029   16.8   0.0    0.0053   15.9   0.0   1.4   1   0   0   1   1   1   1 NSUN5 protein OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_05157 PE=3 SV=1
+tr|A0A0L0D8E8|A0A0L0D8E8_THETB -          FtsJ                 PF01728.26    0.0043   16.2   0.1    0.0094   15.1   0.1   1.5   1   0   0   1   1   1   1 tRNA (Cytosine-5-)-methyltransferase NSUN2 OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_04964 PE=3 SV=1
+tr|A0A0L0DFW8|A0A0L0DFW8_THETB -          FtsJ                 PF01728.26     0.011   14.9   0.0     0.022   13.9   0.0   1.4   1   0   0   1   1   1   0 EF-hand domain-containing protein OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_12031 PE=4 SV=1
+tr|A0A0L0D1D9|A0A0L0D1D9_THETB -          FtsJ                 PF01728.26     0.012   14.7   0.1      0.02   14.1   0.1   1.3   1   0   0   1   1   1   0 tRNA (guanine(46)-N(7))-methyltransferase OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_00288 PE=4 SV=1
+tr|A0A0L0DGF7|A0A0L0DGF7_THETB -          FtsJ                 PF01728.26     0.014   14.5   0.1     0.026   13.7   0.1   1.4   1   0   0   1   1   1   0 Ubiquinone/menaquinone biosynthesis methyltransferase OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_07273 PE=4 SV=1
+tr|A0A0L0DNS7|A0A0L0DNS7_THETB -          FtsJ                 PF01728.26     0.033   13.3   0.0     0.056   12.6   0.0   1.3   1   0   0   1   1   1   0 Methylase OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_09561 PE=4 SV=1
+tr|A0A0L0D8V2|A0A0L0D8V2_THETB -          FtsJ                 PF01728.26     0.055   12.6   0.0       0.1   11.8   0.0   1.5   1   0   0   1   1   1   0 Methyltransferase OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_04951 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/FtsJ.hmm
+# Target file:     proteomes/Thecamonas_trahens.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/FtsJ/Thecamonas_trahens.tblout --cpu 8 pfam_list/FtsJ.hmm proteomes/Thecamonas_trahens.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:59 2025
+# [ok]

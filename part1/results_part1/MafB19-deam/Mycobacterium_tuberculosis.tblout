@@ -1,0 +1,17 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|O69719|O69719_MYCTU -          MafB19-deam          PF14437.13   9.4e-19   65.5   0.0   9.9e-19   65.4   0.0   1.0   1   0   0   1   1   1   1 tRNA-specific adenosine deaminase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=tadA PE=1 SV=1
+tr|O53839|O53839_MYCTU -          MafB19-deam          PF14437.13   3.5e-09   34.5   0.0   4.8e-09   34.1   0.0   1.1   1   0   0   1   1   1   1 Possible deaminase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0828c PE=4 SV=1
+sp|P9WPH1|RIBD_MYCTU   -          MafB19-deam          PF14437.13   1.4e-08   32.6   0.0   2.4e-08   31.8   0.0   1.3   1   0   0   1   1   1   1 Riboflavin biosynthesis protein RibD OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=ribD PE=1 SV=1
+tr|O05791|O05791_MYCTU -          MafB19-deam          PF14437.13   3.7e-08   31.2   0.0   4.2e-08   31.0   0.0   1.2   1   0   0   1   1   1   1 CMP/dCMP-type deaminase domain-containing protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3114 PE=4 SV=3
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MafB19-deam.hmm
+# Target file:     proteomes/Mycobacterium_tuberculosis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MafB19-deam/Mycobacterium_tuberculosis.tblout --cpu 8 pfam_list/MafB19-deam.hmm proteomes/Mycobacterium_tuberculosis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:09:24 2025
+# [ok]

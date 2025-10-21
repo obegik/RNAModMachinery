@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|G3RZC3|G3RZC3_GORGO -          Fibrillarin          PF01269.24  1.7e-108  361.2   0.0  2.1e-108  361.0   0.0   1.0   1   0   0   1   1   1   1 Fibrillarin OS=Gorilla gorilla gorilla OX=9595 GN=FBL PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Fibrillarin.hmm
+# Target file:     proteomes/Gorilla_gorilla.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Fibrillarin/Gorilla_gorilla.tblout --cpu 8 pfam_list/Fibrillarin.hmm proteomes/Gorilla_gorilla.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:42 2025
+# [ok]

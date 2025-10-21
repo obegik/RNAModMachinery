@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|S2JQN7|S2JQN7_MUCC1 -          EMG1                 PF03587.20   1.3e-76  255.9   0.3   1.6e-76  255.6   0.3   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Mucor circinelloides f. circinelloides (strain 1006PhL) OX=1220926 GN=HMPREF1544_11177 PE=4 SV=1
+tr|S2K1H2|S2K1H2_MUCC1 -          EMG1                 PF03587.20   1.3e-65  220.0   0.0   1.5e-65  219.8   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Mucor circinelloides f. circinelloides (strain 1006PhL) OX=1220926 GN=HMPREF1544_04136 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/EMG1.hmm
+# Target file:     proteomes/Mucor_circinelloides.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/EMG1/Mucor_circinelloides.tblout --cpu 8 pfam_list/EMG1.hmm proteomes/Mucor_circinelloides.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:34 2025
+# [ok]

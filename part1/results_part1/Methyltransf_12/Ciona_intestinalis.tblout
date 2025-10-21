@@ -1,0 +1,78 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6YCY6|F6YCY6_CIOIN -          Methyltransf_12      PF08242.19   2.2e-17   63.5   0.0     5e-17   62.3   0.0   1.6   1   0   0   1   1   1   1 Methyltransferase-like protein OS=Ciona intestinalis OX=7719 PE=3 SV=2
+tr|F6XYB7|F6XYB7_CIOIN -          Methyltransf_12      PF08242.19   2.4e-17   63.4   0.0   8.8e-17   61.5   0.0   2.0   3   0   0   3   3   1   1 Methyltransferase-like protein OS=Ciona intestinalis OX=7719 GN=LOC100181090 PE=3 SV=2
+tr|H2XS49|H2XS49_CIOIN -          Methyltransf_12      PF08242.19   4.6e-15   56.0   0.0   9.9e-15   55.0   0.0   1.5   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=1
+tr|F7B383|F7B383_CIOIN -          Methyltransf_12      PF08242.19   2.5e-14   53.6   0.1   4.4e-14   52.9   0.1   1.4   1   0   0   1   1   1   1 Ubiquinone biosynthesis O-methyltransferase, mitochondrial OS=Ciona intestinalis OX=7719 PE=3 SV=1
+tr|F7B757|F7B757_CIOIN -          Methyltransf_12      PF08242.19   6.5e-14   52.3   0.1   1.9e-13   50.8   0.0   1.8   2   0   0   2   2   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=2
+tr|H2XVH5|H2XVH5_CIOIN -          Methyltransf_12      PF08242.19   7.3e-14   52.2   0.0   1.1e-13   51.6   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=1
+tr|F6ZXR3|F6ZXR3_CIOIN -          Methyltransf_12      PF08242.19   7.3e-14   52.2   0.0   1.2e-13   51.4   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=2
+tr|H2Y1L1|H2Y1L1_CIOIN -          Methyltransf_12      PF08242.19   1.3e-13   51.4   0.1   2.6e-13   50.4   0.0   1.6   2   0   0   2   2   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=1
+tr|F6ZIX6|F6ZIX6_CIOIN -          Methyltransf_12      PF08242.19   3.4e-13   50.0   0.0     1e-12   48.5   0.0   1.9   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 GN=LOC100181209 PE=4 SV=2
+tr|F7B763|F7B763_CIOIN -          Methyltransf_12      PF08242.19   6.4e-13   49.2   0.0   1.6e-12   47.9   0.0   1.7   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=2
+tr|H2Y3J5|H2Y3J5_CIOIN -          Methyltransf_12      PF08242.19   3.8e-12   46.7   0.0   8.6e-12   45.5   0.0   1.6   1   1   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=1
+tr|F6RNA2|F6RNA2_CIOIN -          Methyltransf_12      PF08242.19   1.2e-11   45.1   0.0   2.1e-11   44.3   0.0   1.4   1   0   0   1   1   1   1 Williams-Beuren syndrome chromosomal region 27 protein-like OS=Ciona intestinalis OX=7719 GN=LOC100176602 PE=4 SV=1
+tr|F6RBS2|F6RBS2_CIOIN -          Methyltransf_12      PF08242.19   2.2e-11   44.2   0.0   3.9e-11   43.4   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=2
+tr|H2XS53|H2XS53_CIOIN -          Methyltransf_12      PF08242.19     3e-11   43.8   0.0   1.2e-10   41.8   0.0   2.0   2   0   0   2   2   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=1
+tr|H2XNZ2|H2XNZ2_CIOIN -          Methyltransf_12      PF08242.19   6.4e-11   42.7   0.0   1.3e-10   41.7   0.0   1.6   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=1
+tr|H2XKR4|H2XKR4_CIOIN -          Methyltransf_12      PF08242.19   2.1e-10   41.1   0.0   5.3e-10   39.8   0.0   1.7   2   0   0   2   2   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=1
+tr|H2XQ96|H2XQ96_CIOIN -          Methyltransf_12      PF08242.19   3.2e-10   40.5   0.0   5.4e-10   39.8   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=1
+tr|H2Y2K2|H2Y2K2_CIOIN -          Methyltransf_12      PF08242.19   6.8e-10   39.5   0.0   2.1e-05   25.0   0.0   2.6   2   0   0   2   2   2   2 methyltransferase-like protein 13 OS=Ciona intestinalis OX=7719 GN=LOC100183174 PE=4 SV=1
+tr|H2XT31|H2XT31_CIOIN -          Methyltransf_12      PF08242.19   8.7e-10   39.1   0.0   4.4e-09   36.9   0.0   2.1   2   0   0   2   2   1   1 uncharacterized protein LOC101242218 isoform X1 OS=Ciona intestinalis OX=7719 GN=LOC101242218 PE=4 SV=1
+tr|H2XU51|H2XU51_CIOIN -          Methyltransf_12      PF08242.19   2.5e-09   37.6   0.1   6.8e-07   29.8   0.1   2.5   1   1   0   1   1   1   1 uncharacterized protein LOC100180046 OS=Ciona intestinalis OX=7719 GN=LOC100180046 PE=4 SV=1
+tr|H2XWY6|H2XWY6_CIOIN -          Methyltransf_12      PF08242.19   8.9e-09   35.9   0.0   1.5e-08   35.1   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=1
+tr|F6YXT8|F6YXT8_CIOIN -          Methyltransf_12      PF08242.19   1.2e-08   35.5   0.0   2.5e-08   34.4   0.0   1.6   1   0   0   1   1   1   1 mRNA cap guanine-N7 methyltransferase OS=Ciona intestinalis OX=7719 GN=LOC100184027 PE=3 SV=1
+tr|F6UYV3|F6UYV3_CIOIN -          Methyltransf_12      PF08242.19   1.4e-08   35.2   0.0   2.2e-08   34.6   0.0   1.3   1   0   0   1   1   1   1 uncharacterized protein LOC100187144 OS=Ciona intestinalis OX=7719 GN=LOC100187144 PE=4 SV=2
+tr|H2XY27|H2XY27_CIOIN -          Methyltransf_12      PF08242.19     3e-08   34.2   0.0     5e-08   33.5   0.0   1.4   1   0   0   1   1   1   1 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial OS=Ciona intestinalis OX=7719 PE=3 SV=1
+tr|F6ZTX9|F6ZTX9_CIOIN -          Methyltransf_12      PF08242.19   1.2e-07   32.3   0.0   3.5e-07   30.7   0.0   1.9   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=2
+tr|F7B499|F7B499_CIOIN -          Methyltransf_12      PF08242.19   1.5e-07   31.9   0.1   6.6e-07   29.9   0.1   2.0   1   1   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=2
+tr|F6TSS8|F6TSS8_CIOIN -          Methyltransf_12      PF08242.19     2e-07   31.5   0.0   3.3e-07   30.8   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=2
+tr|F6TFE2|F6TFE2_CIOIN -          Methyltransf_12      PF08242.19     5e-07   30.3   0.0   1.3e-06   28.9   0.0   1.8   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=2
+tr|F6TPM4|F6TPM4_CIOIN -          Methyltransf_12      PF08242.19   6.8e-07   29.8   0.0   1.1e-06   29.1   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=2
+tr|F6ZLL7|F6ZLL7_CIOIN -          Methyltransf_12      PF08242.19   2.3e-06   28.1   0.0   3.8e-06   27.4   0.0   1.4   1   0   0   1   1   1   1 Protein-lysine N-methyltransferase OS=Ciona intestinalis OX=7719 PE=3 SV=2
+tr|H2XUU0|H2XUU0_CIOIN -          Methyltransf_12      PF08242.19   9.5e-06   26.2   0.0   1.7e-05   25.4   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=1
+tr|F6RFK8|F6RFK8_CIOIN -          Methyltransf_12      PF08242.19   1.2e-05   25.8   0.0   1.7e-05   25.3   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=2
+tr|F6UK82|F6UK82_CIOIN -          Methyltransf_12      PF08242.19   1.7e-05   25.3   0.0   4.3e-05   24.0   0.0   1.7   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=3 SV=2
+tr|F6UXU4|F6UXU4_CIOIN -          Methyltransf_12      PF08242.19   3.3e-05   24.4   0.0   8.3e-05   23.1   0.0   1.6   1   1   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=2
+tr|F6VYQ8|F6VYQ8_CIOIN -          Methyltransf_12      PF08242.19   3.4e-05   24.4   0.0   8.9e-05   23.0   0.0   1.7   2   0   0   2   2   1   1 uncharacterized protein LOC100177375 OS=Ciona intestinalis OX=7719 GN=LOC100177375 PE=4 SV=1
+tr|F6RK63|F6RK63_CIOIN -          Methyltransf_12      PF08242.19   5.4e-05   23.7   0.0   0.00011   22.8   0.0   1.5   1   0   0   1   1   1   1 uncharacterized protein LOC100185027 OS=Ciona intestinalis OX=7719 GN=LOC100185027 PE=4 SV=1
+tr|F6YWW0|F6YWW0_CIOIN -          Methyltransf_12      PF08242.19   5.5e-05   23.7   0.0   0.00011   22.8   0.0   1.5   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=2
+tr|F6V0S1|F6V0S1_CIOIN -          Methyltransf_12      PF08242.19   8.5e-05   23.1   0.0   0.00025   21.6   0.0   1.8   2   0   0   2   2   1   1 uncharacterized protein LOC100175793 OS=Ciona intestinalis OX=7719 GN=LOC100175793 PE=4 SV=1
+tr|F6ZA91|F6ZA91_CIOIN -          Methyltransf_12      PF08242.19   0.00011   22.8   0.0   0.00025   21.6   0.0   1.6   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=2
+tr|F6U6H9|F6U6H9_CIOIN -          Methyltransf_12      PF08242.19   0.00018   22.1   0.0   0.00029   21.4   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=2
+tr|F6X5I5|F6X5I5_CIOIN -          Methyltransf_12      PF08242.19   0.00021   21.8   0.0   0.00051   20.6   0.0   1.7   2   0   0   2   2   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=3 SV=2
+tr|H2XLP1|H2XLP1_CIOIN -          Methyltransf_12      PF08242.19   0.00022   21.8   0.0   0.00049   20.7   0.0   1.6   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 GN=LOC108950095 PE=4 SV=1
+tr|F7AMD9|F7AMD9_CIOIN -          Methyltransf_12      PF08242.19   0.00026   21.6   0.0   0.00069   20.2   0.0   1.7   1   1   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=2
+tr|H2XYT3|H2XYT3_CIOIN -          Methyltransf_12      PF08242.19    0.0005   20.6   0.0   0.00092   19.8   0.0   1.4   1   0   0   1   1   1   1 tRNA (guanine-N(7)-)-methyltransferase OS=Ciona intestinalis OX=7719 GN=LOC100180383 PE=3 SV=1
+tr|F6XXQ7|F6XXQ7_CIOIN -          Methyltransf_12      PF08242.19   0.00069   20.2   0.0    0.0012   19.4   0.0   1.4   1   0   0   1   1   1   1 uncharacterized protein LOC100175264 OS=Ciona intestinalis OX=7719 GN=LOC100175264 PE=4 SV=2
+tr|F6S0S0|F6S0S0_CIOIN -          Methyltransf_12      PF08242.19   0.00075   20.1   0.1      0.14   12.8   0.0   3.2   4   0   0   4   4   2   1 carnosine N-methyltransferase OS=Ciona intestinalis OX=7719 GN=LOC100177315 PE=4 SV=2
+tr|L7N0T2|L7N0T2_CIOIN -          Methyltransf_12      PF08242.19   0.00087   19.9   0.0    0.0011   19.5   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=3 SV=1
+tr|F6UKV2|F6UKV2_CIOIN -          Methyltransf_12      PF08242.19    0.0023   18.5   0.0     0.019   15.5   0.0   2.7   3   0   0   3   3   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=3 SV=2
+tr|F6WB92|F6WB92_CIOIN -          Methyltransf_12      PF08242.19    0.0023   18.5   0.0    0.0043   17.6   0.0   1.4   1   0   0   1   1   1   1 methyltransferase-like protein 5 isoform X4 OS=Ciona intestinalis OX=7719 GN=LOC100184601 PE=4 SV=2
+tr|F6Q929|F6Q929_CIOIN -          Methyltransf_12      PF08242.19     0.003   18.1   0.0    0.0058   17.2   0.0   1.4   1   0   0   1   1   1   1 uncharacterized protein LOC100181888 OS=Ciona intestinalis OX=7719 GN=LOC100181888 PE=4 SV=2
+tr|F6PMW1|F6PMW1_CIOIN -          Methyltransf_12      PF08242.19    0.0031   18.1   0.0    0.0052   17.4   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=2
+tr|H2XKE6|H2XKE6_CIOIN -          Methyltransf_12      PF08242.19    0.0049   17.5   0.0     0.011   16.4   0.0   1.6   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 GN=LOC100176401 PE=4 SV=1
+tr|H2XZF5|H2XZF5_CIOIN -          Methyltransf_12      PF08242.19     0.012   16.2   0.0     0.083   13.5   0.0   2.0   1   1   0   1   1   1   0 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=1
+tr|H2XY59|H2XY59_CIOIN -          Methyltransf_12      PF08242.19     0.019   15.6   0.0     0.034   14.8   0.0   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Ciona intestinalis OX=7719 GN=LOC100178073 PE=4 SV=1
+tr|H2XS31|H2XS31_CIOIN -          Methyltransf_12      PF08242.19     0.022   15.4   0.0     0.061   13.9   0.0   1.8   1   1   0   1   1   1   0 S-adenosylmethionine sensor upstream of mTORC1 OS=Ciona intestinalis OX=7719 GN=LOC100185310 PE=3 SV=1
+tr|F6TLL4|F6TLL4_CIOIN -          Methyltransf_12      PF08242.19     0.025   15.2   0.0     0.087   13.5   0.0   1.9   2   0   0   2   2   1   0 Uncharacterized protein OS=Ciona intestinalis OX=7719 GN=LOC100176863 PE=3 SV=2
+tr|H2XZZ2|H2XZZ2_CIOIN -          Methyltransf_12      PF08242.19     0.027   15.1   0.0     0.091   13.4   0.0   2.0   1   1   1   2   2   1   0 S-adenosylmethionine sensor upstream of mTORC1 OS=Ciona intestinalis OX=7719 PE=3 SV=1
+tr|F6UIG7|F6UIG7_CIOIN -          Methyltransf_12      PF08242.19     0.029   15.0   0.0      0.82   10.3   0.0   2.4   2   0   0   2   2   2   0 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=3 SV=2
+tr|F6PXD8|F6PXD8_CIOIN -          Methyltransf_12      PF08242.19     0.035   14.7   0.0     0.079   13.6   0.0   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=2
+tr|H2XU46|H2XU46_CIOIN -          Methyltransf_12      PF08242.19     0.035   14.7   0.0      0.07   13.8   0.0   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=1
+tr|H2XSK1|H2XSK1_CIOIN -          Methyltransf_12      PF08242.19     0.095   13.3   0.0         1   10.0   0.0   2.2   1   1   0   1   1   1   0 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=1
+tr|F6UUI8|F6UUI8_CIOIN -          Methyltransf_12      PF08242.19       0.1   13.2   0.0      0.25   12.0   0.0   1.7   1   0   0   1   1   1   0 Uncharacterized protein OS=Ciona intestinalis OX=7719 GN=LOC100182889 PE=3 SV=2
+tr|F7AZ70|F7AZ70_CIOIN -          Methyltransf_12      PF08242.19      0.11   13.2   0.0      0.16   12.6   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=2
+tr|F6Z658|F6Z658_CIOIN -          Methyltransf_12      PF08242.19      0.11   13.2   0.0      0.21   12.3   0.0   1.7   1   1   0   1   1   1   0 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=1
+tr|F6TIA8|F6TIA8_CIOIN -          Methyltransf_12      PF08242.19      0.11   13.1   0.0      0.24   12.0   0.0   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Ciona intestinalis OX=7719 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltransf_12.hmm
+# Target file:     proteomes/Ciona_intestinalis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltransf_12/Ciona_intestinalis.tblout --cpu 8 pfam_list/Methyltransf_12.hmm proteomes/Ciona_intestinalis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 23:27:13 2025
+# [ok]

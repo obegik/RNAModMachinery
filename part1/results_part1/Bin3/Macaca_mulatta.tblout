@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7EXI8|F7EXI8_MACMU         -          Bin3                 PF06859.19   2.3e-44  150.6   0.0   3.5e-44  150.0   0.0   1.3   1   0   0   1   1   1   1 7SK snRNA methylphosphate capping enzyme isoform A OS=Macaca mulatta OX=9544 GN=MEPCE PE=2 SV=2
+tr|A0A1D5Q6J0|A0A1D5Q6J0_MACMU -          Bin3                 PF06859.19     1e-18   68.1   0.0   1.6e-18   67.5   0.0   1.2   1   0   0   1   1   1   1 BCDIN3 domain containing RNA methyltransferase OS=Macaca mulatta OX=9544 GN=BCDIN3D PE=4 SV=1
+tr|Q9GJV0|Q9GJV0_MACMU         -          Bin3                 PF06859.19      0.12   13.2   0.1      0.27   12.0   0.1   1.6   1   0   0   1   1   1   0 Sex-determining region Y protein (Fragment) OS=Macaca mulatta OX=9544 GN=SRY PE=2 SV=1
+sp|Q9BG90|SRY_MACMU            -          Bin3                 PF06859.19      0.12   13.1   0.1      0.27   12.0   0.1   1.5   1   0   0   1   1   1   0 Sex-determining region Y protein OS=Macaca mulatta OX=9544 GN=SRY PE=2 SV=1
+tr|F7HMB4|F7HMB4_MACMU         -          Bin3                 PF06859.19       0.2   12.5   0.0      0.35   11.7   0.0   1.4   1   0   0   1   1   1   0 Alpha N-terminal protein methyltransferase 1A OS=Macaca mulatta OX=9544 GN=NTMT1 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Bin3.hmm
+# Target file:     proteomes/Macaca_mulatta.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Bin3/Macaca_mulatta.tblout --cpu 8 pfam_list/Bin3.hmm proteomes/Macaca_mulatta.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:53 2025
+# [ok]

@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2I3T9Z6|A0A2I3T9Z6_PANTR -          DNA_methylase        PF00145.24   5.9e-48  164.3   0.0   5.9e-48  164.3   0.0   3.3   2   2   0   2   2   2   1 DNA (cytosine-5)-methyltransferase OS=Pan troglodytes OX=9598 GN=DNMT1 PE=3 SV=1
+tr|H2R2B5|H2R2B5_PANTR         -          DNA_methylase        PF00145.24   1.1e-41  143.7   0.0   1.4e-41  143.3   0.0   1.1   1   0   0   1   1   1   1 TRDMT1 isoform 3 OS=Pan troglodytes OX=9598 GN=TRDMT1 PE=2 SV=1
+tr|A0A2I3S8P5|A0A2I3S8P5_PANTR -          DNA_methylase        PF00145.24   8.3e-15   55.4   0.0   3.8e-11   43.3   0.0   2.3   2   0   0   2   2   2   2 DNA methyltransferase 3 alpha OS=Pan troglodytes OX=9598 GN=DNMT3A PE=3 SV=1
+tr|A0A2I3SYU8|A0A2I3SYU8_PANTR -          DNA_methylase        PF00145.24     1e-14   55.0   0.3   4.7e-11   43.0   0.0   2.6   3   0   0   3   3   3   2 DNA methyltransferase 3 beta OS=Pan troglodytes OX=9598 GN=DNMT3B PE=3 SV=1
+tr|A0A2I3SPD6|A0A2I3SPD6_PANTR -          DNA_methylase        PF00145.24    0.0011   18.8   0.0    0.0021   17.9   0.0   1.4   1   0   0   1   1   1   1 Methyltransferase like 5 OS=Pan troglodytes OX=9598 GN=METTL5 PE=4 SV=1
+tr|A0A2I3TA51|A0A2I3TA51_PANTR -          DNA_methylase        PF00145.24     0.016   15.0   1.2     0.016   15.0   1.2   1.8   2   1   0   3   3   3   0 EF-hand calcium binding domain 12 OS=Pan troglodytes OX=9598 GN=EFCAB12 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DNA_methylase.hmm
+# Target file:     proteomes/Pan_troglodytes.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DNA_methylase/Pan_troglodytes.tblout --cpu 8 pfam_list/DNA_methylase.hmm proteomes/Pan_troglodytes.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:00:12 2025
+# [ok]

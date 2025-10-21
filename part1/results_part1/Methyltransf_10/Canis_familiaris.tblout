@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A8I3NTP2|A0A8I3NTP2_CANLF -          Methyltransf_10      PF05971.19  2.1e-134  447.8   0.0  2.7e-134  447.4   0.0   1.1   1   0   0   1   1   1   1 U6 small nuclear RNA (adenine-(43)-N(6))-methyltransferase OS=Canis lupus familiaris OX=9615 GN=METTL16 PE=3 SV=1
+tr|A0A8I3S650|A0A8I3S650_CANLF -          Methyltransf_10      PF05971.19     0.089   12.3   0.6      0.16   11.5   0.0   1.6   2   0   0   2   2   2   0 Transcription factor OS=Canis lupus familiaris OX=9615 GN=TFDP1 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltransf_10.hmm
+# Target file:     proteomes/Canis_familiaris.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltransf_10/Canis_familiaris.tblout --cpu 8 pfam_list/Methyltransf_10.hmm proteomes/Canis_familiaris.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:12:18 2025
+# [ok]

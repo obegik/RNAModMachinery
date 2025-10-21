@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|H2TTI4|H2TTI4_TAKRU -          AdoMet_MTase         PF07757.19   3.6e-32  111.2   0.1   5.9e-32  110.5   0.1   1.4   1   0   0   1   1   1   1 tRNA (uracil-O(2)-)-methyltransferase OS=Takifugu rubripes OX=31033 GN=trmt44 PE=3 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/AdoMet_Mtase.hmm
+# Target file:     proteomes/Takifugu_rubripes.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/AdoMet_Mtase/Takifugu_rubripes.tblout --cpu 8 pfam_list/AdoMet_Mtase.hmm proteomes/Takifugu_rubripes.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:46 2025
+# [ok]

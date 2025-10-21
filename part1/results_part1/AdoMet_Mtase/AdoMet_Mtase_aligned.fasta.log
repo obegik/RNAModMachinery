@@ -1,0 +1,83 @@
+IQ-TREE version 3.0.1 for MacOS ARM 64-bit built Jul  9 2025
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    QY066DPX6V.crg.es (SSE4.2, 16 GB RAM)
+Command: iqtree -s results_part1_v3/AdoMet_Mtase/AdoMet_Mtase_aligned.fasta -st AA -m JTT+F+I+G4 -nt 8 --safe --redo --fast
+Seed:    534509 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon Oct 20 21:59:48 2025
+Kernel:  Safe SSE2 - 8 threads (10 CPU cores detected)
+
+Reading alignment file results_part1_v3/AdoMet_Mtase/AdoMet_Mtase_aligned.fasta ... Fasta format detected
+Reading fasta file: done in 0.000417948 secs using 88.05% CPU
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.000789165 secs using 62.98% CPU
+Alignment has 30 sequences with 1133 columns, 1035 distinct patterns
+607 parsimony-informative, 288 singleton sites, 238 constant sites
+Analyzing sequences: done in 6.48499e-05 secs using 120.3% CPU
+WARNING: 14 sequences contain more than 50% gaps/ambiguity
+Checking for duplicate sequences: done in 0.000102043 secs using 88.2% CPU
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.00 seconds
+
+NOTE: 19 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.50)
+1. Initial log-likelihood: -30215.54
+2. Current log-likelihood: -28420.93
+3. Current log-likelihood: -28352.62
+4. Current log-likelihood: -28350.78
+Optimal log-likelihood: -28350.47
+Proportion of invariable sites: 0.02
+Gamma shape alpha: 0.98
+Parameters optimization took 4 rounds (0.34 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.051486 secs using 642.9% CPU
+Computing ML distances took 0.051713 sec (of wall-clock time) 0.331158 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.000153065 secs using 103.9% CPU
+Constructing RapidNJ tree: done in 0.00414205 secs using 46.26% CPU
+Computing RapidNJ tree took 0.004364 sec (of wall-clock time) 0.002120 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -28350.959
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+
+Do NNI search on 2 best initial trees
+Optimizing NNI: done in 0.692696 secs using 183.7% CPU
+Estimate model parameters (epsilon = 0.500)
+BETTER TREE FOUND at iteration 1: -28306.668
+Optimizing NNI: done in 0.481537 secs using 191.4% CPU
+Estimate model parameters (epsilon = 0.500)
+BETTER TREE FOUND at iteration 2: -28305.567
+Finish initializing candidate tree set (4)
+Current best tree score: -28305.567 / CPU time: 1.301
+Number of iterations: 2
+TREE SEARCH COMPLETED AFTER 2 ITERATIONS / Time: 0h:0m:2s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.050)
+1. Initial log-likelihood: -28305.567
+Optimal log-likelihood: -28305.556
+Proportion of invariable sites: 0.020
+Gamma shape alpha: 0.989
+Parameters optimization took 1 rounds (0.055 sec)
+BEST SCORE FOUND : -28305.556
+Total tree length: 43.131
+
+Total number of iterations: 2
+CPU time used for tree search: 2.593 sec (0h:0m:2s)
+Wall-clock time used for tree search: 1.301 sec (0h:0m:1s)
+Total CPU time used: 4.843 sec (0h:0m:4s)
+Total wall-clock time used: 2.068 sec (0h:0m:2s)
+
+Analysis results written to: 
+  IQ-TREE report:                results_part1_v3/AdoMet_Mtase/AdoMet_Mtase_aligned.fasta.iqtree
+  Maximum-likelihood tree:       results_part1_v3/AdoMet_Mtase/AdoMet_Mtase_aligned.fasta.treefile
+  Likelihood distances:          results_part1_v3/AdoMet_Mtase/AdoMet_Mtase_aligned.fasta.mldist
+  Screen log file:               results_part1_v3/AdoMet_Mtase/AdoMet_Mtase_aligned.fasta.log
+
+Date and Time: Mon Oct 20 21:59:50 2025

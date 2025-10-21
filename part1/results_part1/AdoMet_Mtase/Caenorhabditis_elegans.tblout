@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q45EK7|TRM44_CAEEL  -          AdoMet_MTase         PF07757.19   3.8e-23   82.0   0.1   1.4e-22   80.2   0.0   2.0   2   0   0   2   2   2   1 Probable tRNA (uracil-O(2)-)-methyltransferase OS=Caenorhabditis elegans OX=6239 GN=C23G10.7 PE=3 SV=1
+tr|Q9GZF8|Q9GZF8_CAEEL -          AdoMet_MTase         PF07757.19     0.025   15.0   0.0     0.038   14.4   0.0   1.4   1   0   0   1   1   1   0 PRotein arginine MethylTransferase OS=Caenorhabditis elegans OX=6239 GN=prmt-4 PE=4 SV=1
+tr|Q9XX11|Q9XX11_CAEEL -          AdoMet_MTase         PF07757.19      0.11   12.9   0.0      0.16   12.3   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y39A1A.21 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/AdoMet_Mtase.hmm
+# Target file:     proteomes/Caenorhabditis_elegans.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/AdoMet_Mtase/Caenorhabditis_elegans.tblout --cpu 8 pfam_list/AdoMet_Mtase.hmm proteomes/Caenorhabditis_elegans.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:42 2025
+# [ok]

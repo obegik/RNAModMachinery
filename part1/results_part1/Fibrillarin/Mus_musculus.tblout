@@ -1,0 +1,16 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P35550|FBRL_MOUSE  -          Fibrillarin          PF01269.24  1.9e-108  361.1   0.0  2.3e-108  360.9   0.0   1.0   1   0   0   1   1   1   1 rRNA 2'-O-methyltransferase fibrillarin OS=Mus musculus OX=10090 GN=Fbl PE=1 SV=2
+sp|Q80WS3|FBLL1_MOUSE -          Fibrillarin          PF01269.24  4.4e-106  353.4   0.0  5.2e-106  353.2   0.0   1.0   1   0   0   1   1   1   1 rRNA/tRNA 2'-O-methyltransferase fibrillarin-like protein 1 OS=Mus musculus OX=10090 GN=Fbll1 PE=1 SV=1
+sp|Q9WVD5|ORNT1_MOUSE -          Fibrillarin          PF01269.24      0.28   10.6   0.0      0.45    9.9   0.0   1.2   1   0   0   1   1   1   0 Mitochondrial ornithine transporter 1 OS=Mus musculus OX=10090 GN=Slc25a15 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Fibrillarin.hmm
+# Target file:     proteomes/Mus_musculus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Fibrillarin/Mus_musculus.tblout --cpu 8 pfam_list/Fibrillarin.hmm proteomes/Mus_musculus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:43 2025
+# [ok]

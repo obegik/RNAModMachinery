@@ -1,0 +1,23 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0ABM4CT15|A0ABM4CT15_HYDVU -          GCD14                PF08704.17   3.1e-99  332.0   0.1   4.7e-98  328.1   0.1   2.0   1   1   0   1   1   1   1 tRNA (Adenine(58)-N(1))-methyltransferase catalytic subunit TRMT61A isoform X3 OS=Hydra vulgaris OX=6087 GN=LOC100210034 PE=4 SV=1
+tr|A0ABM4B4Y4|A0ABM4B4Y4_HYDVU -          GCD14                PF08704.17   2.7e-06   27.6   0.0     4e-06   27.0   0.0   1.2   1   0   0   1   1   1   1 rRNA 2'-O-methyltransferase fibrillarin isoform X3 OS=Hydra vulgaris OX=6087 GN=LOC100212665 PE=4 SV=1
+tr|A0ABM4BHC5|A0ABM4BHC5_HYDVU -          GCD14                PF08704.17   5.2e-05   23.3   0.0   7.7e-05   22.8   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized 37.1 kDa protein in transposon TN4556 isoform X2 OS=Hydra vulgaris OX=6087 GN=LOC101240403 PE=4 SV=1
+tr|A0ABM4C307|A0ABM4C307_HYDVU -          GCD14                PF08704.17   0.00061   19.8   0.0   0.00073   19.6   0.0   1.1   1   0   0   1   1   1   1 Protein-L-isoaspartate(D-aspartate) O-methyltransferase isoform X5 OS=Hydra vulgaris OX=6087 GN=LOC100205307 PE=4 SV=1
+tr|A0ABM4D6G0|A0ABM4D6G0_HYDVU -          GCD14                PF08704.17    0.0023   17.9   0.0    0.0026   17.8   0.0   1.2   1   0   0   1   1   1   1 Protein-L-isoaspartate O-methyltransferase domain-containing protein 2 isoform X2 OS=Hydra vulgaris OX=6087 GN=LOC100197667 PE=4 SV=1
+tr|A0ABM4C4C2|A0ABM4C4C2_HYDVU -          GCD14                PF08704.17    0.0075   16.3   0.7     0.022   14.7   0.7   1.8   1   0   0   1   1   1   1 Uncharacterized protein LOC136081917 isoform X1 OS=Hydra vulgaris OX=6087 GN=LOC136081917 PE=4 SV=1
+tr|A0ABM4D6A5|A0ABM4D6A5_HYDVU -          GCD14                PF08704.17      0.08   12.9   3.7     0.076   13.0   2.8   1.4   1   1   0   1   1   1   0 Uncharacterized protein LOC100212929 isoform X3 OS=Hydra vulgaris OX=6087 GN=LOC100212929 PE=4 SV=1
+tr|A0ABM4DDK3|A0ABM4DDK3_HYDVU -          GCD14                PF08704.17      0.13   12.2   0.0      0.39   10.7   0.0   1.8   2   0   0   2   2   2   0 tRNA:m(4)X modification enzyme TRM13 homolog isoform X2 OS=Hydra vulgaris OX=6087 GN=LOC100209000 PE=4 SV=1
+tr|A0ABM4CCI9|A0ABM4CCI9_HYDVU -          GCD14                PF08704.17      0.23   11.4   3.8       5.5    6.9   2.9   2.8   2   0   0   2   2   2   0 Kinesin-like protein KIF19 isoform X3 OS=Hydra vulgaris OX=6087 GN=LOC100201795 PE=4 SV=1
+tr|A0ABM4CWX1|A0ABM4CWX1_HYDVU -          GCD14                PF08704.17         4    7.3   5.5         9    6.2   5.5   1.5   1   0   0   1   1   1   0 Band 4.1-like protein 5 isoform X2 OS=Hydra vulgaris OX=6087 GN=LOC105848300 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/GCD14.hmm
+# Target file:     proteomes/Hydra_vulgaris.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/GCD14/Hydra_vulgaris.tblout --cpu 8 pfam_list/GCD14.hmm proteomes/Hydra_vulgaris.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:11 2025
+# [ok]

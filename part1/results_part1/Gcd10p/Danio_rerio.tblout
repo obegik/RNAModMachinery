@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F1QFE5|F1QFE5_DANRE         -          Gcd10p               PF04189.19   1.7e-76  257.7   0.1   2.5e-76  257.1   0.1   1.2   1   0   0   1   1   1   1 tRNA (adenine(58)-N(1))-methyltransferase non-catalytic subunit TRM6 OS=Danio rerio OX=7955 GN=trmt6 PE=1 SV=1
+tr|A0A0R4IR49|A0A0R4IR49_DANRE -          Gcd10p               PF04189.19      0.13   11.9   0.0      0.22   11.1   0.0   1.3   1   0   0   1   1   1   0 Si:ch211-165e15.1 OS=Danio rerio OX=7955 GN=si:ch211-165e15.1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Gcd10p.hmm
+# Target file:     proteomes/Danio_rerio.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Gcd10p/Danio_rerio.tblout --cpu 8 pfam_list/Gcd10p.hmm proteomes/Danio_rerio.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:31 2025
+# [ok]

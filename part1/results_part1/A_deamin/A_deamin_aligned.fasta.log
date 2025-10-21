@@ -1,0 +1,86 @@
+IQ-TREE version 3.0.1 for MacOS ARM 64-bit built Jul  9 2025
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    QY066DPX6V.crg.es (SSE4.2, 16 GB RAM)
+Command: iqtree -s results_part1_v3/A_deamin/A_deamin_aligned.fasta -st AA -m JTT+F+I+G4 -nt 8 --safe --redo --fast
+Seed:    95405 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon Oct 20 21:59:20 2025
+Kernel:  Safe SSE2 - 8 threads (10 CPU cores detected)
+
+Reading alignment file results_part1_v3/A_deamin/A_deamin_aligned.fasta ... Fasta format detected
+Reading fasta file: done in 0.00505495 secs using 91.36% CPU
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.00399208 secs using 76.33% CPU
+Alignment has 144 sequences with 3333 columns, 2608 distinct patterns
+1458 parsimony-informative, 824 singleton sites, 1051 constant sites
+Analyzing sequences: done in 0.000213861 secs using 324.5% CPU
+WARNING: 143 sequences contain more than 50% gaps/ambiguity
+Checking for duplicate sequences: done in 0.000633955 secs using 129.8% CPU
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.06 seconds
+
+NOTE: 233 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.50)
+1. Initial log-likelihood: -124664.16
+2. Current log-likelihood: -111028.37
+3. Current log-likelihood: -110649.38
+4. Current log-likelihood: -110614.38
+5. Current log-likelihood: -110603.68
+6. Current log-likelihood: -110599.56
+7. Current log-likelihood: -110597.91
+8. Current log-likelihood: -110597.27
+Optimal log-likelihood: -110597.04
+Proportion of invariable sites: 0.00
+Gamma shape alpha: 1.23
+Parameters optimization took 8 rounds (5.48 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 1.30661 secs using 626% CPU
+Computing ML distances took 1.307260 sec (of wall-clock time) 8.181160 sec (of CPU time)
+WARNING: Some pairwise ML distances are too long (saturated)
+Setting up auxiliary I and S matrices: done in 0.000205994 secs using 238.4% CPU
+Constructing RapidNJ tree: done in 0.018651 secs using 67.65% CPU
+Computing RapidNJ tree took 0.018954 sec (of wall-clock time) 0.013134 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -111717.146
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+
+Do NNI search on 2 best initial trees
+Optimizing NNI: done in 4.94283 secs using 312.4% CPU
+Estimate model parameters (epsilon = 0.500)
+BETTER TREE FOUND at iteration 1: -110454.825
+Optimizing NNI: done in 6.20492 secs using 336.3% CPU
+Finish initializing candidate tree set (4)
+Current best tree score: -110454.825 / CPU time: 11.733
+Number of iterations: 2
+TREE SEARCH COMPLETED AFTER 2 ITERATIONS / Time: 0h:0m:20s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.050)
+1. Initial log-likelihood: -110454.825
+Optimal log-likelihood: -110454.794
+Proportion of invariable sites: 0.001
+Gamma shape alpha: 1.244
+Parameters optimization took 1 rounds (0.509 sec)
+BEST SCORE FOUND : -110454.794
+Total tree length: 93.616
+
+Total number of iterations: 2
+CPU time used for tree search: 39.097 sec (0h:0m:39s)
+Wall-clock time used for tree search: 11.733 sec (0h:0m:11s)
+Total CPU time used: 81.163 sec (0h:1m:21s)
+Total wall-clock time used: 21.357 sec (0h:0m:21s)
+
+Analysis results written to: 
+  IQ-TREE report:                results_part1_v3/A_deamin/A_deamin_aligned.fasta.iqtree
+  Maximum-likelihood tree:       results_part1_v3/A_deamin/A_deamin_aligned.fasta.treefile
+  Likelihood distances:          results_part1_v3/A_deamin/A_deamin_aligned.fasta.mldist
+  Screen log file:               results_part1_v3/A_deamin/A_deamin_aligned.fasta.log
+
+Date and Time: Mon Oct 20 21:59:41 2025

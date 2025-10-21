@@ -1,0 +1,17 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P21335|TADA_BACSU  -          MafB19-deam          PF14437.13   1.3e-33  113.7   0.0   1.6e-33  113.5   0.0   1.0   1   0   0   1   1   1   1 tRNA-specific adenosine deaminase OS=Bacillus subtilis (strain 168) OX=224308 GN=tadA PE=1 SV=1
+sp|O34598|GUAD_BACSU  -          MafB19-deam          PF14437.13   6.8e-23   79.0   0.1   7.8e-23   78.8   0.1   1.1   1   0   0   1   1   1   1 Guanine deaminase OS=Bacillus subtilis (strain 168) OX=224308 GN=guaD PE=1 SV=1
+sp|P32393|COMEB_BACSU -          MafB19-deam          PF14437.13   4.4e-19   66.7   0.1   5.4e-19   66.4   0.1   1.1   1   0   0   1   1   1   1 ComE operon protein 2 OS=Bacillus subtilis (strain 168) OX=224308 GN=comEB PE=3 SV=1
+sp|P17618|RIBD_BACSU  -          MafB19-deam          PF14437.13   4.9e-13   47.1   0.0   1.1e-12   46.0   0.0   1.5   1   0   0   1   1   1   1 Riboflavin biosynthesis protein RibD OS=Bacillus subtilis (strain 168) OX=224308 GN=ribD PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MafB19-deam.hmm
+# Target file:     proteomes/Bacillus_subtilis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MafB19-deam/Bacillus_subtilis.tblout --cpu 8 pfam_list/MafB19-deam.hmm proteomes/Bacillus_subtilis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:09:21 2025
+# [ok]

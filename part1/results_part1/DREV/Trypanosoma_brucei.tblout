@@ -1,0 +1,18 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q584Q2|Q584Q2_TRYB2 -          DREV                 PF05219.18   2.1e-56  189.9   0.0   2.5e-56  189.7   0.0   1.0   1   0   0   1   1   1   1 DREV methyltransferase, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.6.2540 PE=4 SV=1
+tr|Q38FT0|Q38FT0_TRYB2 -          DREV                 PF05219.18    0.0026   15.8   0.0      0.41    8.7   0.0   2.3   2   0   0   2   2   2   2 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.160.1070 PE=4 SV=1
+tr|Q582P2|Q582P2_TRYB2 -          DREV                 PF05219.18      0.01   13.9   0.0       5.4    5.0   0.0   3.2   3   0   0   3   3   3   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.3.4940 PE=4 SV=1
+tr|Q585P9|Q585P9_TRYB2 -          DREV                 PF05219.18     0.019   13.0   0.0     0.032   12.3   0.0   1.3   1   0   0   1   1   1   0 rRNA adenine N(6)-methyltransferase OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.6.1610 PE=3 SV=1
+tr|Q38DV8|Q38DV8_TRYB2 -          DREV                 PF05219.18     0.023   12.8   0.0     0.056   11.5   0.0   1.6   1   1   0   1   1   1   0 Ubiquinone biosynthesis O-methyltransferase, mitochondrial OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.211.1960 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DREV.hmm
+# Target file:     proteomes/Trypanosoma_brucei.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DREV/Trypanosoma_brucei.tblout --cpu 8 pfam_list/DREV.hmm proteomes/Trypanosoma_brucei.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:25 2025
+# [ok]

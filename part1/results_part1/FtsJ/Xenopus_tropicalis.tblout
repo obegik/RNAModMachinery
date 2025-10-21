@@ -1,0 +1,47 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6WUN0|F6WUN0_XENTR         -          FtsJ                 PF01728.26   9.9e-53  179.1   0.0   2.1e-52  178.1   0.0   1.6   1   0   0   1   1   1   1 pre-rRNA processing protein FTSJ3 OS=Xenopus tropicalis OX=8364 GN=ftsj3 PE=3 SV=1
+tr|F7AX52|F7AX52_XENTR         -          FtsJ                 PF01728.26   2.4e-52  177.9   0.0   3.2e-52  177.5   0.0   1.1   1   0   0   1   1   1   1 Mitochondrial rRNA methyltransferase 2 OS=Xenopus tropicalis OX=8364 GN=mrm2 PE=3 SV=1
+tr|F6TZX1|F6TZX1_XENTR         -          FtsJ                 PF01728.26     3e-35  122.2   0.0   1.2e-34  120.2   0.0   1.9   2   0   0   2   2   2   1 Cap methyltransferase 1 OS=Xenopus tropicalis OX=8364 GN=cmtr1 PE=4 SV=1
+tr|A0A1B8XX56|A0A1B8XX56_XENTR -          FtsJ                 PF01728.26   3.2e-35  122.1   0.0   1.3e-34  120.1   0.0   1.9   2   0   0   2   2   2   1 Uncharacterized protein OS=Xenopus tropicalis OX=8364 GN=XENTR_v90030351mg PE=4 SV=1
+tr|F6YZK8|F6YZK8_XENTR         -          FtsJ                 PF01728.26   8.3e-30  104.5   0.0   5.7e-26   91.9   0.0   2.3   2   0   0   2   2   2   2 Cap methyltransferase 2 OS=Xenopus tropicalis OX=8364 GN=cmtr2 PE=4 SV=1
+tr|F7AV42|F7AV42_XENTR         -          FtsJ                 PF01728.26     1e-21   78.1   0.0   1.1e-21   77.9   0.0   1.0   1   0   0   1   1   1   1 FtsJ RNA methyltransferase homolog 1 OS=Xenopus tropicalis OX=8364 GN=ftsj1 PE=4 SV=1
+tr|F7DZT0|F7DZT0_XENTR         -          FtsJ                 PF01728.26   3.3e-08   34.1   0.0    0.0016   18.9   0.0   2.4   2   0   0   2   2   2   2 Uncharacterized protein OS=Xenopus tropicalis OX=8364 GN=loc100124841 PE=4 SV=1
+tr|F6RCC7|F6RCC7_XENTR         -          FtsJ                 PF01728.26   3.2e-05   24.3   0.0   6.2e-05   23.4   0.0   1.4   1   0   0   1   1   1   1 NOP2/Sun RNA methyltransferase family member 6 OS=Xenopus tropicalis OX=8364 GN=nsun6 PE=3 SV=1
+tr|F7D8B1|F7D8B1_XENTR         -          FtsJ                 PF01728.26   4.8e-05   23.8   0.1   0.00012   22.5   0.1   1.7   1   1   0   1   1   1   1 NOP2 nucleolar protein OS=Xenopus tropicalis OX=8364 GN=nop2 PE=3 SV=1
+tr|A0A1B8Y6P7|A0A1B8Y6P7_XENTR -          FtsJ                 PF01728.26   6.2e-05   23.4   0.0    0.0001   22.7   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein (Fragment) OS=Xenopus tropicalis OX=8364 GN=XENTR_v900306591mg PE=3 SV=1
+sp|B0JYW5|ANM6_XENTR           -          FtsJ                 PF01728.26   6.6e-05   23.3   0.0   0.00012   22.5   0.0   1.5   1   0   0   1   1   1   1 Protein arginine N-methyltransferase 6 OS=Xenopus tropicalis OX=8364 GN=prmt6 PE=2 SV=1
+tr|F7C1D7|F7C1D7_XENTR         -          FtsJ                 PF01728.26   0.00015   22.2   0.0   0.00023   21.6   0.0   1.2   1   0   0   1   1   1   1 HemK methyltransferase family member 1 OS=Xenopus tropicalis OX=8364 GN=hemk1 PE=4 SV=1
+sp|Q66KI9|NSUN4_XENTR          -          FtsJ                 PF01728.26   0.00024   21.5   0.0   0.00052   20.4   0.0   1.6   1   1   0   1   1   1   1 5-methylcytosine rRNA methyltransferase NSUN4 OS=Xenopus tropicalis OX=8364 GN=nsun4 PE=2 SV=1
+tr|F6TRH8|F6TRH8_XENTR         -          FtsJ                 PF01728.26   0.00059   20.2   0.0   0.00084   19.7   0.0   1.4   1   1   0   1   1   1   1 Uncharacterized protein OS=Xenopus tropicalis OX=8364 GN=LOC100485096 PE=4 SV=1
+tr|F6TNA7|F6TNA7_XENTR         -          FtsJ                 PF01728.26   0.00064   20.1   0.0    0.0034   17.7   0.0   1.9   1   1   0   2   2   2   1 NOP2/Sun RNA methyltransferase family member 5 OS=Xenopus tropicalis OX=8364 GN=nsun5 PE=3 SV=1
+tr|F6ZHI8|F6ZHI8_XENTR         -          FtsJ                 PF01728.26   0.00074   19.9   0.0    0.0013   19.1   0.0   1.5   1   1   0   1   1   1   1 Uncharacterized protein OS=Xenopus tropicalis OX=8364 PE=4 SV=1
+tr|A0A1B8XXG2|A0A1B8XXG2_XENTR -          FtsJ                 PF01728.26    0.0008   19.8   0.0    0.0016   18.8   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein (Fragment) OS=Xenopus tropicalis OX=8364 GN=XENTR_v900300652mg PE=4 SV=1
+tr|F7CLK6|F7CLK6_XENTR         -          FtsJ                 PF01728.26    0.0011   19.3   0.0    0.0021   18.4   0.0   1.4   1   0   0   1   1   1   1 Protein arginine methyltransferase 3 OS=Xenopus tropicalis OX=8364 GN=prmt3 PE=3 SV=1
+tr|F7AIW5|F7AIW5_XENTR         -          FtsJ                 PF01728.26    0.0021   18.4   0.0    0.0029   18.0   0.0   1.3   1   0   0   1   1   1   1 Methyltransferase-like 5 OS=Xenopus tropicalis OX=8364 GN=mettl5 PE=4 SV=1
+tr|F6R586|F6R586_XENTR         -          FtsJ                 PF01728.26    0.0021   18.4   0.0     0.004   17.5   0.0   1.4   1   0   0   1   1   1   1 Protein arginine methyltransferase 8 OS=Xenopus tropicalis OX=8364 GN=prmt8 PE=3 SV=1
+sp|Q28F07|ANM1_XENTR           -          FtsJ                 PF01728.26    0.0022   18.4   0.0    0.0044   17.4   0.0   1.5   1   0   0   1   1   1   1 Protein arginine N-methyltransferase 1 OS=Xenopus tropicalis OX=8364 GN=prmt1 PE=2 SV=1
+tr|F7EG74|F7EG74_XENTR         -          FtsJ                 PF01728.26    0.0024   18.2   0.1    0.0064   16.8   0.1   1.7   1   1   0   1   1   1   1 Coactivator-associated arginine methyltransferase 1 OS=Xenopus tropicalis OX=8364 GN=carm1 PE=3 SV=1
+tr|F6XA95|F6XA95_XENTR         -          FtsJ                 PF01728.26    0.0044   17.4   0.0     0.014   15.8   0.0   1.8   2   0   0   2   2   2   1 Methyltransferase-like 25 OS=Xenopus tropicalis OX=8364 GN=mettl25 PE=4 SV=1
+tr|F7C5T3|F7C5T3_XENTR         -          FtsJ                 PF01728.26     0.016   15.6   0.0      0.03   14.7   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus tropicalis OX=8364 GN=zswim9 PE=4 SV=1
+sp|B3DLB3|ANM2_XENTR           -          FtsJ                 PF01728.26     0.029   14.7   0.0     0.046   14.0   0.0   1.3   1   0   0   1   1   1   0 Protein arginine N-methyltransferase 2 OS=Xenopus tropicalis OX=8364 GN=prmt2 PE=2 SV=1
+tr|A0A1B8XSV6|A0A1B8XSV6_XENTR -          FtsJ                 PF01728.26      0.03   14.7   0.0     0.056   13.8   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein (Fragment) OS=Xenopus tropicalis OX=8364 GN=XENTR_v900296902mg PE=3 SV=1
+tr|F7BWE4|F7BWE4_XENTR         -          FtsJ                 PF01728.26     0.032   14.6   0.0      0.06   13.7   0.0   1.4   1   1   0   1   1   1   0 Protein-L-isoaspartate O-methyltransferase OS=Xenopus tropicalis OX=8364 GN=pcmt1 PE=3 SV=1
+sp|Q28E61|NSUN2_XENTR          -          FtsJ                 PF01728.26     0.039   14.3   0.0     0.082   13.2   0.0   1.5   1   0   0   1   1   1   0 tRNA (cytosine(34)-C(5))-methyltransferase OS=Xenopus tropicalis OX=8364 GN=nsun2 PE=2 SV=1
+tr|F6TSG1|F6TSG1_XENTR         -          FtsJ                 PF01728.26     0.044   14.1   0.1     0.057   13.8   0.1   1.2   1   0   0   1   1   1   0 3-hydroxybutyrate dehydrogenase 2 OS=Xenopus tropicalis OX=8364 GN=bdh2 PE=4 SV=1
+tr|B1H336|B1H336_XENTR         -          FtsJ                 PF01728.26     0.045   14.1   0.0      0.11   12.8   0.0   1.7   1   0   0   1   1   1   0 LOC100145545 protein OS=Xenopus tropicalis OX=8364 GN=trmt2a PE=2 SV=1
+tr|F6PSG1|F6PSG1_XENTR         -          FtsJ                 PF01728.26     0.048   14.0   0.0      0.41   11.0   0.0   2.2   2   0   0   2   2   2   0 Methyltransferase-like 15 OS=Xenopus tropicalis OX=8364 GN=mettl15 PE=3 SV=1
+sp|Q28FT4|MCES_XENTR           -          FtsJ                 PF01728.26     0.094   13.0   0.0      0.17   12.2   0.0   1.4   1   0   0   1   1   1   0 mRNA cap guanine-N7 methyltransferase OS=Xenopus tropicalis OX=8364 GN=rnmt PE=2 SV=1
+tr|K9J875|K9J875_XENTR         -          FtsJ                 PF01728.26      0.14   12.5   0.1      0.28   11.5   0.0   1.7   2   1   0   2   2   1   0 rRNA adenine N(6)-methyltransferase OS=Xenopus tropicalis OX=8364 GN=dimt1 PE=3 SV=1
+tr|A9JTN6|A9JTN6_XENTR         -          FtsJ                 PF01728.26      0.17   12.2   0.0      0.31   11.4   0.0   1.4   1   1   0   1   1   1   0 LOC100127805 protein (Fragment) OS=Xenopus tropicalis OX=8364 GN=LOC100127805 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/FtsJ.hmm
+# Target file:     proteomes/Xenopus_tropicalis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/FtsJ/Xenopus_tropicalis.tblout --cpu 8 pfam_list/FtsJ.hmm proteomes/Xenopus_tropicalis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:59 2025
+# [ok]

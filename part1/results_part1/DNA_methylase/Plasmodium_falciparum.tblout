@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q8IBI4|Q8IBI4_PLAF7 -          DNA_methylase        PF00145.24     1e-16   59.5  47.4   5.6e-06   24.3   6.9   5.8   2   2   2   6   6   6   5 DNA (Cytosine-5)-methyltransferase OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_0727300 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DNA_methylase.hmm
+# Target file:     proteomes/Plasmodium_falciparum.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DNA_methylase/Plasmodium_falciparum.tblout --cpu 8 pfam_list/DNA_methylase.hmm proteomes/Plasmodium_falciparum.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:00:12 2025
+# [ok]

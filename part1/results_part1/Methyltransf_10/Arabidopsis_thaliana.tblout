@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F4IGH3|F4IGH3_ARATH -          Methyltransf_10      PF05971.19   1.8e-75  254.7   0.8   3.3e-44  152.0   0.0   3.0   1   1   1   2   2   2   2 U6 small nuclear RNA (adenine-(43)-N(6))-methyltransferase OS=Arabidopsis thaliana OX=3702 GN=FIO1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltransf_10.hmm
+# Target file:     proteomes/Arabidopsis_thaliana.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltransf_10/Arabidopsis_thaliana.tblout --cpu 8 pfam_list/Methyltransf_10.hmm proteomes/Arabidopsis_thaliana.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:12:17 2025
+# [ok]

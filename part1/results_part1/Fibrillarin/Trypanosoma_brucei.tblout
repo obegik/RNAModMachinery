@@ -1,0 +1,18 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q38AL4|Q38AL4_TRYB2 -          Fibrillarin          PF01269.24  1.1e-102  340.9   0.0  1.3e-102  340.7   0.0   1.0   1   0   0   1   1   1   1 Fibrillarin OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.6k15.3160 PE=3 SV=1
+tr|Q388C9|Q388C9_TRYB2 -          Fibrillarin          PF01269.24  6.5e-100  331.9   0.0  7.5e-100  331.7   0.0   1.0   1   0   0   1   1   1   1 Fibrillarin, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.61.1920 PE=3 SV=1
+tr|Q388E0|Q388E0_TRYB2 -          Fibrillarin          PF01269.24   1.8e-98  327.2   0.0     2e-98  327.0   0.0   1.0   1   0   0   1   1   1   1 Fibrillarin, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.61.2040 PE=3 SV=1
+tr|Q383B4|Q383B4_TRYB2 -          Fibrillarin          PF01269.24     0.002   16.2   0.0       0.6    8.1   0.0   2.2   2   0   0   2   2   2   2 tRNA (adenine(58)-N(1))-methyltransferase OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.01.3530 PE=3 SV=1
+tr|Q389X8|Q389X8_TRYB2 -          Fibrillarin          PF01269.24     0.029   12.4   0.0     0.044   11.8   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.6k15.0300 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Fibrillarin.hmm
+# Target file:     proteomes/Trypanosoma_brucei.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Fibrillarin/Trypanosoma_brucei.tblout --cpu 8 pfam_list/Fibrillarin.hmm proteomes/Trypanosoma_brucei.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:45 2025
+# [ok]

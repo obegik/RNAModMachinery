@@ -1,0 +1,24 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3DNJ8|A0A2K3DNJ8_CHLRE -          Methyltr_RsmB-F      PF01189.24   1.1e-70  237.4   0.0   1.7e-70  236.7   0.0   1.3   1   0   0   1   1   1   1 SAM-dependent MTase RsmB/NOP-type domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_06g273413v5 PE=3 SV=1
+tr|A0A2K3CMR1|A0A2K3CMR1_CHLRE -          Methyltr_RsmB-F      PF01189.24   2.6e-48  164.3   0.0   1.2e-33  116.4   0.0   2.2   2   0   0   2   2   2   2 SAM-dependent MTase RsmB/NOP-type domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_50g761447v5 PE=3 SV=1
+tr|A0A2K3DA13|A0A2K3DA13_CHLRE -          Methyltr_RsmB-F      PF01189.24   7.1e-33  113.9   0.0   7.3e-19   68.2   0.0   2.6   3   0   0   3   3   3   2 SAM-dependent MTase RsmB/NOP-type domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_10g433650v5 PE=3 SV=1
+tr|A0A2K3DXQ0|A0A2K3DXQ0_CHLRE -          Methyltr_RsmB-F      PF01189.24   4.6e-31  108.0   0.0   4.2e-28   98.3   0.0   2.2   2   0   0   2   2   2   2 SAM-dependent MTase RsmB/NOP-type domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g179860v5 PE=3 SV=1
+tr|A0A2K3D1H3|A0A2K3D1H3_CHLRE -          Methyltr_RsmB-F      PF01189.24   4.5e-30  104.8   0.0   1.2e-15   57.7   0.0   2.3   2   0   0   2   2   2   2 SAM-dependent MTase RsmB/NOP-type domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_13g606200v5 PE=3 SV=1
+tr|A0A2K3CSQ1|A0A2K3CSQ1_CHLRE -          Methyltr_RsmB-F      PF01189.24   3.9e-26   91.9   0.0   1.1e-17   64.3   0.0   2.5   2   0   0   2   2   2   2 SNF2 super family OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_16g647602v5 PE=3 SV=1
+tr|A0A2K3D8E4|A0A2K3D8E4_CHLRE -          Methyltr_RsmB-F      PF01189.24   1.2e-23   83.8   0.0   7.6e-13   48.5   0.0   2.4   2   0   0   2   2   2   2 SAM-dependent MTase RsmB/NOP-type domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_11g476450v5 PE=3 SV=1
+tr|A0A2K3D1B4|A0A2K3D1B4_CHLRE -          Methyltr_RsmB-F      PF01189.24   1.6e-21   76.9   0.0   5.6e-14   52.2   0.0   2.3   2   0   0   2   2   2   2 NOL1/NOP2/Sun domain family member 4 OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_13g602300v5 PE=3 SV=1
+tr|A0A2K3DKN9|A0A2K3DKN9_CHLRE -          Methyltr_RsmB-F      PF01189.24   0.00024   20.8   0.0    0.0004   20.1   0.0   1.3   1   0   0   1   1   1   1 protein-L-isoaspartate(D-aspartate) O-methyltransferase OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_07g342000v5 PE=3 SV=1
+tr|A0A2K3CSS2|A0A2K3CSS2_CHLRE -          Methyltr_RsmB-F      PF01189.24    0.0011   18.6   0.0      0.03   14.0   0.0   2.2   1   1   0   1   1   1   1 PUA domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_16g649400v5 PE=3 SV=1
+tr|A8IA86|A8IA86_CHLRE         -          Methyltr_RsmB-F      PF01189.24     0.083   12.5   0.0       0.2   11.3   0.0   1.6   2   0   0   2   2   2   0 rRNA 2'-O-methyltransferase fibrillarin OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_02g077300v5 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltr_RsmB-F.hmm
+# Target file:     proteomes/Chlamydomonas_reinhardtii.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltr_RsmB-F/Chlamydomonas_reinhardtii.tblout --cpu 8 pfam_list/Methyltr_RsmB-F.hmm proteomes/Chlamydomonas_reinhardtii.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:10:13 2025
+# [ok]

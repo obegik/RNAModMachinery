@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q8I2Y6|Q8I2Y6_PLAF7 -          AdoMet_MTase         PF07757.19   2.8e-06   25.8   0.5     5e-06   25.0   0.5   1.6   1   1   0   1   1   1   1 Protein-lysine N-methyltransferase PF3D7_0916600 OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_0916600 PE=1 SV=1
+tr|Q8II90|Q8II90_PLAF7 -          AdoMet_MTase         PF07757.19    0.0021   16.6   0.3    0.0021   16.6   0.3   2.0   2   0   0   2   2   2   1 tRNA (guanine-N(7)-)-methyltransferase OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1127300 PE=3 SV=1
+tr|Q8IFN7|Q8IFN7_PLAF7 -          AdoMet_MTase         PF07757.19     0.003   16.1   1.1    0.0051   15.3   0.3   1.7   2   0   0   2   2   2   1 Methyltransferase, putative OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_0422900 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/AdoMet_Mtase.hmm
+# Target file:     proteomes/Plasmodium_falciparum.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/AdoMet_Mtase/Plasmodium_falciparum.tblout --cpu 8 pfam_list/AdoMet_Mtase.hmm proteomes/Plasmodium_falciparum.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:45 2025
+# [ok]

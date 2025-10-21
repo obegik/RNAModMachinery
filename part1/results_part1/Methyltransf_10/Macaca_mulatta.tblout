@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7DQI0|F7DQI0_MACMU -          Methyltransf_10      PF05971.19  2.2e-114  382.1   0.3   8.9e-94  314.4   0.0   2.1   1   1   1   2   2   2   2 U6 small nuclear RNA (adenine-(43)-N(6))-methyltransferase OS=Macaca mulatta OX=9544 GN=METTL16 PE=3 SV=2
+tr|F7EET4|F7EET4_MACMU -          Methyltransf_10      PF05971.19    0.0084   15.7   0.1     0.014   15.0   0.1   1.2   1   0   0   1   1   1   1 SHC binding and spindle associated 1 OS=Macaca mulatta OX=9544 GN=SHCBP1 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltransf_10.hmm
+# Target file:     proteomes/Macaca_mulatta.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltransf_10/Macaca_mulatta.tblout --cpu 8 pfam_list/Methyltransf_10.hmm proteomes/Macaca_mulatta.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:12:20 2025
+# [ok]

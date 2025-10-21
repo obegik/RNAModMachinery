@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q6WEE4|Q6WEE4_CHLRE         -          DREV                 PF05219.18     0.012   14.8   0.0     0.019   14.1   0.0   1.2   1   0   0   1   1   1   0 Cyanobacterial-type MPBQ/MSBQ methyltransferase OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_14g624350v5 PE=2 SV=1
+tr|A0A2K3DHZ2|A0A2K3DHZ2_CHLRE -          DREV                 PF05219.18     0.029   13.5   0.0      0.18   10.8   0.0   2.0   2   0   0   2   2   2   0 Sulfatase-modifying factor enzyme-like domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_08g380000v5 PE=4 SV=1
+tr|A0A2K3E7J2|A0A2K3E7J2_CHLRE -          DREV                 PF05219.18     0.078   12.0   0.0      0.13   11.3   0.0   1.3   1   0   0   1   1   1   0 rRNA adenine N(6)-methyltransferase OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_01g042900v5 PE=3 SV=1
+tr|A0A2K3DNL8|A0A2K3DNL8_CHLRE -          DREV                 PF05219.18      0.12   11.4   0.0      0.24   10.4   0.0   1.4   2   0   0   2   2   2   0 Alpha N-terminal protein methyltransferase 1 OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_06g274400v5 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DREV.hmm
+# Target file:     proteomes/Chlamydomonas_reinhardtii.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DREV/Chlamydomonas_reinhardtii.tblout --cpu 8 pfam_list/DREV.hmm proteomes/Chlamydomonas_reinhardtii.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:21 2025
+# [ok]

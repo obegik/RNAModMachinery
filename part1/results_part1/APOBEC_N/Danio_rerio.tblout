@@ -1,0 +1,20 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|B3DGZ0|B3DGZ0_DANRE         -          APOBEC_N             PF08210.18   4.7e-61  206.2   0.5   5.5e-61  206.0   0.5   1.0   1   0   0   1   1   1   1 Activation-induced cytidine deaminase OS=Danio rerio OX=7955 GN=aicda PE=2 SV=1
+tr|A0A2R8Q022|A0A2R8Q022_DANRE -          APOBEC_N             PF08210.18   1.3e-54  185.3   0.4   1.8e-54  184.8   0.4   1.2   1   0   0   1   1   1   1 Apolipoprotein B mRNA-editing enzyme, catalytic polypeptide-like 2b OS=Danio rerio OX=7955 GN=apobec2b PE=4 SV=1
+tr|F8W3Q7|F8W3Q7_DANRE         -          APOBEC_N             PF08210.18   5.1e-54  183.3   0.2   6.4e-54  183.0   0.2   1.1   1   0   0   1   1   1   1 Apolipoprotein B mRNA-editing enzyme, catalytic polypeptide-like 2a (Fragment) OS=Danio rerio OX=7955 GN=apobec2a PE=1 SV=1
+tr|X1WGQ3|X1WGQ3_DANRE         -          APOBEC_N             PF08210.18   0.00067   20.2   0.4    0.0012   19.4   0.1   1.5   1   1   0   1   1   1   1 Si:dkey-96g2.1 OS=Danio rerio OX=7955 GN=si:dkey-96g2.1 PE=4 SV=2
+sp|Q5U3U4|CDAC1_DANRE          -          APOBEC_N             PF08210.18    0.0068   16.9   1.2      0.52   10.8   0.1   2.2   2   0   0   2   2   2   2 Cytidine and dCMP deaminase domain-containing protein 1 OS=Danio rerio OX=7955 GN=cdadc1 PE=2 SV=1
+sp|Q5RIV4|ADAT2_DANRE          -          APOBEC_N             PF08210.18    0.0073   16.8   0.2     0.011   16.2   0.2   1.2   1   0   0   1   1   1   1 tRNA-specific adenosine deaminase 2 OS=Danio rerio OX=7955 GN=adat2 PE=2 SV=2
+tr|Q568L4|Q568L4_DANRE         -          APOBEC_N             PF08210.18      0.12   12.9   0.0      0.16   12.5   0.0   1.3   1   0   0   1   1   1   0 dCMP deaminase OS=Danio rerio OX=7955 GN=dctd PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/APOBEC_N.hmm
+# Target file:     proteomes/Danio_rerio.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/APOBEC_N/Danio_rerio.tblout --cpu 8 pfam_list/APOBEC_N.hmm proteomes/Danio_rerio.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:58:50 2025
+# [ok]

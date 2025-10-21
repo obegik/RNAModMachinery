@@ -1,0 +1,52 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q54UI9|Q54UI9_DICDI -          MTS                  PF05175.21   1.9e-08   33.6   0.0   2.9e-08   33.0   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB_G0281053 PE=4 SV=1
+tr|Q54XZ7|Q54XZ7_DICDI -          MTS                  PF05175.21   2.7e-08   33.1   1.5   0.00033   19.8   0.0   2.4   1   1   1   2   2   2   2 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0205497 PE=4 SV=1
+tr|Q54Y42|Q54Y42_DICDI -          MTS                  PF05175.21   1.4e-07   30.7   0.0   1.9e-07   30.4   0.0   1.1   1   0   0   1   1   1   1 Protein-lysine N-methyltransferase DDB0205448 OS=Dictyostelium discoideum OX=44689 GN=DDB0205448 PE=3 SV=1
+sp|Q54HI0|ANM2_DICDI   -          MTS                  PF05175.21   1.2e-06   27.7   0.0   2.5e-06   26.7   0.0   1.5   1   0   0   1   1   1   1 Protein arginine N-methyltransferase 2 OS=Dictyostelium discoideum OX=44689 GN=prmt2 PE=3 SV=1
+tr|Q552E3|Q552E3_DICDI -          MTS                  PF05175.21   1.6e-06   27.3   0.1   2.6e-06   26.6   0.1   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB_G0276237 PE=3 SV=2
+tr|Q54BE9|Q54BE9_DICDI -          MTS                  PF05175.21   2.6e-06   26.6   0.0   0.00055   19.0   0.0   2.4   2   0   0   2   2   2   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0192076 PE=4 SV=1
+tr|Q54DT3|Q54DT3_DICDI -          MTS                  PF05175.21   3.9e-06   26.0   0.0   5.6e-05   22.3   0.0   2.1   2   0   0   2   2   2   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0184184 PE=4 SV=1
+sp|Q8T199|OMT3_DICDI   -          MTS                  PF05175.21   4.6e-06   25.8   0.0   1.1e-05   24.5   0.0   1.6   1   0   0   1   1   1   1 O-methyltransferase 3 OS=Dictyostelium discoideum OX=44689 GN=omt3 PE=2 SV=1
+tr|Q54VE3|Q54VE3_DICDI -          MTS                  PF05175.21   7.6e-06   25.1   0.0   1.1e-05   24.6   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0205190 PE=4 SV=1
+sp|Q86JB0|Y8324_DICDI  -          MTS                  PF05175.21   8.2e-06   25.0   0.0   1.4e-05   24.3   0.0   1.3   1   0   0   1   1   1   1 Putative uncharacterized protein DDB_G0277003 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0277003 PE=4 SV=2
+tr|Q54FL8|Q54FL8_DICDI -          MTS                  PF05175.21     1e-05   24.7   0.0    0.0014   17.8   0.0   2.1   1   1   1   2   2   2   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB_G0290773 PE=4 SV=1
+tr|Q54BE2|Q54BE2_DICDI -          MTS                  PF05175.21   1.2e-05   24.4   0.0   1.8e-05   23.9   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0192084 PE=4 SV=1
+tr|Q54BE3|Q54BE3_DICDI -          MTS                  PF05175.21   1.9e-05   23.8   0.0   3.6e-05   22.9   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0192083 PE=4 SV=1
+tr|Q54QG2|Q54QG2_DICDI -          MTS                  PF05175.21     2e-05   23.7   0.0   3.5e-05   22.9   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0185725 PE=4 SV=1
+sp|Q54EF2|ANM1_DICDI   -          MTS                  PF05175.21   5.4e-05   22.3   0.1   8.8e-05   21.6   0.1   1.3   1   0   0   1   1   1   1 Protein arginine N-methyltransferase 1 OS=Dictyostelium discoideum OX=44689 GN=prmt1 PE=3 SV=1
+tr|Q54UI8|Q54UI8_DICDI -          MTS                  PF05175.21   7.7e-05   21.8   0.0   0.00012   21.2   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0203978 PE=4 SV=1
+sp|Q54WD6|TRM5_DICDI   -          MTS                  PF05175.21   0.00014   21.0   1.9   0.00023   20.3   0.0   2.2   2   0   0   2   2   2   1 tRNA (guanine(37)-N1)-methyltransferase OS=Dictyostelium discoideum OX=44689 GN=trmt5 PE=3 SV=1
+tr|Q54NK9|Q54NK9_DICDI -          MTS                  PF05175.21   0.00023   20.3   0.0   0.00039   19.6   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0218681 PE=4 SV=1
+tr|Q54C42|Q54C42_DICDI -          MTS                  PF05175.21   0.00031   19.9   0.0   0.00072   18.7   0.0   1.6   1   0   0   1   1   1   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0191845 PE=3 SV=1
+tr|Q54PP5|Q54PP5_DICDI -          MTS                  PF05175.21   0.00035   19.7   0.0   0.00065   18.8   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB_G0284401 PE=4 SV=1
+sp|Q54XD0|COQ3_DICDI   -          MTS                  PF05175.21     0.001   18.2   0.0    0.0021   17.2   0.0   1.5   1   0   0   1   1   1   1 Ubiquinone biosynthesis O-methyltransferase, mitochondrial OS=Dictyostelium discoideum OX=44689 GN=coq3 PE=3 SV=1
+tr|Q557I0|Q557I0_DICDI -          MTS                  PF05175.21    0.0012   17.9   0.0    0.0022   17.1   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0168191 PE=4 SV=1
+tr|Q86I59|Q86I59_DICDI -          MTS                  PF05175.21    0.0016   17.6   0.0    0.0033   16.5   0.0   1.6   1   1   0   1   1   1   1 Methyltransferase-like protein OS=Dictyostelium discoideum OX=44689 GN=DDB0167391 PE=3 SV=1
+tr|Q54GQ2|Q54GQ2_DICDI -          MTS                  PF05175.21    0.0016   17.5   0.0    0.0041   16.2   0.0   1.7   1   1   0   1   1   1   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0188678 PE=4 SV=1
+tr|Q55BF7|Q55BF7_DICDI -          MTS                  PF05175.21    0.0018   17.4   0.0    0.0028   16.7   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0202856 PE=4 SV=1
+tr|Q54LN7|Q54LN7_DICDI -          MTS                  PF05175.21    0.0023   17.0   0.0    0.0087   15.1   0.0   1.9   1   1   0   1   1   1   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB_G0286529 PE=4 SV=1
+tr|Q54VU9|Q54VU9_DICDI -          MTS                  PF05175.21    0.0025   16.9   0.2    0.0044   16.1   0.1   1.4   1   1   0   1   1   1   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0206392 PE=4 SV=1
+sp|Q54QK7|DIM1_DICDI   -          MTS                  PF05175.21    0.0026   16.8   0.0    0.0042   16.2   0.0   1.3   1   0   0   1   1   1   1 Probable dimethyladenosine transferase OS=Dictyostelium discoideum OX=44689 GN=dimt1 PE=3 SV=1
+tr|Q55GB9|Q55GB9_DICDI -          MTS                  PF05175.21    0.0029   16.7   0.0     0.015   14.4   0.0   2.0   2   1   1   3   3   3   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0202134 PE=4 SV=1
+tr|Q553T0|Q553T0_DICDI -          MTS                  PF05175.21    0.0034   16.5   0.0    0.0078   15.3   0.0   1.5   1   0   0   1   1   1   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0202574 PE=3 SV=1
+sp|Q86JJ0|TRM61_DICDI  -          MTS                  PF05175.21    0.0052   15.9   0.0     0.011   14.8   0.0   1.5   1   0   0   1   1   1   1 tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit trmt61a OS=Dictyostelium discoideum OX=44689 GN=trmt61a PE=1 SV=1
+sp|Q54CP1|RRP8_DICDI   -          MTS                  PF05175.21    0.0054   15.8   0.0    0.0054   15.8   0.0   2.8   2   2   1   3   3   2   1 Ribosomal RNA-processing protein 8 OS=Dictyostelium discoideum OX=44689 GN=rrp8 PE=3 SV=1
+sp|Q54JW0|NDUF5_DICDI  -          MTS                  PF05175.21    0.0095   15.0   0.4      0.02   13.9   0.2   1.6   1   1   0   1   1   1   1 Arginine-hydroxylase NDUFAF5, mitochondrial OS=Dictyostelium discoideum OX=44689 GN=ndufaf5 PE=1 SV=1
+sp|Q551M3|TRMB_DICDI   -          MTS                  PF05175.21     0.015   14.4   0.0     0.024   13.7   0.0   1.3   1   0   0   1   1   1   0 tRNA (guanine-N(7)-)-methyltransferase OS=Dictyostelium discoideum OX=44689 GN=mettl1 PE=3 SV=1
+tr|Q54LU3|Q54LU3_DICDI -          MTS                  PF05175.21     0.017   14.2   0.0     0.028   13.5   0.0   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0186961 PE=4 SV=1
+sp|Q55DL2|MET18_DICDI  -          MTS                  PF05175.21     0.018   14.1   0.0     0.034   13.2   0.0   1.5   1   0   0   1   1   1   0 Histidine protein methyltransferase 1 homolog OS=Dictyostelium discoideum OX=44689 GN=DDB_G0270580 PE=3 SV=1
+sp|Q9GPS6|PIMT_DICDI   -          MTS                  PF05175.21     0.023   13.8   0.0     0.049   12.7   0.0   1.6   1   1   0   1   1   1   0 Probable protein-L-isoaspartate O-methyltransferase OS=Dictyostelium discoideum OX=44689 GN=pcmA PE=3 SV=1
+tr|Q54CB1|Q54CB1_DICDI -          MTS                  PF05175.21     0.047   12.8   0.3       2.8    7.0   0.0   2.3   1   1   1   2   2   2   0 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB_G0293078 PE=4 SV=1
+tr|Q54UI5|Q54UI5_DICDI -          MTS                  PF05175.21     0.079   12.0   0.0      0.14   11.3   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0203981 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MTS.hmm
+# Target file:     proteomes/Dictyostelium_discoideum.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MTS/Dictyostelium_discoideum.tblout --cpu 8 pfam_list/MTS.hmm proteomes/Dictyostelium_discoideum.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:05:56 2025
+# [ok]

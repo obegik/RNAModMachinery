@@ -1,0 +1,62 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1X7UGH0|A0A1X7UGH0_AMPQE -          FtsJ                 PF01728.26     9e-55  186.6   0.3   3.7e-54  184.6   0.0   2.1   2   0   0   2   2   2   1 Putative rRNA methyltransferase OS=Amphimedon queenslandica OX=400682 PE=3 SV=1
+tr|A0A1X7VH51|A0A1X7VH51_AMPQE -          FtsJ                 PF01728.26   5.6e-46  158.0   0.4   2.9e-41  142.6   0.0   2.1   2   0   0   2   2   2   2 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=3 SV=1
+tr|A0A1X7VWF7|A0A1X7VWF7_AMPQE -          FtsJ                 PF01728.26   5.3e-37  128.7   0.0   7.9e-23   82.6   0.0   2.4   2   0   0   2   2   2   2 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7UTB4|A0A1X7UTB4_AMPQE -          FtsJ                 PF01728.26   5.8e-31  109.1   0.1   2.2e-25   90.9   0.0   2.4   1   1   1   2   2   2   2 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7TEB8|A0A1X7TEB8_AMPQE -          FtsJ                 PF01728.26   3.4e-30  106.6   0.0   6.2e-30  105.7   0.0   1.4   2   0   0   2   2   1   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7U3D7|A0A1X7U3D7_AMPQE -          FtsJ                 PF01728.26   7.4e-20   72.9   0.2   7.6e-19   69.6   0.1   2.0   1   1   1   2   2   2   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7UYS3|A0A1X7UYS3_AMPQE -          FtsJ                 PF01728.26   7.8e-18   66.3   0.0   1.1e-17   65.7   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7T085|A0A1X7T085_AMPQE -          FtsJ                 PF01728.26   1.3e-17   65.5   0.1   3.9e-17   64.0   0.1   1.8   1   1   0   1   1   1   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7UZ48|A0A1X7UZ48_AMPQE -          FtsJ                 PF01728.26   1.5e-07   32.8   0.1   3.1e-07   31.8   0.1   1.5   1   1   0   1   1   1   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7UYX8|A0A1X7UYX8_AMPQE -          FtsJ                 PF01728.26   1.4e-06   29.6   0.1   2.9e-06   28.6   0.1   1.4   1   1   0   1   1   1   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7VHW4|A0A1X7VHW4_AMPQE -          FtsJ                 PF01728.26   1.8e-06   29.3   0.0     1e-05   26.8   0.0   1.9   1   1   1   2   2   2   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7VEF1|A0A1X7VEF1_AMPQE -          FtsJ                 PF01728.26   1.9e-06   29.2   0.0   5.1e-06   27.8   0.0   1.8   1   1   0   1   1   1   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7V2C8|A0A1X7V2C8_AMPQE -          FtsJ                 PF01728.26   4.3e-06   28.0   0.0   6.7e-05   24.1   0.0   2.2   1   1   0   1   1   1   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7V969|A0A1X7V969_AMPQE -          FtsJ                 PF01728.26   5.1e-06   27.8   0.0   1.2e-05   26.6   0.0   1.7   1   1   0   1   1   1   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7VNG7|A0A1X7VNG7_AMPQE -          FtsJ                 PF01728.26   9.7e-06   26.9   0.1   1.9e-05   25.9   0.1   1.5   1   1   0   1   1   1   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7U4E3|A0A1X7U4E3_AMPQE -          FtsJ                 PF01728.26   2.9e-05   25.3   0.0   3.8e-05   24.9   0.0   1.3   1   1   0   1   1   1   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7SEZ0|A0A1X7SEZ0_AMPQE -          FtsJ                 PF01728.26   4.2e-05   24.8   0.0   5.5e-05   24.4   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=3 SV=1
+tr|A0A1X7VC62|A0A1X7VC62_AMPQE -          FtsJ                 PF01728.26   7.5e-05   24.0   0.0   0.00019   22.6   0.0   1.6   1   0   0   1   1   1   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=3 SV=1
+tr|A0A1X7U4M3|A0A1X7U4M3_AMPQE -          FtsJ                 PF01728.26   7.7e-05   23.9   0.1    0.0001   23.5   0.1   1.4   1   1   0   1   1   1   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7SQ64|A0A1X7SQ64_AMPQE -          FtsJ                 PF01728.26   0.00022   22.4   0.0   0.00024   22.3   0.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7U8T1|A0A1X7U8T1_AMPQE -          FtsJ                 PF01728.26   0.00028   22.1   0.0   0.00057   21.1   0.0   1.5   1   0   0   1   1   1   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=3 SV=1
+tr|A0A1X7UT69|A0A1X7UT69_AMPQE -          FtsJ                 PF01728.26   0.00035   21.8   0.0    0.0005   21.3   0.0   1.4   1   1   0   1   1   1   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7TPE8|A0A1X7TPE8_AMPQE -          FtsJ                 PF01728.26   0.00042   21.5   0.3    0.0017   19.5   0.0   2.1   2   0   0   2   2   2   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=3 SV=1
+tr|A0A1X7THH7|A0A1X7THH7_AMPQE -          FtsJ                 PF01728.26   0.00044   21.5   0.0    0.0015   19.7   0.0   1.9   1   0   0   1   1   1   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=3 SV=1
+tr|A0A1X7VJI0|A0A1X7VJI0_AMPQE -          FtsJ                 PF01728.26   0.00058   21.1   0.1    0.0014   19.8   0.1   1.9   1   1   0   1   1   1   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7TQI1|A0A1X7TQI1_AMPQE -          FtsJ                 PF01728.26   0.00088   20.5   0.0    0.0049   18.1   0.0   2.0   1   1   0   1   1   1   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7TQB9|A0A1X7TQB9_AMPQE -          FtsJ                 PF01728.26   0.00094   20.4   0.0     0.005   18.0   0.0   2.0   1   1   0   1   1   1   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7TQ01|A0A1X7TQ01_AMPQE -          FtsJ                 PF01728.26    0.0011   20.2   0.0    0.0062   17.7   0.0   2.0   1   1   0   1   1   1   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7UG12|A0A1X7UG12_AMPQE -          FtsJ                 PF01728.26    0.0012   20.0   0.0    0.0027   18.9   0.0   1.5   1   0   0   1   1   1   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=3 SV=1
+tr|A0A1X7TZT1|A0A1X7TZT1_AMPQE -          FtsJ                 PF01728.26    0.0013   19.9   0.0    0.0018   19.5   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7V1B6|A0A1X7V1B6_AMPQE -          FtsJ                 PF01728.26    0.0015   19.7   0.0      0.77   10.9   0.0   2.7   2   0   0   2   2   2   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7V4K8|A0A1X7V4K8_AMPQE -          FtsJ                 PF01728.26     0.002   19.3   0.0    0.0068   17.6   0.0   1.9   2   0   0   2   2   1   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=3 SV=1
+tr|A0A1X7VHW0|A0A1X7VHW0_AMPQE -          FtsJ                 PF01728.26    0.0044   18.2   0.0    0.0077   17.4   0.0   1.6   1   1   0   1   1   1   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7UAH5|A0A1X7UAH5_AMPQE -          FtsJ                 PF01728.26    0.0057   17.8   0.0    0.0095   17.1   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=3 SV=1
+tr|A0A1X7TED2|A0A1X7TED2_AMPQE -          FtsJ                 PF01728.26      0.01   17.0   0.0     0.015   16.4   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7VKX0|A0A1X7VKX0_AMPQE -          FtsJ                 PF01728.26     0.016   16.4   0.0     0.031   15.4   0.0   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=3 SV=1
+tr|A0A1X7VTI4|A0A1X7VTI4_AMPQE -          FtsJ                 PF01728.26     0.017   16.3   0.0     0.026   15.7   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7TGD9|A0A1X7TGD9_AMPQE -          FtsJ                 PF01728.26     0.023   15.9   0.0     0.033   15.4   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=3 SV=1
+tr|A0A1X7UY60|A0A1X7UY60_AMPQE -          FtsJ                 PF01728.26      0.06   14.5   0.0     0.082   14.1   0.0   1.3   1   0   0   1   1   1   0 Protein-L-isoaspartate O-methyltransferase OS=Amphimedon queenslandica OX=400682 PE=3 SV=1
+tr|A0A1X7U0X0|A0A1X7U0X0_AMPQE -          FtsJ                 PF01728.26     0.071   14.3   0.0      0.16   13.1   0.0   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7VCI4|A0A1X7VCI4_AMPQE -          FtsJ                 PF01728.26     0.091   13.9   0.0      0.14   13.3   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7V9P7|A0A1X7V9P7_AMPQE -          FtsJ                 PF01728.26       0.1   13.7   0.0      0.11   13.6   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7U173|A0A1X7U173_AMPQE -          FtsJ                 PF01728.26      0.11   13.7   0.0      0.21   12.8   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=3 SV=1
+tr|A0A1X7UNT6|A0A1X7UNT6_AMPQE -          FtsJ                 PF01728.26      0.11   13.6   0.0       0.2   12.8   0.0   1.4   1   1   0   1   1   1   0 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7TZC3|A0A1X7TZC3_AMPQE -          FtsJ                 PF01728.26      0.17   13.0   0.0      0.43   11.7   0.0   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7UJ04|A0A1X7UJ04_AMPQE -          FtsJ                 PF01728.26      0.19   12.9   0.0      0.29   12.3   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7VLN2|A0A1X7VLN2_AMPQE -          FtsJ                 PF01728.26      0.19   12.9   0.0      0.34   12.1   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7UPH9|A0A1X7UPH9_AMPQE -          FtsJ                 PF01728.26      0.27   12.4   0.0      0.49   11.5   0.0   1.4   1   1   0   1   1   1   0 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7UYG5|A0A1X7UYG5_AMPQE -          FtsJ                 PF01728.26      0.53   11.4   0.0       1.1   10.4   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/FtsJ.hmm
+# Target file:     proteomes/Amphimedon_queenslandica.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/FtsJ/Amphimedon_queenslandica.tblout --cpu 8 pfam_list/FtsJ.hmm proteomes/Amphimedon_queenslandica.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:53 2025
+# [ok]

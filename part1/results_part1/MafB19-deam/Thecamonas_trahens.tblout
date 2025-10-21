@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A0L0DD87|A0A0L0DD87_THETB -          MafB19-deam          PF14437.13     3e-18   65.3   0.0   3.3e-18   65.1   0.0   1.1   1   0   0   1   1   1   1 Cytosine deaminase OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_06315 PE=4 SV=1
+tr|A0A0L0DFZ0|A0A0L0DFZ0_THETB -          MafB19-deam          PF14437.13   1.4e-08   34.0   0.0   2.6e-08   33.1   0.0   1.4   1   0   0   1   1   1   1 N-acyl-D-amino-acid deacylase OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_07265 PE=4 SV=1
+tr|A0A0L0DPM9|A0A0L0DPM9_THETB -          MafB19-deam          PF14437.13   2.9e-08   32.9   0.1     7e-08   31.7   0.1   1.5   1   0   0   1   1   1   1 GTP cyclohydrolase II/3,4-dihydroxy-2-butanone 4-phosphate synthase OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_10048 PE=3 SV=1
+tr|A0A0L0D6C0|A0A0L0D6C0_THETB -          MafB19-deam          PF14437.13   2.1e-05   23.6   0.0   3.5e-05   22.9   0.0   1.4   1   0   0   1   1   1   1 CMP/dCMP-type deaminase domain-containing protein OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_04130 PE=4 SV=1
+tr|A0A0L0DTJ6|A0A0L0DTJ6_THETB -          MafB19-deam          PF14437.13    0.0027   16.8   0.2    0.0045   16.1   0.2   1.3   1   0   0   1   1   1   1 CMP/dCMP-type deaminase domain-containing protein OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_01640 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MafB19-deam.hmm
+# Target file:     proteomes/Thecamonas_trahens.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MafB19-deam/Thecamonas_trahens.tblout --cpu 8 pfam_list/MafB19-deam.hmm proteomes/Thecamonas_trahens.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:09:26 2025
+# [ok]

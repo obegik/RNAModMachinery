@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A2DXE8|A2DXE8_TRIVA -          Fibrillarin          PF01269.24   2.3e-97  326.0   0.0   2.7e-97  325.8   0.0   1.0   1   0   0   1   1   1   1 Fibrillarin, putative OS=Trichomonas vaginalis OX=5722 GN=TVAG_380100 PE=3 SV=1
+tr|A2E9S9|A2E9S9_TRIVA -          Fibrillarin          PF01269.24   3.2e-94  315.8   0.0   3.8e-94  315.5   0.0   1.0   1   0   0   1   1   1   1 Fibrillarin, putative OS=Trichomonas vaginalis OX=5722 GN=TVAG_282140 PE=3 SV=1
+tr|A2DG79|A2DG79_TRIVA -          Fibrillarin          PF01269.24     0.011   16.3   0.0     0.037   14.6   0.0   1.8   1   0   0   1   1   1   0 Uncharacterized protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_164020 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Fibrillarin.hmm
+# Target file:     proteomes/Trichomonas_vaginalis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Fibrillarin/Trichomonas_vaginalis.tblout --cpu 8 pfam_list/Fibrillarin.hmm proteomes/Trichomonas_vaginalis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:45 2025
+# [ok]

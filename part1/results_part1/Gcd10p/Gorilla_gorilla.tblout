@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|G3QZT5|G3QZT5_GORGO -          Gcd10p               PF04189.19   6.7e-76  255.5   1.6     8e-76  255.2   0.8   1.5   1   1   1   2   2   2   1 tRNA (adenine(58)-N(1))-methyltransferase non-catalytic subunit TRM6 OS=Gorilla gorilla gorilla OX=9595 GN=TRMT6 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Gcd10p.hmm
+# Target file:     proteomes/Gorilla_gorilla.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Gcd10p/Gorilla_gorilla.tblout --cpu 8 pfam_list/Gcd10p.hmm proteomes/Gorilla_gorilla.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:32 2025
+# [ok]

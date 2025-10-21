@@ -1,0 +1,79 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|W4YQG0|W4YQG0_STRPU -          MTS                  PF05175.21     1e-12   48.6   0.0   1.4e-12   48.2   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4Y7A2|W4Y7A2_STRPU -          MTS                  PF05175.21   5.4e-12   46.3   0.0   8.7e-05   22.8   0.0   2.5   2   0   0   2   2   2   2 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+tr|W4Y6Z0|W4Y6Z0_STRPU -          MTS                  PF05175.21   1.1e-10   42.0   0.0   1.9e-09   38.0   0.0   2.0   2   0   0   2   2   2   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4ZFV8|W4ZFV8_STRPU -          MTS                  PF05175.21   1.3e-09   38.5   0.0   2.3e-09   37.7   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4YT52|W4YT52_STRPU -          MTS                  PF05175.21     3e-09   37.3   0.1     7e-07   29.6   0.1   3.1   1   1   1   2   2   2   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4Z0W7|W4Z0W7_STRPU -          MTS                  PF05175.21     3e-08   34.1   0.0     5e-08   33.4   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4YIM5|W4YIM5_STRPU -          MTS                  PF05175.21   3.5e-08   33.8   0.0   5.6e-08   33.2   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+tr|W4YRU1|W4YRU1_STRPU -          MTS                  PF05175.21   6.9e-08   32.9   0.0   1.8e-07   31.5   0.0   1.6   1   1   1   2   2   2   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4XTJ8|W4XTJ8_STRPU -          MTS                  PF05175.21   1.4e-07   31.9   0.0   3.5e-07   30.6   0.0   1.6   1   1   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4XUV2|W4XUV2_STRPU -          MTS                  PF05175.21   1.9e-07   31.4   0.0   2.5e-07   31.0   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4YBQ4|W4YBQ4_STRPU -          MTS                  PF05175.21   5.7e-07   29.9   0.0     1e-06   29.1   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+tr|W4YWL7|W4YWL7_STRPU -          MTS                  PF05175.21   6.7e-07   29.7   0.0     1e-06   29.1   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4ZBP9|W4ZBP9_STRPU -          MTS                  PF05175.21     1e-06   29.1   0.0   2.1e-06   28.1   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+tr|W4ZHD1|W4ZHD1_STRPU -          MTS                  PF05175.21   1.1e-06   29.0   0.0   1.5e-06   28.5   0.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4Y175|W4Y175_STRPU -          MTS                  PF05175.21   2.4e-06   27.9   0.0   4.3e-06   27.1   0.0   1.4   1   0   0   1   1   1   1 Methyltransferase-like protein OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+tr|W4XJA0|W4XJA0_STRPU -          MTS                  PF05175.21   2.7e-06   27.7   0.0   4.7e-06   26.9   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4Y8W7|W4Y8W7_STRPU -          MTS                  PF05175.21   5.9e-06   26.6   0.0   1.1e-05   25.7   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4Z4G8|W4Z4G8_STRPU -          MTS                  PF05175.21   1.9e-05   25.0   0.1   2.9e-05   24.3   0.1   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+tr|W4YER5|W4YER5_STRPU -          MTS                  PF05175.21   2.3e-05   24.7   0.0      0.32   11.2   0.0   2.4   2   0   0   2   2   2   2 tRNA (guanine(37)-N1)-methyltransferase OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+tr|W4YGJ0|W4YGJ0_STRPU -          MTS                  PF05175.21   2.8e-05   24.4   0.0   4.7e-05   23.7   0.0   1.5   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4XDE9|W4XDE9_STRPU -          MTS                  PF05175.21   6.4e-05   23.2   0.0   0.00026   21.3   0.0   1.9   2   0   0   2   2   2   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4XE58|W4XE58_STRPU -          MTS                  PF05175.21    0.0001   22.6   0.0   0.00021   21.5   0.0   1.5   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4Y7K6|W4Y7K6_STRPU -          MTS                  PF05175.21   0.00011   22.4   0.0   0.00019   21.7   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+tr|W4XH28|W4XH28_STRPU -          MTS                  PF05175.21   0.00016   21.9   0.0   0.00023   21.4   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4XZA2|W4XZA2_STRPU -          MTS                  PF05175.21   0.00025   21.3   0.0   0.00043   20.5   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4Z4G0|W4Z4G0_STRPU -          MTS                  PF05175.21   0.00045   20.5   0.0   0.00082   19.6   0.0   1.3   1   0   0   1   1   1   1 Ubiquinone biosynthesis O-methyltransferase, mitochondrial OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+tr|W4Z1N1|W4Z1N1_STRPU -          MTS                  PF05175.21   0.00055   20.2   0.0   0.00075   19.7   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4ZK94|W4ZK94_STRPU -          MTS                  PF05175.21   0.00056   20.2   0.0      0.12   12.5   0.0   2.2   1   1   1   2   2   2   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4ZG91|W4ZG91_STRPU -          MTS                  PF05175.21   0.00058   20.1   0.0   0.00094   19.4   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4YGN5|W4YGN5_STRPU -          MTS                  PF05175.21   0.00062   20.0   0.0     0.002   18.3   0.0   1.8   1   1   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4Z9L9|W4Z9L9_STRPU -          MTS                  PF05175.21   0.00063   20.0   0.0   0.00099   19.4   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4Y9T3|W4Y9T3_STRPU -          MTS                  PF05175.21   0.00075   19.7   0.0    0.0012   19.0   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4YYK4|W4YYK4_STRPU -          MTS                  PF05175.21     0.001   19.3   0.0    0.0073   16.5   0.0   2.0   2   0   0   2   2   2   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4YGK2|W4YGK2_STRPU -          MTS                  PF05175.21    0.0013   19.0   0.0    0.0025   18.0   0.0   1.5   1   1   0   1   1   1   1 Protein-L-isoaspartate O-methyltransferase OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+tr|W4XZQ6|W4XZQ6_STRPU -          MTS                  PF05175.21    0.0014   18.9   0.0     0.005   17.1   0.0   1.8   2   1   0   2   2   1   1 tRNA (guanine-N(7)-)-methyltransferase OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+tr|W4YFA7|W4YFA7_STRPU -          MTS                  PF05175.21    0.0016   18.6   0.0    0.0036   17.5   0.0   1.5   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4XAG3|W4XAG3_STRPU -          MTS                  PF05175.21     0.002   18.4   0.0    0.0049   17.1   0.0   1.7   1   1   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+tr|W4XYP7|W4XYP7_STRPU -          MTS                  PF05175.21     0.002   18.3   0.0    0.0036   17.5   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4YZK8|W4YZK8_STRPU -          MTS                  PF05175.21    0.0036   17.5   0.0    0.0061   16.8   0.0   1.4   1   1   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4XRJ4|W4XRJ4_STRPU -          MTS                  PF05175.21    0.0037   17.5   0.0     0.011   15.9   0.0   1.9   1   1   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+tr|W4Y3I4|W4Y3I4_STRPU -          MTS                  PF05175.21     0.004   17.4   0.0     0.006   16.8   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4ZB29|W4ZB29_STRPU -          MTS                  PF05175.21    0.0045   17.2   0.0    0.0078   16.4   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4Z3Y5|W4Z3Y5_STRPU -          MTS                  PF05175.21    0.0047   17.2   0.0    0.0091   16.2   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4YQK3|W4YQK3_STRPU -          MTS                  PF05175.21    0.0048   17.1   0.0    0.0052   17.0   0.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4YG90|W4YG90_STRPU -          MTS                  PF05175.21    0.0048   17.1   0.0    0.0089   16.3   0.0   1.4   1   0   0   1   1   1   1 rRNA adenine N(6)-methyltransferase OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+tr|W4Z3W2|W4Z3W2_STRPU -          MTS                  PF05175.21    0.0051   17.0   0.0      0.01   16.1   0.0   1.5   1   0   0   1   1   1   1 Methyltransferase-like protein OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+tr|W4Y0S2|W4Y0S2_STRPU -          MTS                  PF05175.21    0.0061   16.8   0.0     0.014   15.7   0.0   1.5   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4XPI8|W4XPI8_STRPU -          MTS                  PF05175.21    0.0091   16.2   0.2     0.023   14.9   0.0   1.9   2   1   0   2   2   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+tr|W4XXT3|W4XXT3_STRPU -          MTS                  PF05175.21     0.012   15.9   0.0     0.021   15.1   0.0   1.4   1   1   0   1   1   1   0 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4ZJS9|W4ZJS9_STRPU -          MTS                  PF05175.21     0.017   15.4   0.0     0.026   14.8   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4ZH98|W4ZH98_STRPU -          MTS                  PF05175.21     0.018   15.3   0.0     0.034   14.4   0.0   1.5   1   1   0   1   1   1   0 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+tr|W4YTC8|W4YTC8_STRPU -          MTS                  PF05175.21     0.023   14.9   0.0      0.04   14.1   0.0   1.3   1   0   0   1   1   1   0 tRNA (guanine-N(7)-)-methyltransferase OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+tr|W4YGZ8|W4YGZ8_STRPU -          MTS                  PF05175.21     0.026   14.7   0.0     0.046   13.9   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4XS91|W4XS91_STRPU -          MTS                  PF05175.21     0.034   14.4   0.0      0.05   13.8   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4XST1|W4XST1_STRPU -          MTS                  PF05175.21     0.044   14.0   0.1     0.061   13.5   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4YD96|W4YD96_STRPU -          MTS                  PF05175.21      0.06   13.6   0.0      0.56   10.4   0.0   2.1   1   1   0   1   1   1   0 mRNA cap guanine-N7 methyltransferase OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+tr|W4YE82|W4YE82_STRPU -          MTS                  PF05175.21     0.064   13.5   0.1      0.15   12.3   0.1   1.5   1   0   0   1   1   1   0 Protein arginine N-methyltransferase OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+tr|W4XWG5|W4XWG5_STRPU -          MTS                  PF05175.21     0.074   13.3   0.0      0.12   12.6   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4XJA6|W4XJA6_STRPU -          MTS                  PF05175.21     0.085   13.1   0.0      0.15   12.3   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4XAG5|W4XAG5_STRPU -          MTS                  PF05175.21      0.11   12.7   0.0      0.28   11.4   0.0   1.6   1   1   0   1   1   1   0 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4Y0K5|W4Y0K5_STRPU -          MTS                  PF05175.21      0.12   12.6   0.0      0.27   11.4   0.0   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4YGZ9|W4YGZ9_STRPU -          MTS                  PF05175.21      0.12   12.5   0.0      0.23   11.7   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4Z5B8|W4Z5B8_STRPU -          MTS                  PF05175.21      0.13   12.5   0.0      0.21   11.8   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4Y0B0|W4Y0B0_STRPU -          MTS                  PF05175.21      0.21   11.8   0.0      0.33   11.1   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4ZE82|W4ZE82_STRPU -          MTS                  PF05175.21      0.21   11.8   0.0       0.4   10.9   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4XQ78|W4XQ78_STRPU -          MTS                  PF05175.21      0.27   11.4   0.0      0.46   10.7   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MTS.hmm
+# Target file:     proteomes/Strongylocentrotus_purpuratus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MTS/Strongylocentrotus_purpuratus.tblout --cpu 8 pfam_list/MTS.hmm proteomes/Strongylocentrotus_purpuratus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:05:59 2025
+# [ok]

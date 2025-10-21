@@ -1,0 +1,26 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|G3RU33|G3RU33_GORGO         -          Methyltr_RsmB-F      PF01189.24   3.2e-80  268.8   0.0   5.5e-80  268.0   0.0   1.4   1   0   0   1   1   1   1 Nucleolar protein 1 OS=Gorilla gorilla gorilla OX=9595 GN=NOP2 PE=3 SV=2
+tr|G3R1M9|G3R1M9_GORGO         -          Methyltr_RsmB-F      PF01189.24   2.2e-45  155.0   0.0   3.5e-45  154.4   0.0   1.4   1   0   0   1   1   1   1 NOP2/Sun RNA methyltransferase 6 OS=Gorilla gorilla gorilla OX=9595 GN=NSUN6 PE=3 SV=1
+tr|A0A2I2Z719|A0A2I2Z719_GORGO -          Methyltr_RsmB-F      PF01189.24   2.7e-38  131.9   0.0   1.1e-34  120.1   0.0   2.3   2   0   0   2   2   2   2 tRNA (cytosine(34)-C(5))-methyltransferase OS=Gorilla gorilla gorilla OX=9595 GN=NSUN2 PE=3 SV=1
+tr|G3RBS6|G3RBS6_GORGO         -          Methyltr_RsmB-F      PF01189.24   4.4e-32  111.6   0.0   6.3e-32  111.1   0.0   1.2   1   0   0   1   1   1   1 NOP2/Sun RNA methyltransferase 3 OS=Gorilla gorilla gorilla OX=9595 GN=NSUN3 PE=3 SV=1
+tr|G3R7U5|G3R7U5_GORGO         -          Methyltr_RsmB-F      PF01189.24   1.1e-27   97.3   0.0   1.8e-27   96.6   0.0   1.4   1   0   0   1   1   1   1 28S rRNA (cytosine-C(5))-methyltransferase OS=Gorilla gorilla gorilla OX=9595 GN=NSUN5 PE=3 SV=2
+tr|G3RI68|G3RI68_GORGO         -          Methyltr_RsmB-F      PF01189.24   2.1e-27   96.4   0.0   3.6e-27   95.6   0.0   1.4   1   0   0   1   1   1   1 28S rRNA (cytosine-C(5))-methyltransferase OS=Gorilla gorilla gorilla OX=9595 GN=LOC101131844 PE=3 SV=3
+tr|G3RAN2|G3RAN2_GORGO         -          Methyltr_RsmB-F      PF01189.24   9.7e-17   61.5   0.0   1.5e-16   60.9   0.0   1.2   1   0   0   1   1   1   1 5-cytosine rRNA methyltransferase NSUN4 OS=Gorilla gorilla gorilla OX=9595 GN=NSUN4 PE=3 SV=1
+tr|G3SKV6|G3SKV6_GORGO         -          Methyltr_RsmB-F      PF01189.24   8.3e-09   35.6   0.3     3e-08   33.8   0.3   1.9   1   1   0   1   1   1   1 NOP2/Sun RNA methyltransferase family member 7 OS=Gorilla gorilla gorilla OX=9595 GN=NSUN7 PE=3 SV=2
+tr|A0A2I2Z3W5|A0A2I2Z3W5_GORGO -          Methyltr_RsmB-F      PF01189.24    0.0003   20.8   0.0    0.0025   17.8   0.0   2.1   2   0   0   2   2   2   1 Methyltransferase like 15 OS=Gorilla gorilla gorilla OX=9595 PE=4 SV=1
+tr|A0A2I2Z3W6|A0A2I2Z3W6_GORGO -          Methyltr_RsmB-F      PF01189.24     0.081   12.8   0.0     0.082   12.8   0.0   1.0   1   0   0   1   1   1   0 GST N-terminal domain-containing protein OS=Gorilla gorilla gorilla OX=9595 PE=4 SV=1
+tr|G3RZC3|G3RZC3_GORGO         -          Methyltr_RsmB-F      PF01189.24     0.084   12.8   0.0      0.15   12.0   0.0   1.4   1   0   0   1   1   1   0 Fibrillarin OS=Gorilla gorilla gorilla OX=9595 GN=FBL PE=3 SV=1
+tr|G3RG30|G3RG30_GORGO         -          Methyltr_RsmB-F      PF01189.24      0.11   12.4   0.0      0.18   11.7   0.0   1.2   1   0   0   1   1   1   0 peptide chain release factor N(5)-glutamine methyltransferase OS=Gorilla gorilla gorilla OX=9595 GN=HEMK1 PE=4 SV=1
+tr|G3SK06|G3SK06_GORGO         -          Methyltr_RsmB-F      PF01189.24      0.21   11.5   0.0       0.9    9.4   0.0   1.8   1   1   1   2   2   2   0 Putative tRNA (cytidine(32)/guanosine(34)-2'-O)-methyltransferase OS=Gorilla gorilla gorilla OX=9595 GN=FTSJ1 PE=3 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltr_RsmB-F.hmm
+# Target file:     proteomes/Gorilla_gorilla.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltr_RsmB-F/Gorilla_gorilla.tblout --cpu 8 pfam_list/Methyltr_RsmB-F.hmm proteomes/Gorilla_gorilla.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:10:14 2025
+# [ok]

@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A8V0YXQ6|A0A8V0YXQ6_CHICK -          AdoMet_MTase         PF07757.19   3.4e-31  107.9   0.1   7.4e-31  106.8   0.1   1.6   1   0   0   1   1   1   1 tRNA (uracil-O(2)-)-methyltransferase OS=Gallus gallus OX=9031 GN=TRMT44 PE=3 SV=1
+tr|A0A8V0ZTC5|A0A8V0ZTC5_CHICK -          AdoMet_MTase         PF07757.19      0.15   12.3   0.0      0.25   11.6   0.0   1.4   1   0   0   1   1   1   0 Methyltransferase-like protein 5 OS=Gallus gallus OX=9031 GN=METTL5 PE=3 SV=1
+tr|A0A8V0Z8I0|A0A8V0Z8I0_CHICK -          AdoMet_MTase         PF07757.19      0.16   12.3   0.1       1.7    8.9   0.0   2.2   1   1   1   2   2   2   0 Glycine N-methyltransferase OS=Gallus gallus OX=9031 GN=GNMT PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/AdoMet_Mtase.hmm
+# Target file:     proteomes/Gallus_gallus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/AdoMet_Mtase/Gallus_gallus.tblout --cpu 8 pfam_list/AdoMet_Mtase.hmm proteomes/Gallus_gallus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:43 2025
+# [ok]

@@ -1,0 +1,24 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|M1XTZ7|M1XTZ7_NATM8 -          FtsJ                 PF01728.26   1.6e-55  185.1   0.0   1.9e-55  184.9   0.0   1.1   1   0   0   1   1   1   1 Ribosomal RNA large subunit methyltransferase E OS=Natronomonas moolapensis (strain DSM 18674 / JCM 14361 / 8.8.11) OX=268739 GN=rlmE PE=3 SV=1
+tr|M1XPJ5|M1XPJ5_NATM8 -          FtsJ                 PF01728.26   3.9e-07   27.5   0.0   5.6e-07   27.0   0.0   1.1   1   0   0   1   1   1   1 tRNA/rRNA cytosine-C5-methylase OS=Natronomonas moolapensis (strain DSM 18674 / JCM 14361 / 8.8.11) OX=268739 GN=cna PE=3 SV=1
+tr|M1XNA3|M1XNA3_NATM8 -          FtsJ                 PF01728.26   3.4e-06   24.4   0.0   4.5e-06   24.0   0.0   1.2   1   0   0   1   1   1   1 Probable demethylmenaquinone methyltransferase OS=Natronomonas moolapensis (strain DSM 18674 / JCM 14361 / 8.8.11) OX=268739 GN=menG PE=4 SV=1
+tr|M1XS10|M1XS10_NATM8 -          FtsJ                 PF01728.26   1.2e-05   22.7   0.0   1.7e-05   22.1   0.0   1.2   1   0   0   1   1   1   1 Probable rRNA methyltransferase OS=Natronomonas moolapensis (strain DSM 18674 / JCM 14361 / 8.8.11) OX=268739 GN=Nmlp_2884 PE=4 SV=1
+tr|M1XP07|M1XP07_NATM8 -          FtsJ                 PF01728.26   1.8e-05   22.1   0.0   0.00019   18.7   0.0   2.0   2   0   0   2   2   2   1 Probable S-adenosylmethionine-dependent methyltransferase (Homolog to 24-sterol C-methyltransferase) OS=Natronomonas moolapensis (strain DSM 18674 / JCM 14361 / 8.8.11) OX=268739 GN=Nmlp_1536 PE=4 SV=1
+tr|M1XL08|M1XL08_NATM8 -          FtsJ                 PF01728.26   3.9e-05   21.0   0.0   6.8e-05   20.2   0.0   1.4   1   0   0   1   1   1   1 Probable arsenite(III)-methyltransferase OS=Natronomonas moolapensis (strain DSM 18674 / JCM 14361 / 8.8.11) OX=268739 GN=arsM PE=4 SV=1
+tr|M1Y1P2|M1Y1P2_NATM8 -          FtsJ                 PF01728.26   0.00017   18.9   0.0   0.00037   17.8   0.0   1.6   2   0   0   2   2   2   1 Probable S-adenosylmethionine-dependent methyltransferase OS=Natronomonas moolapensis (strain DSM 18674 / JCM 14361 / 8.8.11) OX=268739 GN=Nmlp_2220 PE=4 SV=1
+tr|M1XLC7|M1XLC7_NATM8 -          FtsJ                 PF01728.26   0.00032   18.0   0.1   0.00045   17.5   0.1   1.3   1   0   0   1   1   1   1 Probable S-adenosylmethionine-dependent methyltransferase OS=Natronomonas moolapensis (strain DSM 18674 / JCM 14361 / 8.8.11) OX=268739 GN=Nmlp_3352 PE=4 SV=1
+tr|M1XTN7|M1XTN7_NATM8 -          FtsJ                 PF01728.26    0.0009   16.5   0.1    0.0015   15.9   0.1   1.3   1   0   0   1   1   1   1 Probable S-adenosylmethionine-dependent methyltransferase OS=Natronomonas moolapensis (strain DSM 18674 / JCM 14361 / 8.8.11) OX=268739 GN=Nmlp_3689 PE=4 SV=1
+tr|M1Y4D2|M1Y4D2_NATM8 -          FtsJ                 PF01728.26    0.0013   16.1   0.0    0.0018   15.6   0.0   1.2   1   0   0   1   1   1   1 Probable S-adenosylmethionine-dependent methyltransferase OS=Natronomonas moolapensis (strain DSM 18674 / JCM 14361 / 8.8.11) OX=268739 GN=Nmlp_3247 PE=4 SV=1
+tr|M1XNP7|M1XNP7_NATM8 -          FtsJ                 PF01728.26    0.0014   15.9   0.0    0.0018   15.5   0.0   1.2   1   0   0   1   1   1   1 Probable S-adenosylmethionine-dependent methyltransferase OS=Natronomonas moolapensis (strain DSM 18674 / JCM 14361 / 8.8.11) OX=268739 GN=Nmlp_1349 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/FtsJ.hmm
+# Target file:     proteomes/Natronomonas_moolapensis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/FtsJ/Natronomonas_moolapensis.tblout --cpu 8 pfam_list/FtsJ.hmm proteomes/Natronomonas_moolapensis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:57 2025
+# [ok]

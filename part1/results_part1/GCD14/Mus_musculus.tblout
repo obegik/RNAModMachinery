@@ -1,0 +1,21 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q80XC2|TRM61_MOUSE -          GCD14                PF08704.17  1.7e-111  372.1   0.5  1.8e-110  368.8   0.5   1.9   1   1   0   1   1   1   1 tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRMT61A OS=Mus musculus OX=10090 GN=Trmt61a PE=1 SV=1
+sp|P35550|FBRL_MOUSE  -          GCD14                PF08704.17   0.00019   21.5   0.0   0.00027   21.0   0.0   1.2   1   0   0   1   1   1   1 rRNA 2'-O-methyltransferase fibrillarin OS=Mus musculus OX=10090 GN=Fbl PE=1 SV=2
+sp|Q80WS3|FBLL1_MOUSE -          GCD14                PF08704.17    0.0019   18.2   0.0    0.0028   17.6   0.0   1.2   1   0   0   1   1   1   1 rRNA/tRNA 2'-O-methyltransferase fibrillarin-like protein 1 OS=Mus musculus OX=10090 GN=Fbll1 PE=1 SV=1
+sp|P59913|PCMD1_MOUSE -          GCD14                PF08704.17    0.0044   17.0   0.0     0.015   15.3   0.0   1.7   2   0   0   2   2   2   1 Protein-L-isoaspartate O-methyltransferase domain-containing protein 1 OS=Mus musculus OX=10090 GN=Pcmtd1 PE=1 SV=1
+sp|P23506|PIMT_MOUSE  -          GCD14                PF08704.17    0.0067   16.4   0.0    0.0088   16.0   0.0   1.2   1   0   0   1   1   1   1 Protein-L-isoaspartate(D-aspartate) O-methyltransferase OS=Mus musculus OX=10090 GN=Pcmt1 PE=1 SV=3
+sp|Q921L7|HEMK1_MOUSE -          GCD14                PF08704.17     0.013   15.4   0.0      0.02   14.8   0.0   1.2   1   0   0   1   1   1   0 HemK methyltransferase family member 1 OS=Mus musculus OX=10090 GN=Hemk1 PE=2 SV=2
+sp|Q8BHD8|PCMD2_MOUSE -          GCD14                PF08704.17     0.015   15.2   0.0     0.028   14.4   0.0   1.4   1   0   0   1   1   1   0 Protein-L-isoaspartate O-methyltransferase domain-containing protein 2 OS=Mus musculus OX=10090 GN=Pcmtd2 PE=2 SV=1
+sp|Q9R0C0|BL1S6_MOUSE -          GCD14                PF08704.17      0.77    9.7   4.4       5.3    6.9   4.4   1.9   1   1   0   1   1   1   0 Biogenesis of lysosome-related organelles complex 1 subunit 6 OS=Mus musculus OX=10090 GN=Bloc1s6 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/GCD14.hmm
+# Target file:     proteomes/Mus_musculus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/GCD14/Mus_musculus.tblout --cpu 8 pfam_list/GCD14.hmm proteomes/Mus_musculus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:12 2025
+# [ok]

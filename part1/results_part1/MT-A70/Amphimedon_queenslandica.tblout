@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1X7VR21|A0A1X7VR21_AMPQE -          MT-A70               PF05063.21   7.2e-60  203.1   0.0   1.2e-59  202.4   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=3 SV=1
+tr|A0A1X7TVM4|A0A1X7TVM4_AMPQE -          MT-A70               PF05063.21   8.6e-56  189.8   0.1   1.6e-55  188.9   0.1   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=3 SV=1
+tr|A0A1X7VK93|A0A1X7VK93_AMPQE -          MT-A70               PF05063.21   2.6e-36  126.4   0.0     3e-26   93.6   0.1   2.2   2   0   0   2   2   2   2 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MT-A70.hmm
+# Target file:     proteomes/Amphimedon_queenslandica.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MT-A70/Amphimedon_queenslandica.tblout --cpu 8 pfam_list/MT-A70.hmm proteomes/Amphimedon_queenslandica.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:05:15 2025
+# [ok]

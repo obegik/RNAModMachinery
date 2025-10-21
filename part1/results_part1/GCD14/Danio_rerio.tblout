@@ -1,0 +1,24 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F1QTY5|F1QTY5_DANRE -          GCD14                PF08704.17  3.7e-106  354.8   0.0  4.9e-106  354.4   0.0   1.1   1   0   0   1   1   1   1 tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRMT61A OS=Danio rerio OX=7955 GN=trmt61a PE=1 SV=1
+tr|X1WF30|X1WF30_DANRE -          GCD14                PF08704.17   6.6e-15   55.9   0.0   1.1e-14   55.2   0.0   1.3   1   0   0   1   1   1   1 tRNA methyltransferase 61B OS=Danio rerio OX=7955 GN=trmt61b PE=4 SV=1
+sp|Q92047|PIMT_DANRE   -          GCD14                PF08704.17   3.8e-05   24.0   0.0   4.8e-05   23.6   0.0   1.1   1   0   0   1   1   1   1 Protein-L-isoaspartate(D-aspartate) O-methyltransferase OS=Danio rerio OX=7955 GN=pcmt PE=2 SV=3
+tr|Q7ZTZ4|Q7ZTZ4_DANRE -          GCD14                PF08704.17   9.3e-05   22.7   0.0   0.00014   22.1   0.0   1.2   1   0   0   1   1   1   1 Fibrillarin OS=Danio rerio OX=7955 GN=fbl PE=1 SV=1
+tr|F1QL05|F1QL05_DANRE -          GCD14                PF08704.17   0.00011   22.5   0.0   0.00014   22.1   0.0   1.2   1   0   0   1   1   1   1 Protein-L-isoaspartate O-methyltransferase OS=Danio rerio OX=7955 GN=pcmtl PE=1 SV=1
+tr|F1QAE7|F1QAE7_DANRE -          GCD14                PF08704.17    0.0042   17.3   0.2     0.013   15.7   0.0   1.8   2   0   0   2   2   2   1 Protein-L-isoaspartate (D-aspartate) O-methyltransferase domain-containing 1 OS=Danio rerio OX=7955 GN=pcmtd1 PE=1 SV=1
+tr|F1QJH5|F1QJH5_DANRE -          GCD14                PF08704.17    0.0067   16.6   0.0      0.01   16.0   0.0   1.2   1   0   0   1   1   1   1 HemK methyltransferase family member 1 OS=Danio rerio OX=7955 GN=hemk1 PE=4 SV=1
+tr|Q29R93|Q29R93_DANRE -          GCD14                PF08704.17     0.007   16.6   0.2     0.018   15.2   0.0   1.7   2   0   0   2   2   2   1 Protein-L-isoaspartate (D-aspartate) O-methyltransferase domain-containing 2 OS=Danio rerio OX=7955 GN=pcmtd2 PE=2 SV=1
+tr|E7F846|E7F846_DANRE -          GCD14                PF08704.17     0.017   15.3   0.0      0.03   14.5   0.0   1.3   1   0   0   1   1   1   0 Protein-L-isoaspartate (D-aspartate) O-methyltransferase domain containing 2 OS=Danio rerio OX=7955 GN=LOC100536777 PE=4 SV=1
+tr|B8JIF1|B8JIF1_DANRE -          GCD14                PF08704.17      0.15   12.2   0.0      0.23   11.6   0.0   1.3   1   0   0   1   1   1   0 Arsenite methyltransferase OS=Danio rerio OX=7955 GN=as3mt PE=1 SV=1
+sp|F4ZGF2|COMTA_DANRE  -          GCD14                PF08704.17      0.26   11.4   0.0      0.35   11.0   0.0   1.1   1   0   0   1   1   1   0 Catechol O-methyltransferase A OS=Danio rerio OX=7955 GN=comta PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/GCD14.hmm
+# Target file:     proteomes/Danio_rerio.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/GCD14/Danio_rerio.tblout --cpu 8 pfam_list/GCD14.hmm proteomes/Danio_rerio.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:09 2025
+# [ok]

@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|H2YW50|H2YW50_CIOSA -          EMG1                 PF03587.20   1.9e-75  252.0   0.0   2.3e-75  251.8   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/EMG1.hmm
+# Target file:     proteomes/Ciona_savignyi.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/EMG1/Ciona_savignyi.tblout --cpu 8 pfam_list/EMG1.hmm proteomes/Ciona_savignyi.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:32 2025
+# [ok]

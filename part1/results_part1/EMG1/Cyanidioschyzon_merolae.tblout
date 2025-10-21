@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|M1VA91|M1VA91_CYAM1 -          EMG1                 PF03587.20   1.7e-63  211.9   0.0   1.9e-63  211.7   0.0   1.0   1   0   0   1   1   1   1 Probable ribosome biogenesis protein NEP1 OS=Cyanidioschyzon merolae (strain NIES-3377 / 10D) OX=280699 GN=CYME_CMC063C PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/EMG1.hmm
+# Target file:     proteomes/Cyanidioschyzon_merolae.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/EMG1/Cyanidioschyzon_merolae.tblout --cpu 8 pfam_list/EMG1.hmm proteomes/Cyanidioschyzon_merolae.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:32 2025
+# [ok]

@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|B3S4H9|B3S4H9_TRIAD -          AdoMet_MTase         PF07757.19     3e-32  110.6   0.2   5.4e-32  109.8   0.2   1.4   1   0   0   1   1   1   1 Uncharacterized protein (Fragment) OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_2664 PE=4 SV=1
+tr|B3RUN0|B3RUN0_TRIAD -          AdoMet_MTase         PF07757.19     0.033   13.8   0.1     0.058   13.0   0.1   1.4   1   0   0   1   1   1   0 Protein-lysine N-methyltransferase TRIADDRAFT_23674 OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_23674 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/AdoMet_Mtase.hmm
+# Target file:     proteomes/Trichoplax_adhaerens.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/AdoMet_Mtase/Trichoplax_adhaerens.tblout --cpu 8 pfam_list/AdoMet_Mtase.hmm proteomes/Trichoplax_adhaerens.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:46 2025
+# [ok]

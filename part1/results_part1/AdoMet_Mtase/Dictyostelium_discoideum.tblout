@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q55E88|Q55E88_DICDI -          AdoMet_MTase         PF07757.19   8.3e-35  119.0   0.1   2.3e-34  117.5   0.1   1.8   1   0   0   1   1   1   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0190192 PE=4 SV=1
+tr|Q55GB9|Q55GB9_DICDI -          AdoMet_MTase         PF07757.19     0.056   13.2   0.1      0.35   10.6   0.0   2.2   3   0   0   3   3   3   0 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0202134 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/AdoMet_Mtase.hmm
+# Target file:     proteomes/Dictyostelium_discoideum.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/AdoMet_Mtase/Dictyostelium_discoideum.tblout --cpu 8 pfam_list/AdoMet_Mtase.hmm proteomes/Dictyostelium_discoideum.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:42 2025
+# [ok]

@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q54NV3|Q54NV3_DICDI -          LCM                  PF04072.21   1.9e-28   99.1   0.2   3.5e-27   95.0   0.0   2.6   2   1   0   2   2   2   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0218658 PE=4 SV=1
+tr|Q54J74|Q54J74_DICDI -          LCM                  PF04072.21   2.6e-18   66.1   0.0     1e-17   64.2   0.0   1.9   1   1   0   1   1   1   1 Leucine carboxyl methyltransferase 1 OS=Dictyostelium discoideum OX=44689 GN=DDB0219323 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/LCM.hmm
+# Target file:     proteomes/Dictyostelium_discoideum.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/LCM/Dictyostelium_discoideum.tblout --cpu 8 pfam_list/LCM.hmm proteomes/Dictyostelium_discoideum.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:44 2025
+# [ok]

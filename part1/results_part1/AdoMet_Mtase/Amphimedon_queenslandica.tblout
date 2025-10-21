@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1X7UQ33|A0A1X7UQ33_AMPQE -          AdoMet_MTase         PF07757.19     1e-30  107.5   0.0   1.9e-30  106.7   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7VRG6|A0A1X7VRG6_AMPQE -          AdoMet_MTase         PF07757.19     0.079   14.4   0.0      0.15   13.5   0.0   1.6   1   0   0   1   1   1   0 Protein-lysine N-methyltransferase OS=Amphimedon queenslandica OX=400682 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/AdoMet_Mtase.hmm
+# Target file:     proteomes/Amphimedon_queenslandica.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/AdoMet_Mtase/Amphimedon_queenslandica.tblout --cpu 8 pfam_list/AdoMet_Mtase.hmm proteomes/Amphimedon_queenslandica.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:41 2025
+# [ok]

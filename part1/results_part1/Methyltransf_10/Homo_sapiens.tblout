@@ -1,0 +1,22 @@
+#                                                                  --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name           accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#   ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q86W50|MET16_HUMAN   -          Methyltransf_10      PF05971.19  3.9e-137  458.8   0.0  5.1e-137  458.4   0.0   1.1   1   0   0   1   1   1   1 Methyltransferase-like protein 16 OS=Homo sapiens GN=METTL16 PE=1 SV=2
+sp|Q86W50-2|MET16_HUMAN -          Methyltransf_10      PF05971.19   7.9e-98  329.8   0.0   9.2e-98  329.5   0.0   1.0   1   0   0   1   1   1   1 Isoform 2 of Methyltransferase-like protein 16 OS=Homo sapiens GN=METTL16
+tr|I3L362|I3L362_HUMAN  -          Methyltransf_10      PF05971.19   1.3e-75  256.8   0.0   1.5e-75  256.6   0.0   1.0   1   0   0   1   1   1   1 Methyltransferase-like protein 16 OS=Homo sapiens GN=METTL16 PE=2 SV=1
+tr|I3L4V1|I3L4V1_HUMAN  -          Methyltransf_10      PF05971.19     3e-61  209.7   1.0   4.6e-48  166.4   0.1   2.0   1   1   1   2   2   2   2 Methyltransferase-like protein 16 (Fragment) OS=Homo sapiens GN=METTL16 PE=2 SV=1
+tr|I3L3W3|I3L3W3_HUMAN  -          Methyltransf_10      PF05971.19   2.6e-49  170.5   0.0     3e-49  170.3   0.0   1.0   1   0   0   1   1   1   1 Methyltransferase-like protein 16 OS=Homo sapiens GN=METTL16 PE=2 SV=1
+tr|B7Z3X7|B7Z3X7_HUMAN  -          Methyltransf_10      PF05971.19   7.3e-30  106.6   0.1     1e-29  106.1   0.1   1.2   1   0   0   1   1   1   1 Methyltransferase-like protein 16 OS=Homo sapiens GN=METTL16 PE=2 SV=1
+tr|K7EKQ8|K7EKQ8_HUMAN  -          Methyltransf_10      PF05971.19   3.5e-28  101.1   0.0   4.1e-28  100.9   0.0   1.0   1   0   0   1   1   1   1 Methyltransferase-like protein 16 (Fragment) OS=Homo sapiens GN=METTL16 PE=4 SV=1
+sp|Q8NEM2|SHCBP_HUMAN   -          Methyltransf_10      PF05971.19      0.45   12.1   0.0      0.73   11.4   0.0   1.2   1   0   0   1   1   1   0 SHC SH2 domain-binding protein 1 OS=Homo sapiens GN=SHCBP1 PE=1 SV=3
+tr|Q5JSB6|Q5JSB6_HUMAN  -          Methyltransf_10      PF05971.19      0.73   11.4   0.0      0.98   11.0   0.0   1.1   1   0   0   1   1   1   0 Transcription factor Dp-1 (Fragment) OS=Homo sapiens GN=TFDP1 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltransf_10.hmm
+# Target file:     proteomes/Homo_sapiens.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltransf_10/Homo_sapiens.tblout --cpu 8 pfam_list/Methyltransf_10.hmm proteomes/Homo_sapiens.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:12:19 2025
+# [ok]

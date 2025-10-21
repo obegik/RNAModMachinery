@@ -1,0 +1,39 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P74003|PRMC_SYNY3   -          MTS                  PF05175.21   2.5e-13   47.6   0.0   1.6e-11   41.7   0.0   2.1   1   1   1   2   2   2   1 Release factor glutamine methyltransferase OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=prmC PE=3 SV=1
+sp|P73820|PRMA_SYNY3   -          MTS                  PF05175.21   2.8e-09   34.4   0.0   4.9e-09   33.7   0.0   1.4   1   0   0   1   1   1   1 Ribosomal protein L11 methyltransferase OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=prmA PE=3 SV=1
+tr|P73705|P73705_SYNY3 -          MTS                  PF05175.21   3.4e-08   30.9   0.0   6.2e-08   30.1   0.0   1.3   1   0   0   1   1   1   1 Sll1693 protein OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=sll1693 PE=4 SV=1
+tr|Q55818|Q55818_SYNY3 -          MTS                  PF05175.21   4.2e-08   30.6   0.0     1e-07   29.4   0.0   1.7   1   0   0   1   1   1   1 Sll0487 protein OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=sll0487 PE=4 SV=1
+tr|Q55809|Q55809_SYNY3 -          MTS                  PF05175.21   3.6e-07   27.6   0.0   6.7e-07   26.7   0.0   1.4   1   0   0   1   1   1   1 Delta(24)-sterol C-methyltransferase OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=erg6 PE=3 SV=1
+sp|Q55423|Y829_SYNY3   -          MTS                  PF05175.21   8.1e-07   26.4   0.0   4.1e-06   24.1   0.0   1.9   2   0   0   2   2   2   1 Uncharacterized methyltransferase sll0829 OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=sll0829 PE=3 SV=1
+tr|P73547|P73547_SYNY3 -          MTS                  PF05175.21   1.1e-06   26.1   0.0   4.3e-06   24.1   0.0   1.8   1   1   0   1   1   1   1 Precorrin decarbocylase OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=cbiT PE=4 SV=1
+tr|P72628|P72628_SYNY3 -          MTS                  PF05175.21   1.4e-06   25.6   0.0   1.9e-06   25.2   0.0   1.1   1   0   0   1   1   1   1 Slr1115 protein OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=slr1115 PE=4 SV=1
+tr|P74743|P74743_SYNY3 -          MTS                  PF05175.21   1.8e-06   25.3   0.0   3.2e-06   24.5   0.0   1.3   1   0   0   1   1   1   1 Sll0564 protein OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=sll0564 PE=4 SV=1
+tr|Q6ZE71|Q6ZE71_SYNY3 -          MTS                  PF05175.21   2.6e-06   24.8   0.0   3.9e-06   24.2   0.0   1.4   1   0   0   1   1   1   1 Slr8021 protein OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=slr8021 PE=4 SV=1
+tr|P73155|P73155_SYNY3 -          MTS                  PF05175.21   9.2e-06   23.0   0.0   1.5e-05   22.4   0.0   1.4   1   0   0   1   1   1   1 Slr1039 protein OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=slr1039 PE=4 SV=1
+tr|Q55597|Q55597_SYNY3 -          MTS                  PF05175.21   1.1e-05   22.8   0.0   1.4e-05   22.4   0.0   1.1   1   0   0   1   1   1   1 Slr0383 protein OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=slr0383 PE=4 SV=1
+tr|P72896|P72896_SYNY3 -          MTS                  PF05175.21   1.6e-05   22.2   0.0   6.9e-05   20.2   0.0   1.8   1   1   0   1   1   1   1 Slr1618 protein OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=slr1618 PE=4 SV=1
+sp|P73460|RSMH_SYNY3   -          MTS                  PF05175.21   1.7e-05   22.2   0.0     0.048   10.9   0.0   2.3   2   0   0   2   2   2   2 Ribosomal RNA small subunit methyltransferase H OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=rsmH PE=3 SV=1
+tr|P72630|P72630_SYNY3 -          MTS                  PF05175.21   5.4e-05   20.5   0.0   8.4e-05   19.9   0.0   1.2   1   0   0   1   1   1   1 Slr1117 protein OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=slr1117 PE=4 SV=1
+tr|P74439|P74439_SYNY3 -          MTS                  PF05175.21   6.8e-05   20.2   0.0   0.00014   19.1   0.0   1.5   1   0   0   1   1   1   1 Slr0407 protein OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=slr0407 PE=4 SV=1
+tr|Q55175|Q55175_SYNY3 -          MTS                  PF05175.21   8.9e-05   19.8   0.0   0.00015   19.1   0.0   1.4   1   1   0   1   1   1   1 Slr0482 protein OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=slr0482 PE=4 SV=1
+sp|Q55467|CHLM_SYNY3   -          MTS                  PF05175.21   0.00075   16.8   0.0   0.00099   16.4   0.0   1.2   1   0   0   1   1   1   1 Magnesium-protoporphyrin O-methyltransferase OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=chlM PE=1 SV=1
+tr|Q55879|Q55879_SYNY3 -          MTS                  PF05175.21    0.0018   15.5   0.0    0.0036   14.6   0.0   1.4   1   0   0   1   1   1   1 tRNA (guanine(46)-N(7))-methyltransferase OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=cbiE PE=4 SV=1
+tr|P73502|P73502_SYNY3 -          MTS                  PF05175.21    0.0056   14.0   0.1     0.025   11.8   0.0   1.9   2   0   0   2   2   2   1 Slr1436 protein OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=slr1436 PE=4 SV=1
+sp|P74388|BQMT_SYNY3   -          MTS                  PF05175.21    0.0064   13.8   0.0      0.01   13.1   0.0   1.3   1   0   0   1   1   1   1 2-methyl-6-phytyl-1,4-hydroquinone methyltransferase OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=sll0418 PE=1 SV=1
+sp|Q55787|RSMG_SYNY3   -          MTS                  PF05175.21    0.0086   13.3   0.0     0.012   12.9   0.0   1.2   1   0   0   1   1   1   1 Ribosomal RNA small subunit methyltransferase G OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=rsmG PE=3 SV=1
+tr|P74712|P74712_SYNY3 -          MTS                  PF05175.21     0.009   13.3   0.0     0.013   12.8   0.0   1.2   1   0   0   1   1   1   1 Slr1183 protein OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=slr1183 PE=1 SV=1
+tr|Q6YRQ9|Q6YRQ9_SYNY3 -          MTS                  PF05175.21     0.018   12.3   0.0     0.033   11.4   0.0   1.4   1   0   0   1   1   1   0 site-specific DNA-methyltransferase (adenine-specific) OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=slr6095 PE=3 SV=1
+sp|P73161|TRMB_SYNY3   -          MTS                  PF05175.21     0.031   11.5   0.0     0.081   10.2   0.0   1.6   1   1   0   1   1   1   0 tRNA (guanine-N(7)-)-methyltransferase OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=trmB PE=3 SV=2
+sp|Q55156|Y064_SYNY3   -          MTS                  PF05175.21     0.037   11.3   0.0     0.072   10.3   0.0   1.4   1   0   0   1   1   1   0 Putative RNA methyltransferase slr0064 OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=slr0064 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MTS.hmm
+# Target file:     proteomes/Synechocystis_sp.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MTS/Synechocystis_sp.tblout --cpu 8 pfam_list/MTS.hmm proteomes/Synechocystis_sp.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:05:59 2025
+# [ok]

@@ -1,0 +1,17 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q58055|Y638_METJA  -          DREV                 PF05219.18   3.4e-08   29.6   0.2   4.1e-08   29.4   0.2   1.2   1   0   0   1   1   1   1 Uncharacterized protein MJ0638 OS=Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) OX=243232 GN=MJ0638 PE=4 SV=1
+sp|Q58847|Y1452_METJA -          DREV                 PF05219.18    0.0031   13.4   0.1    0.0038   13.1   0.1   1.2   1   0   0   1   1   1   1 Uncharacterized protein MJ1452 OS=Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) OX=243232 GN=MJ1452 PE=4 SV=1
+sp|Q58435|RSMA_METJA  -          DREV                 PF05219.18    0.0035   13.2   0.0    0.0071   12.2   0.0   1.5   1   0   0   1   1   1   1 Probable ribosomal RNA small subunit methyltransferase A OS=Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) OX=243232 GN=rsmA PE=1 SV=1
+sp|Q58523|Y1123_METJA -          DREV                 PF05219.18     0.009   11.9   0.0     0.011   11.5   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein MJ1123 OS=Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) OX=243232 GN=MJ1123 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DREV.hmm
+# Target file:     proteomes/Methanococcus_jannaschii.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DREV/Methanococcus_jannaschii.tblout --cpu 8 pfam_list/DREV.hmm proteomes/Methanococcus_jannaschii.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:23 2025
+# [ok]

@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|M1XPJ5|M1XPJ5_NATM8 -          Methyltr_RsmB-F      PF01189.24   2.7e-52  174.6   0.0   3.3e-52  174.4   0.0   1.1   1   0   0   1   1   1   1 tRNA/rRNA cytosine-C5-methylase OS=Natronomonas moolapensis (strain DSM 18674 / JCM 14361 / 8.8.11) OX=268739 GN=cna PE=3 SV=1
+tr|M1XTZ7|M1XTZ7_NATM8 -          Methyltr_RsmB-F      PF01189.24    0.0075   13.3   0.0     0.012   12.6   0.0   1.2   1   0   0   1   1   1   1 Ribosomal RNA large subunit methyltransferase E OS=Natronomonas moolapensis (strain DSM 18674 / JCM 14361 / 8.8.11) OX=268739 GN=rlmE PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltr_RsmB-F.hmm
+# Target file:     proteomes/Natronomonas_moolapensis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltr_RsmB-F/Natronomonas_moolapensis.tblout --cpu 8 pfam_list/Methyltr_RsmB-F.hmm proteomes/Natronomonas_moolapensis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:10:16 2025
+# [ok]

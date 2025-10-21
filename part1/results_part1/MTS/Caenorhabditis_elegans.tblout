@@ -1,0 +1,55 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q18511|Q18511_CAEEL -          MTS                  PF05175.21     9e-16   58.0   0.0   1.3e-15   57.5   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C38D4.9 PE=1 SV=1
+tr|O16582|O16582_CAEEL -          MTS                  PF05175.21   1.3e-13   51.0   0.0   2.5e-12   46.8   0.0   2.0   1   1   0   1   1   1   1 MethylTransferase modifying glutamine (Q) OS=Caenorhabditis elegans OX=6239 GN=mtq-2 PE=1 SV=3
+sp|Q09357|MET16_CAEEL  -          MTS                  PF05175.21   2.7e-08   33.7   0.0   9.4e-08   32.0   0.0   1.9   1   0   0   1   1   1   1 U6 small nuclear RNA (adenine-(43)-N(6))-methyltransferase OS=Caenorhabditis elegans OX=6239 GN=mett-10 PE=1 SV=2
+tr|Q17539|Q17539_CAEEL -          MTS                  PF05175.21   4.6e-07   29.7   0.0     0.018   14.7   0.0   2.7   3   0   0   3   3   2   2 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C01B10.8 PE=1 SV=1
+sp|Q9U2R0|BIN3D_CAEEL  -          MTS                  PF05175.21   5.4e-07   29.5   0.0   0.00042   20.1   0.0   2.2   2   0   0   2   2   2   2 Probable RNA methyltransferase Y17G7B.18 OS=Caenorhabditis elegans OX=6239 GN=Y17G7B.18 PE=3 SV=1
+tr|O01593|O01593_CAEEL -          MTS                  PF05175.21   9.1e-07   28.7   0.0   1.6e-06   28.0   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_R08E5.3 PE=1 SV=1
+tr|O01889|O01889_CAEEL -          MTS                  PF05175.21   1.4e-06   28.2   0.0   2.5e-06   27.3   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_R08F11.4 PE=1 SV=1
+tr|P91387|P91387_CAEEL -          MTS                  PF05175.21   1.7e-06   27.9   0.0   3.1e-06   27.0   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_K12D9.1 PE=1 SV=2
+sp|P34666|COQ5_CAEEL   -          MTS                  PF05175.21     4e-06   26.7   0.0   1.3e-05   25.0   0.0   1.8   2   1   0   2   2   1   1 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial OS=Caenorhabditis elegans OX=6239 GN=coq-5 PE=3 SV=2
+sp|P30643|YNE4_CAEEL   -          MTS                  PF05175.21   4.8e-06   26.4   0.1   3.6e-05   23.5   0.1   2.2   2   0   0   2   2   2   1 Uncharacterized protein R08D7.4 OS=Caenorhabditis elegans OX=6239 GN=R08D7.4 PE=4 SV=3
+tr|O01594|O01594_CAEEL -          MTS                  PF05175.21   6.1e-06   26.0   0.0     1e-05   25.3   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_R08E5.1 PE=4 SV=4
+tr|Q9GZF8|Q9GZF8_CAEEL -          MTS                  PF05175.21   1.3e-05   25.0   0.0   1.7e-05   24.6   0.0   1.1   1   0   0   1   1   1   1 PRotein arginine MethylTransferase OS=Caenorhabditis elegans OX=6239 GN=prmt-4 PE=4 SV=1
+tr|O02325|O02325_CAEEL -          MTS                  PF05175.21   2.4e-05   24.1   0.1   4.5e-05   23.2   0.1   1.3   1   0   0   1   1   1   1 PRotein arginine MethylTransferase OS=Caenorhabditis elegans OX=6239 GN=prmt-9 PE=1 SV=2
+sp|Q9U2X0|ANM1_CAEEL   -          MTS                  PF05175.21   2.9e-05   23.8   0.1   5.2e-05   23.0   0.1   1.3   1   0   0   1   1   1   1 Protein arginine N-methyltransferase 1 OS=Caenorhabditis elegans OX=6239 GN=prmt-1 PE=1 SV=1
+tr|Q9N5L0|Q9N5L0_CAEEL -          MTS                  PF05175.21   3.7e-05   23.5   0.0   7.4e-05   22.5   0.0   1.4   1   0   0   1   1   1   1 TRna (tRNA) Methyltransferase homolog OS=Caenorhabditis elegans OX=6239 GN=trm-2a PE=1 SV=2
+tr|Q21503|Q21503_CAEEL -          MTS                  PF05175.21   0.00015   21.6   0.0   0.00025   20.8   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_M04B2.2 PE=1 SV=2
+sp|Q27873|PIMT_CAEEL   -          MTS                  PF05175.21   0.00017   21.3   0.1   0.00033   20.4   0.1   1.6   1   1   0   1   1   1   1 Protein-L-isoaspartate O-methyltransferase OS=Caenorhabditis elegans OX=6239 GN=pcm-1 PE=2 SV=1
+tr|O18235|O18235_CAEEL -          MTS                  PF05175.21   0.00024   20.9   0.0   0.00036   20.3   0.0   1.3   1   0   0   1   1   1   1 Ubiquinone biosynthesis O-methyltransferase, mitochondrial OS=Caenorhabditis elegans OX=6239 GN=coq-3 PE=1 SV=1
+sp|O01503|ETKMT_CAEEL  -          MTS                  PF05175.21    0.0004   20.1   0.0   0.00062   19.5   0.0   1.2   1   0   0   1   1   1   1 Electron transfer flavoprotein beta subunit lysine methyltransferase homolog OS=Caenorhabditis elegans OX=6239 GN=C37A2.6 PE=3 SV=2
+tr|Q9GYH9|Q9GYH9_CAEEL -          MTS                  PF05175.21    0.0015   18.3   0.0    0.0027   17.4   0.0   1.4   1   0   0   1   1   1   1 Protein-lysine N-methyltransferase CELE_F29B9.1 OS=Caenorhabditis elegans OX=6239 GN=CELE_F29B9.1 PE=1 SV=2
+tr|Q9NAP7|Q9NAP7_CAEEL -          MTS                  PF05175.21    0.0018   18.0   0.0    0.0039   16.9   0.0   1.5   1   1   0   1   1   1   1 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_K09E4.3 PE=1 SV=1
+sp|O44410|RRP8_CAEEL   -          MTS                  PF05175.21    0.0022   17.7   0.1      0.24   11.1   0.0   2.4   1   1   1   2   2   2   1 Ribosomal RNA-processing protein 8 OS=Caenorhabditis elegans OX=6239 GN=T07A9.8 PE=3 SV=1
+tr|O61833|O61833_CAEEL -          MTS                  PF05175.21    0.0056   16.4   0.0     0.009   15.7   0.0   1.4   1   0   0   1   1   1   1 PRotein arginine MethylTransferase OS=Caenorhabditis elegans OX=6239 GN=prmt-6 PE=1 SV=2
+tr|Q23383|Q23383_CAEEL -          MTS                  PF05175.21    0.0059   16.3   0.0     0.013   15.2   0.0   1.6   2   0   0   2   2   1   1 Methyltransferase-like protein OS=Caenorhabditis elegans OX=6239 GN=CELE_ZK1058.5 PE=1 SV=2
+sp|Q23126|TRMB_CAEEL   -          MTS                  PF05175.21     0.011   15.4   0.0     0.035   13.8   0.0   1.7   1   1   0   1   1   1   0 tRNA (guanine-N(7)-)-methyltransferase OS=Caenorhabditis elegans OX=6239 GN=W02B12.10 PE=3 SV=1
+sp|A7IQW5|MT21_CAEEL   -          MTS                  PF05175.21     0.013   15.3   0.0     0.019   14.7   0.0   1.2   1   0   0   1   1   1   0 Protein-lysine methyltransferase C42C1.13 OS=Caenorhabditis elegans OX=6239 GN=C42C1.13 PE=3 SV=1
+tr|P91862|P91862_CAEEL -          MTS                  PF05175.21     0.013   15.2   0.0      0.03   14.1   0.0   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F32A7.4 PE=1 SV=1
+tr|K8ERZ6|K8ERZ6_CAEEL -          MTS                  PF05175.21     0.014   15.1   0.0     0.026   14.2   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F13D12.9 PE=1 SV=1
+tr|Q2MDF2|Q2MDF2_CAEEL -          MTS                  PF05175.21     0.015   15.0   0.0     0.026   14.2   0.0   1.3   1   0   0   1   1   1   0 Methyltransferase-like protein OS=Caenorhabditis elegans OX=6239 GN=metl-2 PE=1 SV=1
+tr|B4E3X6|B4E3X6_CAEEL -          MTS                  PF05175.21     0.015   15.0   0.0     0.025   14.3   0.0   1.4   1   0   0   1   1   1   0 SPermiDine Synthase OS=Caenorhabditis elegans OX=6239 GN=spds-1 PE=1 SV=1
+sp|Q09522|DIM1_CAEEL   -          MTS                  PF05175.21     0.021   14.6   0.2      0.04   13.6   0.0   1.5   2   0   0   2   2   1   0 Probable dimethyladenosine transferase OS=Caenorhabditis elegans OX=6239 GN=E02H1.1 PE=3 SV=2
+tr|Q18257|Q18257_CAEEL -          MTS                  PF05175.21     0.024   14.4   0.0     0.038   13.7   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C27F2.4 PE=1 SV=1
+tr|Q23195|Q23195_CAEEL -          MTS                  PF05175.21     0.024   14.4   0.1     0.051   13.3   0.1   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_W06B4.2 PE=1 SV=1
+sp|A8WHT1|TRM5_CAEEL   -          MTS                  PF05175.21     0.025   14.3   0.0     0.047   13.4   0.0   1.4   1   0   0   1   1   1   0 tRNA (guanine(37)-N1)-methyltransferase OS=Caenorhabditis elegans OX=6239 GN=C53A5.17 PE=3 SV=1
+tr|Q21069|Q21069_CAEEL -          MTS                  PF05175.21     0.032   14.0   0.0     0.047   13.4   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_K01A11.2 PE=1 SV=1
+tr|O18030|O18030_CAEEL -          MTS                  PF05175.21     0.032   13.9   0.0      0.13   12.0   0.0   1.9   2   0   0   2   2   2   0 DeHydrogenases, Short chain OS=Caenorhabditis elegans OX=6239 GN=dhs-4 PE=1 SV=2
+tr|Q20308|Q20308_CAEEL -          MTS                  PF05175.21     0.033   13.9   0.0      0.49   10.1   0.0   2.4   2   1   0   2   2   2   0 Amine N-MethylTransferase OS=Caenorhabditis elegans OX=6239 GN=anmt-2 PE=1 SV=2
+sp|Q9XW42|ANM7_CAEEL   -          MTS                  PF05175.21     0.035   13.8   0.0     0.077   12.7   0.0   1.5   1   0   0   1   1   1   0 Protein arginine N-methyltransferase 7 OS=Caenorhabditis elegans OX=6239 GN=prmt-7 PE=1 SV=2
+sp|Q23270|TRM1_CAEEL   -          MTS                  PF05175.21     0.055   13.2   0.1      0.13   12.0   0.1   1.6   1   0   0   1   1   1   0 tRNA (guanine(26)-N(2))-dimethyltransferase OS=Caenorhabditis elegans OX=6239 GN=trm-1 PE=1 SV=1
+sp|Q9TYP1|STRM1_CAEEL  -          MTS                  PF05175.21      0.06   13.1   0.0      0.19   11.4   0.0   1.8   2   0   0   2   2   2   0 Sterol 4-C-methyltransferase strm-1 OS=Caenorhabditis elegans OX=6239 GN=strm-1 PE=3 SV=2
+tr|Q9N470|Q9N470_CAEEL -          MTS                  PF05175.21     0.064   13.0   0.0      0.14   11.9   0.0   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y34B4A.7 PE=1 SV=2
+sp|P41938|HCDH2_CAEEL  -          MTS                  PF05175.21      0.07   12.8   0.5      0.11   12.2   0.5   1.4   1   0   0   1   1   1   0 Probable 3-hydroxyacyl-CoA dehydrogenase B0272.3 OS=Caenorhabditis elegans OX=6239 GN=B0272.3 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MTS.hmm
+# Target file:     proteomes/Caenorhabditis_elegans.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MTS/Caenorhabditis_elegans.tblout --cpu 8 pfam_list/MTS.hmm proteomes/Caenorhabditis_elegans.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:05:55 2025
+# [ok]

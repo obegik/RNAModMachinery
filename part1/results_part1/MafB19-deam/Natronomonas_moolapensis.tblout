@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|M1Y5J8|M1Y5J8_NATM8 -          MafB19-deam          PF14437.13   7.7e-19   65.2   0.0   8.9e-19   65.0   0.0   1.0   1   0   0   1   1   1   1 Deaminase domain protein OS=Natronomonas moolapensis (strain DSM 18674 / JCM 14361 / 8.8.11) OX=268739 GN=Nmlp_3731 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MafB19-deam.hmm
+# Target file:     proteomes/Natronomonas_moolapensis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MafB19-deam/Natronomonas_moolapensis.tblout --cpu 8 pfam_list/MafB19-deam.hmm proteomes/Natronomonas_moolapensis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:09:24 2025
+# [ok]

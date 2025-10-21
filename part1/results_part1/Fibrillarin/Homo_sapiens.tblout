@@ -1,0 +1,26 @@
+#                                                                  --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name           accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#   ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|M0R299|M0R299_HUMAN  -          Fibrillarin          PF01269.24  3.2e-108  362.4   0.1  3.8e-108  362.1   0.1   1.0   1   0   0   1   1   1   1 rRNA 2'-O-methyltransferase fibrillarin (Fragment) OS=Homo sapiens GN=FBL PE=2 SV=1
+sp|P22087|FBRL_HUMAN    -          Fibrillarin          PF01269.24  7.1e-108  361.2   0.0  8.5e-108  361.0   0.0   1.0   1   0   0   1   1   1   1 rRNA 2'-O-methyltransferase fibrillarin OS=Homo sapiens GN=FBL PE=1 SV=2
+sp|A6NHQ2|FBLL1_HUMAN   -          Fibrillarin          PF01269.24  1.7e-105  353.4   0.0    2e-105  353.2   0.0   1.0   1   0   0   1   1   1   1 rRNA/tRNA 2'-O-methyltransferase fibrillarin-like protein 1 OS=Homo sapiens GN=FBLL1 PE=1 SV=1
+tr|R4GMW7|R4GMW7_HUMAN  -          Fibrillarin          PF01269.24  1.7e-105  353.4   0.0  2.1e-105  353.2   0.0   1.0   1   0   0   1   1   1   1 rRNA/tRNA 2'-O-methyltransferase fibrillarin-like protein 1 OS=Homo sapiens GN=FBLL1 PE=3 SV=1
+tr|M0QXL5|M0QXL5_HUMAN  -          Fibrillarin          PF01269.24  1.3e-104  350.6   0.0  1.5e-104  350.4   0.0   1.0   1   0   0   1   1   1   1 rRNA 2'-O-methyltransferase fibrillarin (Fragment) OS=Homo sapiens GN=FBL PE=2 SV=1
+tr|M0R2Q4|M0R2Q4_HUMAN  -          Fibrillarin          PF01269.24   1.1e-98  331.2   0.0   1.3e-98  331.0   0.0   1.0   1   0   0   1   1   1   1 rRNA 2'-O-methyltransferase fibrillarin (Fragment) OS=Homo sapiens GN=FBL PE=2 SV=1
+tr|M0R0P1|M0R0P1_HUMAN  -          Fibrillarin          PF01269.24   4.5e-86  289.9   0.0   5.4e-86  289.7   0.0   1.0   1   0   0   1   1   1   1 rRNA 2'-O-methyltransferase fibrillarin (Fragment) OS=Homo sapiens GN=FBL PE=2 SV=1
+tr|M0R1H0|M0R1H0_HUMAN  -          Fibrillarin          PF01269.24   7.4e-45  155.1   0.0   8.8e-45  154.8   0.0   1.0   1   0   0   1   1   1   1 rRNA 2'-O-methyltransferase fibrillarin (Fragment) OS=Homo sapiens GN=FBL PE=2 SV=1
+tr|M0R2B0|M0R2B0_HUMAN  -          Fibrillarin          PF01269.24     5e-40  139.3   0.0   5.9e-40  139.0   0.0   1.0   1   0   0   1   1   1   1 rRNA 2'-O-methyltransferase fibrillarin (Fragment) OS=Homo sapiens GN=FBL PE=2 SV=1
+tr|M0R2U2|M0R2U2_HUMAN  -          Fibrillarin          PF01269.24   3.5e-30  107.1   0.0   4.1e-30  106.9   0.0   1.0   1   0   0   1   1   1   1 rRNA 2'-O-methyltransferase fibrillarin (Fragment) OS=Homo sapiens GN=FBL PE=2 SV=1
+tr|Q5VZD9|Q5VZD9_HUMAN  -          Fibrillarin          PF01269.24      0.59   11.5   0.0       0.7   11.2   0.0   1.1   1   0   0   1   1   1   0 Mitochondrial ornithine transporter 1 (Fragment) OS=Homo sapiens GN=SLC25A15 PE=2 SV=1
+tr|F8W9F3|F8W9F3_HUMAN  -          Fibrillarin          PF01269.24      0.68   11.3   0.0       1.1   10.6   0.0   1.3   1   0   0   1   1   1   0 Protein-L-isoaspartate O-methyltransferase domain-containing protein 2 OS=Homo sapiens GN=PCMTD2 PE=2 SV=1
+sp|Q9NV79-2|PCMD2_HUMAN -          Fibrillarin          PF01269.24      0.94   10.8   0.0       1.5   10.2   0.0   1.2   1   0   0   1   1   1   0 Isoform 2 of Protein-L-isoaspartate O-methyltransferase domain-containing protein 2 OS=Homo sapiens GN=PCMTD2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Fibrillarin.hmm
+# Target file:     proteomes/Homo_sapiens.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Fibrillarin/Homo_sapiens.tblout --cpu 8 pfam_list/Fibrillarin.hmm proteomes/Homo_sapiens.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:42 2025
+# [ok]

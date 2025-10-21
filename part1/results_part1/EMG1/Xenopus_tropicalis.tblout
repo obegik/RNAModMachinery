@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7E938|F7E938_XENTR -          EMG1                 PF03587.20   1.7e-76  256.5   0.0   2.1e-76  256.2   0.0   1.0   1   0   0   1   1   1   1 EMG1 N1-specific pseudouridine methyltransferase OS=Xenopus tropicalis OX=8364 GN=emg1 PE=4 SV=1
+tr|F7C1L4|F7C1L4_XENTR -          EMG1                 PF03587.20      0.11   12.4   0.0      0.19   11.7   0.0   1.3   1   1   0   1   1   1   0 Mesencephalic astrocyte-derived neurotrophic factor OS=Xenopus tropicalis OX=8364 GN=manf PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/EMG1.hmm
+# Target file:     proteomes/Xenopus_tropicalis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/EMG1/Xenopus_tropicalis.tblout --cpu 8 pfam_list/EMG1.hmm proteomes/Xenopus_tropicalis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:36 2025
+# [ok]

@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6Q1V9|F6Q1V9_XENTR -          AdoMet_MTase         PF07757.19   1.5e-31  109.4   0.0   2.5e-31  108.7   0.0   1.4   1   0   0   1   1   1   1 tRNA methyltransferase 44 homolog OS=Xenopus tropicalis OX=8364 PE=4 SV=1
+tr|Q08CY3|Q08CY3_XENTR -          AdoMet_MTase         PF07757.19      0.09   13.4   0.0        10    6.8   0.0   2.3   2   0   0   2   2   2   0 Ring finger protein 149 OS=Xenopus tropicalis OX=8364 GN=rnf149 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/AdoMet_Mtase.hmm
+# Target file:     proteomes/Xenopus_tropicalis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/AdoMet_Mtase/Xenopus_tropicalis.tblout --cpu 8 pfam_list/AdoMet_Mtase.hmm proteomes/Xenopus_tropicalis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:46 2025
+# [ok]

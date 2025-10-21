@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|B8BV96|B8BV96_THAPS -          A_deamin             PF02137.25   6.7e-28   97.5   5.2   4.5e-20   71.7   0.1   2.8   1   1   1   2   2   2   2 tRNA-specific adenosine deaminase 1 OS=Thalassiosira pseudonana OX=35128 GN=THAPSDRAFT_21439 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/A_deamin.hmm
+# Target file:     proteomes/Thalassiosira_pseudonana.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/A_deamin/Thalassiosira_pseudonana.tblout --cpu 8 pfam_list/A_deamin.hmm proteomes/Thalassiosira_pseudonana.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:12 2025
+# [ok]

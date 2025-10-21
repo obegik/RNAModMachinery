@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|D4GXU5|D4GXU5_HALVD -          GCD14                PF08704.17   1.9e-19   68.1   0.0     3e-16   57.6   0.0   2.1   1   1   1   2   2   2   2 tRNA (Adenine-N(1))-methyltransferase TrmI OS=Haloferax volcanii (strain ATCC 29605 / DSM 3757 / JCM 8879 / NBRC 14742 / NCIMB 2012 / VKM B-1768 / DS2) OX=309800 GN=trmI PE=4 SV=1
+tr|D4GSS3|D4GSS3_HALVD -          GCD14                PF08704.17     0.001   16.6   0.0    0.0014   16.1   0.0   1.3   1   0   0   1   1   1   1 S-adenosylmethionine-dependent methyltransferase OS=Haloferax volcanii (strain ATCC 29605 / DSM 3757 / JCM 8879 / NBRC 14742 / NCIMB 2012 / VKM B-1768 / DS2) OX=309800 GN=HVO_0663 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/GCD14.hmm
+# Target file:     proteomes/Haloferax_volcanii.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/GCD14/Haloferax_volcanii.tblout --cpu 8 pfam_list/GCD14.hmm proteomes/Haloferax_volcanii.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:11 2025
+# [ok]

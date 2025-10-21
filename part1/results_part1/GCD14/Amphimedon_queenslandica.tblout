@@ -1,0 +1,24 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1X7U326|A0A1X7U326_AMPQE -          GCD14                PF08704.17   1.6e-95  320.8   0.0   2.5e-95  320.1   0.0   1.3   1   0   0   1   1   1   1 tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRMT61A OS=Amphimedon queenslandica OX=400682 PE=3 SV=1
+tr|A0A1X7VAV2|A0A1X7VAV2_AMPQE -          GCD14                PF08704.17   2.3e-16   61.5   0.0   4.5e-16   60.5   0.0   1.4   1   1   0   1   1   1   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7UZ07|A0A1X7UZ07_AMPQE -          GCD14                PF08704.17   1.8e-05   25.8   0.0   2.7e-05   25.2   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=3 SV=1
+tr|A0A1X7V969|A0A1X7V969_AMPQE -          GCD14                PF08704.17    0.0082   17.1   0.0     0.011   16.6   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7V4K8|A0A1X7V4K8_AMPQE -          GCD14                PF08704.17     0.025   15.5   0.0     0.025   15.5   0.0   2.7   2   1   1   3   3   3   0 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=3 SV=1
+tr|A0A1X7VEF1|A0A1X7VEF1_AMPQE -          GCD14                PF08704.17     0.033   15.1   0.0      0.05   14.5   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7VHW4|A0A1X7VHW4_AMPQE -          GCD14                PF08704.17      0.05   14.5   0.0     0.067   14.1   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7UXL0|A0A1X7UXL0_AMPQE -          GCD14                PF08704.17      0.85   10.5   5.1       0.7   10.7   4.0   1.2   1   1   0   1   1   1   0 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7USH2|A0A1X7USH2_AMPQE -          GCD14                PF08704.17       1.5    9.6   5.3       1.8    9.4   5.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7SE98|A0A1X7SE98_AMPQE -          GCD14                PF08704.17       2.3    9.1   0.0       2.3    9.1   0.0   2.9   2   1   1   3   3   1   0 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+tr|A0A1X7TAB4|A0A1X7TAB4_AMPQE -          GCD14                PF08704.17       2.3    9.0   0.0       2.3    9.0   0.0   2.9   2   1   1   3   3   2   0 Uncharacterized protein OS=Amphimedon queenslandica OX=400682 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/GCD14.hmm
+# Target file:     proteomes/Amphimedon_queenslandica.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/GCD14/Amphimedon_queenslandica.tblout --cpu 8 pfam_list/GCD14.hmm proteomes/Amphimedon_queenslandica.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:08 2025
+# [ok]

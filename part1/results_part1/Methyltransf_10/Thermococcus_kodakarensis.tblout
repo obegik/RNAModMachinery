@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q5JJ79|Q5JJ79_THEKO -          Methyltransf_10      PF05971.19   5.8e-09   32.8   0.0   2.4e-08   30.7   0.0   1.7   1   1   0   1   1   1   1 Predicted SAM-dependent methyltransferase, DUF890 family OS=Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1) OX=69014 GN=TK1784 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltransf_10.hmm
+# Target file:     proteomes/Thermococcus_kodakarensis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltransf_10/Thermococcus_kodakarensis.tblout --cpu 8 pfam_list/Methyltransf_10.hmm proteomes/Thermococcus_kodakarensis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:12:22 2025
+# [ok]

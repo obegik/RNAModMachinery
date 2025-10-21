@@ -1,0 +1,14 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1X7U5N0|A0A1X7U5N0_AMPQE -          Methyltransf_10      PF05971.19   5.8e-68  230.7   0.0   8.4e-68  230.2   0.0   1.2   1   0   0   1   1   1   1 U6 small nuclear RNA (adenine-(43)-N(6))-methyltransferase OS=Amphimedon queenslandica OX=400682 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltransf_10.hmm
+# Target file:     proteomes/Amphimedon_queenslandica.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltransf_10/Amphimedon_queenslandica.tblout --cpu 8 pfam_list/Methyltransf_10.hmm proteomes/Amphimedon_queenslandica.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:12:17 2025
+# [ok]

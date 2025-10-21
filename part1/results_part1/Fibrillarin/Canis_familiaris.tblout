@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A8I3MM38|A0A8I3MM38_CANLF -          Fibrillarin          PF01269.24  1.6e-108  361.3   0.0  1.9e-108  361.1   0.0   1.0   1   0   0   1   1   1   1 Fibrillarin OS=Canis lupus familiaris OX=9615 GN=FBL PE=3 SV=1
+tr|A0A8I3MNG6|A0A8I3MNG6_CANLF -          Fibrillarin          PF01269.24  2.2e-105  351.1   0.0  2.5e-105  350.9   0.0   1.0   1   0   0   1   1   1   1 Fibrillarin like 1 OS=Canis lupus familiaris OX=9615 GN=FBLL1 PE=3 SV=1
+tr|A0A8I3RXD1|A0A8I3RXD1_CANLF -          Fibrillarin          PF01269.24      0.22   10.8   0.0      0.45    9.8   0.0   1.5   1   0   0   1   1   1   0 NOP2/Sun RNA methyltransferase 6 OS=Canis lupus familiaris OX=9615 GN=NSUN6 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Fibrillarin.hmm
+# Target file:     proteomes/Canis_familiaris.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Fibrillarin/Canis_familiaris.tblout --cpu 8 pfam_list/Fibrillarin.hmm proteomes/Canis_familiaris.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:41 2025
+# [ok]

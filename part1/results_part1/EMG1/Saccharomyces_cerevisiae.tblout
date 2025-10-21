@@ -1,0 +1,14 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q06287|NEP1_YEAST -          EMG1                 PF03587.20   3.1e-75  250.4   0.0   3.6e-75  250.2   0.0   1.0   1   0   0   1   1   1   1 Ribosomal RNA small subunit methyltransferase NEP1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=EMG1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/EMG1.hmm
+# Target file:     proteomes/Saccharomyces_cerevisiae.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/EMG1/Saccharomyces_cerevisiae.tblout --cpu 8 pfam_list/EMG1.hmm proteomes/Saccharomyces_cerevisiae.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:35 2025
+# [ok]

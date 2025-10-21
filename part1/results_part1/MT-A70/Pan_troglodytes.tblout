@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|H2QQ29|H2QQ29_PANTR         -          MT-A70               PF05063.21     1e-63  214.7   0.0   1.4e-63  214.2   0.0   1.2   1   0   0   1   1   1   1 METTL14 isoform 1 OS=Pan troglodytes OX=9598 GN=METTL14 PE=2 SV=1
+tr|G2HF97|G2HF97_PANTR         -          MT-A70               PF05063.21   4.2e-62  209.4   0.0     8e-62  208.5   0.0   1.5   1   0   0   1   1   1   1 METTL3 isoform 2 OS=Pan troglodytes OX=9598 GN=METTL3 PE=2 SV=1
+tr|A0A2I3T433|A0A2I3T433_PANTR -          MT-A70               PF05063.21   2.8e-39  135.2   0.6   7.5e-39  133.7   0.1   1.9   2   0   0   2   2   2   1 Methyltransferase like 4 OS=Pan troglodytes OX=9598 GN=METTL4 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MT-A70.hmm
+# Target file:     proteomes/Pan_troglodytes.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MT-A70/Pan_troglodytes.tblout --cpu 8 pfam_list/MT-A70.hmm proteomes/Pan_troglodytes.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:05:20 2025
+# [ok]

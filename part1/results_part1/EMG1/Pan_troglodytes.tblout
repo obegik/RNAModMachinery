@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|K7CTR3|K7CTR3_PANTR         -          EMG1                 PF03587.20   6.7e-76  254.5   0.0   7.8e-76  254.3   0.0   1.0   1   0   0   1   1   1   1 EMG1 nucleolar protein homolog OS=Pan troglodytes OX=9598 GN=EMG1 PE=2 SV=1
+tr|A0A2I3RGT9|A0A2I3RGT9_PANTR -          EMG1                 PF03587.20     0.023   14.6   0.2        19    5.1   0.0   3.0   3   0   0   3   3   3   0 Uncharacterized protein OS=Pan troglodytes OX=9598 PE=4 SV=1
+tr|H2QMR7|H2QMR7_PANTR         -          EMG1                 PF03587.20      0.08   12.8   0.0      0.12   12.3   0.0   1.2   1   0   0   1   1   1   0 TNNC1 isoform 1 OS=Pan troglodytes OX=9598 GN=TNNC1 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/EMG1.hmm
+# Target file:     proteomes/Pan_troglodytes.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/EMG1/Pan_troglodytes.tblout --cpu 8 pfam_list/EMG1.hmm proteomes/Pan_troglodytes.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:35 2025
+# [ok]

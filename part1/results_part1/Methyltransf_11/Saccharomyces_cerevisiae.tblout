@@ -1,0 +1,35 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P25087|ERG6_YEAST  -          Methyltransf_11      PF08241.19   6.3e-22   76.5   0.0   1.3e-21   75.5   0.0   1.6   1   0   0   1   1   1   1 Sterol 24-C-methyltransferase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=ERG6 PE=1 SV=4
+sp|P38892|CRG1_YEAST  -          Methyltransf_11      PF08241.19   3.4e-20   70.9   0.0   5.7e-20   70.2   0.0   1.4   1   0   0   1   1   1   1 Probable S-adenosylmethionine-dependent methyltransferase CRG1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CRG1 PE=1 SV=1
+sp|P27680|COQ3_YEAST  -          Methyltransf_11      PF08241.19   7.7e-15   53.8   0.0   1.8e-14   52.6   0.0   1.7   1   0   0   1   1   1   1 Ubiquinone biosynthesis O-methyltransferase, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=COQ3 PE=1 SV=2
+sp|P25627|BUD23_YEAST -          Methyltransf_11      PF08241.19   4.5e-13   48.1   0.0   8.1e-13   47.3   0.0   1.4   1   0   0   1   1   1   1 18S rRNA (guanine(1575)-N(7))-methyltransferase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=BUD23 PE=1 SV=1
+sp|P49957|TRM9_YEAST  -          Methyltransf_11      PF08241.19   1.7e-12   46.2   0.0     3e-12   45.5   0.0   1.4   1   0   0   1   1   1   1 tRNA (carboxymethyluridine(34)-5-O)-methyltransferase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TRM9 PE=1 SV=1
+sp|P49017|COQ5_YEAST  -          Methyltransf_11      PF08241.19   8.5e-11   40.8   0.0     2e-10   39.6   0.0   1.7   1   0   0   1   1   1   1 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=COQ5 PE=1 SV=1
+sp|Q06668|OMS1_YEAST  -          Methyltransf_11      PF08241.19   9.5e-10   37.5   0.0   1.1e-08   34.1   0.0   2.4   1   1   0   1   1   1   1 Methyltransferase OMS1, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=OMS1 PE=1 SV=1
+sp|Q08641|AB140_YEAST -          Methyltransf_11      PF08241.19   9.6e-10   37.5   0.0   2.8e-09   36.0   0.0   1.9   1   0   0   1   1   1   1 tRNA(Thr) (cytosine(32)-N(3))-methyltransferase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=ABP140 PE=1 SV=3
+sp|P32643|TMT1_YEAST  -          Methyltransf_11      PF08241.19   1.5e-09   36.8   0.0   3.5e-09   35.6   0.0   1.6   1   1   0   1   1   1   1 Trans-aconitate 3-methyltransferase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TMT1 PE=1 SV=1
+sp|P38074|HMT1_YEAST  -          Methyltransf_11      PF08241.19     3e-09   35.9   0.0   7.4e-09   34.6   0.0   1.7   2   0   0   2   2   1   1 Protein arginine N-methyltransferase 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=HMT1 PE=1 SV=1
+sp|P38961|RRP8_YEAST  -          Methyltransf_11      PF08241.19   5.7e-09   35.0   0.0   3.1e-08   32.6   0.0   2.3   2   0   0   2   2   2   1 25S rRNA (adenine(645)-N(1))-methyltransferase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=RRP8 PE=1 SV=2
+sp|P32783|MCES_YEAST  -          Methyltransf_11      PF08241.19   6.6e-09   34.8   0.0   1.7e-08   33.5   0.0   1.8   1   0   0   1   1   1   1 mRNA cap guanine-N7 methyltransferase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=ABD1 PE=1 SV=1
+sp|P40516|EFM4_YEAST  -          Methyltransf_11      PF08241.19   7.8e-09   34.5   0.0     2e-08   33.2   0.0   1.7   1   1   0   1   1   1   1 Protein-lysine N-methyltransferase EFM4 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=EFM4 PE=1 SV=1
+sp|P41819|DIM1_YEAST  -          Methyltransf_11      PF08241.19   7.4e-07   28.2   0.0   1.6e-06   27.2   0.0   1.5   1   0   0   1   1   1   1 Dimethyladenosine transferase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=DIM1 PE=3 SV=1
+sp|P53934|CARME_YEAST -          Methyltransf_11      PF08241.19   4.5e-05   22.5   0.0      0.29   10.3   0.0   2.7   2   0   0   2   2   2   2 Carnosine N-methyltransferase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YNL092W PE=1 SV=1
+sp|P33753|TRM2_YEAST  -          Methyltransf_11      PF08241.19   5.1e-05   22.3   0.0   0.00081   18.5   0.0   2.4   2   0   0   2   2   2   1 tRNA (uracil(54)-C(5))-methyltransferase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TRM2 PE=1 SV=2
+sp|P38278|BMT2_YEAST  -          Methyltransf_11      PF08241.19   0.00017   20.7   0.0   0.00043   19.3   0.0   1.7   1   0   0   1   1   1   1 25S rRNA (adenine(2142)-N(1))-methyltransferase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=BMT2 PE=1 SV=2
+sp|Q03920|MTQ2_YEAST  -          Methyltransf_11      PF08241.19   0.00059   18.9   0.0     0.013   14.6   0.0   2.2   2   0   0   2   2   2   1 eRF1 methyltransferase catalytic subunit MTQ2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=MTQ2 PE=1 SV=1
+sp|P38321|YB75_YEAST  -          Methyltransf_11      PF08241.19    0.0014   17.7   0.0    0.0076   15.3   0.0   2.2   2   0   0   2   2   2   1 Uncharacterized protein YBR225W OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YBR225W PE=1 SV=1
+sp|P38340|NTM1_YEAST  -          Methyltransf_11      PF08241.19    0.0047   16.0   0.0    0.0084   15.2   0.0   1.5   1   0   0   1   1   1   1 Alpha N-terminal protein methyltransferase 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TAE1 PE=1 SV=1
+sp|Q02754|YP067_YEAST -          Methyltransf_11      PF08241.19     0.027   13.6   0.0     0.055   12.6   0.0   1.6   1   0   0   1   1   1   0 Uncharacterized protein YPL067C OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YPL067C PE=1 SV=1
+sp|Q12052|TGS1_YEAST  -          Methyltransf_11      PF08241.19     0.031   13.4   0.0      0.11   11.6   0.0   2.0   2   0   0   2   2   1   0 Trimethylguanosine synthase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TGS1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltransf_11.hmm
+# Target file:     proteomes/Saccharomyces_cerevisiae.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltransf_11/Saccharomyces_cerevisiae.tblout --cpu 8 pfam_list/Methyltransf_11.hmm proteomes/Saccharomyces_cerevisiae.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:12:38 2025
+# [ok]

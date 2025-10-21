@@ -1,0 +1,27 @@
+#                                                                  --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name           accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#   ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8IYL2-2|TRM44_HUMAN -          AdoMet_MTase         PF07757.19     5e-32  112.8   0.0   7.8e-32  112.1   0.0   1.3   1   0   0   1   1   1   1 Isoform 2 of Probable tRNA (uracil-O(2)-)-methyltransferase OS=Homo sapiens GN=TRMT44
+sp|Q8IYL2|TRM44_HUMAN   -          AdoMet_MTase         PF07757.19   1.1e-31  111.7   0.0   2.1e-31  110.7   0.0   1.5   1   0   0   1   1   1   1 Probable tRNA (uracil-O(2)-)-methyltransferase OS=Homo sapiens GN=TRMT44 PE=2 SV=2
+tr|H0YFV5|H0YFV5_HUMAN  -          AdoMet_MTase         PF07757.19      0.11   14.9   0.0      0.13   14.7   0.0   1.1   1   0   0   1   1   1   0 Methyltransferase-like protein 5 (Fragment) OS=Homo sapiens GN=METTL5 PE=2 SV=1
+tr|B3KR83|B3KR83_HUMAN  -          AdoMet_MTase         PF07757.19      0.15   14.5   0.2      0.42   13.1   0.1   1.6   1   1   1   2   2   2   0 Uncharacterized methyltransferase WBSCR22 OS=Homo sapiens GN=WBSCR22 PE=2 SV=1
+tr|F8WD87|F8WD87_HUMAN  -          AdoMet_MTase         PF07757.19      0.16   14.5   0.0      0.17   14.3   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized methyltransferase WBSCR22 OS=Homo sapiens GN=WBSCR22 PE=2 SV=1
+tr|F8WD67|F8WD67_HUMAN  -          AdoMet_MTase         PF07757.19      0.24   13.9   0.0      0.28   13.7   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized methyltransferase WBSCR22 OS=Homo sapiens GN=WBSCR22 PE=2 SV=1
+tr|E9PCQ7|E9PCQ7_HUMAN  -          AdoMet_MTase         PF07757.19      0.24   13.8   0.0      0.35   13.3   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized methyltransferase WBSCR22 OS=Homo sapiens GN=WBSCR22 PE=2 SV=1
+tr|E7EMN2|E7EMN2_HUMAN  -          AdoMet_MTase         PF07757.19      0.33   13.4   0.0      0.49   12.9   0.0   1.3   1   0   0   1   1   1   0 Methyltransferase-like protein 5 OS=Homo sapiens GN=METTL5 PE=2 SV=2
+tr|B8ZZE3|B8ZZE3_HUMAN  -          AdoMet_MTase         PF07757.19      0.41   13.1   0.0      0.73   12.3   0.0   1.4   1   0   0   1   1   1   0 Methyltransferase like 5, isoform CRA_b OS=Homo sapiens GN=METTL5 PE=2 SV=1
+sp|O43709-2|WBS22_HUMAN -          AdoMet_MTase         PF07757.19      0.43   13.1   0.0      0.76   12.2   0.0   1.4   1   0   0   1   1   1   0 Isoform 2 of Uncharacterized methyltransferase WBSCR22 OS=Homo sapiens GN=WBSCR22
+sp|Q9NRN9|METL5_HUMAN   -          AdoMet_MTase         PF07757.19      0.44   13.0   0.0      0.83   12.1   0.0   1.5   1   0   0   1   1   1   0 Methyltransferase-like protein 5 OS=Homo sapiens GN=METTL5 PE=1 SV=1
+tr|B8ZZC8|B8ZZC8_HUMAN  -          AdoMet_MTase         PF07757.19      0.59   12.6   0.0       1.1   11.7   0.0   1.4   1   0   0   1   1   1   0 Methyltransferase-like protein 5 OS=Homo sapiens GN=METTL5 PE=2 SV=1
+sp|O43709|WBS22_HUMAN   -          AdoMet_MTase         PF07757.19       0.6   12.6   0.0       1.2   11.6   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized methyltransferase WBSCR22 OS=Homo sapiens GN=WBSCR22 PE=1 SV=2
+tr|C9K060|C9K060_HUMAN  -          AdoMet_MTase         PF07757.19      0.66   12.4   0.0       1.3   11.5   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized methyltransferase WBSCR22 OS=Homo sapiens GN=WBSCR22 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/AdoMet_Mtase.hmm
+# Target file:     proteomes/Homo_sapiens.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/AdoMet_Mtase/Homo_sapiens.tblout --cpu 8 pfam_list/AdoMet_Mtase.hmm proteomes/Homo_sapiens.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:43 2025
+# [ok]

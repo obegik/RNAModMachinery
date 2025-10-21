@@ -1,0 +1,16 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q3UIK4|MET14_MOUSE -          MT-A70               PF05063.21   9.6e-64  214.7   0.0   1.4e-63  214.2   0.0   1.2   1   0   0   1   1   1   1 N6-adenosine-methyltransferase non-catalytic subunit OS=Mus musculus OX=10090 GN=Mettl14 PE=1 SV=1
+sp|Q8C3P7|MTA70_MOUSE -          MT-A70               PF05063.21   4.1e-62  209.4   0.0   7.8e-62  208.5   0.0   1.5   1   0   0   1   1   1   1 N6-adenosine-methyltransferase subunit METTL3 OS=Mus musculus OX=10090 GN=Mettl3 PE=1 SV=2
+sp|Q3U034|METL4_MOUSE -          MT-A70               PF05063.21   8.7e-40  136.8   0.1   1.4e-39  136.1   0.1   1.3   1   0   0   1   1   1   1 Methyltransferase-like protein 4 OS=Mus musculus OX=10090 GN=Mettl4 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MT-A70.hmm
+# Target file:     proteomes/Mus_musculus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MT-A70/Mus_musculus.tblout --cpu 8 pfam_list/MT-A70.hmm proteomes/Mus_musculus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:05:19 2025
+# [ok]

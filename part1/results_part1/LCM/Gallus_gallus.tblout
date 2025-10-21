@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A8V0Z6U8|A0A8V0Z6U8_CHICK -          LCM                  PF04072.21   6.1e-32  111.1   0.0   2.1e-31  109.3   0.0   1.8   1   1   0   1   1   1   1 Leucine carboxyl methyltransferase 1 OS=Gallus gallus OX=9031 GN=LCMT1 PE=1 SV=1
+tr|A0A8V0XCN5|A0A8V0XCN5_CHICK -          LCM                  PF04072.21   1.7e-25   90.0   0.0   3.1e-25   89.2   0.0   1.4   1   1   0   1   1   1   1 tRNA wybutosine-synthesizing protein 4 OS=Gallus gallus OX=9031 GN=LCMT2 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/LCM.hmm
+# Target file:     proteomes/Gallus_gallus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/LCM/Gallus_gallus.tblout --cpu 8 pfam_list/LCM.hmm proteomes/Gallus_gallus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:44 2025
+# [ok]

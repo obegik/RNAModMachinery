@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q9M1J8|Q9M1J8_ARATH -          EMG1                 PF03587.20   2.5e-68  230.1   0.2   2.5e-68  230.1   0.2   1.4   2   0   0   2   2   2   1 At3g57000 OS=Arabidopsis thaliana OX=3702 GN=F24I3.80 PE=1 SV=1
+tr|F4I9X6|F4I9X6_ARATH -          EMG1                 PF03587.20      0.11   12.6   1.5        85    3.2   0.0   3.5   4   0   0   4   4   4   0 Ubiquitin 13 OS=Arabidopsis thaliana OX=3702 GN=UBQ13 PE=1 SV=1
+sp|Q9M1V3|PP296_ARATH  -          EMG1                 PF03587.20      0.24   11.5   0.0      0.55   10.3   0.0   1.5   1   0   0   1   1   1   0 Pentatricopeptide repeat-containing protein At3g63370, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=PCMP-H83 PE=2 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/EMG1.hmm
+# Target file:     proteomes/Arabidopsis_thaliana.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/EMG1/Arabidopsis_thaliana.tblout --cpu 8 pfam_list/EMG1.hmm proteomes/Arabidopsis_thaliana.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:31 2025
+# [ok]

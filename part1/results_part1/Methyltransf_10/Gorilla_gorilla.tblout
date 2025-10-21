@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|G3R2P8|G3R2P8_GORGO -          Methyltransf_10      PF05971.19  9.5e-138  458.8   0.0  1.3e-137  458.4   0.0   1.1   1   0   0   1   1   1   1 U6 small nuclear RNA (adenine-(43)-N(6))-methyltransferase OS=Gorilla gorilla gorilla OX=9595 GN=METTL16 PE=3 SV=2
+tr|G3R5S3|G3R5S3_GORGO -          Methyltransf_10      PF05971.19     0.026   14.1   0.0     0.043   13.4   0.0   1.2   1   0   0   1   1   1   0 SHC SH2 domain-binding protein 1 OS=Gorilla gorilla gorilla OX=9595 GN=SHCBP1 PE=4 SV=2
+tr|G3QQE3|G3QQE3_GORGO -          Methyltransf_10      PF05971.19     0.032   13.8   0.2     0.086   12.4   0.0   1.7   2   0   0   2   2   2   0 Transcription factor OS=Gorilla gorilla gorilla OX=9595 GN=TFDP1 PE=3 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltransf_10.hmm
+# Target file:     proteomes/Gorilla_gorilla.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltransf_10/Gorilla_gorilla.tblout --cpu 8 pfam_list/Methyltransf_10.hmm proteomes/Gorilla_gorilla.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:12:19 2025
+# [ok]

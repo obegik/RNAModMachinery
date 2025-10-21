@@ -1,0 +1,19 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7G976|F7G976_MACMU -          A_deamin             PF02137.25  1.7e-115  386.2   0.0  1.7e-114  382.9   0.0   2.0   1   1   0   1   1   1   1 Adenosine deaminase, RNA specific B1 OS=Macaca mulatta OX=9544 GN=ADARB1 PE=4 SV=2
+tr|F7H345|F7H345_MACMU -          A_deamin             PF02137.25  1.6e-111  373.1   0.0  2.3e-111  372.7   0.0   1.2   1   0   0   1   1   1   1 Adenosine deaminase, RNA specific B2 (inactive) OS=Macaca mulatta OX=9544 GN=ADARB2 PE=4 SV=2
+tr|F6TVQ6|F6TVQ6_MACMU -          A_deamin             PF02137.25  3.6e-111  372.0   0.0  4.3e-111  371.8   0.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ADAT1 PE=4 SV=2
+tr|F7GLF8|F7GLF8_MACMU -          A_deamin             PF02137.25  2.8e-103  346.1   0.1  5.9e-103  345.0   0.0   1.6   2   0   0   2   2   2   1 Adenosine deaminase, RNA specific OS=Macaca mulatta OX=9544 GN=ADAR PE=4 SV=2
+tr|F7H901|F7H901_MACMU -          A_deamin             PF02137.25  4.7e-101  338.8   0.1  6.7e-101  338.3   0.1   1.2   1   0   0   1   1   1   1 Adenosine deaminase domain containing 1 OS=Macaca mulatta OX=9544 GN=ADAD1 PE=4 SV=2
+tr|F6QYM6|F6QYM6_MACMU -          A_deamin             PF02137.25   1.7e-82  277.8   0.0   2.1e-82  277.4   0.0   1.1   1   0   0   1   1   1   1 Adenosine deaminase domain containing 2 OS=Macaca mulatta OX=9544 GN=ADAD2 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/A_deamin.hmm
+# Target file:     proteomes/Macaca_mulatta.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/A_deamin/Macaca_mulatta.tblout --cpu 8 pfam_list/A_deamin.hmm proteomes/Macaca_mulatta.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:09 2025
+# [ok]

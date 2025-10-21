@@ -1,0 +1,53 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A9UP83|A9UP83_MONBE -          MTS                  PF05175.21   1.2e-13   50.0   0.0   1.7e-13   49.5   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Monosiga brevicollis OX=81824 GN=14119 PE=4 SV=1
+tr|A9UXY5|A9UXY5_MONBE -          MTS                  PF05175.21     5e-10   38.3   0.0     1e-09   37.2   0.0   1.4   1   0   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=36815 PE=4 SV=1
+tr|A9UV84|A9UV84_MONBE -          MTS                  PF05175.21     2e-09   36.3   0.0   3.1e-09   35.7   0.0   1.3   1   0   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=36368 PE=4 SV=1
+tr|A9VD27|A9VD27_MONBE -          MTS                  PF05175.21     5e-08   31.7   0.1   1.1e-07   30.7   0.1   1.6   1   1   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=34649 PE=4 SV=1
+tr|A9V2V4|A9V2V4_MONBE -          MTS                  PF05175.21   8.4e-08   31.0   0.0   1.5e-07   30.2   0.0   1.4   1   0   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=9348 PE=4 SV=1
+tr|A9VAX4|A9VAX4_MONBE -          MTS                  PF05175.21   1.3e-07   30.3   0.0     1e-06   27.5   0.0   2.1   2   0   0   2   2   2   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=34319 PE=4 SV=1
+tr|A9UQI2|A9UQI2_MONBE -          MTS                  PF05175.21   1.4e-06   27.1   0.0   1.3e-05   23.9   0.0   2.0   1   1   0   1   1   1   1 Uncharacterized protein OS=Monosiga brevicollis OX=81824 GN=21077 PE=4 SV=1
+tr|A9V2N1|A9V2N1_MONBE -          MTS                  PF05175.21   1.5e-06   27.0   0.0   2.2e-06   26.4   0.0   1.3   1   0   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=37585 PE=3 SV=1
+tr|A9VAQ4|A9VAQ4_MONBE -          MTS                  PF05175.21     4e-06   25.5   0.0   6.2e-06   24.9   0.0   1.3   1   0   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=38875 PE=4 SV=1
+tr|A9VAG1|A9VAG1_MONBE -          MTS                  PF05175.21   2.8e-05   22.8   0.0   3.8e-05   22.4   0.0   1.2   1   0   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=29214 PE=4 SV=1
+tr|A9V0W8|A9V0W8_MONBE -          MTS                  PF05175.21   3.5e-05   22.5   0.1   8.3e-05   21.3   0.1   1.5   1   1   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=32648 PE=3 SV=1
+tr|A9V7D5|A9V7D5_MONBE -          MTS                  PF05175.21   3.6e-05   22.4   0.0   6.2e-05   21.7   0.0   1.3   1   0   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=28161 PE=4 SV=1
+tr|A9UYM4|A9UYM4_MONBE -          MTS                  PF05175.21   0.00016   20.3   0.0   0.00032   19.4   0.0   1.4   1   0   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=25176 PE=4 SV=1
+tr|A9V8B1|A9V8B1_MONBE -          MTS                  PF05175.21   0.00019   20.1   0.0   0.00039   19.1   0.0   1.4   1   0   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=33899 PE=4 SV=1
+tr|A9UT82|A9UT82_MONBE -          MTS                  PF05175.21   0.00025   19.7   0.0   0.00048   18.8   0.0   1.4   1   0   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=19935 PE=4 SV=1
+tr|A9V594|A9V594_MONBE -          MTS                  PF05175.21   0.00041   19.0   0.0     0.001   17.7   0.0   1.6   2   0   0   2   2   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=10114 PE=4 SV=1
+tr|A9UT49|A9UT49_MONBE -          MTS                  PF05175.21   0.00042   19.0   0.0   0.00056   18.6   0.0   1.2   1   0   0   1   1   1   1 Methyltransferase-like protein OS=Monosiga brevicollis OX=81824 GN=23351 PE=3 SV=1
+tr|A9UP81|A9UP81_MONBE -          MTS                  PF05175.21   0.00042   19.0   0.0   0.00067   18.3   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Monosiga brevicollis OX=81824 GN=21994 PE=4 SV=1
+tr|A9V4W7|A9V4W7_MONBE -          MTS                  PF05175.21   0.00071   18.2   0.0     0.021   13.5   0.0   2.3   2   0   0   2   2   2   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=27301 PE=4 SV=1
+tr|A9UWC2|A9UWC2_MONBE -          MTS                  PF05175.21    0.0022   16.6   0.0    0.0046   15.6   0.0   1.5   1   1   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=36597 PE=4 SV=1
+tr|A9UV85|A9UV85_MONBE -          MTS                  PF05175.21    0.0025   16.5   0.1    0.0059   15.2   0.0   1.6   2   0   0   2   2   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=18255 PE=3 SV=1
+tr|A9V2C4|A9V2C4_MONBE -          MTS                  PF05175.21    0.0028   16.3   0.0    0.0041   15.7   0.0   1.2   1   0   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=26429 PE=4 SV=1
+tr|A9USN2|A9USN2_MONBE -          MTS                  PF05175.21    0.0038   15.9   0.0     0.012   14.2   0.0   1.7   1   1   1   2   2   2   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=5849 PE=4 SV=1
+tr|A9V663|A9V663_MONBE -          MTS                  PF05175.21    0.0052   15.4   0.0     0.008   14.8   0.0   1.3   1   0   0   1   1   1   1 rRNA adenine N(6)-methyltransferase OS=Monosiga brevicollis OX=81824 GN=27741 PE=3 SV=1
+tr|A9V6Y8|A9V6Y8_MONBE -          MTS                  PF05175.21    0.0058   15.3   0.0     0.011   14.4   0.0   1.4   1   0   0   1   1   1   1 Methyltransferase OS=Monosiga brevicollis OX=81824 GN=33702 PE=3 SV=1
+tr|A9VA61|A9VA61_MONBE -          MTS                  PF05175.21    0.0076   14.9   0.0     0.014   14.1   0.0   1.3   1   0   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=29115 PE=4 SV=1
+tr|A9UV07|A9UV07_MONBE -          MTS                  PF05175.21    0.0088   14.7   0.0     0.013   14.1   0.0   1.3   1   0   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=15473 PE=3 SV=1
+tr|A9V0P2|A9V0P2_MONBE -          MTS                  PF05175.21     0.011   14.3   0.0     0.049   12.2   0.0   2.1   1   0   0   1   1   1   0 Predicted protein OS=Monosiga brevicollis OX=81824 GN=25858 PE=4 SV=1
+tr|A9V9Z7|A9V9Z7_MONBE -          MTS                  PF05175.21     0.025   13.2   0.0     0.041   12.5   0.0   1.4   1   0   0   1   1   1   0 Predicted protein OS=Monosiga brevicollis OX=81824 GN=38764 PE=4 SV=1
+tr|A9V7J4|A9V7J4_MONBE -          MTS                  PF05175.21     0.028   13.0   0.0     0.046   12.3   0.0   1.4   1   1   0   1   1   1   0 Predicted protein OS=Monosiga brevicollis OX=81824 GN=28218 PE=4 SV=1
+tr|A9UP24|A9UP24_MONBE -          MTS                  PF05175.21      0.03   12.9   0.1     0.049   12.3   0.1   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Monosiga brevicollis OX=81824 GN=30766 PE=4 SV=1
+tr|A9UST5|A9UST5_MONBE -          MTS                  PF05175.21     0.034   12.8   0.0      0.05   12.2   0.0   1.3   1   0   0   1   1   1   0 Predicted protein (Fragment) OS=Monosiga brevicollis OX=81824 GN=31276 PE=4 SV=1
+tr|A9VCU4|A9VCU4_MONBE -          MTS                  PF05175.21     0.034   12.8   0.0      0.07   11.7   0.0   1.4   1   0   0   1   1   1   0 Predicted protein OS=Monosiga brevicollis OX=81824 GN=12628 PE=4 SV=1
+tr|A9UWK9|A9UWK9_MONBE -          MTS                  PF05175.21     0.035   12.7   0.0     0.068   11.8   0.0   1.4   1   0   0   1   1   1   0 Predicted protein (Fragment) OS=Monosiga brevicollis OX=81824 GN=1458 PE=3 SV=1
+tr|A9UPP4|A9UPP4_MONBE -          MTS                  PF05175.21     0.044   12.4   0.0     0.077   11.6   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Monosiga brevicollis OX=81824 GN=5028 PE=4 SV=1
+tr|A9V327|A9V327_MONBE -          MTS                  PF05175.21     0.048   12.3   0.1      0.12   11.0   0.0   1.6   2   0   0   2   2   1   0 Predicted protein OS=Monosiga brevicollis OX=81824 GN=33022 PE=4 SV=1
+tr|A9UU43|A9UU43_MONBE -          MTS                  PF05175.21     0.068   11.8   0.0      0.13   10.9   0.0   1.5   1   0   0   1   1   1   0 Predicted protein OS=Monosiga brevicollis OX=81824 GN=23668 PE=3 SV=1
+tr|A9V9W8|A9V9W8_MONBE -          MTS                  PF05175.21     0.071   11.7   0.0      0.11   11.1   0.0   1.2   1   0   0   1   1   1   0 Predicted protein OS=Monosiga brevicollis OX=81824 GN=29030 PE=4 SV=1
+tr|A9UXY8|A9UXY8_MONBE -          MTS                  PF05175.21      0.11   11.2   0.0      0.19   10.3   0.0   1.3   1   0   0   1   1   1   0 Predicted protein OS=Monosiga brevicollis OX=81824 GN=7669 PE=4 SV=1
+tr|A9UR49|A9UR49_MONBE -          MTS                  PF05175.21      0.11   11.1   0.0      0.19   10.4   0.0   1.3   1   0   0   1   1   1   0 Predicted protein OS=Monosiga brevicollis OX=81824 GN=23080 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MTS.hmm
+# Target file:     proteomes/Monosiga_brevicollis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MTS/Monosiga_brevicollis.tblout --cpu 8 pfam_list/MTS.hmm proteomes/Monosiga_brevicollis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:05:58 2025
+# [ok]

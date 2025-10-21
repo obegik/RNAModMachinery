@@ -1,0 +1,43 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|G3SK06|G3SK06_GORGO         -          FtsJ                 PF01728.26   1.6e-56  191.3   0.0   2.1e-56  191.0   0.0   1.1   1   0   0   1   1   1   1 Putative tRNA (cytidine(32)/guanosine(34)-2'-O)-methyltransferase OS=Gorilla gorilla gorilla OX=9595 GN=FTSJ1 PE=3 SV=2
+tr|G3QV89|G3QV89_GORGO         -          FtsJ                 PF01728.26   6.1e-53  179.7   0.0   1.6e-52  178.4   0.0   1.8   1   0   0   1   1   1   1 pre-rRNA processing protein FTSJ3 OS=Gorilla gorilla gorilla OX=9595 GN=FTSJ3 PE=3 SV=2
+tr|G3SBN6|G3SBN6_GORGO         -          FtsJ                 PF01728.26   4.6e-51  173.6   0.0   5.8e-51  173.3   0.0   1.1   1   0   0   1   1   1   1 rRNA methyltransferase 2, mitochondrial OS=Gorilla gorilla gorilla OX=9595 GN=MRM2 PE=3 SV=2
+tr|G3QSA2|G3QSA2_GORGO         -          FtsJ                 PF01728.26   2.3e-35  122.4   0.0   4.9e-35  121.4   0.0   1.6   2   0   0   2   2   1   1 Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase 1 OS=Gorilla gorilla gorilla OX=9595 GN=CMTR1 PE=4 SV=1
+tr|G3R1M9|G3R1M9_GORGO         -          FtsJ                 PF01728.26   5.2e-06   26.8   0.0   1.2e-05   25.6   0.0   1.5   1   0   0   1   1   1   1 NOP2/Sun RNA methyltransferase 6 OS=Gorilla gorilla gorilla OX=9595 GN=NSUN6 PE=3 SV=1
+tr|G3RI68|G3RI68_GORGO         -          FtsJ                 PF01728.26   0.00021   21.5   0.0   0.00039   20.7   0.0   1.4   1   0   0   1   1   1   1 28S rRNA (cytosine-C(5))-methyltransferase OS=Gorilla gorilla gorilla OX=9595 GN=LOC101131844 PE=3 SV=3
+tr|G3RNK5|G3RNK5_GORGO         -          FtsJ                 PF01728.26   0.00044   20.5   0.0   0.00094   19.4   0.0   1.6   2   0   0   2   2   1   1 Protein arginine N-methyltransferase 6 OS=Gorilla gorilla gorilla OX=9595 GN=PRMT6 PE=4 SV=2
+tr|G3R7U5|G3R7U5_GORGO         -          FtsJ                 PF01728.26    0.0007   19.8   0.0    0.0012   19.1   0.0   1.3   1   0   0   1   1   1   1 28S rRNA (cytosine-C(5))-methyltransferase OS=Gorilla gorilla gorilla OX=9595 GN=NSUN5 PE=3 SV=2
+tr|G3R436|G3R436_GORGO         -          FtsJ                 PF01728.26   0.00079   19.6   0.0    0.0015   18.7   0.0   1.4   1   0   0   1   1   1   1 type I protein arginine methyltransferase OS=Gorilla gorilla gorilla OX=9595 GN=PRMT8 PE=4 SV=1
+tr|G3RIP8|G3RIP8_GORGO         -          FtsJ                 PF01728.26    0.0022   18.2   0.0    0.0035   17.5   0.0   1.3   1   0   0   1   1   1   1 tRNA (adenine(58)-N(1))-methyltransferase OS=Gorilla gorilla gorilla OX=9595 PE=4 SV=2
+tr|A0A2I2YEE0|A0A2I2YEE0_GORGO -          FtsJ                 PF01728.26    0.0029   17.8   0.0    0.0057   16.9   0.0   1.4   1   0   0   1   1   1   1 type I protein arginine methyltransferase OS=Gorilla gorilla gorilla OX=9595 GN=PRMT1 PE=4 SV=1
+tr|G3QV03|G3QV03_GORGO         -          FtsJ                 PF01728.26    0.0037   17.5   0.0    0.0062   16.7   0.0   1.3   1   0   0   1   1   1   1 Arginine-hydroxylase NDUFAF5, mitochondrial OS=Gorilla gorilla gorilla OX=9595 GN=NDUFAF5 PE=3 SV=1
+tr|G3QGT5|G3QGT5_GORGO         -          FtsJ                 PF01728.26     0.004   17.4   0.0       2.8    8.1   0.0   2.3   2   0   0   2   2   2   1 Protein arginine N-methyltransferase OS=Gorilla gorilla gorilla OX=9595 GN=PRMT7 PE=3 SV=2
+tr|G3R7A0|G3R7A0_GORGO         -          FtsJ                 PF01728.26    0.0045   17.2   0.1    0.0071   16.6   0.1   1.4   1   1   0   1   1   1   1 Methyltransferase-like protein 5 OS=Gorilla gorilla gorilla OX=9595 PE=3 SV=2
+tr|G3RX99|G3RX99_GORGO         -          FtsJ                 PF01728.26    0.0051   17.0   0.0    0.0078   16.4   0.0   1.3   1   0   0   1   1   1   1 Methyltransferase-like protein 5 OS=Gorilla gorilla gorilla OX=9595 GN=METTL5 PE=3 SV=1
+tr|G3QEI8|G3QEI8_GORGO         -          FtsJ                 PF01728.26    0.0074   16.5   0.0     0.017   15.3   0.0   1.6   1   0   0   1   1   1   1 Histone-arginine methyltransferase CARM1 OS=Gorilla gorilla gorilla OX=9595 PE=4 SV=2
+tr|G3RU33|G3RU33_GORGO         -          FtsJ                 PF01728.26    0.0086   16.3   0.0     0.017   15.3   0.0   1.5   1   0   0   1   1   1   1 Nucleolar protein 1 OS=Gorilla gorilla gorilla OX=9595 GN=NOP2 PE=3 SV=2
+tr|G3RBS6|G3RBS6_GORGO         -          FtsJ                 PF01728.26    0.0096   16.1   0.0     0.039   14.2   0.0   1.8   1   1   0   1   1   1   1 NOP2/Sun RNA methyltransferase 3 OS=Gorilla gorilla gorilla OX=9595 GN=NSUN3 PE=3 SV=1
+tr|A0A2I2Z3W5|A0A2I2Z3W5_GORGO -          FtsJ                 PF01728.26      0.01   16.0   0.0      0.56   10.4   0.0   2.3   2   0   0   2   2   2   0 Methyltransferase like 15 OS=Gorilla gorilla gorilla OX=9595 PE=4 SV=1
+tr|G3RG30|G3RG30_GORGO         -          FtsJ                 PF01728.26     0.014   15.6   0.0     0.021   15.0   0.0   1.3   1   0   0   1   1   1   0 peptide chain release factor N(5)-glutamine methyltransferase OS=Gorilla gorilla gorilla OX=9595 GN=HEMK1 PE=4 SV=1
+tr|G3QIQ8|G3QIQ8_GORGO         -          FtsJ                 PF01728.26     0.016   15.4   0.1     0.034   14.3   0.0   1.8   2   1   0   2   2   1   0 rRNA adenine N(6)-methyltransferase OS=Gorilla gorilla gorilla OX=9595 GN=DIMT1 PE=3 SV=2
+tr|G3QRZ1|G3QRZ1_GORGO         -          FtsJ                 PF01728.26     0.018   15.2   0.1     0.042   14.0   0.1   1.6   1   1   0   1   1   1   0 mRNA cap guanine-N(7) methyltransferase OS=Gorilla gorilla gorilla OX=9595 GN=RNMT PE=3 SV=2
+tr|G3R584|G3R584_GORGO         -          FtsJ                 PF01728.26     0.021   15.0   0.0     0.036   14.2   0.0   1.3   1   0   0   1   1   1   0 Protein arginine N-methyltransferase 2 OS=Gorilla gorilla gorilla OX=9595 GN=PRMT2 PE=4 SV=1
+tr|G3QES2|G3QES2_GORGO         -          FtsJ                 PF01728.26     0.022   15.0   0.0     0.054   13.7   0.0   1.6   2   0   0   2   2   1   0 tRNA (uracil-5-)-methyltransferase homolog A OS=Gorilla gorilla gorilla OX=9595 GN=TRMT2A PE=3 SV=1
+tr|G3RWW8|G3RWW8_GORGO         -          FtsJ                 PF01728.26     0.024   14.8   0.1     0.031   14.4   0.1   1.2   1   0   0   1   1   1   0 Dehydrogenase/reductase SDR family member 6 OS=Gorilla gorilla gorilla OX=9595 GN=BDH2 PE=3 SV=3
+tr|A0A2I2Z719|A0A2I2Z719_GORGO -          FtsJ                 PF01728.26     0.024   14.8   0.0     0.046   13.9   0.0   1.4   1   0   0   1   1   1   0 tRNA (cytosine(34)-C(5))-methyltransferase OS=Gorilla gorilla gorilla OX=9595 GN=NSUN2 PE=3 SV=1
+tr|A0A2I2Z8I4|A0A2I2Z8I4_GORGO -          FtsJ                 PF01728.26     0.074   13.2   0.0     0.077   13.2   0.0   1.1   1   0   0   1   1   1   0 Dehydrogenase/reductase SDR family member 6 OS=Gorilla gorilla gorilla OX=9595 PE=3 SV=1
+tr|G3RCV1|G3RCV1_GORGO         -          FtsJ                 PF01728.26      0.08   13.1   0.0      0.17   12.1   0.0   1.5   1   0   0   1   1   1   0 Protein arginine N-methyltransferase 9 OS=Gorilla gorilla gorilla OX=9595 GN=PRMT9 PE=4 SV=1
+tr|G3SGS5|G3SGS5_GORGO         -          FtsJ                 PF01728.26      0.12   12.5   0.0      0.24   11.6   0.0   1.5   1   0   0   1   1   1   0 Methyltransferase like 25 OS=Gorilla gorilla gorilla OX=9595 GN=METTL25 PE=4 SV=1
+tr|G3QMC1|G3QMC1_GORGO         -          FtsJ                 PF01728.26      0.18   12.0   0.0      0.29   11.3   0.0   1.5   1   1   0   1   1   1   0 Electron transfer flavoprotein beta subunit lysine methyltransferase OS=Gorilla gorilla gorilla OX=9595 GN=ETFBKMT PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/FtsJ.hmm
+# Target file:     proteomes/Gorilla_gorilla.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/FtsJ/Gorilla_gorilla.tblout --cpu 8 pfam_list/FtsJ.hmm proteomes/Gorilla_gorilla.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:56 2025
+# [ok]

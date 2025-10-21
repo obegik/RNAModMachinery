@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8K3A9|MEPCE_MOUSE          -          Bin3                 PF06859.19   2.6e-44  150.5   0.0   5.4e-44  149.5   0.0   1.5   2   0   0   2   2   2   1 7SK snRNA methylphosphate capping enzyme OS=Mus musculus OX=10090 GN=Mepce PE=1 SV=2
+sp|Q91YP1|BN3D2_MOUSE          -          Bin3                 PF06859.19   1.4e-20   74.2   0.0     2e-20   73.7   0.0   1.2   1   0   0   1   1   1   1 Pre-miRNA 5'-monophosphate methyltransferase OS=Mus musculus OX=10090 GN=Bcdin3d PE=2 SV=1
+sp|Q8R2U4|NTM1A_MOUSE          -          Bin3                 PF06859.19      0.22   12.4   0.0      0.43   11.5   0.0   1.5   1   0   0   1   1   1   0 N-terminal Xaa-Pro-Lys N-methyltransferase 1 OS=Mus musculus OX=10090 GN=Ntmt1 PE=1 SV=3
+tr|A0A0G2JGR8|A0A0G2JGR8_MOUSE -          Bin3                 PF06859.19       9.1    7.2  10.0       0.5   11.3   2.5   2.4   2   1   1   3   3   3   0 Predicted gene, 21680 OS=Mus musculus OX=10090 GN=Gm21680 PE=4 SV=1
+tr|K7N5V5|K7N5V5_MOUSE         -          Bin3                 PF06859.19       9.4    7.2   9.5      0.53   11.2   1.7   2.4   2   1   1   3   3   3   0 Predicted gene 5862 OS=Mus musculus OX=10090 GN=Gm5862 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Bin3.hmm
+# Target file:     proteomes/Mus_musculus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Bin3/Mus_musculus.tblout --cpu 8 pfam_list/Bin3.hmm proteomes/Mus_musculus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:54 2025
+# [ok]

@@ -1,0 +1,61 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q22993|Q22993_CAEEL -          Methyltransf_12      PF08242.19     7e-19   68.5   0.1   1.1e-16   61.5   0.0   2.4   2   0   0   2   2   2   1 Phosphoethanolamine MethylTransferase OS=Caenorhabditis elegans OX=6239 GN=pmt-2 PE=1 SV=1
+tr|Q2MDF2|Q2MDF2_CAEEL -          Methyltransf_12      PF08242.19   2.7e-18   66.6   0.0   1.3e-17   64.4   0.0   2.1   3   0   0   3   3   1   1 Methyltransferase-like protein OS=Caenorhabditis elegans OX=6239 GN=metl-2 PE=1 SV=1
+tr|O01593|O01593_CAEEL -          Methyltransf_12      PF08242.19   1.2e-16   61.3   0.0   2.1e-16   60.6   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_R08E5.3 PE=1 SV=1
+tr|O01889|O01889_CAEEL -          Methyltransf_12      PF08242.19   4.6e-15   56.3   0.0   8.6e-15   55.4   0.0   1.5   1   0   0   1   1   1   1 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_R08F11.4 PE=1 SV=1
+sp|Q9TYP1|STRM1_CAEEL  -          Methyltransf_12      PF08242.19   9.2e-14   52.1   0.0   1.9e-13   51.1   0.0   1.6   1   0   0   1   1   1   1 Sterol 4-C-methyltransferase strm-1 OS=Caenorhabditis elegans OX=6239 GN=strm-1 PE=3 SV=2
+sp|P34666|COQ5_CAEEL   -          Methyltransf_12      PF08242.19   9.4e-14   52.1   0.0   2.3e-13   50.8   0.0   1.6   2   0   0   2   2   1   1 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial OS=Caenorhabditis elegans OX=6239 GN=coq-5 PE=3 SV=2
+tr|O01594|O01594_CAEEL -          Methyltransf_12      PF08242.19   1.3e-13   51.6   0.0   2.2e-13   50.9   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_R08E5.1 PE=4 SV=4
+tr|P91387|P91387_CAEEL -          Methyltransf_12      PF08242.19   1.6e-13   51.3   0.0   2.6e-13   50.7   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_K12D9.1 PE=1 SV=2
+tr|Q23383|Q23383_CAEEL -          Methyltransf_12      PF08242.19   6.1e-13   49.5   0.0   1.2e-12   48.6   0.0   1.5   1   0   0   1   1   1   1 Methyltransferase-like protein OS=Caenorhabditis elegans OX=6239 GN=CELE_ZK1058.5 PE=1 SV=2
+tr|O61833|O61833_CAEEL -          Methyltransf_12      PF08242.19   3.2e-12   47.2   0.0     5e-12   46.5   0.0   1.3   1   0   0   1   1   1   1 PRotein arginine MethylTransferase OS=Caenorhabditis elegans OX=6239 GN=prmt-6 PE=1 SV=2
+sp|Q9U2R0|BIN3D_CAEEL  -          Methyltransf_12      PF08242.19   4.8e-11   43.4   0.0   7.7e-06   26.7   0.0   2.6   2   0   0   2   2   2   2 Probable RNA methyltransferase Y17G7B.18 OS=Caenorhabditis elegans OX=6239 GN=Y17G7B.18 PE=3 SV=1
+tr|O18235|O18235_CAEEL -          Methyltransf_12      PF08242.19   5.7e-11   43.1   0.0   1.2e-10   42.1   0.0   1.6   1   0   0   1   1   1   1 Ubiquinone biosynthesis O-methyltransferase, mitochondrial OS=Caenorhabditis elegans OX=6239 GN=coq-3 PE=1 SV=1
+tr|Q9GZF8|Q9GZF8_CAEEL -          Methyltransf_12      PF08242.19   1.9e-10   41.5   0.0   2.6e-10   41.0   0.0   1.2   1   0   0   1   1   1   1 PRotein arginine MethylTransferase OS=Caenorhabditis elegans OX=6239 GN=prmt-4 PE=4 SV=1
+tr|Q9NAP7|Q9NAP7_CAEEL -          Methyltransf_12      PF08242.19   8.8e-10   39.3   0.0   1.6e-09   38.5   0.0   1.5   1   0   0   1   1   1   1 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_K09E4.3 PE=1 SV=1
+sp|Q9XVS1|MCES_CAEEL   -          Methyltransf_12      PF08242.19   3.9e-09   37.3   0.0   1.1e-08   35.8   0.0   1.8   1   0   0   1   1   1   1 mRNA cap guanine-N7 methyltransferase OS=Caenorhabditis elegans OX=6239 GN=tag-72 PE=3 SV=2
+tr|Q9GYH9|Q9GYH9_CAEEL -          Methyltransf_12      PF08242.19     2e-08   35.0   0.1   7.1e-08   33.2   0.0   1.9   2   0   0   2   2   1   1 Protein-lysine N-methyltransferase CELE_F29B9.1 OS=Caenorhabditis elegans OX=6239 GN=CELE_F29B9.1 PE=1 SV=2
+tr|Q17539|Q17539_CAEEL -          Methyltransf_12      PF08242.19   3.2e-08   34.3   0.0     0.001   19.9   0.0   2.7   2   0   0   2   2   2   2 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C01B10.8 PE=1 SV=1
+tr|Q18257|Q18257_CAEEL -          Methyltransf_12      PF08242.19   4.7e-08   33.8   0.0   1.1e-07   32.6   0.0   1.7   1   0   0   1   1   1   1 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C27F2.4 PE=1 SV=1
+tr|H2KZF5|H2KZF5_CAEEL -          Methyltransf_12      PF08242.19   1.1e-07   32.7   0.0   9.4e-06   26.4   0.0   3.1   3   0   0   3   3   3   1 Phosphoethanolamine MethylTransferase OS=Caenorhabditis elegans OX=6239 GN=pmt-1 PE=1 SV=1
+tr|Q18511|Q18511_CAEEL -          Methyltransf_12      PF08242.19   1.4e-07   32.3   0.0   2.7e-07   31.4   0.0   1.6   1   0   0   1   1   1   1 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C38D4.9 PE=1 SV=1
+tr|K8ERZ6|K8ERZ6_CAEEL -          Methyltransf_12      PF08242.19   2.6e-07   31.4   0.0     7e-07   30.0   0.0   1.8   1   0   0   1   1   1   1 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F13D12.9 PE=1 SV=1
+sp|Q9N4D9|NTM1_CAEEL   -          Methyltransf_12      PF08242.19   4.3e-07   30.7   0.0     9e-07   29.7   0.0   1.5   1   0   0   1   1   1   1 Alpha N-terminal protein methyltransferase 1 OS=Caenorhabditis elegans OX=6239 GN=homt-1 PE=2 SV=2
+tr|Q18489|Q18489_CAEEL -          Methyltransf_12      PF08242.19   3.4e-06   27.9   0.1     7e-06   26.8   0.1   1.6   1   0   0   1   1   1   1 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C35D10.12 PE=1 SV=1
+tr|Q22123|Q22123_CAEEL -          Methyltransf_12      PF08242.19   6.3e-06   27.0   0.0   1.2e-05   26.1   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_T03G11.6 PE=1 SV=2
+tr|P91862|P91862_CAEEL -          Methyltransf_12      PF08242.19   9.3e-06   26.4   0.0   2.8e-05   24.9   0.0   1.8   1   0   0   1   1   1   1 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F32A7.4 PE=1 SV=1
+tr|O16582|O16582_CAEEL -          Methyltransf_12      PF08242.19   1.1e-05   26.2   0.1   4.9e-05   24.1   0.0   1.9   2   0   0   2   2   2   1 MethylTransferase modifying glutamine (Q) OS=Caenorhabditis elegans OX=6239 GN=mtq-2 PE=1 SV=3
+sp|Q9U2X0|ANM1_CAEEL   -          Methyltransf_12      PF08242.19     2e-05   25.3   0.0   3.8e-05   24.5   0.0   1.5   1   0   0   1   1   1   1 Protein arginine N-methyltransferase 1 OS=Caenorhabditis elegans OX=6239 GN=prmt-1 PE=1 SV=1
+sp|Q09522|DIM1_CAEEL   -          Methyltransf_12      PF08242.19    0.0001   23.1   0.0   0.00019   22.2   0.0   1.4   1   0   0   1   1   1   1 Probable dimethyladenosine transferase OS=Caenorhabditis elegans OX=6239 GN=E02H1.1 PE=3 SV=2
+tr|Q8MQ99|Q8MQ99_CAEEL -          Methyltransf_12      PF08242.19   0.00011   23.0   0.0   0.00025   21.8   0.0   1.7   1   1   0   1   1   1   1 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C51E3.9 PE=1 SV=1
+tr|Q564W8|Q564W8_CAEEL -          Methyltransf_12      PF08242.19    0.0002   22.2   0.0   0.00058   20.7   0.0   1.7   1   1   0   1   1   1   1 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C17E4.11 PE=4 SV=1
+tr|Q9U3P9|Q9U3P9_CAEEL -          Methyltransf_12      PF08242.19   0.00043   21.1   0.3    0.0028   18.5   0.3   2.4   1   1   0   1   1   1   1 ALKylated DNA repair protein AlkB homolog OS=Caenorhabditis elegans OX=6239 GN=alkb-8 PE=1 SV=2
+sp|A7IQW5|MT21_CAEEL   -          Methyltransf_12      PF08242.19   0.00059   20.7   0.0     0.001   19.9   0.0   1.4   1   0   0   1   1   1   1 Protein-lysine methyltransferase C42C1.13 OS=Caenorhabditis elegans OX=6239 GN=C42C1.13 PE=3 SV=1
+tr|B4E3X6|B4E3X6_CAEEL -          Methyltransf_12      PF08242.19    0.0032   18.3   0.0    0.0084   17.0   0.0   1.7   1   0   0   1   1   1   1 SPermiDine Synthase OS=Caenorhabditis elegans OX=6239 GN=spds-1 PE=1 SV=1
+sp|P34283|HENMT_CAEEL  -          Methyltransf_12      PF08242.19    0.0065   17.3   0.0      0.04   14.8   0.0   2.3   2   1   0   2   2   1   1 Small RNA 2'-O-methyltransferase OS=Caenorhabditis elegans OX=6239 GN=henn-1 PE=1 SV=3
+tr|Q20794|Q20794_CAEEL -          Methyltransf_12      PF08242.19     0.016   16.1   0.0     0.036   14.9   0.0   1.6   1   0   0   1   1   1   0 Histone-lysine N-methyltransferase, H3 lysine-79 specific OS=Caenorhabditis elegans OX=6239 GN=dot-1.2 PE=3 SV=2
+sp|Q23126|TRMB_CAEEL   -          Methyltransf_12      PF08242.19     0.018   15.9   0.0     0.037   14.9   0.0   1.5   1   0   0   1   1   1   0 tRNA (guanine-N(7)-)-methyltransferase OS=Caenorhabditis elegans OX=6239 GN=W02B12.10 PE=3 SV=1
+sp|P30643|YNE4_CAEEL   -          Methyltransf_12      PF08242.19     0.019   15.8   0.1     0.058   14.3   0.1   1.9   1   1   0   1   1   1   0 Uncharacterized protein R08D7.4 OS=Caenorhabditis elegans OX=6239 GN=R08D7.4 PE=4 SV=3
+tr|Q7YX18|Q7YX18_CAEEL -          Methyltransf_12      PF08242.19     0.026   15.4   0.0     0.066   14.1   0.0   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F52F12.9 PE=4 SV=4
+sp|Q27873|PIMT_CAEEL   -          Methyltransf_12      PF08242.19     0.036   14.9   0.0     0.072   14.0   0.0   1.6   1   0   0   1   1   1   0 Protein-L-isoaspartate O-methyltransferase OS=Caenorhabditis elegans OX=6239 GN=pcm-1 PE=2 SV=1
+tr|Q9XX11|Q9XX11_CAEEL -          Methyltransf_12      PF08242.19      0.05   14.5   0.0     0.098   13.5   0.0   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y39A1A.21 PE=1 SV=2
+tr|Q9XW93|Q9XW93_CAEEL -          Methyltransf_12      PF08242.19     0.051   14.4   0.0      0.15   13.0   0.0   1.8   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y49A3A.3 PE=1 SV=1
+tr|Q9N470|Q9N470_CAEEL -          Methyltransf_12      PF08242.19     0.054   14.4   0.0      0.12   13.3   0.0   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y34B4A.7 PE=1 SV=2
+tr|Q22279|Q22279_CAEEL -          Methyltransf_12      PF08242.19     0.092   13.6   0.0      0.31   11.9   0.0   1.9   2   0   0   2   2   1   0 Amine N-MethylTransferase OS=Caenorhabditis elegans OX=6239 GN=anmt-3 PE=1 SV=2
+sp|O44410|RRP8_CAEEL   -          Methyltransf_12      PF08242.19     0.094   13.6   0.1       1.9    9.4   0.0   2.8   2   1   0   2   2   1   0 Ribosomal RNA-processing protein 8 OS=Caenorhabditis elegans OX=6239 GN=T07A9.8 PE=3 SV=1
+tr|Q9N5L0|Q9N5L0_CAEEL -          Methyltransf_12      PF08242.19     0.094   13.6   0.0       0.3   12.0   0.0   1.9   1   0   0   1   1   1   0 TRna (tRNA) Methyltransferase homolog OS=Caenorhabditis elegans OX=6239 GN=trm-2a PE=1 SV=2
+tr|Q20308|Q20308_CAEEL -          Methyltransf_12      PF08242.19      0.11   13.4   0.0      0.76   10.7   0.0   2.3   2   1   1   3   3   2   0 Amine N-MethylTransferase OS=Caenorhabditis elegans OX=6239 GN=anmt-2 PE=1 SV=2
+tr|O62483|O62483_CAEEL -          Methyltransf_12      PF08242.19      0.12   13.3   0.0      0.82   10.6   0.0   2.2   2   0   0   2   2   2   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y48E1C.2 PE=1 SV=1
+tr|Q21069|Q21069_CAEEL -          Methyltransf_12      PF08242.19      0.12   13.2   0.0      0.23   12.3   0.0   1.5   1   1   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_K01A11.2 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltransf_12.hmm
+# Target file:     proteomes/Caenorhabditis_elegans.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltransf_12/Caenorhabditis_elegans.tblout --cpu 8 pfam_list/Methyltransf_12.hmm proteomes/Caenorhabditis_elegans.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 23:27:13 2025
+# [ok]

@@ -1,0 +1,20 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q5ZMH6|METL9_CHICK          -          DREV                 PF05219.18  2.2e-135  449.9   0.0  2.5e-135  449.7   0.0   1.0   1   0   0   1   1   1   1 Protein-L-histidine N-pros-methyltransferase OS=Gallus gallus OX=9031 GN=METTL9 PE=2 SV=1
+tr|A0A8V0ZFZ6|A0A8V0ZFZ6_CHICK -          DREV                 PF05219.18  1.5e-134  447.2   0.0  1.7e-134  447.0   0.0   1.0   1   0   0   1   1   1   1 Methyltransferase like 9 OS=Gallus gallus OX=9031 GN=METTL9 PE=4 SV=1
+tr|A0A8V0ZM48|A0A8V0ZM48_CHICK -          DREV                 PF05219.18     0.012   14.7   0.0     0.019   14.1   0.0   1.2   1   0   0   1   1   1   0 tRNA (uracil(54)-C(5))-methyltransferase OS=Gallus gallus OX=9031 GN=TRMT2A PE=1 SV=1
+tr|A0A8V0XR61|A0A8V0XR61_CHICK -          DREV                 PF05219.18     0.021   14.0   0.0     0.071   12.2   0.0   1.8   2   0   0   2   2   2   0 Protein arginine N-methyltransferase 9 OS=Gallus gallus OX=9031 GN=PRMT9 PE=4 SV=1
+tr|E1C0U9|E1C0U9_CHICK         -          DREV                 PF05219.18     0.023   13.9   0.0     0.035   13.2   0.0   1.3   1   0   0   1   1   1   0 rRNA adenine N(6)-methyltransferase OS=Gallus gallus OX=9031 GN=DIMT1 PE=3 SV=3
+tr|A0A8V0YWE0|A0A8V0YWE0_CHICK -          DREV                 PF05219.18     0.079   12.1   0.0      0.12   11.4   0.0   1.2   1   0   0   1   1   1   0 tRNA (uracil(54)-C(5))-methyltransferase OS=Gallus gallus OX=9031 GN=TRMT2B PE=3 SV=1
+tr|H9L0S2|H9L0S2_CHICK         -          DREV                 PF05219.18      0.11   11.6   0.0      0.15   11.2   0.0   1.2   1   0   0   1   1   1   0 protein N-terminal methyltransferase OS=Gallus gallus OX=9031 GN=NTMT1 PE=1 SV=3
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DREV.hmm
+# Target file:     proteomes/Gallus_gallus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DREV/Gallus_gallus.tblout --cpu 8 pfam_list/DREV.hmm proteomes/Gallus_gallus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:22 2025
+# [ok]

@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q57UH6|Q57UH6_TRYB2 -          EMG1                 PF03587.20     1e-51  174.2   0.0   1.4e-51  173.7   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.8.5040 PE=4 SV=1
+tr|Q586T6|Q586T6_TRYB2 -          EMG1                 PF03587.20   2.2e-37  127.5   0.0   2.7e-37  127.1   0.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.2.4980 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/EMG1.hmm
+# Target file:     proteomes/Trypanosoma_brucei.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/EMG1/Trypanosoma_brucei.tblout --cpu 8 pfam_list/EMG1.hmm proteomes/Trypanosoma_brucei.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:36 2025
+# [ok]

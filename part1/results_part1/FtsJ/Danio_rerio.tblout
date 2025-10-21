@@ -1,0 +1,51 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A8E5E3|A8E5E3_DANRE         -          FtsJ                 PF01728.26   7.5e-56  189.4   0.0   9.5e-56  189.1   0.0   1.1   1   0   0   1   1   1   1 Putative tRNA (cytidine(32)/guanosine(34)-2'-O)-methyltransferase OS=Danio rerio OX=7955 GN=ftsj1 PE=2 SV=1
+tr|A0A0R4IQB8|A0A0R4IQB8_DANRE -          FtsJ                 PF01728.26     2e-54  184.8   1.6   2.6e-54  184.4   0.1   2.0   2   0   0   2   2   1   1 pre-rRNA processing protein FTSJ3 OS=Danio rerio OX=7955 GN=ftsj3 PE=1 SV=1
+tr|X1WFE4|X1WFE4_DANRE         -          FtsJ                 PF01728.26   7.5e-50  169.9   0.0   9.3e-50  169.6   0.0   1.1   1   0   0   1   1   1   1 Mitochondrial rRNA methyltransferase 2 OS=Danio rerio OX=7955 GN=mrm2 PE=3 SV=1
+sp|Q803R5|CMTR1_DANRE          -          FtsJ                 PF01728.26     1e-34  120.5   0.0     3e-34  119.0   0.0   1.8   2   0   0   2   2   1   1 Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase 1 OS=Danio rerio OX=7955 GN=cmtr1 PE=2 SV=1
+sp|Q7ZVS8|CMTR2_DANRE          -          FtsJ                 PF01728.26     3e-25   89.7   0.0   7.3e-25   88.4   0.0   1.7   2   0   0   2   2   1   1 Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase 2 OS=Danio rerio OX=7955 GN=cmtr2 PE=2 SV=1
+tr|A0A2R8QIW3|A0A2R8QIW3_DANRE -          FtsJ                 PF01728.26   1.5e-06   28.8   0.0    0.0081   16.6   0.0   2.5   2   0   0   2   2   2   2 Phosphoethanolamine methyltransferase OS=Danio rerio OX=7955 GN=pmt PE=1 SV=1
+tr|A0A0R4IAT4|A0A0R4IAT4_DANRE -          FtsJ                 PF01728.26   1.8e-05   25.3   0.0   3.2e-05   24.4   0.0   1.3   1   0   0   1   1   1   1 NOL1/NOP2/Sun domain family, member 6 OS=Danio rerio OX=7955 GN=nsun6 PE=3 SV=1
+sp|Q6NWG4|ANM6_DANRE           -          FtsJ                 PF01728.26   2.8e-05   24.6   0.1   6.5e-05   23.4   0.0   1.6   2   0   0   2   2   1   1 Protein arginine N-methyltransferase 6 OS=Danio rerio OX=7955 GN=prmt6 PE=2 SV=2
+tr|B0V0W5|B0V0W5_DANRE         -          FtsJ                 PF01728.26   2.8e-05   24.6   0.0     7e-05   23.3   0.0   1.6   1   0   0   1   1   1   1 Protein arginine methyltransferase 3 OS=Danio rerio OX=7955 GN=prmt3 PE=1 SV=1
+tr|B8JM23|B8JM23_DANRE         -          FtsJ                 PF01728.26   2.9e-05   24.6   0.0   5.5e-05   23.7   0.0   1.4   1   0   0   1   1   1   1 NOL1/NOP2/Sun domain family, member 4 OS=Danio rerio OX=7955 GN=nsun4 PE=1 SV=1
+tr|F1RDI6|F1RDI6_DANRE         -          FtsJ                 PF01728.26   0.00019   21.9   0.1   0.00056   20.4   0.0   1.8   2   0   0   2   2   2   1 NOP2/Sun domain family, member 5 OS=Danio rerio OX=7955 GN=nsun5 PE=1 SV=1
+tr|B8JIF1|B8JIF1_DANRE         -          FtsJ                 PF01728.26   0.00022   21.7   0.0    0.0009   19.7   0.0   1.9   2   0   0   2   2   2   1 Arsenite methyltransferase OS=Danio rerio OX=7955 GN=as3mt PE=1 SV=1
+tr|E7FFG0|E7FFG0_DANRE         -          FtsJ                 PF01728.26   0.00095   19.6   0.0    0.0021   18.5   0.0   1.6   1   0   0   1   1   1   1 Coactivator-associated arginine methyltransferase 1,-like OS=Danio rerio OX=7955 GN=carm1l PE=3 SV=2
+tr|A0A2R8QLU9|A0A2R8QLU9_DANRE -          FtsJ                 PF01728.26   0.00098   19.6   0.0    0.0021   18.5   0.0   1.6   1   0   0   1   1   1   1 Uncharacterized protein OS=Danio rerio OX=7955 GN=carm1l PE=3 SV=1
+sp|Q6DC04|CARM1_DANRE          -          FtsJ                 PF01728.26    0.0011   19.4   0.0    0.0026   18.2   0.0   1.6   1   0   0   1   1   1   1 Histone-arginine methyltransferase CARM1 OS=Danio rerio OX=7955 GN=carm1 PE=2 SV=1
+tr|E7F3B5|E7F3B5_DANRE         -          FtsJ                 PF01728.26    0.0012   19.3   0.0    0.0022   18.4   0.0   1.4   1   0   0   1   1   1   1 Protein arginine methyltransferase 8 OS=Danio rerio OX=7955 GN=LOC556054 PE=3 SV=3
+sp|Q5RGQ2|ANM8B_DANRE          -          FtsJ                 PF01728.26    0.0013   19.2   0.0    0.0026   18.2   0.0   1.4   1   0   0   1   1   1   1 Protein arginine N-methyltransferase 8-B OS=Danio rerio OX=7955 GN=prmt8b PE=2 SV=2
+tr|B3DIQ7|B3DIQ7_DANRE         -          FtsJ                 PF01728.26    0.0018   18.8   0.3    0.0087   16.5   0.2   1.9   1   1   1   2   2   2   1 Methyltransferase-like 22 OS=Danio rerio OX=7955 GN=mettl22 PE=2 SV=1
+tr|F1R9J8|F1R9J8_DANRE         -          FtsJ                 PF01728.26    0.0018   18.7   0.0    0.0038   17.7   0.0   1.7   1   1   0   1   1   1   1 Zgc:194242 OS=Danio rerio OX=7955 GN=zgc:194242 PE=4 SV=2
+tr|A0A2R8Q1A0|A0A2R8Q1A0_DANRE -          FtsJ                 PF01728.26     0.002   18.5   0.0    0.0024   18.3   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Danio rerio OX=7955 PE=4 SV=1
+tr|F1R3J9|F1R3J9_DANRE         -          FtsJ                 PF01728.26    0.0026   18.2   0.0     0.005   17.3   0.0   1.4   1   0   0   1   1   1   1 Protein arginine methyltransferase 1 OS=Danio rerio OX=7955 GN=prmt1 PE=1 SV=1
+tr|F1QDD1|F1QDD1_DANRE         -          FtsJ                 PF01728.26    0.0029   18.1   0.1     0.012   16.0   0.1   1.9   1   1   0   1   1   1   1 Protein arginine methyltransferase 2 OS=Danio rerio OX=7955 GN=prmt2 PE=3 SV=1
+tr|A0A1D5NT05|A0A1D5NT05_DANRE -          FtsJ                 PF01728.26    0.0033   17.9   0.0     0.025   15.0   0.0   2.1   2   0   0   2   2   2   1 Methyltransferase-like 15 OS=Danio rerio OX=7955 GN=mettl15 PE=1 SV=1
+sp|Q4KMK0|NSUN3_DANRE          -          FtsJ                 PF01728.26    0.0039   17.6   0.0     0.016   15.7   0.0   1.9   1   1   0   1   1   1   1 tRNA (cytosine(34)-C(5))-methyltransferase, mitochondrial OS=Danio rerio OX=7955 GN=nsun3 PE=2 SV=2
+sp|Q1MTD3|MCES_DANRE           -          FtsJ                 PF01728.26    0.0039   17.6   0.1     0.009   16.5   0.1   1.6   1   1   0   1   1   1   1 mRNA cap guanine-N7 methyltransferase OS=Danio rerio OX=7955 GN=rnmt PE=3 SV=1
+tr|F1QL05|F1QL05_DANRE         -          FtsJ                 PF01728.26    0.0084   16.5   0.0     0.014   15.9   0.0   1.4   1   1   0   1   1   1   1 Protein-L-isoaspartate O-methyltransferase OS=Danio rerio OX=7955 GN=pcmtl PE=1 SV=1
+tr|Q1LYQ0|Q1LYQ0_DANRE         -          FtsJ                 PF01728.26     0.016   15.6   0.0     0.027   14.9   0.0   1.4   1   0   0   1   1   1   0 Novel protein OS=Danio rerio OX=7955 GN=CH211-31O18.2-001 PE=1 SV=1
+tr|F1QWP7|F1QWP7_DANRE         -          FtsJ                 PF01728.26     0.021   15.3   0.0      0.06   13.8   0.0   1.8   1   0   0   1   1   1   0 NOP2 nucleolar protein homolog (yeast) OS=Danio rerio OX=7955 GN=nop2 PE=3 SV=1
+tr|A0A2R8Q256|A0A2R8Q256_DANRE -          FtsJ                 PF01728.26     0.027   14.9   0.0      0.24   11.8   0.0   2.2   2   0   0   2   2   2   0 tRNA methyltransferase 2 homolog A OS=Danio rerio OX=7955 GN=trmt2a PE=1 SV=1
+tr|A5PMI3|A5PMI3_DANRE         -          FtsJ                 PF01728.26     0.039   14.4   0.0      0.09   13.2   0.0   1.7   1   0   0   1   1   1   0 NOP2/Sun RNA methyltransferase family, member 2 OS=Danio rerio OX=7955 GN=nsun2 PE=1 SV=1
+sp|A3KQ55|MEPCE_DANRE          -          FtsJ                 PF01728.26     0.047   14.1   0.0      0.14   12.6   0.0   1.8   1   0   0   1   1   1   0 7SK snRNA methylphosphate capping enzyme OS=Danio rerio OX=7955 GN=mepce PE=3 SV=2
+tr|F1R5Z5|F1R5Z5_DANRE         -          FtsJ                 PF01728.26     0.056   13.9   0.0      0.11   12.9   0.0   1.4   1   0   0   1   1   1   0 Si:ch1073-157b13.1 OS=Danio rerio OX=7955 GN=si:ch1073-157b13.1 PE=4 SV=2
+tr|B0S688|B0S688_DANRE         -          FtsJ                 PF01728.26     0.063   13.7   0.1      0.17   12.3   0.0   1.8   2   0   0   2   2   2   0 rRNA adenine N(6)-methyltransferase OS=Danio rerio OX=7955 GN=dimt1l PE=1 SV=1
+tr|Q5RGQ0|Q5RGQ0_DANRE         -          FtsJ                 PF01728.26     0.063   13.7   0.0      0.13   12.7   0.0   1.5   1   0   0   1   1   1   0 Methyltransferase-like 25 OS=Danio rerio OX=7955 GN=mettl25 PE=4 SV=1
+sp|Q0P466|TYW2_DANRE           -          FtsJ                 PF01728.26       0.1   13.0   0.0      0.35   11.3   0.0   1.9   3   0   0   3   3   1   0 tRNA wybutosine-synthesizing protein 2 homolog OS=Danio rerio OX=7955 GN=trmt12 PE=2 SV=1
+tr|E9QCX1|E9QCX1_DANRE         -          FtsJ                 PF01728.26      0.12   12.8   0.5       0.2   12.0   0.5   1.4   1   1   0   1   1   1   0 Methyltransferase-like 5 OS=Danio rerio OX=7955 GN=mettl5 PE=4 SV=1
+sp|A3KP85|ETKMT_DANRE          -          FtsJ                 PF01728.26      0.21   12.0   0.0      0.32   11.4   0.0   1.3   1   0   0   1   1   1   0 Electron transfer flavoprotein beta subunit lysine methyltransferase OS=Danio rerio OX=7955 GN=etfbkmt PE=2 SV=2
+tr|A0A2R8QBE0|A0A2R8QBE0_DANRE -          FtsJ                 PF01728.26      0.22   11.9   0.0      0.32   11.4   0.0   1.3   1   0   0   1   1   1   0 Endothelin-converting enzyme 2a OS=Danio rerio OX=7955 GN=ece2a PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/FtsJ.hmm
+# Target file:     proteomes/Danio_rerio.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/FtsJ/Danio_rerio.tblout --cpu 8 pfam_list/FtsJ.hmm proteomes/Danio_rerio.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:55 2025
+# [ok]

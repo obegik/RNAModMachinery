@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A8I3NG73|A0A8I3NG73_CANLF -          AdoMet_MTase         PF07757.19   8.7e-31  106.7   0.0   1.3e-30  106.2   0.0   1.3   1   0   0   1   1   1   1 tRNA (uracil-O(2)-)-methyltransferase OS=Canis lupus familiaris OX=9615 GN=TRMT44 PE=3 SV=1
+tr|A0A8I3PIG6|A0A8I3PIG6_CANLF -          AdoMet_MTase         PF07757.19     0.065   13.7   0.4      0.27   11.7   0.1   1.9   1   1   1   2   2   2   0 ATP synthase subunit C lysine N-methyltransferase OS=Canis lupus familiaris OX=9615 GN=ATPSCKMT PE=3 SV=1
+tr|A0A8I3Q0U7|A0A8I3Q0U7_CANLF -          AdoMet_MTase         PF07757.19     0.097   13.1   0.0      0.17   12.4   0.0   1.4   1   0   0   1   1   1   0 Methyltransferase-like protein 5 OS=Canis lupus familiaris OX=9615 GN=METTL5 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/AdoMet_Mtase.hmm
+# Target file:     proteomes/Canis_familiaris.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/AdoMet_Mtase/Canis_familiaris.tblout --cpu 8 pfam_list/AdoMet_Mtase.hmm proteomes/Canis_familiaris.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:42 2025
+# [ok]

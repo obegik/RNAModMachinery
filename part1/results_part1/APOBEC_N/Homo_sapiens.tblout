@@ -1,0 +1,46 @@
+#                                                                  --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name           accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#   ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8IUX4|ABC3F_HUMAN   -          APOBEC_N             PF08210.18  3.5e-118  393.9  11.0   3.1e-68  231.3   2.9   2.0   2   0   0   2   2   2   2 DNA dC->dU-editing enzyme APOBEC-3F OS=Homo sapiens GN=APOBEC3F PE=1 SV=3
+sp|Q9UH17|ABC3B_HUMAN   -          APOBEC_N             PF08210.18  1.2e-109  366.1   5.9   9.4e-55  187.5   0.0   2.0   2   0   0   2   2   2   2 DNA dC->dU-editing enzyme APOBEC-3B OS=Homo sapiens GN=APOBEC3B PE=1 SV=1
+tr|B0QYD3|B0QYD3_HUMAN  -          APOBEC_N             PF08210.18  3.6e-109  364.6   5.9   1.6e-54  186.7   0.0   2.1   2   0   0   2   2   2   2 DNA dC->dU-editing enzyme APOBEC-3B OS=Homo sapiens GN=APOBEC3B PE=2 SV=1
+sp|Q96AK3|ABC3D_HUMAN   -          APOBEC_N             PF08210.18  6.4e-109  363.7  12.1   1.6e-61  209.5   3.4   2.1   2   0   0   2   2   2   2 DNA dC->dU-editing enzyme APOBEC-3D OS=Homo sapiens GN=APOBEC3D PE=1 SV=1
+sp|Q9HC16|ABC3G_HUMAN   -          APOBEC_N             PF08210.18  6.2e-102  341.0   9.9   3.6e-54  185.6   0.7   2.0   2   0   0   2   2   2   2 DNA dC->dU-editing enzyme APOBEC-3G OS=Homo sapiens GN=APOBEC3G PE=1 SV=1
+sp|Q9UH17-3|ABC3B_HUMAN -          APOBEC_N             PF08210.18  2.2e-100  336.0   7.8   1.9e-52  179.9   3.1   2.8   2   1   0   2   2   2   2 Isoform 3 of DNA dC->dU-editing enzyme APOBEC-3B OS=Homo sapiens GN=APOBEC3B
+sp|Q9NRW3|ABC3C_HUMAN   -          APOBEC_N             PF08210.18   3.3e-67  228.0   3.9   3.8e-67  227.8   3.9   1.0   1   0   0   1   1   1   1 DNA dC->dU-editing enzyme APOBEC-3C OS=Homo sapiens GN=APOBEC3C PE=1 SV=2
+tr|H0YGF6|H0YGF6_HUMAN  -          APOBEC_N             PF08210.18     9e-66  223.3   0.4     1e-65  223.1   0.4   1.0   1   0   0   1   1   1   1 Single-stranded DNA cytosine deaminase (Fragment) OS=Homo sapiens GN=AICDA PE=4 SV=1
+sp|Q9GZX7|AICDA_HUMAN   -          APOBEC_N             PF08210.18   9.1e-66  223.3   0.4     1e-65  223.1   0.4   1.0   1   0   0   1   1   1   1 Single-stranded DNA cytosine deaminase OS=Homo sapiens GN=AICDA PE=1 SV=1
+sp|Q9Y235|ABEC2_HUMAN   -          APOBEC_N             PF08210.18   4.2e-61  208.1   0.1     5e-61  207.9   0.1   1.1   1   0   0   1   1   1   1 Probable C->U-editing enzyme APOBEC-2 OS=Homo sapiens GN=APOBEC2 PE=1 SV=1
+tr|Q6ICH2|Q6ICH2_HUMAN  -          APOBEC_N             PF08210.18   4.4e-57  195.0   0.4   5.6e-57  194.7   0.4   1.1   1   0   0   1   1   1   1 BK150C2.9 protein OS=Homo sapiens GN=bK150C2.9 PE=2 SV=1
+sp|P31941-2|ABC3A_HUMAN -          APOBEC_N             PF08210.18   5.4e-56  191.5   0.0   6.4e-56  191.3   0.0   1.0   1   0   0   1   1   1   1 Isoform 2 of DNA dC->dU-editing enzyme APOBEC-3A OS=Homo sapiens GN=APOBEC3A
+sp|P31941|ABC3A_HUMAN   -          APOBEC_N             PF08210.18   6.8e-56  191.2   0.0   8.1e-56  190.9   0.0   1.0   1   0   0   1   1   1   1 DNA dC->dU-editing enzyme APOBEC-3A OS=Homo sapiens GN=APOBEC3A PE=1 SV=3
+sp|Q9GZX7-2|AICDA_HUMAN -          APOBEC_N             PF08210.18   4.1e-54  185.4   0.1   5.9e-54  184.9   0.1   1.2   1   0   0   1   1   1   1 Isoform 2 of Single-stranded DNA cytosine deaminase OS=Homo sapiens GN=AICDA
+sp|Q9UH17-2|ABC3B_HUMAN -          APOBEC_N             PF08210.18   5.9e-53  181.6   3.1   7.2e-53  181.3   3.1   1.1   1   0   0   1   1   1   1 Isoform 2 of DNA dC->dU-editing enzyme APOBEC-3B OS=Homo sapiens GN=APOBEC3B
+tr|H0YFL3|H0YFL3_HUMAN  -          APOBEC_N             PF08210.18   2.4e-49  169.8   0.0     3e-49  169.6   0.0   1.0   1   0   0   1   1   1   1 Single-stranded DNA cytosine deaminase (Fragment) OS=Homo sapiens GN=AICDA PE=4 SV=1
+sp|Q6NTF7-2|ABC3H_HUMAN -          APOBEC_N             PF08210.18   3.5e-41  143.3   1.1   3.9e-41  143.1   1.1   1.0   1   0   0   1   1   1   1 Isoform 2 of DNA dC->dU-editing enzyme APOBEC-3H OS=Homo sapiens GN=APOBEC3H
+sp|Q6NTF7-3|ABC3H_HUMAN -          APOBEC_N             PF08210.18   3.5e-41  143.3   1.1     4e-41  143.1   1.1   1.0   1   0   0   1   1   1   1 Isoform 3 of DNA dC->dU-editing enzyme APOBEC-3H OS=Homo sapiens GN=APOBEC3H
+sp|Q6NTF7|ABC3H_HUMAN   -          APOBEC_N             PF08210.18   4.8e-41  142.8   1.1   5.5e-41  142.6   1.1   1.0   1   0   0   1   1   1   1 DNA dC->dU-editing enzyme APOBEC-3H OS=Homo sapiens GN=APOBEC3H PE=1 SV=3
+sp|P41238|ABEC1_HUMAN   -          APOBEC_N             PF08210.18   1.5e-33  118.4   0.4   2.4e-33  117.8   0.4   1.2   1   0   0   1   1   1   1 C->U-editing enzyme APOBEC-1 OS=Homo sapiens GN=APOBEC1 PE=1 SV=3
+sp|Q6NTF7-4|ABC3H_HUMAN -          APOBEC_N             PF08210.18   9.3e-32  112.6   0.3   1.1e-31  112.4   0.3   1.0   1   0   0   1   1   1   1 Isoform 4 of DNA dC->dU-editing enzyme APOBEC-3H OS=Homo sapiens GN=APOBEC3H
+sp|Q8WW27|ABEC4_HUMAN   -          APOBEC_N             PF08210.18   1.2e-27   99.2   0.0   1.7e-27   98.7   0.0   1.2   1   0   0   1   1   1   1 Putative C->U-editing enzyme APOBEC-4 OS=Homo sapiens GN=APOBEC4 PE=2 SV=1
+tr|H0YFP1|H0YFP1_HUMAN  -          APOBEC_N             PF08210.18   3.1e-10   42.6   0.0   3.4e-10   42.4   0.0   1.0   1   0   0   1   1   1   1 Single-stranded DNA cytosine deaminase (Fragment) OS=Homo sapiens GN=AICDA PE=4 SV=1
+sp|Q7Z6V5-2|ADAT2_HUMAN -          APOBEC_N             PF08210.18     0.014   17.6   0.1     0.021   17.1   0.1   1.3   1   0   0   1   1   1   0 Isoform 2 of tRNA-specific adenosine deaminase 2 OS=Homo sapiens GN=ADAT2
+sp|Q7Z6V5|ADAT2_HUMAN   -          APOBEC_N             PF08210.18     0.018   17.3   0.1     0.027   16.7   0.1   1.3   1   0   0   1   1   1   0 tRNA-specific adenosine deaminase 2 OS=Homo sapiens GN=ADAT2 PE=1 SV=1
+sp|Q8IUX4-2|ABC3F_HUMAN -          APOBEC_N             PF08210.18      0.13   14.6   0.0      0.13   14.5   0.0   1.2   1   0   0   1   1   1   0 Isoform 2 of DNA dC->dU-editing enzyme APOBEC-3F OS=Homo sapiens GN=APOBEC3F
+sp|Q8IUX4-3|ABC3F_HUMAN -          APOBEC_N             PF08210.18      0.14   14.4   0.0      0.15   14.4   0.0   1.1   1   0   0   1   1   1   0 Isoform 3 of DNA dC->dU-editing enzyme APOBEC-3F OS=Homo sapiens GN=APOBEC3F
+sp|Q9HC16-3|ABC3G_HUMAN -          APOBEC_N             PF08210.18      0.15   14.3   0.0      0.16   14.2   0.0   1.2   1   0   0   1   1   1   0 Isoform 3 of DNA dC->dU-editing enzyme APOBEC-3G OS=Homo sapiens GN=APOBEC3G
+tr|D6RBJ9|D6RBJ9_HUMAN  -          APOBEC_N             PF08210.18      0.39   12.9   0.0       0.5   12.6   0.0   1.2   1   0   0   1   1   1   0 Deoxycytidylate deaminase (Fragment) OS=Homo sapiens GN=DCTD PE=2 SV=1
+tr|D6RBN2|D6RBN2_HUMAN  -          APOBEC_N             PF08210.18       0.4   12.9   0.1      0.52   12.5   0.1   1.2   1   0   0   1   1   1   0 Deoxycytidylate deaminase (Fragment) OS=Homo sapiens GN=DCTD PE=2 SV=1
+sp|P32321|DCTD_HUMAN    -          APOBEC_N             PF08210.18      0.43   12.8   0.0      0.55   12.5   0.0   1.2   1   0   0   1   1   1   0 Deoxycytidylate deaminase OS=Homo sapiens GN=DCTD PE=1 SV=2
+sp|P32321-2|DCTD_HUMAN  -          APOBEC_N             PF08210.18      0.48   12.7   0.0      0.63   12.3   0.0   1.2   1   0   0   1   1   1   0 Isoform 2 of Deoxycytidylate deaminase OS=Homo sapiens GN=DCTD
+tr|D6R9S0|D6R9S0_HUMAN  -          APOBEC_N             PF08210.18      0.56   12.4   0.1      0.73   12.1   0.1   1.2   1   0   0   1   1   1   0 Deoxycytidylate deaminase (Fragment) OS=Homo sapiens GN=DCTD PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/APOBEC_N.hmm
+# Target file:     proteomes/Homo_sapiens.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/APOBEC_N/Homo_sapiens.tblout --cpu 8 pfam_list/APOBEC_N.hmm proteomes/Homo_sapiens.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:58:51 2025
+# [ok]

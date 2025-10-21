@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|D4GW13|D4GW13_HALVD -          DREV                 PF05219.18    0.0011   15.9   0.0    0.0017   15.3   0.0   1.2   1   0   0   1   1   1   1 S-adenosylmethionine-dependent methyltransferase OS=Haloferax volcanii (strain ATCC 29605 / DSM 3757 / JCM 8879 / NBRC 14742 / NCIMB 2012 / VKM B-1768 / DS2) OX=309800 GN=HVO_1093 PE=4 SV=1
+tr|D4GYH8|D4GYH8_HALVD -          DREV                 PF05219.18    0.0046   13.9   0.0     0.005   13.8   0.0   1.2   1   0   0   1   1   1   1 S-adenosylmethionine-dependent methyltransferase OS=Haloferax volcanii (strain ATCC 29605 / DSM 3757 / JCM 8879 / NBRC 14742 / NCIMB 2012 / VKM B-1768 / DS2) OX=309800 GN=HVO_1534 PE=4 SV=1
+tr|D4GQ41|D4GQ41_HALVD -          DREV                 PF05219.18     0.016   12.2   0.0     0.025   11.5   0.0   1.2   1   0   0   1   1   1   0 S-adenosylmethionine-dependent methyltransferase OS=Haloferax volcanii (strain ATCC 29605 / DSM 3757 / JCM 8879 / NBRC 14742 / NCIMB 2012 / VKM B-1768 / DS2) OX=309800 GN=HVO_A0009 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DREV.hmm
+# Target file:     proteomes/Haloferax_volcanii.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DREV/Haloferax_volcanii.tblout --cpu 8 pfam_list/DREV.hmm proteomes/Haloferax_volcanii.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:22 2025
+# [ok]

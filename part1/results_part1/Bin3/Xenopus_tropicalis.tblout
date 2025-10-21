@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1B8XXG2|A0A1B8XXG2_XENTR -          Bin3                 PF06859.19   4.4e-28   98.4   0.0   8.7e-28   97.5   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein (Fragment) OS=Xenopus tropicalis OX=8364 GN=XENTR_v900300652mg PE=4 SV=1
+tr|F7DZT0|F7DZT0_XENTR         -          Bin3                 PF06859.19   0.00015   22.7   0.1       1.6    9.7   0.0   3.8   3   1   0   3   3   3   2 Uncharacterized protein OS=Xenopus tropicalis OX=8364 GN=loc100124841 PE=4 SV=1
+tr|A0A1B8Y760|A0A1B8Y760_XENTR -          Bin3                 PF06859.19      0.18   12.8   0.0       0.4   11.7   0.0   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus tropicalis OX=8364 GN=XENTR_v90030316mg PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Bin3.hmm
+# Target file:     proteomes/Xenopus_tropicalis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Bin3/Xenopus_tropicalis.tblout --cpu 8 pfam_list/Bin3.hmm proteomes/Xenopus_tropicalis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:56 2025
+# [ok]

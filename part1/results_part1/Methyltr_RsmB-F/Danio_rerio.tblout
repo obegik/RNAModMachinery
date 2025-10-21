@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F1QWP7|F1QWP7_DANRE         -          Methyltr_RsmB-F      PF01189.24   6.5e-75  251.7   0.0   1.4e-74  250.6   0.0   1.6   1   0   0   1   1   1   1 NOP2 nucleolar protein homolog (yeast) OS=Danio rerio OX=7955 GN=nop2 PE=3 SV=1
+tr|A0A0R4IAT4|A0A0R4IAT4_DANRE -          Methyltr_RsmB-F      PF01189.24   7.1e-44  150.4   0.0   1.1e-43  149.8   0.0   1.3   1   0   0   1   1   1   1 NOL1/NOP2/Sun domain family, member 6 OS=Danio rerio OX=7955 GN=nsun6 PE=3 SV=1
+tr|A5PMI3|A5PMI3_DANRE         -          Methyltr_RsmB-F      PF01189.24     8e-37  127.3   0.0   2.1e-33  116.2   0.0   2.4   2   0   0   2   2   2   2 NOP2/Sun RNA methyltransferase family, member 2 OS=Danio rerio OX=7955 GN=nsun2 PE=1 SV=1
+tr|F1RDI6|F1RDI6_DANRE         -          Methyltr_RsmB-F      PF01189.24   1.1e-32  113.8   0.0   2.1e-32  112.9   0.0   1.4   1   0   0   1   1   1   1 NOP2/Sun domain family, member 5 OS=Danio rerio OX=7955 GN=nsun5 PE=1 SV=1
+sp|Q4KMK0|NSUN3_DANRE          -          Methyltr_RsmB-F      PF01189.24   6.1e-30  104.9   0.0   8.5e-30  104.4   0.0   1.3   1   0   0   1   1   1   1 tRNA (cytosine(34)-C(5))-methyltransferase, mitochondrial OS=Danio rerio OX=7955 GN=nsun3 PE=2 SV=2
+tr|B8JM23|B8JM23_DANRE         -          Methyltr_RsmB-F      PF01189.24   2.5e-29  102.9   0.1   3.6e-29  102.3   0.1   1.2   1   0   0   1   1   1   1 NOL1/NOP2/Sun domain family, member 4 OS=Danio rerio OX=7955 GN=nsun4 PE=1 SV=1
+tr|A0A1D5NT05|A0A1D5NT05_DANRE -          Methyltr_RsmB-F      PF01189.24     0.084   13.0   0.0      0.18   11.9   0.0   1.6   1   0   0   1   1   1   0 Methyltransferase-like 15 OS=Danio rerio OX=7955 GN=mettl15 PE=1 SV=1
+tr|Q7ZTZ4|Q7ZTZ4_DANRE         -          Methyltr_RsmB-F      PF01189.24      0.28   11.3   0.0      0.57   10.3   0.0   1.6   1   0   0   1   1   1   0 Fibrillarin OS=Danio rerio OX=7955 GN=fbl PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltr_RsmB-F.hmm
+# Target file:     proteomes/Danio_rerio.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltr_RsmB-F/Danio_rerio.tblout --cpu 8 pfam_list/Methyltr_RsmB-F.hmm proteomes/Danio_rerio.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:10:14 2025
+# [ok]

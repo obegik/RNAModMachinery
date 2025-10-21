@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6WLS5|F6WLS5_XENTR         -          LCM                  PF04072.21   2.7e-29  102.8   0.0   9.7e-29  101.0   0.0   1.8   1   1   0   1   1   1   1 Leucine carboxyl methyltransferase 1 OS=Xenopus tropicalis OX=8364 GN=lcmt1 PE=3 SV=1
+tr|A0A1B8Y0D0|A0A1B8Y0D0_XENTR -          LCM                  PF04072.21   7.9e-15   55.6   0.0   9.9e-15   55.3   0.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein (Fragment) OS=Xenopus tropicalis OX=8364 GN=XENTR_v900284115mg PE=4 SV=1
+tr|F7C674|F7C674_XENTR         -          LCM                  PF04072.21    0.0024   18.2   0.0    0.0036   17.7   0.0   1.2   1   0   0   1   1   1   1 Leucine carboxyl methyltransferase 1 OS=Xenopus tropicalis OX=8364 GN=lcmt2 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/LCM.hmm
+# Target file:     proteomes/Xenopus_tropicalis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/LCM/Xenopus_tropicalis.tblout --cpu 8 pfam_list/LCM.hmm proteomes/Xenopus_tropicalis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:48 2025
+# [ok]

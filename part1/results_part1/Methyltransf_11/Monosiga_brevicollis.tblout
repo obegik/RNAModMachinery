@@ -1,0 +1,67 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A9UVH5|A9UVH5_MONBE -          Methyltransf_11      PF08241.19   1.4e-20   72.8   0.0   2.3e-20   72.1   0.0   1.4   1   0   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=6966 PE=4 SV=1
+tr|A9VD27|A9VD27_MONBE -          Methyltransf_11      PF08241.19   2.9e-20   71.8   0.3   9.2e-20   70.2   0.1   1.9   3   0   0   3   3   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=34649 PE=4 SV=1
+tr|A9UPH2|A9UPH2_MONBE -          Methyltransf_11      PF08241.19   1.6e-19   69.4   0.0   3.4e-19   68.3   0.0   1.6   1   0   0   1   1   1   1 Uncharacterized protein OS=Monosiga brevicollis OX=81824 GN=22072 PE=4 SV=1
+tr|A9V6Y8|A9V6Y8_MONBE -          Methyltransf_11      PF08241.19   7.1e-19   67.3   0.0   1.5e-18   66.3   0.0   1.6   1   0   0   1   1   1   1 Methyltransferase OS=Monosiga brevicollis OX=81824 GN=33702 PE=3 SV=1
+tr|A9UP81|A9UP81_MONBE -          Methyltransf_11      PF08241.19   1.3e-17   63.3   0.0   2.3e-17   62.5   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Monosiga brevicollis OX=81824 GN=21994 PE=4 SV=1
+tr|A9UQQ3|A9UQQ3_MONBE -          Methyltransf_11      PF08241.19   2.4e-17   62.4   0.3   6.1e-15   54.7   0.3   2.5   1   1   0   1   1   1   1 Uncharacterized protein OS=Monosiga brevicollis OX=81824 GN=31008 PE=4 SV=1
+tr|A9UYM4|A9UYM4_MONBE -          Methyltransf_11      PF08241.19   2.6e-15   55.9   0.1   6.1e-15   54.7   0.1   1.7   1   0   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=25176 PE=4 SV=1
+tr|A9UX28|A9UX28_MONBE -          Methyltransf_11      PF08241.19   3.1e-15   55.7   0.0   4.9e-15   55.0   0.0   1.3   1   0   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=16440 PE=4 SV=1
+tr|A9V2V4|A9V2V4_MONBE -          Methyltransf_11      PF08241.19   3.3e-15   55.6   0.0   6.3e-15   54.7   0.0   1.5   1   0   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=9348 PE=4 SV=1
+tr|A9VAG1|A9VAG1_MONBE -          Methyltransf_11      PF08241.19   5.6e-15   54.8   0.1   9.2e-15   54.1   0.1   1.4   1   0   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=29214 PE=4 SV=1
+tr|A9UXY5|A9UXY5_MONBE -          Methyltransf_11      PF08241.19   2.9e-14   52.5   0.0   7.1e-14   51.3   0.0   1.7   1   0   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=36815 PE=4 SV=1
+tr|A9UWC2|A9UWC2_MONBE -          Methyltransf_11      PF08241.19   4.6e-14   51.9   0.1   7.5e-14   51.2   0.1   1.4   1   0   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=36597 PE=4 SV=1
+tr|A9UU62|A9UU62_MONBE -          Methyltransf_11      PF08241.19   6.3e-13   48.2   0.0   6.5e-12   45.0   0.0   2.4   2   0   0   2   2   2   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=36263 PE=4 SV=1
+tr|A9VAQ4|A9VAQ4_MONBE -          Methyltransf_11      PF08241.19   3.6e-12   45.8   0.1   7.2e-12   44.8   0.1   1.5   1   0   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=38875 PE=4 SV=1
+tr|A9V0W8|A9V0W8_MONBE -          Methyltransf_11      PF08241.19   3.6e-12   45.8   0.1   2.7e-11   43.0   0.1   2.5   2   0   0   2   2   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=32648 PE=3 SV=1
+tr|A9V2N1|A9V2N1_MONBE -          Methyltransf_11      PF08241.19     6e-12   45.1   0.0     2e-11   43.4   0.0   1.9   2   0   0   2   2   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=37585 PE=3 SV=1
+tr|A9V7T3|A9V7T3_MONBE -          Methyltransf_11      PF08241.19   5.2e-11   42.1   0.0   3.4e-10   39.5   0.0   2.5   2   0   0   2   2   1   1 Predicted protein (Fragment) OS=Monosiga brevicollis OX=81824 GN=33828 PE=4 SV=1
+tr|A9UXF0|A9UXF0_MONBE -          Methyltransf_11      PF08241.19   7.3e-11   41.6   0.0   1.4e-10   40.8   0.0   1.4   1   0   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=18922 PE=4 SV=1
+tr|A9VAX4|A9VAX4_MONBE -          Methyltransf_11      PF08241.19   8.1e-11   41.5   0.0   3.3e-10   39.5   0.0   2.1   2   0   0   2   2   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=34319 PE=4 SV=1
+tr|A9V7J4|A9V7J4_MONBE -          Methyltransf_11      PF08241.19     1e-09   38.0   0.0   1.6e-09   37.3   0.0   1.3   1   0   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=28218 PE=4 SV=1
+tr|A9VAN6|A9VAN6_MONBE -          Methyltransf_11      PF08241.19   1.7e-09   37.2   0.0   3.5e-09   36.2   0.0   1.5   1   0   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=29289 PE=4 SV=1
+tr|A9V8N0|A9V8N0_MONBE -          Methyltransf_11      PF08241.19   2.4e-09   36.8   0.0   3.7e-09   36.2   0.0   1.3   1   0   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=11246 PE=4 SV=1
+tr|A9UT82|A9UT82_MONBE -          Methyltransf_11      PF08241.19   7.4e-09   35.2   0.0   1.5e-07   31.0   0.0   2.7   2   1   0   2   2   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=19935 PE=4 SV=1
+tr|A9UT49|A9UT49_MONBE -          Methyltransf_11      PF08241.19   9.9e-09   34.8   0.1   3.1e-08   33.2   0.0   1.8   2   0   0   2   2   1   1 Methyltransferase-like protein OS=Monosiga brevicollis OX=81824 GN=23351 PE=3 SV=1
+tr|A9UUG3|A9UUG3_MONBE -          Methyltransf_11      PF08241.19   1.5e-08   34.2   0.0   2.4e-08   33.5   0.0   1.3   1   0   0   1   1   1   1 Predicted protein (Fragment) OS=Monosiga brevicollis OX=81824 GN=15704 PE=4 SV=1
+tr|A9UQI2|A9UQI2_MONBE -          Methyltransf_11      PF08241.19   4.6e-08   32.7   0.0   7.2e-08   32.0   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Monosiga brevicollis OX=81824 GN=21077 PE=4 SV=1
+tr|A9UQ29|A9UQ29_MONBE -          Methyltransf_11      PF08241.19   1.3e-06   28.0   0.0   4.2e-06   26.4   0.0   1.9   2   0   0   2   2   1   1 Uncharacterized protein OS=Monosiga brevicollis OX=81824 GN=22269 PE=4 SV=1
+tr|A9UV84|A9UV84_MONBE -          Methyltransf_11      PF08241.19   4.4e-06   26.3   0.0   9.3e-06   25.3   0.0   1.6   1   0   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=36368 PE=4 SV=1
+tr|A9UR20|A9UR20_MONBE -          Methyltransf_11      PF08241.19   5.2e-06   26.1   0.0   9.6e-06   25.2   0.0   1.5   1   0   0   1   1   1   1 Uncharacterized protein (Fragment) OS=Monosiga brevicollis OX=81824 GN=2498 PE=4 SV=1
+tr|A9VA61|A9VA61_MONBE -          Methyltransf_11      PF08241.19   1.4e-05   24.7   0.1   6.1e-05   22.7   0.0   2.1   1   1   1   2   2   2   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=29115 PE=4 SV=1
+tr|A9USK1|A9USK1_MONBE -          Methyltransf_11      PF08241.19   2.4e-05   23.9   0.0    0.0033   17.1   0.0   2.5   1   1   0   2   2   2   1 Predicted protein (Fragment) OS=Monosiga brevicollis OX=81824 GN=14285 PE=4 SV=1
+tr|A9UP83|A9UP83_MONBE -          Methyltransf_11      PF08241.19   2.4e-05   23.9   0.1   5.1e-05   22.9   0.1   1.5   1   0   0   1   1   1   1 Uncharacterized protein OS=Monosiga brevicollis OX=81824 GN=14119 PE=4 SV=1
+tr|A9V663|A9V663_MONBE -          Methyltransf_11      PF08241.19   5.5e-05   22.8   0.0   0.00011   21.8   0.0   1.5   1   0   0   1   1   1   1 rRNA adenine N(6)-methyltransferase OS=Monosiga brevicollis OX=81824 GN=27741 PE=3 SV=1
+tr|A9V8B1|A9V8B1_MONBE -          Methyltransf_11      PF08241.19   7.7e-05   22.3   0.0   0.00031   20.4   0.0   2.2   1   0   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=33899 PE=4 SV=1
+tr|A9V327|A9V327_MONBE -          Methyltransf_11      PF08241.19   0.00017   21.2   0.1    0.0021   17.7   0.0   2.3   2   0   0   2   2   2   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=33022 PE=4 SV=1
+tr|A9UP24|A9UP24_MONBE -          Methyltransf_11      PF08241.19   0.00028   20.5   0.2    0.0017   18.0   0.1   2.2   2   0   0   2   2   2   1 Uncharacterized protein OS=Monosiga brevicollis OX=81824 GN=30766 PE=4 SV=1
+tr|A9UZS4|A9UZS4_MONBE -          Methyltransf_11      PF08241.19   0.00034   20.2   0.0   0.00093   18.9   0.0   1.8   1   0   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=25560 PE=4 SV=1
+tr|A9VAA8|A9VAA8_MONBE -          Methyltransf_11      PF08241.19   0.00044   19.9   0.0    0.0011   18.6   0.0   1.7   1   0   0   1   1   1   1 Predicted protein (Fragment) OS=Monosiga brevicollis OX=81824 GN=34220 PE=4 SV=1
+tr|A9UST5|A9UST5_MONBE -          Methyltransf_11      PF08241.19   0.00055   19.6   0.1    0.0059   16.3   0.0   2.2   1   1   1   2   2   2   1 Predicted protein (Fragment) OS=Monosiga brevicollis OX=81824 GN=31276 PE=4 SV=1
+tr|A9V3Y6|A9V3Y6_MONBE -          Methyltransf_11      PF08241.19   0.00055   19.6   0.0    0.0018   17.9   0.0   2.0   1   1   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=9648 PE=4 SV=1
+tr|A9UV85|A9UV85_MONBE -          Methyltransf_11      PF08241.19   0.00075   19.1   0.3    0.0023   17.6   0.0   2.0   2   1   0   2   2   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=18255 PE=3 SV=1
+tr|A9V9Z7|A9V9Z7_MONBE -          Methyltransf_11      PF08241.19   0.00092   18.9   0.1    0.0067   16.1   0.1   2.4   2   1   0   2   2   2   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=38764 PE=4 SV=1
+tr|A9UV07|A9UV07_MONBE -          Methyltransf_11      PF08241.19   0.00096   18.8   0.0    0.0021   17.7   0.0   1.6   1   0   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=15473 PE=3 SV=1
+tr|A9UY99|A9UY99_MONBE -          Methyltransf_11      PF08241.19    0.0013   18.3   0.1       2.1    8.1   0.0   3.4   2   1   1   3   3   2   0 Predicted protein OS=Monosiga brevicollis OX=81824 GN=18908 PE=3 SV=1
+tr|A9VDP2|A9VDP2_MONBE -          Methyltransf_11      PF08241.19    0.0022   17.6   0.1      0.05   13.3   0.0   2.6   2   0   0   2   2   2   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=39313 PE=4 SV=1
+tr|A9USY0|A9USY0_MONBE -          Methyltransf_11      PF08241.19    0.0023   17.6   0.0    0.0054   16.4   0.0   1.7   1   0   0   1   1   1   1 Protein arginine N-methyltransferase OS=Monosiga brevicollis OX=81824 GN=31396 PE=3 SV=1
+sp|A9V767|DRE2_MONBE   -          Methyltransf_11      PF08241.19    0.0049   16.5   0.0     0.011   15.5   0.0   1.6   1   0   0   1   1   1   1 Anamorsin homolog OS=Monosiga brevicollis OX=81824 GN=33738 PE=3 SV=1
+tr|A9V5I3|A9V5I3_MONBE -          Methyltransf_11      PF08241.19    0.0099   15.6   0.2      0.12   12.1   0.0   2.4   3   0   0   3   3   2   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=10201 PE=4 SV=1
+tr|A9V1M5|A9V1M5_MONBE -          Methyltransf_11      PF08241.19     0.036   13.8   0.0     0.097   12.4   0.0   1.7   1   0   0   1   1   1   0 Predicted protein OS=Monosiga brevicollis OX=81824 GN=37421 PE=3 SV=1
+tr|A9UXQ3|A9UXQ3_MONBE -          Methyltransf_11      PF08241.19     0.038   13.7   0.0      0.15   11.8   0.0   2.0   1   1   0   2   2   1   0 Predicted protein OS=Monosiga brevicollis OX=81824 GN=32107 PE=4 SV=1
+tr|A9UUM6|A9UUM6_MONBE -          Methyltransf_11      PF08241.19     0.045   13.5   0.0     0.082   12.6   0.0   1.5   1   0   0   1   1   1   0 Predicted protein OS=Monosiga brevicollis OX=81824 GN=24077 PE=4 SV=1
+tr|A9V2N6|A9V2N6_MONBE -          Methyltransf_11      PF08241.19     0.064   13.0   0.3       6.2    6.6   0.0   2.2   1   1   1   2   2   2   0 Predicted protein (Fragment) OS=Monosiga brevicollis OX=81824 GN=32945 PE=4 SV=1
+tr|A9VCU4|A9VCU4_MONBE -          Methyltransf_11      PF08241.19     0.075   12.7   0.3      0.31   10.8   0.1   2.2   2   0   0   2   2   1   0 Predicted protein OS=Monosiga brevicollis OX=81824 GN=12628 PE=4 SV=1
+tr|A9UR49|A9UR49_MONBE -          Methyltransf_11      PF08241.19     0.095   12.4   0.0      0.68    9.7   0.0   2.2   2   0   0   2   2   2   0 Predicted protein OS=Monosiga brevicollis OX=81824 GN=23080 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltransf_11.hmm
+# Target file:     proteomes/Monosiga_brevicollis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltransf_11/Monosiga_brevicollis.tblout --cpu 8 pfam_list/Methyltransf_11.hmm proteomes/Monosiga_brevicollis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:12:36 2025
+# [ok]

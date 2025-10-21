@@ -1,0 +1,18 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A9UUG3|A9UUG3_MONBE -          DREV                 PF05219.18   4.8e-48  162.6   0.0   5.4e-48  162.4   0.0   1.0   1   0   0   1   1   1   1 Predicted protein (Fragment) OS=Monosiga brevicollis OX=81824 GN=15704 PE=4 SV=1
+tr|A9VD27|A9VD27_MONBE -          DREV                 PF05219.18   7.9e-05   20.9   0.0   0.00011   20.4   0.0   1.3   1   0   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=34649 PE=4 SV=1
+tr|A9UXY5|A9UXY5_MONBE -          DREV                 PF05219.18    0.0017   16.5   0.0    0.0025   16.0   0.0   1.2   1   0   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=36815 PE=4 SV=1
+tr|A9V2V4|A9V2V4_MONBE -          DREV                 PF05219.18     0.014   13.6   0.0     0.019   13.2   0.0   1.3   1   0   0   1   1   1   0 Predicted protein OS=Monosiga brevicollis OX=81824 GN=9348 PE=4 SV=1
+tr|A9V663|A9V663_MONBE -          DREV                 PF05219.18      0.08   11.1   0.0      0.14   10.2   0.0   1.3   1   0   0   1   1   1   0 rRNA adenine N(6)-methyltransferase OS=Monosiga brevicollis OX=81824 GN=27741 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DREV.hmm
+# Target file:     proteomes/Monosiga_brevicollis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DREV/Monosiga_brevicollis.tblout --cpu 8 pfam_list/DREV.hmm proteomes/Monosiga_brevicollis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:23 2025
+# [ok]

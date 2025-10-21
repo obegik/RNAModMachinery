@@ -1,0 +1,18 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|H9G8K3|H9G8K3_ANOCA -          DNA_methylase        PF00145.24   5.9e-49  167.3   0.0   2.8e-48  165.0   0.0   2.2   2   1   0   2   2   2   1 DNA (cytosine-5)-methyltransferase OS=Anolis carolinensis OX=28377 GN=DNMT1 PE=3 SV=2
+tr|G1KDM2|G1KDM2_ANOCA -          DNA_methylase        PF00145.24   2.7e-40  138.8   0.0   3.6e-40  138.4   0.0   1.2   1   0   0   1   1   1   1 tRNA aspartic acid methyltransferase 1 OS=Anolis carolinensis OX=28377 GN=TRDMT1 PE=3 SV=1
+tr|H9GDH4|H9GDH4_ANOCA -          DNA_methylase        PF00145.24     2e-15   57.1   0.0   9.3e-12   45.0   0.0   2.3   2   0   0   2   2   2   2 Uncharacterized protein OS=Anolis carolinensis OX=28377 PE=3 SV=2
+tr|H9GFQ9|H9GFQ9_ANOCA -          DNA_methylase        PF00145.24   1.3e-14   54.4   0.0   1.2e-12   47.9   0.0   2.1   2   0   0   2   2   2   2 DNA methyltransferase 3 beta OS=Anolis carolinensis OX=28377 GN=DNMT3B PE=3 SV=1
+tr|H9GNU1|H9GNU1_ANOCA -          DNA_methylase        PF00145.24   0.00081   18.9   0.1    0.0018   17.8   0.0   1.5   2   0   0   2   2   2   1 Methyltransferase like 5 OS=Anolis carolinensis OX=28377 GN=METTL5 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DNA_methylase.hmm
+# Target file:     proteomes/Anolis_carolinensis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DNA_methylase/Anolis_carolinensis.tblout --cpu 8 pfam_list/DNA_methylase.hmm proteomes/Anolis_carolinensis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:00:08 2025
+# [ok]

@@ -1,0 +1,14 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P15646|FBRL_YEAST -          Fibrillarin          PF01269.24  2.6e-107  355.6   0.0  3.2e-107  355.3   0.0   1.0   1   0   0   1   1   1   1 rRNA 2'-O-methyltransferase fibrillarin OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NOP1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Fibrillarin.hmm
+# Target file:     proteomes/Saccharomyces_cerevisiae.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Fibrillarin/Saccharomyces_cerevisiae.tblout --cpu 8 pfam_list/Fibrillarin.hmm proteomes/Saccharomyces_cerevisiae.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:44 2025
+# [ok]

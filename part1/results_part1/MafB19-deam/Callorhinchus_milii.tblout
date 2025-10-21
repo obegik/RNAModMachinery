@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A4W3GM14|A0A4W3GM14_CALMI -          MafB19-deam          PF14437.13     4e-15   56.0   0.1   5.5e-15   55.5   0.1   1.2   1   0   0   1   1   1   1 Deoxycytidylate deaminase OS=Callorhinchus milii OX=7868 PE=3 SV=2
+tr|A0A4W3H5V6|A0A4W3H5V6_CALMI -          MafB19-deam          PF14437.13   3.3e-14   53.0   2.2   1.2e-06   28.5   0.3   3.2   2   1   0   2   2   2   2 Cytidine and dCMP deaminase domain-containing protein 1 OS=Callorhinchus milii OX=7868 GN=cdadc1 PE=3 SV=1
+tr|A0A4W3I318|A0A4W3I318_CALMI -          MafB19-deam          PF14437.13   2.1e-07   31.0   0.0   2.9e-07   30.5   0.0   1.4   1   0   0   1   1   1   1 tRNA-specific adenosine deaminase 2 OS=Callorhinchus milii OX=7868 PE=3 SV=1
+tr|V9L332|V9L332_CALMI         -          MafB19-deam          PF14437.13     0.027   14.4   0.0      0.04   13.9   0.0   1.2   1   0   0   1   1   1   0 Apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 2a OS=Callorhinchus milii OX=7868 GN=apobec2a PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MafB19-deam.hmm
+# Target file:     proteomes/Callorhinchus_milii.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MafB19-deam/Callorhinchus_milii.tblout --cpu 8 pfam_list/MafB19-deam.hmm proteomes/Callorhinchus_milii.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:09:21 2025
+# [ok]

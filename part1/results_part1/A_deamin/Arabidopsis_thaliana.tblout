@@ -1,0 +1,14 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|F4HU58|TAD1_ARATH -          A_deamin             PF02137.25   8.1e-86  289.0   0.2   9.7e-86  288.8   0.2   1.1   1   0   0   1   1   1   1 tRNA-specific adenosine deaminase TAD1 OS=Arabidopsis thaliana OX=3702 GN=TAD1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/A_deamin.hmm
+# Target file:     proteomes/Arabidopsis_thaliana.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/A_deamin/Arabidopsis_thaliana.tblout --cpu 8 pfam_list/A_deamin.hmm proteomes/Arabidopsis_thaliana.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:06 2025
+# [ok]

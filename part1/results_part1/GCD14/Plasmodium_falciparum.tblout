@@ -1,0 +1,20 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q8IEF7|Q8IEF7_PLAF7         -          GCD14                PF08704.17   1.4e-52  177.1   0.1   1.7e-52  176.8   0.1   1.1   1   0   0   1   1   1   1 tRNA (adenine(58)-N(1))-methyltransferase OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1315700 PE=1 SV=1
+tr|Q8IM23|Q8IM23_PLAF7         -          GCD14                PF08704.17   0.00012   20.1   0.0   0.00018   19.5   0.0   1.2   1   0   0   1   1   1   1 rRNA 2'-O-methyltransferase fibrillarin OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1407100 PE=1 SV=1
+tr|Q8I5B4|Q8I5B4_PLAF7         -          GCD14                PF08704.17     0.001   17.1   0.0    0.0016   16.4   0.0   1.2   1   0   0   1   1   1   1 Sun-family protein, putative OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1230600 PE=3 SV=1
+tr|Q8IM66|Q8IM66_PLAF7         -          GCD14                PF08704.17      0.02   12.8   3.7     0.047   11.6   3.7   1.6   1   0   0   1   1   1   0 26S proteasome regulatory subunit RPN6 OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1402300 PE=1 SV=1
+tr|O97279|O97279_PLAF7         -          GCD14                PF08704.17       3.9    5.3   7.7       2.8    5.8   6.0   1.6   1   1   1   2   2   2   0 Uncharacterized protein OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_0319900 PE=1 SV=1
+tr|Q8IBV2|Q8IBV2_PLAF7         -          GCD14                PF08704.17       5.3    4.9  16.6      0.23    9.4   9.6   2.1   2   0   0   2   2   2   0 Transcription elongation factor s-II, putative OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_0714500 PE=1 SV=1
+sp|O97336|EPTP7_PLAF7          -          GCD14                PF08704.17       6.5    4.6   7.4        15    3.4   7.4   1.6   1   0   0   1   1   1   0 EMP1 trafficking protein-7 OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PTP7 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/GCD14.hmm
+# Target file:     proteomes/Plasmodium_falciparum.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/GCD14/Plasmodium_falciparum.tblout --cpu 8 pfam_list/GCD14.hmm proteomes/Plasmodium_falciparum.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:14 2025
+# [ok]

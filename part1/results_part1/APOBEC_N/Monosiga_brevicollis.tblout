@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A9UWJ1|A9UWJ1_MONBE -          APOBEC_N             PF08210.18     0.024   13.7   0.2     0.034   13.2   0.2   1.2   1   0   0   1   1   1   0 Predicted protein (Fragment) OS=Monosiga brevicollis OX=81824 GN=3136 PE=4 SV=1
+tr|A9UVH1|A9UVH1_MONBE -          APOBEC_N             PF08210.18     0.071   12.2   0.0      0.12   11.5   0.0   1.3   1   0   0   1   1   1   0 Predicted protein (Fragment) OS=Monosiga brevicollis OX=81824 GN=2378 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/APOBEC_N.hmm
+# Target file:     proteomes/Monosiga_brevicollis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/APOBEC_N/Monosiga_brevicollis.tblout --cpu 8 pfam_list/APOBEC_N.hmm proteomes/Monosiga_brevicollis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:58:52 2025
+# [ok]

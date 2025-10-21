@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|V9L332|V9L332_CALMI         -          APOBEC_N             PF08210.18   1.5e-57  194.4   0.2   1.8e-57  194.2   0.2   1.0   1   0   0   1   1   1   1 Apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 2a OS=Callorhinchus milii OX=7868 GN=apobec2a PE=2 SV=1
+tr|A0A4W3GN99|A0A4W3GN99_CALMI -          APOBEC_N             PF08210.18   2.6e-27   96.0   1.1   3.3e-27   95.7   1.1   1.1   1   0   0   1   1   1   1 CMP/dCMP-type deaminase domain-containing protein OS=Callorhinchus milii OX=7868 PE=4 SV=1
+tr|A0A4W3K0Q7|A0A4W3K0Q7_CALMI -          APOBEC_N             PF08210.18   7.6e-19   68.5   0.0   1.1e-18   68.0   0.0   1.2   1   0   0   1   1   1   1 Apolipoprotein B mRNA editing enzyme catalytic polypeptide like 4 OS=Callorhinchus milii OX=7868 GN=LOC103180061 PE=4 SV=1
+tr|A0A4W3H5V6|A0A4W3H5V6_CALMI -          APOBEC_N             PF08210.18    0.0044   17.2   0.4      0.69   10.0   0.0   2.4   2   0   0   2   2   2   2 Cytidine and dCMP deaminase domain-containing protein 1 OS=Callorhinchus milii OX=7868 GN=cdadc1 PE=3 SV=1
+tr|A0A4W3GM14|A0A4W3GM14_CALMI -          APOBEC_N             PF08210.18     0.038   14.1   0.1     0.065   13.3   0.1   1.4   1   0   0   1   1   1   0 Deoxycytidylate deaminase OS=Callorhinchus milii OX=7868 PE=3 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/APOBEC_N.hmm
+# Target file:     proteomes/Callorhinchus_milii.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/APOBEC_N/Callorhinchus_milii.tblout --cpu 8 pfam_list/APOBEC_N.hmm proteomes/Callorhinchus_milii.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:58:49 2025
+# [ok]

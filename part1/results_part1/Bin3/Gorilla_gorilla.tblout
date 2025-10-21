@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|G3QRK4|G3QRK4_GORGO         -          Bin3                 PF06859.19   2.4e-44  150.6   0.0   3.6e-44  150.0   0.0   1.3   1   0   0   1   1   1   1 RNA methyltransferase OS=Gorilla gorilla gorilla OX=9595 GN=MEPCE PE=3 SV=1
+tr|G3QJN0|G3QJN0_GORGO         -          Bin3                 PF06859.19      0.21   12.5   0.0      0.36   11.7   0.0   1.4   1   0   0   1   1   1   0 N-terminal Xaa-Pro-Lys N-methyltransferase 1 OS=Gorilla gorilla gorilla OX=9595 GN=NTMT1 PE=3 SV=1
+tr|A0A2I2YZ86|A0A2I2YZ86_GORGO -          Bin3                 PF06859.19      0.31   11.9   3.8      0.51   11.2   3.6   1.3   1   1   0   1   1   1   0 60S ribosomal protein L13a OS=Gorilla gorilla gorilla OX=9595 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Bin3.hmm
+# Target file:     proteomes/Gorilla_gorilla.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Bin3/Gorilla_gorilla.tblout --cpu 8 pfam_list/Bin3.hmm proteomes/Gorilla_gorilla.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:52 2025
+# [ok]

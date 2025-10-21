@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|W4Z3Z9|W4Z3Z9_STRPU -          MT-A70               PF05063.21   1.9e-33  116.5   0.0     4e-22   79.6   0.0   2.2   1   1   1   2   2   2   2 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+tr|W4YP31|W4YP31_STRPU -          MT-A70               PF05063.21   2.6e-13   50.9   0.0   5.7e-13   49.8   0.0   1.5   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MT-A70.hmm
+# Target file:     proteomes/Strongylocentrotus_purpuratus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MT-A70/Strongylocentrotus_purpuratus.tblout --cpu 8 pfam_list/MT-A70.hmm proteomes/Strongylocentrotus_purpuratus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:05:20 2025
+# [ok]

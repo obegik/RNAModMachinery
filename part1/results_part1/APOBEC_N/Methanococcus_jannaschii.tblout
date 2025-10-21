@@ -1,0 +1,14 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q57935|Y515_METJA -          APOBEC_N             PF08210.18     0.011   12.5   0.3      0.02   11.7   0.3   1.4   1   0   0   1   1   1   0 Uncharacterized protein MJ0515 OS=Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440) OX=243232 GN=MJ0515 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/APOBEC_N.hmm
+# Target file:     proteomes/Methanococcus_jannaschii.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/APOBEC_N/Methanococcus_jannaschii.tblout --cpu 8 pfam_list/APOBEC_N.hmm proteomes/Methanococcus_jannaschii.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:58:52 2025
+# [ok]

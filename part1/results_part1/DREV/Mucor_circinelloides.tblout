@@ -1,0 +1,18 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|S2JRY3|S2JRY3_MUCC1 -          DREV                 PF05219.18   9.6e-05   21.0   0.0   0.00013   20.6   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Mucor circinelloides f. circinelloides (strain 1006PhL) OX=1220926 GN=HMPREF1544_00055 PE=4 SV=1
+tr|S2J996|S2J996_MUCC1 -          DREV                 PF05219.18   0.00018   20.2   0.0   0.00033   19.3   0.0   1.5   1   1   0   1   1   1   1 Uncharacterized protein OS=Mucor circinelloides f. circinelloides (strain 1006PhL) OX=1220926 GN=HMPREF1544_06502 PE=4 SV=1
+tr|S2KAF4|S2KAF4_MUCC1 -          DREV                 PF05219.18    0.0046   15.5   0.0     0.007   14.9   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Mucor circinelloides f. circinelloides (strain 1006PhL) OX=1220926 GN=HMPREF1544_00716 PE=4 SV=1
+tr|S2JHC2|S2JHC2_MUCC1 -          DREV                 PF05219.18     0.014   14.0   0.0     0.036   12.6   0.0   1.6   1   1   0   1   1   1   0 Ubiquinone biosynthesis O-methyltransferase, mitochondrial OS=Mucor circinelloides f. circinelloides (strain 1006PhL) OX=1220926 GN=COQ3 PE=3 SV=1
+tr|S2K324|S2K324_MUCC1 -          DREV                 PF05219.18     0.049   12.2   0.0     0.086   11.4   0.0   1.4   1   0   0   1   1   1   0 rRNA adenine N(6)-methyltransferase OS=Mucor circinelloides f. circinelloides (strain 1006PhL) OX=1220926 GN=HMPREF1544_03477 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DREV.hmm
+# Target file:     proteomes/Mucor_circinelloides.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DREV/Mucor_circinelloides.tblout --cpu 8 pfam_list/DREV.hmm proteomes/Mucor_circinelloides.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:23 2025
+# [ok]

@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|C3ZL96|C3ZL96_BRAFL -          AdoMet_MTase         PF07757.19   2.3e-31  109.0   0.0   3.7e-31  108.4   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_78181 PE=4 SV=1
+tr|C3Y4C4|C3Y4C4_BRAFL -          AdoMet_MTase         PF07757.19     0.046   14.6   0.1       0.1   13.5   0.0   1.6   2   0   0   2   2   2   0 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_89653 PE=4 SV=1
+tr|C3Z906|C3Z906_BRAFL -          AdoMet_MTase         PF07757.19      0.18   12.7   0.0      0.51   11.2   0.0   1.8   2   0   0   2   2   2   0 Protein-lysine N-methyltransferase BRAFLDRAFT_274146 OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_274146 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/AdoMet_Mtase.hmm
+# Target file:     proteomes/Branchiostoma_floridae.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/AdoMet_Mtase/Branchiostoma_floridae.tblout --cpu 8 pfam_list/AdoMet_Mtase.hmm proteomes/Branchiostoma_floridae.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:41 2025
+# [ok]

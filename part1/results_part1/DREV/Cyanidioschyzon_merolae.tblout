@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|M1V7N3|M1V7N3_CYAM1 -          DREV                 PF05219.18     3e-05   21.5   0.0   0.00055   17.3   0.0   2.1   1   1   0   1   1   1   1 Ubiquinone biosynthesis O-methyltransferase, mitochondrial OS=Cyanidioschyzon merolae (strain NIES-3377 / 10D) OX=280699 GN=CYME_CMI016C PE=3 SV=1
+tr|M1V4H6|M1V4H6_CYAM1 -          DREV                 PF05219.18    0.0025   15.2   0.0    0.0039   14.5   0.0   1.2   1   0   0   1   1   1   1 rRNA adenine N(6)-methyltransferase OS=Cyanidioschyzon merolae (strain NIES-3377 / 10D) OX=280699 GN=CYME_CME165C PE=3 SV=1
+tr|M1V7N8|M1V7N8_CYAM1 -          DREV                 PF05219.18      0.01   13.2   0.0     0.015   12.6   0.0   1.4   1   1   0   1   1   1   1 Mg-protoporphyrin O-methyltransferase OS=Cyanidioschyzon merolae (strain NIES-3377 / 10D) OX=280699 GN=CYME_CMI038C PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DREV.hmm
+# Target file:     proteomes/Cyanidioschyzon_merolae.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DREV/Cyanidioschyzon_merolae.tblout --cpu 8 pfam_list/DREV.hmm proteomes/Cyanidioschyzon_merolae.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:21 2025
+# [ok]

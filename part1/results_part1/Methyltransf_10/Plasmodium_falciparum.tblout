@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q8ILX8|Q8ILX8_PLAF7 -          Methyltransf_10      PF05971.19   4.1e-46  156.0  13.4   1.1e-24   85.6   0.2   5.3   4   1   1   5   5   5   5 Methyltransferase, putative OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1411700 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltransf_10.hmm
+# Target file:     proteomes/Plasmodium_falciparum.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltransf_10/Plasmodium_falciparum.tblout --cpu 8 pfam_list/Methyltransf_10.hmm proteomes/Plasmodium_falciparum.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:12:21 2025
+# [ok]

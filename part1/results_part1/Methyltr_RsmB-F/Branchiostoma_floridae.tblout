@@ -1,0 +1,28 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|C3ZX25|C3ZX25_BRAFL -          Methyltr_RsmB-F      PF01189.24   3.2e-44  151.6   0.0   8.6e-44  150.2   0.0   1.8   1   1   0   1   1   1   1 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_116066 PE=3 SV=1
+tr|C3YBF3|C3YBF3_BRAFL -          Methyltr_RsmB-F      PF01189.24     1e-31  110.8   0.0   2.2e-31  109.7   0.0   1.6   1   0   0   1   1   1   1 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_67540 PE=3 SV=1
+tr|C3YID1|C3YID1_BRAFL -          Methyltr_RsmB-F      PF01189.24   1.1e-30  107.5   0.0   1.9e-30  106.7   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein (Fragment) OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_211078 PE=3 SV=1
+tr|C3Z286|C3Z286_BRAFL -          Methyltr_RsmB-F      PF01189.24   2.5e-30  106.3   0.0   3.5e-30  105.8   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_279290 PE=3 SV=1
+tr|C3ZAW5|C3ZAW5_BRAFL -          Methyltr_RsmB-F      PF01189.24   7.7e-30  104.7   0.0   1.1e-14   55.2   0.0   3.2   2   1   0   2   2   2   2 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_118815 PE=3 SV=1
+tr|C3YW79|C3YW79_BRAFL -          Methyltr_RsmB-F      PF01189.24   3.3e-21   76.5   0.1   1.2e-20   74.7   0.0   1.8   2   0   0   2   2   2   1 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_80967 PE=3 SV=1
+tr|C3ZKH4|C3ZKH4_BRAFL -          Methyltr_RsmB-F      PF01189.24   6.9e-06   26.5   0.0      0.34   11.2   0.0   3.5   3   1   1   4   4   4   2 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_119070 PE=4 SV=1
+tr|C3ZMS8|C3ZMS8_BRAFL -          Methyltr_RsmB-F      PF01189.24     0.011   16.0   0.4     0.074   13.3   0.0   2.1   1   1   1   2   2   2   0 tRNA (guanine(26)-N(2))-dimethyltransferase OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_126067 PE=3 SV=1
+tr|C3Y5L3|C3Y5L3_BRAFL -          Methyltr_RsmB-F      PF01189.24     0.028   14.7   0.0      0.04   14.2   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_87928 PE=4 SV=1
+tr|C3ZB63|C3ZB63_BRAFL -          Methyltr_RsmB-F      PF01189.24     0.033   14.5   0.0       2.5    8.3   0.0   2.7   2   1   1   3   3   3   0 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_118790 PE=4 SV=1
+tr|C3XZF6|C3XZF6_BRAFL -          Methyltr_RsmB-F      PF01189.24      0.04   14.2   0.0     0.066   13.5   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_260634 PE=3 SV=1
+tr|C3Y4C4|C3Y4C4_BRAFL -          Methyltr_RsmB-F      PF01189.24      0.04   14.2   0.0     0.062   13.6   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_89653 PE=4 SV=1
+tr|C3Y6Y8|C3Y6Y8_BRAFL -          Methyltr_RsmB-F      PF01189.24     0.046   14.0   0.0      0.13   12.6   0.0   1.7   2   0   0   2   2   2   0 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_91434 PE=4 SV=1
+tr|C3YQN5|C3YQN5_BRAFL -          Methyltr_RsmB-F      PF01189.24     0.093   13.0   0.0       1.4    9.2   0.0   2.4   2   1   1   3   3   3   0 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_82679 PE=4 SV=1
+tr|C3Z9H2|C3Z9H2_BRAFL -          Methyltr_RsmB-F      PF01189.24      0.23   11.7   0.0      0.37   11.1   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_86059 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltr_RsmB-F.hmm
+# Target file:     proteomes/Branchiostoma_floridae.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltr_RsmB-F/Branchiostoma_floridae.tblout --cpu 8 pfam_list/Methyltr_RsmB-F.hmm proteomes/Branchiostoma_floridae.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:10:13 2025
+# [ok]

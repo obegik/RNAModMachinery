@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6WLG9|F6WLG9_ORNAN -          Methyltransf_10      PF05971.19  2.9e-128  427.7   0.0  3.1e-108  361.9   0.0   2.1   2   0   0   2   2   2   2 U6 small nuclear RNA (adenine-(43)-N(6))-methyltransferase OS=Ornithorhynchus anatinus OX=9258 GN=METTL16 PE=3 SV=1
+tr|F7A997|F7A997_ORNAN -          Methyltransf_10      PF05971.19     0.087   12.4   0.3      0.21   11.1   0.0   1.7   2   0   0   2   2   2   0 Transcription factor OS=Ornithorhynchus anatinus OX=9258 GN=TFDP1 PE=3 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltransf_10.hmm
+# Target file:     proteomes/Ornithorhynchus_anatinus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltransf_10/Ornithorhynchus_anatinus.tblout --cpu 8 pfam_list/Methyltransf_10.hmm proteomes/Ornithorhynchus_anatinus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:12:21 2025
+# [ok]

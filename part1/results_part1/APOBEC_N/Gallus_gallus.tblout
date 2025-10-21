@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|E1BVI0|E1BVI0_CHICK         -          APOBEC_N             PF08210.18   9.2e-66  221.1   0.8   1.1e-65  220.9   0.8   1.0   1   0   0   1   1   1   1 Single-stranded DNA cytosine deaminase OS=Gallus gallus OX=9031 GN=AICDA PE=3 SV=1
+tr|A0A8V1A4V2|A0A8V1A4V2_CHICK -          APOBEC_N             PF08210.18   3.1e-60  203.1   2.4   3.8e-60  202.8   2.4   1.1   1   0   0   1   1   1   1 mRNA(cytosine(6666)) deaminase OS=Gallus gallus OX=9031 GN=APOBEC2 PE=1 SV=1
+tr|A0A8V0YIF0|A0A8V0YIF0_CHICK -          APOBEC_N             PF08210.18   2.4e-16   60.3   0.1   3.7e-16   59.6   0.1   1.3   1   0   0   1   1   1   1 Apolipoprotein B mRNA editing enzyme catalytic polypeptide like 4 OS=Gallus gallus OX=9031 GN=APOBEC4 PE=4 SV=1
+tr|F1P565|F1P565_CHICK         -          APOBEC_N             PF08210.18     0.018   15.1   0.1     0.025   14.6   0.1   1.2   1   0   0   1   1   1   0 tRNA-specific adenosine deaminase 2 OS=Gallus gallus OX=9031 GN=ADAT2 PE=3 SV=4
+tr|A0A8V0XSW5|A0A8V0XSW5_CHICK -          APOBEC_N             PF08210.18      0.11   12.6   0.0      0.13   12.2   0.0   1.2   1   0   0   1   1   1   0 Deoxycytidylate deaminase OS=Gallus gallus OX=9031 GN=DCTD PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/APOBEC_N.hmm
+# Target file:     proteomes/Gallus_gallus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/APOBEC_N/Gallus_gallus.tblout --cpu 8 pfam_list/APOBEC_N.hmm proteomes/Gallus_gallus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:58:51 2025
+# [ok]

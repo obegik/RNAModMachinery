@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0ABM4BQU3|A0ABM4BQU3_HYDVU -          A_deamin             PF02137.25   7.3e-90  302.1   0.0   1.1e-89  301.4   0.0   1.3   1   0   0   1   1   1   1 Double-stranded RNA-specific editase 1 isoform X2 OS=Hydra vulgaris OX=6087 GN=LOC100198026 PE=4 SV=1
+tr|A0ABM4DEU2|A0ABM4DEU2_HYDVU -          A_deamin             PF02137.25   9.7e-70  235.9   2.6   1.2e-69  235.6   2.6   1.1   1   0   0   1   1   1   1 tRNA-specific adenosine deaminase 1 isoform X4 OS=Hydra vulgaris OX=6087 GN=LOC100215148 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/A_deamin.hmm
+# Target file:     proteomes/Hydra_vulgaris.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/A_deamin/Hydra_vulgaris.tblout --cpu 8 pfam_list/A_deamin.hmm proteomes/Hydra_vulgaris.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:09 2025
+# [ok]

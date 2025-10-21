@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|M1XQI7|M1XQI7_NATM8 -          DNA_methylase        PF00145.24   6.5e-50  167.7   0.0   7.6e-50  167.5   0.0   1.0   1   0   0   1   1   1   1 Site-specific DNA-methyltransferase (Cytosine-specific) OS=Natronomonas moolapensis (strain DSM 18674 / JCM 14361 / 8.8.11) OX=268739 GN=Nmlp_2180 PE=3 SV=1
+tr|M1Y1K5|M1Y1K5_NATM8 -          DNA_methylase        PF00145.24   7.9e-44  147.7   0.0   9.1e-44  147.5   0.0   1.0   1   0   0   1   1   1   1 Site-specific DNA-methyltransferase (Cytosine-specific) OS=Natronomonas moolapensis (strain DSM 18674 / JCM 14361 / 8.8.11) OX=268739 GN=Nmlp_2178 PE=3 SV=1
+tr|M1XN99|M1XN99_NATM8 -          DNA_methylase        PF00145.24    0.0046   13.7   0.0    0.0059   13.4   0.0   1.1   1   0   0   1   1   1   1 tRNA(Phe) (4-demethylwyosine(37)-C(7)) aminocarboxypropyltransferase OS=Natronomonas moolapensis (strain DSM 18674 / JCM 14361 / 8.8.11) OX=268739 GN=taw2 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DNA_methylase.hmm
+# Target file:     proteomes/Natronomonas_moolapensis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DNA_methylase/Natronomonas_moolapensis.tblout --cpu 8 pfam_list/DNA_methylase.hmm proteomes/Natronomonas_moolapensis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:00:11 2025
+# [ok]

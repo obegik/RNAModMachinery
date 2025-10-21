@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|M9NF32|M9NF32_DROME -          LCM                  PF04072.21   1.3e-27   96.5   0.0   3.6e-27   95.1   0.0   1.7   1   1   0   1   1   1   1 Leucine carboxyl methyltransferase 1 OS=Drosophila melanogaster OX=7227 GN=Dmel\CG3793 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/LCM.hmm
+# Target file:     proteomes/Drosophila_melanogaster.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/LCM/Drosophila_melanogaster.tblout --cpu 8 pfam_list/LCM.hmm proteomes/Drosophila_melanogaster.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:44 2025
+# [ok]

@@ -1,0 +1,26 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6ZSG5|F6ZSG5_MACMU         -          Methyltr_RsmB-F      PF01189.24   1.3e-79  266.7   0.0   2.2e-79  266.0   0.0   1.3   1   0   0   1   1   1   1 NOP2 nucleolar protein OS=Macaca mulatta OX=9544 GN=NOP2 PE=3 SV=2
+tr|F6SWB4|F6SWB4_MACMU         -          Methyltr_RsmB-F      PF01189.24   3.3e-45  154.4   0.0     5e-45  153.8   0.0   1.4   1   0   0   1   1   1   1 NOP2/Sun RNA methyltransferase family member 6 OS=Macaca mulatta OX=9544 GN=NSUN6 PE=2 SV=1
+tr|F6XQN4|F6XQN4_MACMU         -          Methyltr_RsmB-F      PF01189.24     3e-38  131.7   0.0   1.2e-34  120.0   0.0   2.3   2   0   0   2   2   2   2 NOP2/Sun RNA methyltransferase family member 2 OS=Macaca mulatta OX=9544 GN=NSUN2 PE=3 SV=2
+tr|A0A1D5QYE6|A0A1D5QYE6_MACMU -          Methyltr_RsmB-F      PF01189.24   1.5e-32  113.1   0.0   2.2e-32  112.6   0.0   1.3   1   0   0   1   1   1   1 NOP2/Sun RNA methyltransferase family member 3 OS=Macaca mulatta OX=9544 GN=NSUN3 PE=3 SV=1
+tr|F7G8Y6|F7G8Y6_MACMU         -          Methyltr_RsmB-F      PF01189.24     9e-28   97.5   0.0   1.4e-27   96.9   0.0   1.3   1   0   0   1   1   1   1 NOP2/Sun RNA methyltransferase family member 5 OS=Macaca mulatta OX=9544 GN=NSUN5 PE=3 SV=1
+tr|F7GR59|F7GR59_MACMU         -          Methyltr_RsmB-F      PF01189.24   1.4e-27   96.9   0.0   2.1e-27   96.3   0.0   1.2   1   0   0   1   1   1   1 NOP2/Sun RNA methyltransferase family member 4 OS=Macaca mulatta OX=9544 GN=NSUN4 PE=3 SV=2
+tr|F7E4C7|F7E4C7_MACMU         -          Methyltr_RsmB-F      PF01189.24   3.1e-09   37.0   0.8   1.1e-08   35.2   0.8   1.9   1   1   0   1   1   1   1 NOP2/Sun RNA methyltransferase family member 7 OS=Macaca mulatta OX=9544 GN=NSUN7 PE=3 SV=2
+tr|F7GN12|F7GN12_MACMU         -          Methyltr_RsmB-F      PF01189.24    0.0035   17.2   0.0    0.0064   16.4   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=METTL15 PE=3 SV=2
+tr|A0A1D5RD03|A0A1D5RD03_MACMU -          Methyltr_RsmB-F      PF01189.24      0.05   13.5   0.0     0.082   12.8   0.0   1.2   1   0   0   1   1   1   0 HemK methyltransferase family member 1 OS=Macaca mulatta OX=9544 GN=HEMK1 PE=4 SV=1
+tr|F7ED78|F7ED78_MACMU         -          Methyltr_RsmB-F      PF01189.24     0.074   12.9   0.0      0.19   11.6   0.0   1.7   2   0   0   2   2   2   0 Fibrillarin like 1 OS=Macaca mulatta OX=9544 GN=FBLL1 PE=3 SV=2
+tr|A0A1D5RDW4|A0A1D5RDW4_MACMU -          Methyltr_RsmB-F      PF01189.24     0.083   12.8   0.0      0.15   12.0   0.0   1.4   1   0   0   1   1   1   0 Fibrillarin OS=Macaca mulatta OX=9544 GN=FBL PE=3 SV=1
+tr|A0A1D5R6R2|A0A1D5R6R2_MACMU -          Methyltr_RsmB-F      PF01189.24      0.14   12.0   0.0        17    5.2   0.0   2.3   2   0   0   2   2   2   0 Arsenite methyltransferase OS=Macaca mulatta OX=9544 GN=AS3MT PE=4 SV=1
+tr|F7A6W8|F7A6W8_MACMU         -          Methyltr_RsmB-F      PF01189.24      0.21   11.5   0.0      0.88    9.4   0.0   1.8   1   1   1   2   2   2   0 Putative tRNA (cytidine(32)/guanosine(34)-2'-O)-methyltransferase OS=Macaca mulatta OX=9544 GN=FTSJ1 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltr_RsmB-F.hmm
+# Target file:     proteomes/Macaca_mulatta.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltr_RsmB-F/Macaca_mulatta.tblout --cpu 8 pfam_list/Methyltr_RsmB-F.hmm proteomes/Macaca_mulatta.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:10:15 2025
+# [ok]

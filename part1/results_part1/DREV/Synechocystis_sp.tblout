@@ -1,0 +1,18 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|P72896|P72896_SYNY3 -          DREV                 PF05219.18   1.8e-07   28.2   0.0   2.1e-07   28.0   0.0   1.2   1   0   0   1   1   1   1 Slr1618 protein OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=slr1618 PE=4 SV=1
+tr|P72907|P72907_SYNY3 -          DREV                 PF05219.18   2.8e-05   21.0   0.0   3.4e-05   20.7   0.0   1.2   1   0   0   1   1   1   1 Slr1071 protein OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=slr1071 PE=4 SV=1
+sp|Q55467|CHLM_SYNY3   -          DREV                 PF05219.18    0.0053   13.6   0.0    0.0078   13.0   0.0   1.2   1   0   0   1   1   1   1 Magnesium-protoporphyrin O-methyltransferase OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=chlM PE=1 SV=1
+tr|Q55809|Q55809_SYNY3 -          DREV                 PF05219.18     0.011   12.5   0.0     0.019   11.8   0.0   1.3   1   0   0   1   1   1   0 Delta(24)-sterol C-methyltransferase OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=erg6 PE=3 SV=1
+sp|P72666|RSMA_SYNY3   -          DREV                 PF05219.18     0.027   11.2   0.0      0.04   10.7   0.0   1.3   1   0   0   1   1   1   0 Ribosomal RNA small subunit methyltransferase A OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=rsmA PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DREV.hmm
+# Target file:     proteomes/Synechocystis_sp.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DREV/Synechocystis_sp.tblout --cpu 8 pfam_list/DREV.hmm proteomes/Synechocystis_sp.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:24 2025
+# [ok]

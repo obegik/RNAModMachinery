@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|P74439|P74439_SYNY3 -          Fibrillarin          PF01269.24   9.2e-06   22.6   0.0   1.4e-05   22.0   0.0   1.2   1   0   0   1   1   1   1 Slr0407 protein OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=slr0407 PE=4 SV=1
+tr|P73445|P73445_SYNY3 -          Fibrillarin          PF01269.24     0.003   14.4   0.0    0.0049   13.7   0.0   1.3   1   0   0   1   1   1   1 Sll1456 protein OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=sll1456 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Fibrillarin.hmm
+# Target file:     proteomes/Synechocystis_sp.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Fibrillarin/Synechocystis_sp.tblout --cpu 8 pfam_list/Fibrillarin.hmm proteomes/Synechocystis_sp.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:44 2025
+# [ok]

@@ -1,0 +1,20 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|G3RKC1|G3RKC1_GORGO         -          DNA_methylase        PF00145.24   4.8e-48  164.5   3.9   5.5e-48  164.3   0.0   2.9   2   2   0   2   2   2   1 DNA (cytosine-5)-methyltransferase OS=Gorilla gorilla gorilla OX=9595 GN=DNMT1 PE=3 SV=2
+tr|A0A2I2Y2J7|A0A2I2Y2J7_GORGO -          DNA_methylase        PF00145.24   3.5e-42  145.2   0.0   4.5e-42  144.9   0.0   1.1   1   0   0   1   1   1   1 tRNA (cytosine(38)-C(5))-methyltransferase OS=Gorilla gorilla gorilla OX=9595 GN=TRDMT1 PE=3 SV=1
+tr|A0A2I2ZM13|A0A2I2ZM13_GORGO -          DNA_methylase        PF00145.24     8e-15   55.3   0.0   3.7e-11   43.3   0.0   2.3   2   0   0   2   2   2   2 DNA (cytosine-5)-methyltransferase 3A OS=Gorilla gorilla gorilla OX=9595 PE=3 SV=2
+tr|G3SK84|G3SK84_GORGO         -          DNA_methylase        PF00145.24   1.2e-14   54.7   0.0   4.3e-11   43.1   0.0   2.2   2   0   0   2   2   2   2 DNA (cytosine-5)-methyltransferase 3B OS=Gorilla gorilla gorilla OX=9595 GN=DNMT3B PE=3 SV=2
+tr|G3R7A0|G3R7A0_GORGO         -          DNA_methylase        PF00145.24   0.00064   19.5   0.0   0.00088   19.1   0.0   1.1   1   0   0   1   1   1   1 Methyltransferase-like protein 5 OS=Gorilla gorilla gorilla OX=9595 PE=3 SV=2
+tr|G3RX99|G3RX99_GORGO         -          DNA_methylase        PF00145.24   0.00073   19.3   0.0    0.0015   18.3   0.0   1.4   1   0   0   1   1   1   1 Methyltransferase-like protein 5 OS=Gorilla gorilla gorilla OX=9595 GN=METTL5 PE=3 SV=1
+tr|G3RPK2|G3RPK2_GORGO         -          DNA_methylase        PF00145.24      0.24   11.0   6.8     0.017   14.9   1.5   1.8   2   1   0   2   2   2   0 EF-hand calcium binding domain 12 OS=Gorilla gorilla gorilla OX=9595 GN=EFCAB12 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DNA_methylase.hmm
+# Target file:     proteomes/Gorilla_gorilla.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DNA_methylase/Gorilla_gorilla.tblout --cpu 8 pfam_list/DNA_methylase.hmm proteomes/Gorilla_gorilla.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:00:10 2025
+# [ok]

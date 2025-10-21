@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q231G1|Q231G1_TETTS -          Methyltransf_10      PF05971.19   1.7e-64  218.6   9.5   1.3e-62  212.4   4.4   3.2   2   1   0   2   2   2   1 U6 small nuclear RNA (adenine-(43)-N(6))-methyltransferase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00429990 PE=3 SV=1
+tr|W7XCF3|W7XCF3_TETTS -          Methyltransf_10      PF05971.19   2.7e-05   24.3   0.0   3.6e-05   23.8   0.0   1.1   1   0   0   1   1   1   1 HemK methyltransferase family protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000294649 PE=4 SV=1
+tr|I7MAE9|I7MAE9_TETTS -          Methyltransf_10      PF05971.19     0.052   13.5   0.0     0.085   12.8   0.0   1.3   1   0   0   1   1   1   0 UbiE/COQ5 family methyltransferase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00616270 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltransf_10.hmm
+# Target file:     proteomes/Tetrahymena_thermophila.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltransf_10/Tetrahymena_thermophila.tblout --cpu 8 pfam_list/Methyltransf_10.hmm proteomes/Tetrahymena_thermophila.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:12:22 2025
+# [ok]

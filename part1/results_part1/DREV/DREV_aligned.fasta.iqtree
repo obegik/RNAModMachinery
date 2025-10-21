@@ -1,0 +1,189 @@
+IQ-TREE 3.0.1 built Jul  9 2025
+
+Input file name: results_part1_v3/DREV/DREV_aligned.fasta
+Type of analysis: tree reconstruction
+Random seed number: 303721
+
+REFERENCES
+----------
+
+To cite IQ-TREE 3 please use:
+
+Thomas K.F. Wong, Nhan Ly-Trong, Huaiyan Ren, Hector Banos, Andrew J. Roger,
+Edward Susko, Chris Bielow, Nicola De Maio, Nick Goldman, Matthew W. Hahn,
+Gavin Huttley, Robert Lanfear, Bui Quang Minh (2025)
+IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models.
+Submitted.
+
+Please also cite the following paper(s) for the feature(s) that you used:
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 38 sequences with 1409 amino-acid sites
+Number of constant sites: 872 (= 61.8879% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 872 (= 61.8879% of all sites)
+Number of parsimony informative sites: 308
+Number of distinct site patterns: 677
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: JTT+F+I+G4
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.0479
+  pi(R) = 0.0527
+  pi(N) = 0.0419
+  pi(D) = 0.0524
+  pi(C) = 0.0238
+  pi(Q) = 0.0451
+  pi(E) = 0.0625
+  pi(G) = 0.0602
+  pi(H) = 0.0252
+  pi(I) = 0.0500
+  pi(L) = 0.1077
+  pi(K) = 0.0509
+  pi(M) = 0.0293
+  pi(F) = 0.0510
+  pi(P) = 0.0469
+  pi(S) = 0.0700
+  pi(T) = 0.0486
+  pi(W) = 0.0266
+  pi(Y) = 0.0380
+  pi(V) = 0.0694
+
+Model of rate heterogeneity: Invar+Gamma with 4 categories
+Proportion of invariable sites: 0.0160
+Gamma shape alpha: 1.6741
+
+ Category  Relative_rate  Proportion
+  0         0              0.0160
+  1         0.2551         0.2460
+  2         0.6252         0.2460
+  3         1.0764         0.2460
+  4         2.1083         0.2460
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -17692.6869 (s.e. 632.5292)
+Unconstrained log-likelihood (without tree): -8021.0422
+Number of free parameters (#branches + #model parameters): 94
+Akaike information criterion (AIC) score: 35573.3739
+Corrected Akaike information criterion (AICc) score: 35586.9659
+Bayesian information criterion (BIC) score: 36066.9336
+
+Total tree length (sum of branch lengths): 29.1413
+Sum of internal branch lengths: 5.6265 (19.3075% of tree length)
+
+WARNING: 4 near-zero internal branches (<0.0007) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'tr|A0A1X7UT69|A0A1X7UT69_AMPQE' is drawn at root
+
++-----------------tr|A0A1X7UT69|A0A1X7UT69_AMPQE
+|
+|                                              +--tr|H9GJ67|H9GJ67_ANOCA
+|                                           +--|
+|                                           |  |  +--sp|Q5ZMH6|METL9_CHICK
+|                                           |  +--|
+|                                           |     +**tr|A0A8V0ZFZ6|A0A8V0ZFZ6_CHICK
+|                                        +--|
+|                                        |  |           +--tr|A0A8I3RS41|A0A8I3RS41_CANLF
+|                                        |  |        +--|
+|                                        |  |        |  |     +--tr|A0A2I2Z2A6|A0A2I2Z2A6_GORGO
+|                                        |  |        |  |  +**|
+|                                        |  |        |  |  |  |     +**sp|Q9H1A3|METL9_HUMAN
+|                                        |  |        |  |  |  |  +**|
+|                                        |  |        |  |  |  |  |  +**tr|H2R0J0|H2R0J0_PANTR
+|                                        |  |        |  |  |  +--|
+|                                        |  |        |  |  |     +--sp|Q9EPL4|METL9_MOUSE
+|                                        |  |        |  +--|
+|                                        |  |        |     |     +--tr|H3BN86|H3BN86_HUMAN
+|                                        |  |        |     |  +--|
+|                                        |  |        |     |  |  +--tr|H9FV79|H9FV79_MACMU
+|                                        |  |        |     +**|
+|                                        |  |        |        +**tr|H3BPE9|H3BPE9_HUMAN
+|                                        |  |     +--|
+|                                        |  |     |  |  +**tr|H3BQD2|H3BQD2_HUMAN
+|                                        |  |     |  +--|
+|                                        |  |     |     +--tr|F6RR08|F6RR08_ORNAN
+|                                        |  |  +**|
+|                                        |  |  |  +**tr|H3BM54|H3BM54_HUMAN
+|                                        |  +--|
+|                                        |     +--tr|F7AWW5|F7AWW5_MONDO
+|                                     +--|
+|                                     |  +--tr|F7CVL8|F7CVL8_XENTR
+|                                  +--|
+|                                  |  +--tr|A0A4W3HC39|A0A4W3HC39_CALMI
+|                               +--|
+|                               |  |  +--tr|F1R335|F1R335_DANRE
+|                               |  +--|
+|                               |     +--tr|A0A3B5KWF3|A0A3B5KWF3_TAKRU
+|                            +--|
+|                            |  +---------tr|S4R939|S4R939_PETMA
+|                         +--|
+|                         |  |     +------tr|C3ZBH4|C3ZBH4_BRAFL
+|                         |  |  +--|
+|                         |  |  |  |  +---------tr|A0ABM4DJR8|A0ABM4DJR8_HYDVU
+|                         |  |  |  +--|
+|                         |  |  |     +-------tr|A7SGS8|A7SGS8_NEMVE
+|                         |  +--|
+|                         |     |     +----------------tr|Q9W1H1|Q9W1H1_DROME
+|                         |     |  +--|
+|                         |     |  |  |     +---------tr|A9UUG3|A9UUG3_MONBE
+|                         |     |  |  |  +--|
+|                         |     |  |  |  |  +-----------------tr|A0A0L0D5M2|A0A0L0D5M2_THETB
+|                         |     |  |  +--|
+|                         |     |  |     +------------tr|Q584Q2|Q584Q2_TRYB2
+|                         |     +--|
+|                         |        +------tr|W4ZHV4|W4ZHV4_STRPU
+|                      +--|
+|                      |  +----------tr|B3RVI8|B3RVI8_TRIAD
+|                   +--|
+|                   |  +-------------tr|Q22123|Q22123_CAEEL
+|             +-----|
+|             |     +----------------tr|Q54U59|Q54U59_DICDI
+|          +--|
+|          |  +--------------------------------------tr|A0ABM4CMM0|A0ABM4CMM0_HYDVU
+|      +---|
+|      |   |                    +---------tr|C3Z583|C3Z583_BRAFL
+|      |   +--------------------|
+|      |                        +----------tr|F6ZQ80|F6ZQ80_ORNAN
+|   +--|
+|   |  +------------------------------sp|Q9HZ63|UBIG_PSEAE
++---|
+|   +-----------------------tr|P72896|P72896_SYNY3
+|
++--------------------------sp|Q58055|Y638_METJA
+
+Tree in newick format:
+
+(tr|A0A1X7UT69|A0A1X7UT69_AMPQE:1.3526708725,((((((((((((((tr|H9GJ67|H9GJ67_ANOCA:0.0539721154,(sp|Q5ZMH6|METL9_CHICK:0.0033374110,tr|A0A8V0ZFZ6|A0A8V0ZFZ6_CHICK:0.0000023925):0.0331809564):0.0272637200,((((tr|A0A8I3RS41|A0A8I3RS41_CANLF:0.0033250744,((tr|A0A2I2Z2A6|A0A2I2Z2A6_GORGO:0.0500315671,((sp|Q9H1A3|METL9_HUMAN:0.0000010031,tr|H2R0J0|H2R0J0_PANTR:0.0000010031):0.0000024282,sp|Q9EPL4|METL9_MOUSE:0.0303045517):0.0033103236):0.0000025972,((tr|H3BN86|H3BN86_HUMAN:0.0557291998,tr|H9FV79|H9FV79_MACMU:0.0034523707):0.0066238387,tr|H3BPE9|H3BPE9_HUMAN:0.0000023925):0.0000021173):0.0033260504):0.0269267294,(tr|H3BQD2|H3BQD2_HUMAN:0.0000023965,tr|F6RR08|F6RR08_ORNAN:0.0202986904):0.0744585524):0.0128635445,tr|H3BM54|H3BM54_HUMAN:0.0000023943):0.0002269521,tr|F7AWW5|F7AWW5_MONDO:0.0317596957):0.0789251335):0.0471627932,tr|F7CVL8|F7CVL8_XENTR:0.1899790532):0.1410612100,tr|A0A4W3HC39|A0A4W3HC39_CALMI:0.2571181972):0.0404519154,(tr|F1R335|F1R335_DANRE:0.2588499356,tr|A0A3B5KWF3|A0A3B5KWF3_TAKRU:0.2335297496):0.2242938661):0.1159142832,tr|S4R939|S4R939_PETMA:0.7852546888):0.0936313604,((tr|C3ZBH4|C3ZBH4_BRAFL:0.5289152200,(tr|A0ABM4DJR8|A0ABM4DJR8_HYDVU:0.7193214938,tr|A7SGS8|A7SGS8_NEMVE:0.5764306324):0.1217166305):0.0853549035,((tr|Q9W1H1|Q9W1H1_DROME:1.2375691464,((tr|A9UUG3|A9UUG3_MONBE:0.7442542074,tr|A0A0L0D5M2|A0A0L0D5M2_THETB:1.3238336653):0.1004180327,tr|Q584Q2|Q584Q2_TRYB2:0.9819503291):0.1750415179):0.2688163962,tr|W4ZHV4|W4ZHV4_STRPU:0.5373407080):0.2351880255):0.0564249765):0.2065598203,tr|B3RVI8|B3RVI8_TRIAD:0.8312141782):0.1864880663,tr|Q22123|Q22123_CAEEL:1.0521887812):0.2003643103,tr|Q54U59|Q54U59_DICDI:1.2779257009):0.5001251899,tr|A0ABM4CMM0|A0ABM4CMM0_HYDVU:2.8033788627):0.1700175936,(tr|C3Z583|C3Z583_BRAFL:0.7224010810,tr|F6ZQ80|F6ZQ80_ORNAN:0.8413831984):1.5206729091):0.2952910723,sp|Q9HZ63|UBIG_PSEAE:2.2784017686):0.2380061561,tr|P72896|P72896_SYNY3:1.7624355525):0.3363420185,sp|Q58055|Y638_METJA:1.9663173864);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t results_part1_v3/DREV/DREV_aligned.fasta.treefile -m "JTT+F+I{0.0159915}+G4{1.67407}" --length 1409
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s results_part1_v3/DREV/DREV_aligned.fasta --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s results_part1_v3/DREV/DREV_aligned.fasta --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Mon Oct 20 22:01:31 2025
+Total CPU time used: 6.09971 seconds (0h:0m:6s)
+Total wall-clock time used: 3.02536 seconds (0h:0m:3s)
+

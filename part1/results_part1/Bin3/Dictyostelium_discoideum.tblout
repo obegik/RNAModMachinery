@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q55FU0|Q55FU0_DICDI -          Bin3                 PF06859.19   6.8e-38  129.1   0.3   6.8e-38  129.1   0.3   2.9   3   2   0   3   3   3   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0189672 PE=4 SV=1
+sp|Q54B59|OMT12_DICDI  -          Bin3                 PF06859.19    0.0017   18.4   0.1    0.0048   17.0   0.1   1.8   1   0   0   1   1   1   1 O-methyltransferase 12 OS=Dictyostelium discoideum OX=44689 GN=omt12 PE=1 SV=1
+sp|Q54KU5|PKS24_DICDI  -          Bin3                 PF06859.19         4    7.6  16.2     0.014   15.4   3.5   3.5   3   0   0   3   3   3   0 Probable polyketide synthase 24 OS=Dictyostelium discoideum OX=44689 GN=pks24 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Bin3.hmm
+# Target file:     proteomes/Dictyostelium_discoideum.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Bin3/Dictyostelium_discoideum.tblout --cpu 8 pfam_list/Bin3.hmm proteomes/Dictyostelium_discoideum.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:52 2025
+# [ok]

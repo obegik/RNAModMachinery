@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|M1VEB1|M1VEB1_CYAM1 -          LCM                  PF04072.21   1.3e-39  134.3   0.0   2.4e-39  133.4   0.0   1.5   1   0   0   1   1   1   1 S-adenosyl-L-methionine-dependent methyltransferase OS=Cyanidioschyzon merolae (strain NIES-3377 / 10D) OX=280699 GN=CYME_CMN118C PE=3 SV=1
+tr|M1V8K3|M1V8K3_CYAM1 -          LCM                  PF04072.21   1.3e-05   23.3   0.0   0.00018   19.7   0.0   2.5   1   1   0   1   1   1   1 Similar to leucine carboxyl methyltransferase OS=Cyanidioschyzon merolae (strain NIES-3377 / 10D) OX=280699 GN=CYME_CML095C PE=4 SV=1
+tr|M1VI83|M1VI83_CYAM1 -          LCM                  PF04072.21   1.4e-05   23.2   0.0   0.00018   19.7   0.0   2.5   1   1   0   1   1   1   1 Similar to leucine carboxyl methyltransferase OS=Cyanidioschyzon merolae (strain NIES-3377 / 10D) OX=280699 GN=CYME_CML136C PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/LCM.hmm
+# Target file:     proteomes/Cyanidioschyzon_merolae.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/LCM/Cyanidioschyzon_merolae.tblout --cpu 8 pfam_list/LCM.hmm proteomes/Cyanidioschyzon_merolae.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:44 2025
+# [ok]

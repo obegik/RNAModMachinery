@@ -1,0 +1,29 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|B8C1V6|B8C1V6_THAPS -          Methyltr_RsmB-F      PF01189.24   1.1e-67  227.0   0.0   2.4e-67  225.8   0.0   1.6   2   0   0   2   2   2   1 SAM-dependent MTase RsmB/NOP-type domain-containing protein (Fragment) OS=Thalassiosira pseudonana OX=35128 GN=THAPSDRAFT_34006 PE=3 SV=1
+tr|B8BTD6|B8BTD6_THAPS -          Methyltr_RsmB-F      PF01189.24   2.1e-34  118.3   0.0     5e-34  117.1   0.0   1.6   1   0   0   1   1   1   1 SAM-dependent MTase RsmB/NOP-type domain-containing protein OS=Thalassiosira pseudonana OX=35128 GN=THAPSDRAFT_21110 PE=3 SV=1
+tr|B8BX78|B8BX78_THAPS -          Methyltr_RsmB-F      PF01189.24   4.3e-34  117.3   0.0   1.9e-31  108.6   0.0   3.0   2   1   0   2   2   2   1 SAM-dependent MTase RsmB/NOP-type domain-containing protein (Fragment) OS=Thalassiosira pseudonana OX=35128 GN=THAPSDRAFT_39812 PE=3 SV=1
+tr|B8BQE4|B8BQE4_THAPS -          Methyltr_RsmB-F      PF01189.24   3.4e-33  114.4   0.0   5.5e-33  113.7   0.0   1.2   1   0   0   1   1   1   1 SAM-dependent MTase RsmB/NOP-type domain-containing protein OS=Thalassiosira pseudonana OX=35128 GN=THAPSDRAFT_20737 PE=3 SV=1
+tr|B8BWE3|B8BWE3_THAPS -          Methyltr_RsmB-F      PF01189.24   5.9e-33  113.6   0.0   1.5e-31  109.0   0.0   2.1   1   1   0   1   1   1   1 SAM-dependent MTase RsmB/NOP-type domain-containing protein OS=Thalassiosira pseudonana OX=35128 GN=THAPSDRAFT_33094 PE=3 SV=1
+tr|B8CCM3|B8CCM3_THAPS -          Methyltr_RsmB-F      PF01189.24   2.1e-32  111.8   0.0   4.5e-30  104.2   0.0   3.2   1   1   0   1   1   1   1 SAM-dependent MTase RsmB/NOP-type domain-containing protein OS=Thalassiosira pseudonana OX=35128 GN=THAPSDRAFT_9908 PE=3 SV=1
+tr|B5YMW4|B5YMW4_THAPS -          Methyltr_RsmB-F      PF01189.24   5.1e-30  104.0   0.4   8.2e-21   73.9   0.1   2.4   2   1   0   2   2   2   2 SAM-dependent MTase RsmB/NOP-type domain-containing protein OS=Thalassiosira pseudonana OX=35128 GN=THAPS_6934 PE=3 SV=1
+tr|B8LC16|B8LC16_THAPS -          Methyltr_RsmB-F      PF01189.24   1.5e-26   92.7   0.0   5.6e-25   87.5   0.0   2.8   1   1   0   1   1   1   1 SAM-dependent MTase RsmB/NOP-type domain-containing protein OS=Thalassiosira pseudonana OX=35128 GN=THAPSDRAFT_24350 PE=3 SV=1
+tr|B8C6H7|B8C6H7_THAPS -          Methyltr_RsmB-F      PF01189.24   8.6e-25   86.9   0.0   2.8e-24   85.3   0.0   1.9   1   1   0   1   1   1   1 SAM-dependent MTase RsmB/NOP-type domain-containing protein OS=Thalassiosira pseudonana OX=35128 GN=THAPSDRAFT_23686 PE=3 SV=1
+tr|B8C089|B8C089_THAPS -          Methyltr_RsmB-F      PF01189.24   4.6e-16   58.4   0.2   8.3e-10   38.0   0.0   2.6   1   1   1   2   2   2   2 SAM-dependent MTase RsmB/NOP-type domain-containing protein OS=Thalassiosira pseudonana OX=35128 GN=THAPSDRAFT_22417 PE=3 SV=1
+tr|B8BYU5|B8BYU5_THAPS -          Methyltr_RsmB-F      PF01189.24   1.1e-05   24.5   0.1   2.1e-05   23.7   0.1   1.5   1   1   0   1   1   1   1 Ribosomal RNA methyltransferase FtsJ domain-containing protein (Fragment) OS=Thalassiosira pseudonana OX=35128 GN=THAPSDRAFT_17292 PE=3 SV=1
+tr|B8C6G9|B8C6G9_THAPS -          Methyltr_RsmB-F      PF01189.24    0.0005   19.1   0.3    0.0087   15.1   0.4   2.2   1   1   0   1   1   1   1 S-adenosylmethionine-dependent methyltransferase domain-containing protein (Fragment) OS=Thalassiosira pseudonana OX=35128 GN=THAPSDRAFT_35911 PE=4 SV=1
+tr|B8C8C5|B8C8C5_THAPS -          Methyltr_RsmB-F      PF01189.24     0.014   14.5   0.0     0.061   12.3   0.0   1.8   1   1   0   1   1   1   0 S-adenosylmethionine-dependent methyltransferase domain-containing protein OS=Thalassiosira pseudonana OX=35128 GN=THAPSDRAFT_269434 PE=4 SV=1
+tr|B8C2D9|B8C2D9_THAPS -          Methyltr_RsmB-F      PF01189.24     0.046   12.8   0.9     0.092   11.8   0.0   1.9   3   0   0   3   3   3   0 DNA 5'-3' helicase OS=Thalassiosira pseudonana OX=35128 GN=ERCC2 PE=3 SV=1
+tr|B8C702|B8C702_THAPS -          Methyltr_RsmB-F      PF01189.24     0.054   12.5   0.0       1.3    8.0   0.0   2.2   1   1   0   2   2   2   0 Arsenite methyltransferase OS=Thalassiosira pseudonana OX=35128 GN=THAPSDRAFT_7607 PE=3 SV=1
+tr|B8CF15|B8CF15_THAPS -          Methyltr_RsmB-F      PF01189.24     0.098   11.7   0.0      0.15   11.1   0.0   1.2   1   0   0   1   1   1   0 Cyclopropane-fatty-acyl-phospholipid synthase OS=Thalassiosira pseudonana OX=35128 GN=THAPSDRAFT_30620 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltr_RsmB-F.hmm
+# Target file:     proteomes/Thalassiosira_pseudonana.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltr_RsmB-F/Thalassiosira_pseudonana.tblout --cpu 8 pfam_list/Methyltr_RsmB-F.hmm proteomes/Thalassiosira_pseudonana.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:10:18 2025
+# [ok]

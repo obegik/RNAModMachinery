@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|B3RLM9|B3RLM9_TRIAD -          Bin3                 PF06859.19   7.4e-36  122.4   2.2   7.4e-36  122.4   0.0   2.0   2   0   0   2   2   2   1 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_19869 PE=4 SV=1
+tr|B3S6E8|B3S6E8_TRIAD -          Bin3                 PF06859.19     0.024   14.6   0.1       0.1   12.6   0.0   2.1   2   0   0   2   2   2   0 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_59780 PE=3 SV=1
+tr|B3RP82|B3RP82_TRIAD -          Bin3                 PF06859.19      0.07   13.1   0.3      0.17   11.8   0.0   1.9   2   0   0   2   2   2   0 Uncharacterized protein OS=Trichoplax adhaerens OX=10228 GN=TRIADDRAFT_53437 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Bin3.hmm
+# Target file:     proteomes/Trichoplax_adhaerens.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Bin3/Trichoplax_adhaerens.tblout --cpu 8 pfam_list/Bin3.hmm proteomes/Trichoplax_adhaerens.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:56 2025
+# [ok]

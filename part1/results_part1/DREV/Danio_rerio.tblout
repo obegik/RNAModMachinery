@@ -1,0 +1,23 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F1R335|F1R335_DANRE         -          DREV                 PF05219.18    3e-107  358.2   0.0  4.1e-107  357.7   0.0   1.2   1   0   0   1   1   1   1 Methyltransferase-like 9 OS=Danio rerio OX=7955 GN=mettl9 PE=4 SV=2
+tr|F1QE45|F1QE45_DANRE         -          DREV                 PF05219.18    0.0095   15.6   0.0     0.019   14.6   0.0   1.4   1   1   0   1   1   1   1 Methyltransferase-like 27 OS=Danio rerio OX=7955 GN=mettl27 PE=1 SV=1
+sp|Q6NWG4|ANM6_DANRE           -          DREV                 PF05219.18     0.023   14.3   0.1     0.066   12.8   0.0   1.7   2   0   0   2   2   2   0 Protein arginine N-methyltransferase 6 OS=Danio rerio OX=7955 GN=prmt6 PE=2 SV=2
+tr|A0A2R8Q1A0|A0A2R8Q1A0_DANRE -          DREV                 PF05219.18     0.032   13.8   0.0     0.038   13.6   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Danio rerio OX=7955 PE=4 SV=1
+tr|B3DIQ7|B3DIQ7_DANRE         -          DREV                 PF05219.18     0.057   13.0   0.0      0.09   12.4   0.0   1.3   1   0   0   1   1   1   0 Methyltransferase-like 22 OS=Danio rerio OX=7955 GN=mettl22 PE=2 SV=1
+tr|Q1LYQ0|Q1LYQ0_DANRE         -          DREV                 PF05219.18     0.066   12.8   0.0      0.12   12.0   0.0   1.4   1   0   0   1   1   1   0 Novel protein OS=Danio rerio OX=7955 GN=CH211-31O18.2-001 PE=1 SV=1
+sp|A3KP37|NDUF5_DANRE          -          DREV                 PF05219.18      0.08   12.5   0.0      0.11   12.0   0.0   1.3   1   0   0   1   1   1   0 Arginine-hydroxylase NDUFAF5, mitochondrial OS=Danio rerio OX=7955 GN=ndufaf5 PE=2 SV=1
+tr|F1QJM0|F1QJM0_DANRE         -          DREV                 PF05219.18      0.09   12.4   0.0      0.13   11.8   0.0   1.2   1   0   0   1   1   1   0 Zgc:162780 OS=Danio rerio OX=7955 GN=zgc:162780 PE=4 SV=1
+tr|B0S688|B0S688_DANRE         -          DREV                 PF05219.18     0.098   12.2   0.0      0.15   11.7   0.0   1.2   1   0   0   1   1   1   0 rRNA adenine N(6)-methyltransferase OS=Danio rerio OX=7955 GN=dimt1l PE=1 SV=1
+sp|Q6DC04|CARM1_DANRE          -          DREV                 PF05219.18      0.13   11.8   0.0      0.63    9.6   0.0   2.0   2   0   0   2   2   2   0 Histone-arginine methyltransferase CARM1 OS=Danio rerio OX=7955 GN=carm1 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DREV.hmm
+# Target file:     proteomes/Danio_rerio.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DREV/Danio_rerio.tblout --cpu 8 pfam_list/DREV.hmm proteomes/Danio_rerio.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:21 2025
+# [ok]

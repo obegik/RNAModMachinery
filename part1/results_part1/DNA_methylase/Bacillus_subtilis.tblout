@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P68585|MTBP_BACSU -          DNA_methylase        PF00145.24   9.3e-77  256.5   4.5     5e-53  178.5   1.4   2.0   2   0   0   2   2   2   2 Putative type II methyltransferase M.BsuMIIP OS=Bacillus subtilis (strain 168) OX=224308 GN=mtbP PE=3 SV=1
+sp|O34680|YDIP_BACSU -          DNA_methylase        PF00145.24   1.8e-50  170.1   0.0   2.9e-43  146.5   0.0   2.1   1   1   0   2   2   2   2 Type II methyltransferase M2.BsuMI OS=Bacillus subtilis (strain 168) OX=224308 GN=ydiP PE=1 SV=1
+sp|O34939|YDIO_BACSU -          DNA_methylase        PF00145.24   5.3e-49  165.3   0.0   7.5e-49  164.8   0.0   1.2   1   0   0   1   1   1   1 Type II methyltransferase M1.BsuMI OS=Bacillus subtilis (strain 168) OX=224308 GN=ydiO PE=1 SV=1
+sp|O34331|YLBH_BACSU -          DNA_methylase        PF00145.24   0.00045   17.7   0.0   0.00062   17.2   0.0   1.2   1   0   0   1   1   1   1 Putative rRNA methyltransferase YlbH OS=Bacillus subtilis (strain 168) OX=224308 GN=ylbH PE=3 SV=2
+sp|P54173|YPJQ_BACSU -          DNA_methylase        PF00145.24    0.0031   14.9   0.1    0.0048   14.3   0.1   1.2   1   0   0   1   1   1   1 Uncharacterized protein YpjQ OS=Bacillus subtilis (strain 168) OX=224308 GN=ypjQ PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DNA_methylase.hmm
+# Target file:     proteomes/Bacillus_subtilis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DNA_methylase/Bacillus_subtilis.tblout --cpu 8 pfam_list/DNA_methylase.hmm proteomes/Bacillus_subtilis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:00:08 2025
+# [ok]

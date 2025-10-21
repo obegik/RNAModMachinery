@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7B480|F7B480_CIOIN -          Gcd10p               PF04189.19   1.9e-68  230.6   0.5   2.3e-68  230.3   0.5   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona intestinalis OX=7719 GN=LOC100185737 PE=4 SV=2
+tr|H2XSX6|H2XSX6_CIOIN -          Gcd10p               PF04189.19     0.025   13.6   0.0     0.036   13.1   0.0   1.2   1   0   0   1   1   1   0 tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRMT61A OS=Ciona intestinalis OX=7719 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Gcd10p.hmm
+# Target file:     proteomes/Ciona_intestinalis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Gcd10p/Ciona_intestinalis.tblout --cpu 8 pfam_list/Gcd10p.hmm proteomes/Ciona_intestinalis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:31 2025
+# [ok]

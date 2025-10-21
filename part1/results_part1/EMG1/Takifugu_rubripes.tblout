@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A674NME8|A0A674NME8_TAKRU -          EMG1                 PF03587.20   5.2e-76  254.8   0.0   6.1e-76  254.5   0.0   1.0   1   0   0   1   1   1   1 18S rRNA (pseudouridine(1248)-N1)-methyltransferase OS=Takifugu rubripes OX=31033 GN=LOC101066424 PE=3 SV=1
+tr|H2RW68|H2RW68_TAKRU         -          EMG1                 PF03587.20   1.8e-75  253.0   0.0   2.1e-75  252.7   0.0   1.0   1   0   0   1   1   1   1 18S rRNA (pseudouridine(1248)-N1)-methyltransferase OS=Takifugu rubripes OX=31033 GN=LOC115250384 PE=3 SV=3
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/EMG1.hmm
+# Target file:     proteomes/Takifugu_rubripes.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/EMG1/Takifugu_rubripes.tblout --cpu 8 pfam_list/EMG1.hmm proteomes/Takifugu_rubripes.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:35 2025
+# [ok]

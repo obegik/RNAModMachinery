@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q9HXM8|Q9HXM8_PSEAE -          MafB19-deam          PF14437.13   1.6e-26   91.2   0.0   1.8e-26   90.9   0.0   1.1   1   0   0   1   1   1   1 tRNA-specific adenosine deaminase OS=Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1) OX=208964 GN=tadA PE=3 SV=1
+tr|Q9I0Y3|Q9I0Y3_PSEAE -          MafB19-deam          PF14437.13   2.7e-21   74.2   0.0   3.4e-21   73.9   0.0   1.1   1   0   0   1   1   1   1 Probable deaminase OS=Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1) OX=208964 GN=PA2499 PE=4 SV=1
+tr|Q9HWX2|Q9HWX2_PSEAE -          MafB19-deam          PF14437.13   1.5e-10   39.4   0.0   2.5e-10   38.7   0.0   1.3   1   0   0   1   1   1   1 Riboflavin biosynthesis protein RibD OS=Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1) OX=208964 GN=ribD PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MafB19-deam.hmm
+# Target file:     proteomes/Pseudomonas_aeruginosa.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MafB19-deam/Pseudomonas_aeruginosa.tblout --cpu 8 pfam_list/MafB19-deam.hmm proteomes/Pseudomonas_aeruginosa.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:09:25 2025
+# [ok]

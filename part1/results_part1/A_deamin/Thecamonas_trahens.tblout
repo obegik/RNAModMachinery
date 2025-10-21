@@ -1,0 +1,14 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A0L0D2L6|A0A0L0D2L6_THETB -          A_deamin             PF02137.25   2.6e-43  148.0   0.0   7.3e-43  146.5   0.0   1.7   1   1   0   1   1   1   1 tRNA-specific adenosine deaminase 1 OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_02992 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/A_deamin.hmm
+# Target file:     proteomes/Thecamonas_trahens.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/A_deamin/Thecamonas_trahens.tblout --cpu 8 pfam_list/A_deamin.hmm proteomes/Thecamonas_trahens.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:12 2025
+# [ok]

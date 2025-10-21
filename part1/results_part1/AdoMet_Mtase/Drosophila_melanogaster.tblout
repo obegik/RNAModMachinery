@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9VHB9|TRM44_DROME  -          AdoMet_MTase         PF07757.19   4.7e-65  216.6   0.1   8.8e-65  215.7   0.1   1.5   1   0   0   1   1   1   1 Probable tRNA (uracil-O(2)-)-methyltransferase OS=Drosophila melanogaster OX=7227 GN=trmt44 PE=2 SV=2
+tr|Q9VQJ8|Q9VQJ8_DROME -          AdoMet_MTase         PF07757.19     0.027   14.3   0.0     0.042   13.7   0.0   1.4   1   0   0   1   1   1   0 Protein-lysine N-methyltransferase CG9643 OS=Drosophila melanogaster OX=7227 GN=Dmel\CG9643 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/AdoMet_Mtase.hmm
+# Target file:     proteomes/Drosophila_melanogaster.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/AdoMet_Mtase/Drosophila_melanogaster.tblout --cpu 8 pfam_list/AdoMet_Mtase.hmm proteomes/Drosophila_melanogaster.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:43 2025
+# [ok]

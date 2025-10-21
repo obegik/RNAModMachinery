@@ -1,0 +1,7 @@
+Class,N_genes,MeanCorr
+1_Methylase,24,0.6229679955397246
+2_Deaminase,4,
+3_Pseudouridylase,7,0.6081142842630931
+4_OthertRNA,8,0.5477419815823203
+6_Reader,3,
+7_Eraser,3,

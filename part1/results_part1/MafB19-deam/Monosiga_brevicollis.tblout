@@ -1,0 +1,18 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A9UWJ1|A9UWJ1_MONBE -          MafB19-deam          PF14437.13   1.1e-11   43.7   0.0   1.4e-11   43.4   0.0   1.1   1   0   0   1   1   1   1 Predicted protein (Fragment) OS=Monosiga brevicollis OX=81824 GN=3136 PE=4 SV=1
+tr|A9VDN1|A9VDN1_MONBE -          MafB19-deam          PF14437.13   9.4e-10   37.5   0.0   1.2e-09   37.2   0.0   1.1   1   0   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=30328 PE=4 SV=1
+tr|A9V3W2|A9V3W2_MONBE -          MafB19-deam          PF14437.13   0.00012   21.0   0.0   0.00034   19.5   0.0   1.6   1   1   0   1   1   1   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=33129 PE=4 SV=1
+tr|A9V4N9|A9V4N9_MONBE -          MafB19-deam          PF14437.13   0.00059   18.7   0.0    0.0014   17.5   0.0   1.5   2   0   0   2   2   2   1 Predicted protein OS=Monosiga brevicollis OX=81824 GN=37934 PE=4 SV=1
+tr|A9UVH1|A9UVH1_MONBE -          MafB19-deam          PF14437.13     0.015   14.2   0.2     0.025   13.5   0.2   1.3   1   0   0   1   1   1   0 Predicted protein (Fragment) OS=Monosiga brevicollis OX=81824 GN=2378 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MafB19-deam.hmm
+# Target file:     proteomes/Monosiga_brevicollis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MafB19-deam/Monosiga_brevicollis.tblout --cpu 8 pfam_list/MafB19-deam.hmm proteomes/Monosiga_brevicollis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:09:24 2025
+# [ok]

@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|B8CAA0|B8CAA0_THAPS -          EMG1                 PF03587.20   2.9e-69  231.9   0.0   3.4e-69  231.7   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein (Fragment) OS=Thalassiosira pseudonana OX=35128 GN=THAPSDRAFT_36986 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/EMG1.hmm
+# Target file:     proteomes/Thalassiosira_pseudonana.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/EMG1/Thalassiosira_pseudonana.tblout --cpu 8 pfam_list/EMG1.hmm proteomes/Thalassiosira_pseudonana.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:36 2025
+# [ok]

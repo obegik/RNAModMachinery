@@ -1,0 +1,20 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|B8CBC2|B8CBC2_THAPS -          Fibrillarin          PF01269.24  5.5e-105  348.9   0.0  6.8e-105  348.6   0.0   1.0   1   0   0   1   1   1   1 rRNA 2'-O-methyltransferase fibrillarin OS=Thalassiosira pseudonana OX=35128 GN=THAPSDRAFT_9442 PE=3 SV=1
+tr|B8C7I4|B8C7I4_THAPS -          Fibrillarin          PF01269.24    0.0047   15.5   0.0     0.009   14.5   0.0   1.5   1   1   0   1   1   1   1 Arsenite methyltransferase (Fragment) OS=Thalassiosira pseudonana OX=35128 GN=THAPSDRAFT_263461 PE=3 SV=1
+tr|B8BWE3|B8BWE3_THAPS -          Fibrillarin          PF01269.24     0.017   13.6   0.0     0.026   13.0   0.0   1.2   1   0   0   1   1   1   0 SAM-dependent MTase RsmB/NOP-type domain-containing protein OS=Thalassiosira pseudonana OX=35128 GN=THAPSDRAFT_33094 PE=3 SV=1
+tr|B8C1V6|B8C1V6_THAPS -          Fibrillarin          PF01269.24     0.031   12.8   0.0     0.068   11.7   0.0   1.5   1   0   0   1   1   1   0 SAM-dependent MTase RsmB/NOP-type domain-containing protein (Fragment) OS=Thalassiosira pseudonana OX=35128 GN=THAPSDRAFT_34006 PE=3 SV=1
+tr|B8CCA1|B8CCA1_THAPS -          Fibrillarin          PF01269.24     0.071   11.6   0.0      0.13   10.7   0.0   1.4   1   0   0   1   1   1   0 Sterol-c-methyltransferase OS=Thalassiosira pseudonana OX=35128 GN=THAPSDRAFT_37444 PE=3 SV=1
+tr|B8BWL3|B8BWL3_THAPS -          Fibrillarin          PF01269.24     0.087   11.3   0.1      0.13   10.7   0.1   1.2   1   0   0   1   1   1   0 Enoyl reductase (ER) domain-containing protein OS=Thalassiosira pseudonana OX=35128 GN=THAPSDRAFT_4007 PE=4 SV=1
+tr|B8C702|B8C702_THAPS -          Fibrillarin          PF01269.24      0.13   10.8   0.0      0.24    9.9   0.0   1.4   1   0   0   1   1   1   0 Arsenite methyltransferase OS=Thalassiosira pseudonana OX=35128 GN=THAPSDRAFT_7607 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Fibrillarin.hmm
+# Target file:     proteomes/Thalassiosira_pseudonana.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Fibrillarin/Thalassiosira_pseudonana.tblout --cpu 8 pfam_list/Fibrillarin.hmm proteomes/Thalassiosira_pseudonana.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:45 2025
+# [ok]

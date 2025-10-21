@@ -1,0 +1,17 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A7SNZ9|A7SNZ9_NEMVE -          DNA_methylase        PF00145.24   4.6e-53  181.2   0.0   1.5e-52  179.5   0.0   1.9   1   1   0   1   1   1   1 Cytosine-specific methyltransferase (Fragment) OS=Nematostella vectensis OX=45351 GN=v1g125496 PE=3 SV=1
+tr|A7SQ72|A7SQ72_NEMVE -          DNA_methylase        PF00145.24   3.8e-24   86.1   0.0   4.5e-19   69.5   0.0   2.1   2   0   0   2   2   2   2 Predicted protein (Fragment) OS=Nematostella vectensis OX=45351 GN=v1g127267 PE=3 SV=1
+tr|A7SUR9|A7SUR9_NEMVE -          DNA_methylase        PF00145.24   1.5e-20   74.3   0.0     4e-20   72.9   0.0   1.6   1   1   0   1   1   1   1 Predicted protein (Fragment) OS=Nematostella vectensis OX=45351 GN=v1g132811 PE=3 SV=1
+tr|A7RKB2|A7RKB2_NEMVE -          DNA_methylase        PF00145.24     0.025   14.5   0.0     0.036   13.9   0.0   1.1   1   0   0   1   1   1   0 Predicted protein OS=Nematostella vectensis OX=45351 GN=v1g84090 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DNA_methylase.hmm
+# Target file:     proteomes/Nematostella_vectensis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DNA_methylase/Nematostella_vectensis.tblout --cpu 8 pfam_list/DNA_methylase.hmm proteomes/Nematostella_vectensis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:00:11 2025
+# [ok]

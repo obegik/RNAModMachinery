@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3E7L6|A0A2K3E7L6_CHLRE -          Methyltransf_10      PF05971.19   6.3e-72  242.4   2.0   6.3e-39  134.1   0.0   2.9   2   1   0   2   2   2   2 U6 small nuclear RNA (adenine-(43)-N(6))-methyltransferase OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_01g044150v5 PE=4 SV=1
+tr|A8IYP2|A8IYP2_CHLRE         -          Methyltransf_10      PF05971.19     0.088   12.1   0.1      0.13   11.5   0.1   1.2   1   0   0   1   1   1   0 R-SNARE protein, Sec22-family OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g554700v5 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltransf_10.hmm
+# Target file:     proteomes/Chlamydomonas_reinhardtii.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltransf_10/Chlamydomonas_reinhardtii.tblout --cpu 8 pfam_list/Methyltransf_10.hmm proteomes/Chlamydomonas_reinhardtii.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:12:18 2025
+# [ok]

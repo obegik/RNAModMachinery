@@ -1,0 +1,35 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A2F7C6|A2F7C6_TRIVA -          FtsJ                 PF01728.26   2.7e-56  191.8   0.0   3.2e-56  191.6   0.0   1.0   1   0   0   1   1   1   1 Putative tRNA (cytidine(32)/guanosine(34)-2'-O)-methyltransferase OS=Trichomonas vaginalis OX=5722 GN=TVAG_092500 PE=3 SV=1
+tr|A2DQE1|A2DQE1_TRIVA -          FtsJ                 PF01728.26   4.8e-56  191.0   0.0   5.6e-56  190.8   0.0   1.0   1   0   0   1   1   1   1 Putative tRNA (cytidine(32)/guanosine(34)-2'-O)-methyltransferase OS=Trichomonas vaginalis OX=5722 GN=TVAG_319930 PE=3 SV=1
+tr|A2EDQ1|A2EDQ1_TRIVA -          FtsJ                 PF01728.26     2e-55  189.0   0.0   3.6e-55  188.1   0.0   1.5   1   0   0   1   1   1   1 FtsJ-like methyltransferase family protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_309050 PE=3 SV=1
+tr|A2F3X6|A2F3X6_TRIVA -          FtsJ                 PF01728.26   1.1e-45  157.2   0.0   1.3e-45  157.0   0.0   1.1   1   0   0   1   1   1   1 FtsJ-like methyltransferase family protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_290980 PE=3 SV=1
+tr|A2G3Y9|A2G3Y9_TRIVA -          FtsJ                 PF01728.26   8.4e-36  125.0   0.0   1.4e-35  124.3   0.0   1.3   1   0   0   1   1   1   1 FtsJ-like methyltransferase family protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_116350 PE=4 SV=1
+tr|A2DME7|A2DME7_TRIVA -          FtsJ                 PF01728.26   1.5e-05   26.4   0.0   2.6e-05   25.7   0.0   1.3   1   0   0   1   1   1   1 Arginine N-methyltransferase, putative OS=Trichomonas vaginalis OX=5722 GN=TVAG_045760 PE=3 SV=1
+tr|A2E549|A2E549_TRIVA -          FtsJ                 PF01728.26     5e-05   24.7   0.0   7.9e-05   24.1   0.0   1.4   1   1   0   1   1   1   1 Protein arginine N-methyltransferase-related protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_028100 PE=3 SV=1
+tr|A2F7I7|A2F7I7_TRIVA -          FtsJ                 PF01728.26   0.00018   23.0   0.0   0.00031   22.2   0.0   1.4   1   0   0   1   1   1   1 NOL1/NOP2/sun family putative RNA methylase containing protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_115490 PE=3 SV=1
+tr|A2EFA7|A2EFA7_TRIVA -          FtsJ                 PF01728.26   0.00059   21.3   0.0    0.0014   20.0   0.0   1.6   1   0   0   1   1   1   1 NOL1/NOP2/sun family protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_079770 PE=3 SV=1
+tr|A2F2A3|A2F2A3_TRIVA -          FtsJ                 PF01728.26   0.00086   20.7   0.1    0.0013   20.1   0.1   1.3   1   0   0   1   1   1   1 Menaquinone biosynthesis methyltransferase, putative OS=Trichomonas vaginalis OX=5722 GN=TVAG_382000 PE=4 SV=1
+tr|A2FJH1|A2FJH1_TRIVA -          FtsJ                 PF01728.26     0.001   20.5   0.0    0.0017   19.8   0.0   1.3   1   0   0   1   1   1   1 Protein arginine N-methyltransferase, putative OS=Trichomonas vaginalis OX=5722 GN=TVAG_433490 PE=3 SV=1
+tr|A2FPG1|A2FPG1_TRIVA -          FtsJ                 PF01728.26    0.0011   20.4   0.0    0.0016   19.8   0.0   1.3   1   0   0   1   1   1   1 Protein arginine N-methyltransferase, putative OS=Trichomonas vaginalis OX=5722 GN=TVAG_199700 PE=3 SV=1
+tr|A2FUH6|A2FUH6_TRIVA -          FtsJ                 PF01728.26    0.0043   18.4   0.0    0.0081   17.6   0.0   1.4   1   0   0   1   1   1   1 NOL1/NOP2/sun family protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_380890 PE=3 SV=1
+tr|A2FK19|A2FK19_TRIVA -          FtsJ                 PF01728.26    0.0047   18.3   0.0     0.008   17.6   0.0   1.4   1   0   0   1   1   1   1 Methyltransferase, putative OS=Trichomonas vaginalis OX=5722 GN=TVAG_346300 PE=4 SV=1
+tr|A2FNB4|A2FNB4_TRIVA -          FtsJ                 PF01728.26    0.0085   17.5   0.0     0.026   15.9   0.0   1.8   2   0   0   2   2   2   1 NOL1/NOP2/sun family protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_427320 PE=3 SV=1
+tr|A2DVE6|A2DVE6_TRIVA -          FtsJ                 PF01728.26    0.0093   17.4   0.1     0.017   16.5   0.1   1.5   1   1   0   1   1   1   1 Methyltransferase, putative OS=Trichomonas vaginalis OX=5722 GN=TVAG_209040 PE=4 SV=1
+tr|A2DMU5|A2DMU5_TRIVA -          FtsJ                 PF01728.26    0.0099   17.3   0.0     0.013   16.9   0.0   1.2   1   0   0   1   1   1   1 Methyltransferase, putative OS=Trichomonas vaginalis OX=5722 GN=TVAG_254280 PE=4 SV=1
+tr|A2DNX4|A2DNX4_TRIVA -          FtsJ                 PF01728.26     0.012   16.9   0.0     0.019   16.3   0.0   1.4   1   0   0   1   1   1   0 Arginine methyltransferase, putative OS=Trichomonas vaginalis OX=5722 GN=TVAG_225950 PE=3 SV=1
+tr|A2FCQ2|A2FCQ2_TRIVA -          FtsJ                 PF01728.26     0.018   16.4   0.0     0.027   15.8   0.0   1.4   1   0   0   1   1   1   0 Arginine methyltransferase, putative OS=Trichomonas vaginalis OX=5722 GN=TVAG_048280 PE=3 SV=1
+tr|A2FYV2|A2FYV2_TRIVA -          FtsJ                 PF01728.26     0.064   14.6   0.0     0.095   14.1   0.0   1.3   1   0   0   1   1   1   0 Membrane protein, putative OS=Trichomonas vaginalis OX=5722 GN=TVAG_009340 PE=4 SV=1
+tr|A2ELU0|A2ELU0_TRIVA -          FtsJ                 PF01728.26      0.13   13.6   0.0      0.26   12.7   0.0   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_151750 PE=3 SV=1
+tr|A2E7U5|A2E7U5_TRIVA -          FtsJ                 PF01728.26      0.43   11.9   0.1      0.94   10.8   0.0   1.5   1   1   0   1   1   1   0 Uncharacterized protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_061800 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/FtsJ.hmm
+# Target file:     proteomes/Trichomonas_vaginalis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/FtsJ/Trichomonas_vaginalis.tblout --cpu 8 pfam_list/FtsJ.hmm proteomes/Trichomonas_vaginalis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:59 2025
+# [ok]

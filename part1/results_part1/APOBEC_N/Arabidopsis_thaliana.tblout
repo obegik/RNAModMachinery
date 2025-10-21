@@ -1,0 +1,15 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q6IDB6|TAD2_ARATH -          APOBEC_N             PF08210.18      0.14   12.8   0.0       0.2   12.3   0.0   1.2   1   0   0   1   1   1   0 tRNA-specific adenosine deaminase TAD2 OS=Arabidopsis thaliana OX=3702 GN=TAD2 PE=1 SV=1
+sp|Q94BU8|GSDA_ARATH -          APOBEC_N             PF08210.18      0.16   12.6   1.1      0.25   12.0   1.1   1.2   1   0   0   1   1   1   0 Guanosine deaminase OS=Arabidopsis thaliana OX=3702 GN=GSDA PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/APOBEC_N.hmm
+# Target file:     proteomes/Arabidopsis_thaliana.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/APOBEC_N/Arabidopsis_thaliana.tblout --cpu 8 pfam_list/APOBEC_N.hmm proteomes/Arabidopsis_thaliana.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:58:49 2025
+# [ok]

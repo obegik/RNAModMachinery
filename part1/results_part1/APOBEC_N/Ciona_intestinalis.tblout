@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6SPN1|F6SPN1_CIOIN -          APOBEC_N             PF08210.18   3.9e-07   30.1   0.0   9.4e-07   28.9   0.0   1.6   1   0   0   1   1   1   1 uncharacterized protein LOC100182559 isoform X2 OS=Ciona intestinalis OX=7719 GN=LOC100182559 PE=4 SV=2
+tr|F6S0S9|F6S0S9_CIOIN -          APOBEC_N             PF08210.18   0.00034   20.6   0.0    0.0006   19.7   0.0   1.3   1   0   0   1   1   1   1 uncharacterized protein LOC100184135 isoform X2 OS=Ciona intestinalis OX=7719 GN=LOC100184135 PE=4 SV=2
+tr|H2XMB4|H2XMB4_CIOIN -          APOBEC_N             PF08210.18         1    9.2   5.0       1.7    8.5   5.0   1.4   1   0   0   1   1   1   0 von Willebrand factor C domain-containing protein 2-like OS=Ciona intestinalis OX=7719 GN=LOC100186918 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/APOBEC_N.hmm
+# Target file:     proteomes/Ciona_intestinalis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/APOBEC_N/Ciona_intestinalis.tblout --cpu 8 pfam_list/APOBEC_N.hmm proteomes/Ciona_intestinalis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:58:50 2025
+# [ok]

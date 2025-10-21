@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|G3RSR2|G3RSR2_GORGO         -          GCD14                PF08704.17  1.5e-107  359.1   0.2  2.9e-105  351.7   0.2   2.0   1   1   0   1   1   1   1 tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRMT61A OS=Gorilla gorilla gorilla OX=9595 GN=TRMT61A PE=3 SV=1
+tr|G3RIP8|G3RIP8_GORGO         -          GCD14                PF08704.17   2.3e-19   70.3   0.0   3.2e-19   69.8   0.0   1.1   1   0   0   1   1   1   1 tRNA (adenine(58)-N(1))-methyltransferase OS=Gorilla gorilla gorilla OX=9595 PE=4 SV=2
+tr|G3RZC3|G3RZC3_GORGO         -          GCD14                PF08704.17   0.00017   21.6   0.0   0.00025   21.1   0.0   1.2   1   0   0   1   1   1   1 Fibrillarin OS=Gorilla gorilla gorilla OX=9595 GN=FBL PE=3 SV=1
+tr|G3S020|G3S020_GORGO         -          GCD14                PF08704.17    0.0033   17.4   0.1     0.014   15.3   0.0   1.8   2   0   0   2   2   2   1 Protein-L-isoaspartate O-methyltransferase domain-containing protein 1 OS=Gorilla gorilla gorilla OX=9595 GN=PCMTD1 PE=3 SV=1
+tr|A0A2I2YGK4|A0A2I2YGK4_GORGO -          GCD14                PF08704.17     0.014   15.3   0.0     0.026   14.4   0.0   1.4   1   0   0   1   1   1   0 Protein-L-isoaspartate (D-aspartate) O-methyltransferase domain containing 2 OS=Gorilla gorilla gorilla OX=9595 GN=PCMTD2 PE=3 SV=1
+tr|A0A2I2ZIJ0|A0A2I2ZIJ0_GORGO -          GCD14                PF08704.17       5.8    6.8   6.4       9.2    6.1   4.7   1.8   1   1   0   1   1   1   0 Biogenesis of lysosome-related organelles complex 1 subunit 6 OS=Gorilla gorilla gorilla OX=9595 GN=BLOC1S6 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/GCD14.hmm
+# Target file:     proteomes/Gorilla_gorilla.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/GCD14/Gorilla_gorilla.tblout --cpu 8 pfam_list/GCD14.hmm proteomes/Gorilla_gorilla.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:11 2025
+# [ok]

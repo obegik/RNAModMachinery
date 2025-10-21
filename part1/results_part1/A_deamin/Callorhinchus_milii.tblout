@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A4W3H8W6|A0A4W3H8W6_CALMI -          A_deamin             PF02137.25  4.6e-116  388.0   0.2  7.9e-116  387.2   0.0   1.5   2   0   0   2   2   2   1 Adenosine deaminase RNA specific B1b OS=Callorhinchus milii OX=7868 GN=adarb1b PE=4 SV=1
+tr|A0A4W3GPE9|A0A4W3GPE9_CALMI -          A_deamin             PF02137.25  2.2e-108  362.7   0.0  3.1e-108  362.2   0.0   1.2   1   0   0   1   1   1   1 Adenosine deaminase RNA specific B2 (inactive) OS=Callorhinchus milii OX=7868 PE=4 SV=1
+tr|A0A4W3IV92|A0A4W3IV92_CALMI -          A_deamin             PF02137.25  3.7e-100  335.7   0.1  7.4e-100  334.7   0.1   1.4   1   1   0   1   1   1   1 tRNA-specific adenosine deaminase 1 OS=Callorhinchus milii OX=7868 PE=3 SV=1
+tr|A0A4W3HYT6|A0A4W3HYT6_CALMI -          A_deamin             PF02137.25   1.5e-97  327.1   0.1   1.9e-97  326.8   0.1   1.1   1   0   0   1   1   1   1 Adenosine deaminase domain-containing protein 1 OS=Callorhinchus milii OX=7868 GN=adad1 PE=3 SV=1
+tr|A0A4W3GV31|A0A4W3GV31_CALMI -          A_deamin             PF02137.25   8.9e-80  268.7   0.1   1.4e-79  268.0   0.1   1.3   1   0   0   1   1   1   1 Adenosine deaminase domain-containing protein 2-like OS=Callorhinchus milii OX=7868 PE=4 SV=1
+tr|A0A4W3GLA3|A0A4W3GLA3_CALMI -          A_deamin             PF02137.25   6.1e-11   42.4   0.0   7.5e-11   42.1   0.0   1.1   1   0   0   1   1   1   1 A to I editase domain-containing protein OS=Callorhinchus milii OX=7868 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/A_deamin.hmm
+# Target file:     proteomes/Callorhinchus_milii.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/A_deamin/Callorhinchus_milii.tblout --cpu 8 pfam_list/A_deamin.hmm proteomes/Callorhinchus_milii.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:07 2025
+# [ok]

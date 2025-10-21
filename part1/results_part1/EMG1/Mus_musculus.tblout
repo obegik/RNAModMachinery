@@ -1,0 +1,14 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|O35130|NEP1_MOUSE -          EMG1                 PF03587.20   1.3e-76  256.8   0.0   1.5e-76  256.6   0.0   1.0   1   0   0   1   1   1   1 Ribosomal RNA small subunit methyltransferase NEP1 OS=Mus musculus OX=10090 GN=Emg1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/EMG1.hmm
+# Target file:     proteomes/Mus_musculus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/EMG1/Mus_musculus.tblout --cpu 8 pfam_list/EMG1.hmm proteomes/Mus_musculus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:34 2025
+# [ok]

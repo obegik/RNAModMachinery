@@ -1,0 +1,17 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|S2JAM3|S2JAM3_MUCC1 -          Fibrillarin          PF01269.24  1.2e-107  357.7   0.1  1.5e-107  357.4   0.1   1.0   1   0   0   1   1   1   1 Fibrillarin-like pre-rRNA processing protein OS=Mucor circinelloides f. circinelloides (strain 1006PhL) OX=1220926 GN=HMPREF1544_07735 PE=3 SV=1
+tr|S2K2P9|S2K2P9_MUCC1 -          Fibrillarin          PF01269.24  1.6e-107  357.3   0.1    2e-107  357.0   0.1   1.0   1   0   0   1   1   1   1 Fibrillarin-like pre-rRNA processing protein OS=Mucor circinelloides f. circinelloides (strain 1006PhL) OX=1220926 GN=HMPREF1544_06723 PE=3 SV=1
+tr|S2JC66|S2JC66_MUCC1 -          Fibrillarin          PF01269.24      0.01   14.4   0.0     0.018   13.6   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Mucor circinelloides f. circinelloides (strain 1006PhL) OX=1220926 GN=HMPREF1544_05380 PE=3 SV=1
+tr|S2JEN4|S2JEN4_MUCC1 -          Fibrillarin          PF01269.24     0.076   11.6   0.0       0.4    9.2   0.0   2.0   2   1   0   2   2   2   0 tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRM61 OS=Mucor circinelloides f. circinelloides (strain 1006PhL) OX=1220926 GN=HMPREF1544_04396 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Fibrillarin.hmm
+# Target file:     proteomes/Mucor_circinelloides.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Fibrillarin/Mucor_circinelloides.tblout --cpu 8 pfam_list/Fibrillarin.hmm proteomes/Mucor_circinelloides.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:43 2025
+# [ok]

@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q980M6|Q980M6_SACS2 -          DNA_methylase        PF00145.24     9e-57  190.3   0.0   1.1e-55  186.8   0.0   2.0   1   1   0   1   1   1   1 DNA (cytosine-5-)-methyltransferase OS=Saccharolobus solfataricus (strain ATCC 35092 / DSM 1617 / JCM 11322 / P2) OX=273057 GN=SSO0265 PE=3 SV=1
+tr|Q981D9|Q981D9_SACS2 -          DNA_methylase        PF00145.24    0.0048   13.8   0.2    0.0079   13.0   0.2   1.3   1   0   0   1   1   1   1 Transposase, probably IS605-TnpB family OS=Saccharolobus solfataricus (strain ATCC 35092 / DSM 1617 / JCM 11322 / P2) OX=273057 GN=SSO0008 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DNA_methylase.hmm
+# Target file:     proteomes/Saccharolobus solfataricus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DNA_methylase/Saccharolobus solfataricus.tblout --cpu 8 pfam_list/DNA_methylase.hmm proteomes/Saccharolobus solfataricus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:00:12 2025
+# [ok]

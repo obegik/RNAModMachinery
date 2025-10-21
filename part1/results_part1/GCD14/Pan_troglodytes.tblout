@@ -1,0 +1,23 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|K7AEF2|K7AEF2_PANTR         -          GCD14                PF08704.17  1.6e-107  359.1   0.2    3e-105  351.7   0.2   2.0   1   1   0   1   1   1   1 tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRMT61A OS=Pan troglodytes OX=9598 GN=TRMT61A PE=2 SV=1
+tr|H2QHP4|H2QHP4_PANTR         -          GCD14                PF08704.17   1.5e-19   71.0   0.0   2.1e-19   70.5   0.0   1.1   1   0   0   1   1   1   1 tRNA methyltransferase 61B OS=Pan troglodytes OX=9598 GN=TRMT61B PE=4 SV=2
+tr|A0A2I3RF95|A0A2I3RF95_PANTR -          GCD14                PF08704.17    0.0002   21.4   0.0   0.00029   20.9   0.0   1.2   1   0   0   1   1   1   1 Fibrillarin OS=Pan troglodytes OX=9598 GN=FBL PE=3 SV=1
+tr|A0A2I3RSU9|A0A2I3RSU9_PANTR -          GCD14                PF08704.17   0.00024   21.2   0.1   0.00034   20.7   0.1   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Pan troglodytes OX=9598 PE=4 SV=1
+tr|K7B228|K7B228_PANTR         -          GCD14                PF08704.17    0.0016   18.5   0.0    0.0022   18.0   0.0   1.2   1   0   0   1   1   1   1 Protein-L-isoaspartate O-methyltransferase OS=Pan troglodytes OX=9598 GN=PCMT1 PE=2 SV=1
+tr|A0A2I3RWY8|A0A2I3RWY8_PANTR -          GCD14                PF08704.17    0.0022   18.1   0.0    0.0032   17.5   0.0   1.2   1   0   0   1   1   1   1 Fibrillarin like 1 OS=Pan troglodytes OX=9598 GN=FBLL1 PE=3 SV=1
+tr|H2QW55|H2QW55_PANTR         -          GCD14                PF08704.17    0.0035   17.4   0.1     0.015   15.3   0.0   1.8   2   0   0   2   2   2   1 PCMTD1 isoform 2 OS=Pan troglodytes OX=9598 GN=PCMTD1 PE=2 SV=1
+tr|A0A2I3SHL6|A0A2I3SHL6_PANTR -          GCD14                PF08704.17     0.015   15.3   0.0     0.028   14.4   0.0   1.4   1   0   0   1   1   1   0 PCMTD2 isoform 5 OS=Pan troglodytes OX=9598 GN=PCMTD2 PE=2 SV=1
+sp|P86243|TOMT_PANTR           -          GCD14                PF08704.17      0.34   10.9   0.0      0.47   10.4   0.0   1.2   1   0   0   1   1   1   0 Transmembrane O-methyltransferase OS=Pan troglodytes OX=9598 GN=LRTOMT PE=2 SV=1
+tr|A0A2I3TIN0|A0A2I3TIN0_PANTR -          GCD14                PF08704.17       6.1    6.8   6.4       9.8    6.1   4.7   1.8   1   1   0   1   1   1   0 Biogenesis of lysosome-related organelles complex 1 subunit 6 OS=Pan troglodytes OX=9598 GN=BLOC1S6 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/GCD14.hmm
+# Target file:     proteomes/Pan_troglodytes.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/GCD14/Pan_troglodytes.tblout --cpu 8 pfam_list/GCD14.hmm proteomes/Pan_troglodytes.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:13 2025
+# [ok]

@@ -1,0 +1,14 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q02648|TRM44_YEAST -          AdoMet_MTase         PF07757.19     4e-41  138.3   0.1     8e-41  137.3   0.1   1.5   1   0   0   1   1   1   1 tRNA (uracil-O(2)-)-methyltransferase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TRM44 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/AdoMet_Mtase.hmm
+# Target file:     proteomes/Saccharomyces_cerevisiae.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/AdoMet_Mtase/Saccharomyces_cerevisiae.tblout --cpu 8 pfam_list/AdoMet_Mtase.hmm proteomes/Saccharomyces_cerevisiae.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:45 2025
+# [ok]

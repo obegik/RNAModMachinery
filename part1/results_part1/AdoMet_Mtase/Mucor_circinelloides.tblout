@@ -1,0 +1,17 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|S2JHY5|S2JHY5_MUCC1 -          AdoMet_MTase         PF07757.19     1e-31  108.9   0.1   1.9e-31  108.1   0.1   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Mucor circinelloides f. circinelloides (strain 1006PhL) OX=1220926 GN=HMPREF1544_05076 PE=4 SV=1
+tr|S2IXN9|S2IXN9_MUCC1 -          AdoMet_MTase         PF07757.19   0.00052   19.7   0.0   0.00086   19.0   0.0   1.4   1   0   0   1   1   1   1 Protein-lysine N-methyltransferase EFM4 OS=Mucor circinelloides f. circinelloides (strain 1006PhL) OX=1220926 GN=EFM4 PE=3 SV=1
+tr|S2J996|S2J996_MUCC1 -          AdoMet_MTase         PF07757.19     0.008   15.8   0.2       2.3    7.9   0.0   2.8   1   1   0   2   2   2   2 Uncharacterized protein OS=Mucor circinelloides f. circinelloides (strain 1006PhL) OX=1220926 GN=HMPREF1544_06502 PE=4 SV=1
+tr|S2JUX9|S2JUX9_MUCC1 -          AdoMet_MTase         PF07757.19      0.16   11.6   1.1      0.42   10.3   0.0   2.2   3   0   0   3   3   3   0 Histone-lysine N-methyltransferase, H3 lysine-79 specific OS=Mucor circinelloides f. circinelloides (strain 1006PhL) OX=1220926 GN=HMPREF1544_09658 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/AdoMet_Mtase.hmm
+# Target file:     proteomes/Mucor_circinelloides.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/AdoMet_Mtase/Mucor_circinelloides.tblout --cpu 8 pfam_list/AdoMet_Mtase.hmm proteomes/Mucor_circinelloides.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:44 2025
+# [ok]

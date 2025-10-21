@@ -1,0 +1,90 @@
+IQ-TREE version 3.0.1 for MacOS ARM 64-bit built Jul  9 2025
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    QY066DPX6V.crg.es (SSE4.2, 16 GB RAM)
+Command: iqtree -s results_part1_v3/Methyltr_RsmB-F/Methyltr_RsmB-F_aligned.fasta -st AA -m JTT+F+I+G4 -nt 8 --safe --redo --fast
+Seed:    921554 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon Oct 20 22:10:49 2025
+Kernel:  Safe SSE2 - 8 threads (10 CPU cores detected)
+
+Reading alignment file results_part1_v3/Methyltr_RsmB-F/Methyltr_RsmB-F_aligned.fasta ... Fasta format detected
+Reading fasta file: done in 0.0169859 secs using 90.22% CPU
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.011833 secs using 75.75% CPU
+Alignment has 275 sequences with 5974 columns, 4675 distinct patterns
+2070 parsimony-informative, 1974 singleton sites, 1930 constant sites
+Analyzing sequences: done in 0.000653982 secs using 362.4% CPU
+WARNING: 275 sequences contain more than 50% gaps/ambiguity
+Checking for duplicate sequences: done in 0.00121188 secs using 232.4% CPU
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.32 seconds
+
+NOTE: 798 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.50)
+1. Initial log-likelihood: -299733.99
+2. Current log-likelihood: -244288.74
+3. Current log-likelihood: -243508.29
+4. Current log-likelihood: -243456.90
+5. Current log-likelihood: -243437.91
+6. Current log-likelihood: -243428.81
+7. Current log-likelihood: -243424.11
+8. Current log-likelihood: -243421.60
+9. Current log-likelihood: -243420.24
+10. Current log-likelihood: -243419.50
+Optimal log-likelihood: -243419.11
+Proportion of invariable sites: 0.00
+Gamma shape alpha: 1.26
+Parameters optimization took 10 rounds (17.96 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 4.66159 secs using 678.3% CPU
+Computing ML distances took 4.662880 sec (of wall-clock time) 31.622414 sec (of CPU time)
+WARNING: Some pairwise ML distances are too long (saturated)
+Setting up auxiliary I and S matrices: done in 0.000639915 secs using 338.8% CPU
+Constructing RapidNJ tree: done in 0.063637 secs using 61.26% CPU
+Computing RapidNJ tree took 0.064385 sec (of wall-clock time) 0.041228 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -246724.980
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+
+Do NNI search on 2 best initial trees
+Optimizing NNI: done in 13.2051 secs using 389.5% CPU
+Estimate model parameters (epsilon = 0.500)
+BETTER TREE FOUND at iteration 1: -243065.330
+Optimizing NNI: done in 35.2788 secs using 401.5% CPU
+Finish initializing candidate tree set (4)
+Current best tree score: -243065.330 / CPU time: 50.427
+Number of iterations: 2
+TREE SEARCH COMPLETED AFTER 2 ITERATIONS / Time: 0h:1m:23s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.050)
+1. Initial log-likelihood: -243065.330
+2. Current log-likelihood: -243065.214
+3. Current log-likelihood: -243065.158
+Optimal log-likelihood: -243065.129
+Proportion of invariable sites: 0.001
+Gamma shape alpha: 1.266
+Parameters optimization took 3 rounds (4.096 sec)
+BEST SCORE FOUND : -243065.129
+Total tree length: 234.501
+
+Total number of iterations: 2
+CPU time used for tree search: 203.066 sec (0h:3m:23s)
+Wall-clock time used for tree search: 50.428 sec (0h:0m:50s)
+Total CPU time used: 382.194 sec (0h:6m:22s)
+Total wall-clock time used: 87.232 sec (0h:1m:27s)
+
+Analysis results written to: 
+  IQ-TREE report:                results_part1_v3/Methyltr_RsmB-F/Methyltr_RsmB-F_aligned.fasta.iqtree
+  Maximum-likelihood tree:       results_part1_v3/Methyltr_RsmB-F/Methyltr_RsmB-F_aligned.fasta.treefile
+  Likelihood distances:          results_part1_v3/Methyltr_RsmB-F/Methyltr_RsmB-F_aligned.fasta.mldist
+  Screen log file:               results_part1_v3/Methyltr_RsmB-F/Methyltr_RsmB-F_aligned.fasta.log
+
+Date and Time: Mon Oct 20 22:12:17 2025

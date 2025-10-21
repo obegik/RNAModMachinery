@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A0L0DPM3|A0A0L0DPM3_THETB -          GCD14                PF08704.17   5.7e-85  284.2   0.0     7e-85  283.9   0.0   1.1   1   0   0   1   1   1   1 tRNA (adenine(58)-N(1))-methyltransferase OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_09619 PE=4 SV=1
+tr|A0A0L0DKQ6|A0A0L0DKQ6_THETB -          GCD14                PF08704.17    0.0006   18.8   0.0   0.00081   18.3   0.0   1.1   1   0   0   1   1   1   1 rRNA 2'-O-methyltransferase fibrillarin OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_09053 PE=3 SV=1
+tr|A0A0L0DLM6|A0A0L0DLM6_THETB -          GCD14                PF08704.17     0.069   12.0   0.0      0.12   11.3   0.0   1.3   1   0   0   1   1   1   0 Protein-L-isoaspartate O-methyltransferase domain-containing protein 2 OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_09300 PE=3 SV=1
+tr|A0A0L0DNA3|A0A0L0DNA3_THETB -          GCD14                PF08704.17      0.12   11.3   0.0      0.22   10.4   0.0   1.3   1   0   0   1   1   1   0 rRNA 2'-O-methyltransferase fibrillarin OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_12230 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/GCD14.hmm
+# Target file:     proteomes/Thecamonas_trahens.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/GCD14/Thecamonas_trahens.tblout --cpu 8 pfam_list/GCD14.hmm proteomes/Thecamonas_trahens.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:15 2025
+# [ok]

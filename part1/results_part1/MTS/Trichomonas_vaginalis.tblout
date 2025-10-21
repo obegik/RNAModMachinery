@@ -1,0 +1,43 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A2DMU5|A2DMU5_TRIVA -          MTS                  PF05175.21   2.2e-14   54.8   0.0   3.2e-14   54.3   0.0   1.2   1   0   0   1   1   1   1 Methyltransferase, putative OS=Trichomonas vaginalis OX=5722 GN=TVAG_254280 PE=4 SV=1
+tr|A2ELU0|A2ELU0_TRIVA -          MTS                  PF05175.21   4.6e-09   37.5   0.1   7.9e-09   36.7   0.1   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_151750 PE=3 SV=1
+tr|A2FEZ1|A2FEZ1_TRIVA -          MTS                  PF05175.21   2.6e-08   35.1   0.0     4e-08   34.5   0.0   1.3   1   0   0   1   1   1   1 S-adenosylmethionine-dependent methyltransferase, putative OS=Trichomonas vaginalis OX=5722 GN=TVAG_256850 PE=4 SV=1
+tr|A2G5Z9|A2G5Z9_TRIVA -          MTS                  PF05175.21   6.6e-08   33.7   0.0   1.3e-07   32.8   0.0   1.4   1   0   0   1   1   1   1 Methyltransferase, putative OS=Trichomonas vaginalis OX=5722 GN=TVAG_466240 PE=4 SV=1
+tr|A2FAI4|A2FAI4_TRIVA -          MTS                  PF05175.21   1.9e-07   32.3   0.0   2.8e-07   31.7   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_415010 PE=4 SV=1
+tr|A2E549|A2E549_TRIVA -          MTS                  PF05175.21   3.9e-06   28.0   0.0   6.6e-06   27.2   0.0   1.3   1   0   0   1   1   1   1 Protein arginine N-methyltransferase-related protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_028100 PE=3 SV=1
+tr|A2FJH1|A2FJH1_TRIVA -          MTS                  PF05175.21     7e-05   23.9   0.0   0.00012   23.2   0.0   1.3   1   0   0   1   1   1   1 Protein arginine N-methyltransferase, putative OS=Trichomonas vaginalis OX=5722 GN=TVAG_433490 PE=3 SV=1
+tr|A2ECU9|A2ECU9_TRIVA -          MTS                  PF05175.21   0.00011   23.3   0.0   0.00015   22.8   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_102430 PE=4 SV=1
+tr|A2FPG1|A2FPG1_TRIVA -          MTS                  PF05175.21   0.00014   22.9   0.1   0.00025   22.1   0.1   1.3   1   0   0   1   1   1   1 Protein arginine N-methyltransferase, putative OS=Trichomonas vaginalis OX=5722 GN=TVAG_199700 PE=3 SV=1
+tr|A2DME7|A2DME7_TRIVA -          MTS                  PF05175.21   0.00018   22.6   0.1   0.00038   21.5   0.1   1.5   1   0   0   1   1   1   1 Arginine N-methyltransferase, putative OS=Trichomonas vaginalis OX=5722 GN=TVAG_045760 PE=3 SV=1
+tr|A2DZV3|A2DZV3_TRIVA -          MTS                  PF05175.21   0.00035   21.6   0.0    0.0006   20.9   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_478370 PE=4 SV=1
+tr|A2FAE3|A2FAE3_TRIVA -          MTS                  PF05175.21   0.00044   21.3   0.0   0.00056   21.0   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_299880 PE=4 SV=1
+tr|A2ESN8|A2ESN8_TRIVA -          MTS                  PF05175.21   0.00052   21.1   0.0   0.00077   20.5   0.0   1.3   1   1   0   1   1   1   1 tRNA (guanine-N(7)-)-methyltransferase OS=Trichomonas vaginalis OX=5722 GN=TVAG_069970 PE=3 SV=1
+tr|A2DMN7|A2DMN7_TRIVA -          MTS                  PF05175.21   0.00061   20.8   0.0   0.00098   20.2   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_253700 PE=4 SV=1
+tr|A2FB51|A2FB51_TRIVA -          MTS                  PF05175.21    0.0014   19.7   0.0    0.0017   19.4   0.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_490140 PE=4 SV=1
+tr|A2DNX4|A2DNX4_TRIVA -          MTS                  PF05175.21    0.0015   19.6   0.0    0.0024   18.9   0.0   1.3   1   0   0   1   1   1   1 Arginine methyltransferase, putative OS=Trichomonas vaginalis OX=5722 GN=TVAG_225950 PE=3 SV=1
+tr|A2F0C3|A2F0C3_TRIVA -          MTS                  PF05175.21    0.0022   19.0   0.1       1.6    9.8   0.0   2.2   1   1   1   2   2   2   2 Uncharacterized protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_292510 PE=4 SV=1
+tr|A2DE67|A2DE67_TRIVA -          MTS                  PF05175.21    0.0025   18.8   0.0    0.0037   18.3   0.0   1.3   1   0   0   1   1   1   1 tRNA (guanine-N(7)-)-methyltransferase OS=Trichomonas vaginalis OX=5722 GN=TVAG_166600 PE=3 SV=1
+tr|A2FNS0|A2FNS0_TRIVA -          MTS                  PF05175.21    0.0041   18.2   0.1    0.0074   17.3   0.1   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_137180 PE=3 SV=1
+tr|A2FCQ2|A2FCQ2_TRIVA -          MTS                  PF05175.21    0.0066   17.5   0.0     0.011   16.7   0.0   1.3   1   0   0   1   1   1   1 Arginine methyltransferase, putative OS=Trichomonas vaginalis OX=5722 GN=TVAG_048280 PE=3 SV=1
+tr|A2FNP4|A2FNP4_TRIVA -          MTS                  PF05175.21    0.0073   17.3   0.0     0.011   16.8   0.0   1.2   1   0   0   1   1   1   1 MGC83087 protein, putative OS=Trichomonas vaginalis OX=5722 GN=TVAG_427110 PE=4 SV=1
+tr|A2FPX1|A2FPX1_TRIVA -          MTS                  PF05175.21    0.0097   16.9   0.0     0.015   16.3   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_255110 PE=4 SV=1
+tr|A2FYV2|A2FYV2_TRIVA -          MTS                  PF05175.21    0.0099   16.9   0.1      0.02   15.9   0.1   1.5   1   1   0   1   1   1   1 Membrane protein, putative OS=Trichomonas vaginalis OX=5722 GN=TVAG_009340 PE=4 SV=1
+tr|A2EQY4|A2EQY4_TRIVA -          MTS                  PF05175.21      0.02   15.9   0.0      0.03   15.4   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_040100 PE=4 SV=1
+tr|A2DM16|A2DM16_TRIVA -          MTS                  PF05175.21      0.03   15.3   1.1     0.032   15.2   0.0   1.5   2   0   0   2   2   2   0 MGC80481 protein, putative OS=Trichomonas vaginalis OX=5722 GN=TVAG_463050 PE=4 SV=1
+sp|A2E5K9|TRM5_TRIVA   -          MTS                  PF05175.21     0.033   15.2   0.0     0.058   14.4   0.0   1.3   1   0   0   1   1   1   0 tRNA (guanine(37)-N1)-methyltransferase OS=Trichomonas vaginalis OX=5722 GN=TVAG_038970 PE=3 SV=1
+tr|A2EXH2|A2EXH2_TRIVA -          MTS                  PF05175.21     0.048   14.7   0.0       0.3   12.1   0.0   1.9   1   1   0   1   1   1   0 Uncharacterized protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_253130 PE=4 SV=1
+tr|A2EVN6|A2EVN6_TRIVA -          MTS                  PF05175.21     0.056   14.5   0.0     0.098   13.7   0.0   1.3   1   0   0   1   1   1   0 rRNA adenine N(6)-methyltransferase OS=Trichomonas vaginalis OX=5722 GN=TVAG_299080 PE=3 SV=1
+tr|A2EDP7|A2EDP7_TRIVA -          MTS                  PF05175.21      0.35   11.9   0.0       0.5   11.3   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_309010 PE=4 SV=1
+tr|A2FXA0|A2FXA0_TRIVA -          MTS                  PF05175.21      0.46   11.5   0.0      0.65   11.0   0.0   1.2   1   0   0   1   1   1   0 Methyltransferase, putative OS=Trichomonas vaginalis OX=5722 GN=TVAG_029510 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MTS.hmm
+# Target file:     proteomes/Trichomonas_vaginalis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MTS/Trichomonas_vaginalis.tblout --cpu 8 pfam_list/MTS.hmm proteomes/Trichomonas_vaginalis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:06:00 2025
+# [ok]

@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|H2YET4|H2YET4_CIOSA -          AdoMet_MTase         PF07757.19   1.2e-12   47.5   0.0   2.2e-12   46.6   0.0   1.5   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+tr|H2YNF4|H2YNF4_CIOSA -          AdoMet_MTase         PF07757.19   0.00019   21.0   0.1   0.00031   20.3   0.1   1.4   1   0   0   1   1   1   1 Protein-lysine N-methyltransferase OS=Ciona savignyi OX=51511 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/AdoMet_Mtase.hmm
+# Target file:     proteomes/Ciona_savignyi.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/AdoMet_Mtase/Ciona_savignyi.tblout --cpu 8 pfam_list/AdoMet_Mtase.hmm proteomes/Ciona_savignyi.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:42 2025
+# [ok]

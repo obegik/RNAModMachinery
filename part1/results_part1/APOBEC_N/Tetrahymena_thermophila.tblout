@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|I7M9H8|I7M9H8_TETTS -          APOBEC_N             PF08210.18    0.0012   19.5   0.8    0.0018   18.9   0.8   1.3   1   0   0   1   1   1   1 Cytidine and deoxycytidylate deaminase zinc-binding region protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00564260 PE=4 SV=2
+tr|A4VDC3|A4VDC3_TETTS -          APOBEC_N             PF08210.18     0.046   14.3   0.6     0.065   13.8   0.6   1.4   1   1   0   1   1   1   0 Cytidine and deoxycytidylate deaminase zinc-binding region protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00218899 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/APOBEC_N.hmm
+# Target file:     proteomes/Tetrahymena_thermophila.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/APOBEC_N/Tetrahymena_thermophila.tblout --cpu 8 pfam_list/APOBEC_N.hmm proteomes/Tetrahymena_thermophila.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:58:54 2025
+# [ok]

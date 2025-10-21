@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q9VEM0|Q9VEM0_DROME -          MafB19-deam          PF14437.13     6e-17   61.4   0.2   6.9e-17   61.2   0.2   1.1   1   0   0   1   1   1   1 RE41712p OS=Drosophila melanogaster OX=7227 GN=BcDNA:RE41712 PE=2 SV=1
+sp|Q9VWA2|DCTD_DROME   -          MafB19-deam          PF14437.13   3.1e-10   39.6   0.0     4e-10   39.3   0.0   1.2   1   0   0   1   1   1   1 Probable deoxycytidylate deaminase OS=Drosophila melanogaster OX=7227 GN=CG6951 PE=2 SV=1
+tr|Q7K157|Q7K157_DROME -          MafB19-deam          PF14437.13   3.5e-05   23.3   0.0   6.5e-05   22.4   0.0   1.4   1   0   0   1   1   1   1 LD07624p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG10927 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MafB19-deam.hmm
+# Target file:     proteomes/Drosophila_melanogaster.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MafB19-deam/Drosophila_melanogaster.tblout --cpu 8 pfam_list/MafB19-deam.hmm proteomes/Drosophila_melanogaster.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:09:22 2025
+# [ok]

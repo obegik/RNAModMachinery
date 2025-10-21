@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|D4H074|D4H074_HALVD -          A_deamin             PF02137.25     0.036   11.4   0.0     0.059   10.6   0.0   1.2   1   0   0   1   1   1   0 SWIM zinc finger domain protein OS=Haloferax volcanii (strain ATCC 29605 / DSM 3757 / JCM 8879 / NBRC 14742 / NCIMB 2012 / VKM B-1768 / DS2) OX=309800 GN=HVO_1735 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/A_deamin.hmm
+# Target file:     proteomes/Haloferax_volcanii.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/A_deamin/Haloferax_volcanii.tblout --cpu 8 pfam_list/A_deamin.hmm proteomes/Haloferax_volcanii.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:08 2025
+# [ok]

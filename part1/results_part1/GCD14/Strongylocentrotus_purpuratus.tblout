@@ -1,0 +1,21 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|W4Y137|W4Y137_STRPU -          GCD14                PF08704.17   6.2e-98  328.0   0.0   8.3e-98  327.6   0.0   1.1   1   0   0   1   1   1   1 tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRMT61A OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+tr|W4ZGG3|W4ZGG3_STRPU -          GCD14                PF08704.17   3.2e-16   60.4   0.0   6.8e-10   39.7   0.0   2.6   2   0   0   2   2   2   2 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4ZAS4|W4ZAS4_STRPU -          GCD14                PF08704.17   2.2e-06   28.2   0.0   3.3e-06   27.6   0.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+tr|W4YGK2|W4YGK2_STRPU -          GCD14                PF08704.17     0.082   13.2   0.0      0.16   12.3   0.0   1.5   1   0   0   1   1   1   0 Protein-L-isoaspartate O-methyltransferase OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+tr|W4Z5B8|W4Z5B8_STRPU -          GCD14                PF08704.17      0.16   12.3   0.0      0.23   11.7   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4XSC1|W4XSC1_STRPU -          GCD14                PF08704.17      0.41   10.9   4.8      0.64   10.3   4.8   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4YEM5|W4YEM5_STRPU -          GCD14                PF08704.17       2.7    8.2   6.8       3.6    7.8   6.8   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4Y3J6|W4Y3J6_STRPU -          GCD14                PF08704.17         8    6.7   5.3       3.1    8.0   0.0   2.6   2   0   0   2   2   2   0 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/GCD14.hmm
+# Target file:     proteomes/Strongylocentrotus_purpuratus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/GCD14/Strongylocentrotus_purpuratus.tblout --cpu 8 pfam_list/GCD14.hmm proteomes/Strongylocentrotus_purpuratus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:14 2025
+# [ok]

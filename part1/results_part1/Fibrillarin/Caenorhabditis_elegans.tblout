@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q22053|FBRL_CAEEL   -          Fibrillarin          PF01269.24  1.7e-107  357.9   0.0  2.1e-107  357.6   0.0   1.0   1   0   0   1   1   1   1 rRNA 2'-O-methyltransferase fibrillarin OS=Caenorhabditis elegans OX=6239 GN=fib-1 PE=2 SV=1
+tr|Q9NAA7|Q9NAA7_CAEEL -          Fibrillarin          PF01269.24     0.027   13.8   0.0      0.12   11.7   0.0   1.9   1   1   1   2   2   2   0 Nop2 (NOP2)/SUN domain family member OS=Caenorhabditis elegans OX=6239 GN=nsun-5 PE=1 SV=2
+sp|Q27873|PIMT_CAEEL   -          Fibrillarin          PF01269.24     0.049   12.9   0.0     0.091   12.0   0.0   1.4   1   0   0   1   1   1   0 Protein-L-isoaspartate O-methyltransferase OS=Caenorhabditis elegans OX=6239 GN=pcm-1 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Fibrillarin.hmm
+# Target file:     proteomes/Caenorhabditis_elegans.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Fibrillarin/Caenorhabditis_elegans.tblout --cpu 8 pfam_list/Fibrillarin.hmm proteomes/Caenorhabditis_elegans.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:40 2025
+# [ok]

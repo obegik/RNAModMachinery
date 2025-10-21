@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P21335|TADA_BACSU -          APOBEC_N             PF08210.18    0.0027   15.7   0.0    0.0048   14.9   0.0   1.4   1   0   0   1   1   1   1 tRNA-specific adenosine deaminase OS=Bacillus subtilis (strain 168) OX=224308 GN=tadA PE=1 SV=1
+sp|O34598|GUAD_BACSU -          APOBEC_N             PF08210.18    0.0083   14.1   0.2     0.021   12.8   0.0   1.6   2   0   0   2   2   2   1 Guanine deaminase OS=Bacillus subtilis (strain 168) OX=224308 GN=guaD PE=1 SV=1
+sp|P45865|CLSB_BACSU -          APOBEC_N             PF08210.18      0.01   13.8   0.1     0.032   12.2   0.1   1.9   2   0   0   2   2   2   0 Minor cardiolipin synthase ClsB OS=Bacillus subtilis (strain 168) OX=224308 GN=clsB PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/APOBEC_N.hmm
+# Target file:     proteomes/Bacillus_subtilis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/APOBEC_N/Bacillus_subtilis.tblout --cpu 8 pfam_list/APOBEC_N.hmm proteomes/Bacillus_subtilis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:58:49 2025
+# [ok]

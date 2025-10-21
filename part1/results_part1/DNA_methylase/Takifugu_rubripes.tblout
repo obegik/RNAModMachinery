@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|H2T6N3|H2T6N3_TAKRU         -          DNA_methylase        PF00145.24   4.5e-51  174.4   0.0   3.3e-50  171.6   0.0   2.4   2   1   0   2   2   2   1 DNA (cytosine-5)-methyltransferase OS=Takifugu rubripes OX=31033 GN=dnmt1 PE=3 SV=3
+tr|A0A674P3T9|A0A674P3T9_TAKRU -          DNA_methylase        PF00145.24   3.9e-44  151.6   0.0   9.8e-44  150.3   0.0   1.6   1   1   0   1   1   1   1 tRNA (cytosine(38)-C(5))-methyltransferase OS=Takifugu rubripes OX=31033 GN=LOC101068212 PE=3 SV=1
+tr|A0A674MJK7|A0A674MJK7_TAKRU -          DNA_methylase        PF00145.24   3.9e-44  151.6   0.0   9.4e-44  150.4   0.0   1.5   1   1   0   1   1   1   1 tRNA (cytosine(38)-C(5))-methyltransferase OS=Takifugu rubripes OX=31033 GN=LOC105419160 PE=3 SV=1
+tr|H2SKN2|H2SKN2_TAKRU         -          DNA_methylase        PF00145.24   5.8e-16   59.0   0.0   2.7e-13   50.3   0.0   2.5   2   0   0   2   2   2   2 DNA (cytosine-5-)-methyltransferase OS=Takifugu rubripes OX=31033 GN=dnmt3ba PE=3 SV=3
+tr|A0A674PL10|A0A674PL10_TAKRU -          DNA_methylase        PF00145.24   1.1e-15   58.1   0.0   1.6e-12   47.7   0.0   2.1   2   0   0   2   2   2   2 DNA (cytosine-5-)-methyltransferase OS=Takifugu rubripes OX=31033 PE=3 SV=1
+tr|H2TIF8|H2TIF8_TAKRU         -          DNA_methylase        PF00145.24   1.8e-15   57.5   0.0   2.4e-11   43.9   0.0   2.5   2   0   0   2   2   2   2 DNA (cytosine-5-)-methyltransferase OS=Takifugu rubripes OX=31033 GN=LOC101077240 PE=3 SV=3
+tr|A0A3B5KI97|A0A3B5KI97_TAKRU -          DNA_methylase        PF00145.24     5e-15   56.0   0.0   9.6e-12   45.2   0.0   2.3   2   0   0   2   2   2   2 DNA (cytosine-5-)-methyltransferase OS=Takifugu rubripes OX=31033 GN=LOC101063003 PE=3 SV=2
+tr|A0A674PDE3|A0A674PDE3_TAKRU -          DNA_methylase        PF00145.24    0.0014   18.3   0.0    0.0026   17.4   0.0   1.4   1   0   0   1   1   1   1 Methyltransferase-like protein 5 OS=Takifugu rubripes OX=31033 GN=mettl5 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DNA_methylase.hmm
+# Target file:     proteomes/Takifugu_rubripes.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DNA_methylase/Takifugu_rubripes.tblout --cpu 8 pfam_list/DNA_methylase.hmm proteomes/Takifugu_rubripes.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:00:13 2025
+# [ok]

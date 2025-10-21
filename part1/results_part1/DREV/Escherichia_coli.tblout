@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P36566|CMOM_ECOLI -          DREV                 PF05219.18   2.5e-05   21.5   0.0     5e-05   20.5   0.0   1.3   1   1   0   1   1   1   1 tRNA 5-carboxymethoxyuridine methyltransferase OS=Escherichia coli (strain K12) OX=83333 GN=cmoM PE=1 SV=2
+sp|P0A887|UBIE_ECOLI -          DREV                 PF05219.18    0.0056   13.8   0.0    0.0086   13.2   0.0   1.3   1   1   0   1   1   1   1 Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE OS=Escherichia coli (strain K12) OX=83333 GN=ubiE PE=1 SV=1
+sp|P12999|BIOC_ECOLI -          DREV                 PF05219.18     0.015   12.4   0.0     0.018   12.1   0.0   1.1   1   0   0   1   1   1   0 Malonyl-[acyl-carrier protein] O-methyltransferase OS=Escherichia coli (strain K12) OX=83333 GN=bioC PE=1 SV=2
+sp|P17993|UBIG_ECOLI -          DREV                 PF05219.18     0.022   11.8   0.0     0.056   10.5   0.0   1.6   1   1   0   1   1   1   0 Ubiquinone biosynthesis O-methyltransferase OS=Escherichia coli (strain K12) OX=83333 GN=ubiG PE=1 SV=1
+sp|P0A7A5|PIMT_ECOLI -          DREV                 PF05219.18      0.04   11.0   0.0     0.064   10.3   0.0   1.3   1   0   0   1   1   1   0 Protein-L-isoaspartate O-methyltransferase OS=Escherichia coli (strain K12) OX=83333 GN=pcm PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DREV.hmm
+# Target file:     proteomes/Escherichia_coli.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DREV/Escherichia_coli.tblout --cpu 8 pfam_list/DREV.hmm proteomes/Escherichia_coli.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:22 2025
+# [ok]

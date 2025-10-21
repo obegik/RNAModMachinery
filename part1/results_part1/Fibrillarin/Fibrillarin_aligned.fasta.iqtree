@@ -1,0 +1,257 @@
+IQ-TREE 3.0.1 built Jul  9 2025
+
+Input file name: results_part1_v3/Fibrillarin/Fibrillarin_aligned.fasta
+Type of analysis: tree reconstruction
+Random seed number: 402196
+
+REFERENCES
+----------
+
+To cite IQ-TREE 3 please use:
+
+Thomas K.F. Wong, Nhan Ly-Trong, Huaiyan Ren, Hector Banos, Andrew J. Roger,
+Edward Susko, Chris Bielow, Nicola De Maio, Nick Goldman, Matthew W. Hahn,
+Gavin Huttley, Robert Lanfear, Bui Quang Minh (2025)
+IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models.
+Submitted.
+
+Please also cite the following paper(s) for the feature(s) that you used:
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 72 sequences with 1580 amino-acid sites
+Number of constant sites: 1016 (= 64.3038% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 1016 (= 64.3038% of all sites)
+Number of parsimony informative sites: 310
+Number of distinct site patterns: 667
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: JTT+F+I+G4
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.0745
+  pi(R) = 0.0770
+  pi(N) = 0.0346
+  pi(D) = 0.0464
+  pi(C) = 0.0155
+  pi(Q) = 0.0287
+  pi(E) = 0.0541
+  pi(G) = 0.1452
+  pi(H) = 0.0319
+  pi(I) = 0.0529
+  pi(L) = 0.0548
+  pi(K) = 0.0582
+  pi(M) = 0.0251
+  pi(F) = 0.0395
+  pi(P) = 0.0504
+  pi(S) = 0.0522
+  pi(T) = 0.0359
+  pi(W) = 0.0143
+  pi(Y) = 0.0300
+  pi(V) = 0.0788
+
+Model of rate heterogeneity: Invar+Gamma with 4 categories
+Proportion of invariable sites: 0.0022
+Gamma shape alpha: 1.0053
+
+ Category  Relative_rate  Proportion
+  0         0              0.0022
+  1         0.1383         0.2494
+  2         0.4794         0.2494
+  3         1.0031         0.2494
+  4         2.3881         0.2494
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -21025.8149 (s.e. 841.0087)
+Unconstrained log-likelihood (without tree): -8023.3308
+Number of free parameters (#branches + #model parameters): 162
+Akaike information criterion (AIC) score: 42375.6297
+Corrected Akaike information criterion (AICc) score: 42412.9000
+Bayesian information criterion (BIC) score: 43244.7889
+
+Total tree length (sum of branch lengths): 42.3012
+Sum of internal branch lengths: 9.9612 (23.5484% of tree length)
+
+WARNING: 10 near-zero internal branches (<0.0006) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'tr|A0A1X7UZ07|A0A1X7UZ07_AMPQE' is drawn at root
+
++--tr|A0A1X7UZ07|A0A1X7UZ07_AMPQE
+|
+|                                                                                        +----------------tr|A0A1X7V969|A0A1X7V969_AMPQE
+|                                                                                  +-----|
+|                                                                                  |     +--------------------------tr|P74439|P74439_SYNY3
+|                                                                             +----|
+|                                                                             |    +------------------------sp|Q97WC7|CBIT_SACS2
+|                                                                          +--|
+|                                                                          |  +-----------------------------sp|Q57636|PIMT_METJA
+|                                                                 +--------|
+|                                                                 |        +-----------------------------------tr|Q9VDZ4|Q9VDZ4_DROME
+|                                                              +--|
+|                                                              |  +---------------tr|A0A8V0X950|A0A8V0X950_CHICK
+|                                                           +--|
+|                                                           |  +-----------------tr|Q9VG21|Q9VG21_DROME
+|                                                        +--|
+|                                                        |  +**tr|A0A2I3RSU9|A0A2I3RSU9_PANTR
+|                                                     +**|
+|                                                     |  +**tr|M0R2U2|M0R2U2_HUMAN
+|                                                  +**|
+|                                                  |  +**tr|M0R2B0|M0R2B0_HUMAN
+|                                               +**|
+|                                               |  +**tr|M0R1H0|M0R1H0_HUMAN
+|                                            +**|
+|                                            |  +**tr|M0R0P1|M0R0P1_HUMAN
+|                                         +**|
+|                                         |  |     +**tr|G3RZC3|G3RZC3_GORGO
+|                                         |  |  +**|
+|                                         |  |  |  |  +--tr|A0A1D5RDW4|A0A1D5RDW4_MACMU
+|                                         |  |  |  +**|
+|                                         |  |  |     +--tr|A0A2I3RF95|A0A2I3RF95_PANTR
+|                                         |  +**|
+|                                         |     +**sp|P22087|FBRL_HUMAN
+|                                      +--|
+|                                      |  +**tr|M0R2Q4|M0R2Q4_HUMAN
+|                                   +--|
+|                                   |  +**tr|A0A8I3MM38|A0A8I3MM38_CANLF
+|                                +**|
+|                                |  +--tr|M0QXL5|M0QXL5_HUMAN
+|                             +**|
+|                             |  +**tr|M0R299|M0R299_HUMAN
+|                          +--|
+|                          |  +**sp|P35550|FBRL_MOUSE
+|                       +--|
+|                       |  |     +--tr|A0A8I3MNG6|A0A8I3MNG6_CANLF
+|                       |  |  +--|
+|                       |  |  |  |        +**sp|A6NHQ2|FBLL1_HUMAN
+|                       |  |  |  |     +--|
+|                       |  |  |  |     |  +**tr|R4GMW7|R4GMW7_HUMAN
+|                       |  |  |  |  +--|
+|                       |  |  |  |  |  +--tr|A0A2I3RWY8|A0A2I3RWY8_PANTR
+|                       |  |  |  +--|
+|                       |  |  |     +--tr|F7ED78|F7ED78_MACMU
+|                       |  +--|
+|                       |     +--sp|Q80WS3|FBLL1_MOUSE
+|                    +--|
+|                    |  |  +--tr|F6YAE8|F6YAE8_MONDO
+|                    |  +--|
+|                    |     +--tr|F7DSB1|F7DSB1_ORNAN
+|                 +--|
+|                 |  |  +--tr|H9GNL4|H9GNL4_ANOCA
+|                 |  +--|
+|                 |     +--tr|Q6P623|Q6P623_XENTR
+|              +--|
+|              |  |     +--tr|Q7ZTZ4|Q7ZTZ4_DANRE
+|              |  |  +--|
+|              |  |  |  +--tr|H2SDJ0|H2SDJ0_TAKRU
+|              |  +--|
+|              |     +--tr|S4RTL8|S4RTL8_PETMA
+|           +--|
+|           |  +--tr|C3XZF6|C3XZF6_BRAFL
+|        +--|
+|        |  |     +--tr|F7A5J2|F7A5J2_CIOIN
+|        |  |  +--|
+|        |  |  |  +--tr|H2YFA0|H2YFA0_CIOSA
+|        |  +--|
+|        |     +--sp|Q9W1V3|FBRL_DROME
+|     +--|
+|     |  +--tr|A7S8G2|A7S8G2_NEMVE
+|  +--|
+|  |  |     +--tr|A0ABM4B4Y4|A0ABM4B4Y4_HYDVU
+|  |  |  +--|
+|  |  |  |  |  +**tr|W4YJR5|W4YJR5_STRPU
+|  |  |  |  +--|
+|  |  |  |     +**tr|W4ZAS4|W4ZAS4_STRPU
+|  |  +--|
+|  |     +--tr|A9VE22|A9VE22_MONBE
++--|
+|  +--tr|B3S5V8|B3S5V8_TRIAD
+|
+|                    +--sp|Q94AH9|FBRL2_ARATH
+|                 +--|
+|                 |  +--sp|Q9FEF8|FBRL1_ARATH
+|              +--|
+|              |  +--sp|Q9FHB3|FBRL3_ARATH
+|           +--|
+|           |  |  +--tr|A0A0N7KGC5|A0A0N7KGC5_ORYSJ
+|           |  +--|
+|           |     +--tr|B7FA85|B7FA85_ORYSJ
+|        +--|
+|        |  |  +--tr|A0A0L0DKQ6|A0A0L0DKQ6_THETB
+|        |  +--|
+|        |     +--tr|A0A0L0DNA3|A0A0L0DNA3_THETB
+|     +--|
+|     |  |     +--tr|A8IA86|A8IA86_CHLRE
+|     |  |  +--|
+|     |  |  |  |        +--tr|S2JAM3|S2JAM3_MUCC1
+|     |  |  |  |     +--|
+|     |  |  |  |     |  +--tr|S2K2P9|S2K2P9_MUCC1
+|     |  |  |  |  +--|
+|     |  |  |  |  |  +--sp|P15646|FBRL_YEAST
+|     |  |  |  +--|
+|     |  |  |     +--tr|B8CBC2|B8CBC2_THAPS
+|     |  +--|
+|     |     |  +--sp|Q55CW0|FBRL_DICDI
+|     |     +--|
+|     |        +---tr|I7MFA3|I7MFA3_TETTS
+|  +--|
+|  |  |        +--tr|M1VE87|M1VE87_CYAM1
+|  |  |     +--|
+|  |  |     |  |                          +--tr|D4GZN3|D4GZN3_HALVD
+|  |  |     |  |              +-----------|
+|  |  |     |  |              |           +--tr|M1XQR0|M1XQR0_NATM8
+|  |  |     |  |           +--|
+|  |  |     |  |           |  +----sp|P58032|FLPA_SACS2
+|  |  |     |  |        +--|
+|  |  |     |  |        |  +------sp|Q58108|FLPA_METJA
+|  |  |     |  |  +-----|
+|  |  |     |  |  |     +--sp|Q5JFN1|FLPA_THEKO
+|  |  |     |  +--|
+|  |  |     |     |   +--tr|A2DXE8|A2DXE8_TRIVA
+|  |  |     |     +---|
+|  |  |     |         +--tr|A2E9S9|A2E9S9_TRIVA
+|  |  |  +--|
+|  |  |  |  +---tr|Q8IM23|Q8IM23_PLAF7
+|  |  +--|
+|  |     |     +**tr|Q388C9|Q388C9_TRYB2
+|  |     |  +--|
+|  |     |  |  +**tr|Q388E0|Q388E0_TRYB2
+|  |     +--|
+|  |        +--tr|Q38AL4|Q38AL4_TRYB2
++--|
+   +--sp|Q22053|FBRL_CAEEL
+
+Tree in newick format:
+
+(tr|A0A1X7UZ07|A0A1X7UZ07_AMPQE:0.2229334624,((((((((((((((((((((((((((tr|A0A1X7V969|A0A1X7V969_AMPQE:2.2012232288,tr|P74439|P74439_SYNY3:3.4356229993):0.8502964518,sp|Q97WC7|CBIT_SACS2:3.1993405568):0.6783264636,sp|Q57636|PIMT_METJA:3.8193019373):0.4518364307,tr|Q9VDZ4|Q9VDZ4_DROME:4.6121236056):1.2465502274,tr|A0A8V0X950|A0A8V0X950_CHICK:2.0820054349):0.1292811501,tr|Q9VG21|Q9VG21_DROME:2.4072043417):0.3615750201,tr|A0A2I3RSU9|A0A2I3RSU9_PANTR:0.0000024527):0.0185170963,tr|M0R2U2|M0R2U2_HUMAN:0.0000022476):0.0000022485,tr|M0R2B0|M0R2B0_HUMAN:0.0000022476):0.0000025458,tr|M0R1H0|M0R1H0_HUMAN:0.0000028851):0.0000029709,tr|M0R0P1|M0R0P1_HUMAN:0.0000022494):0.0000026310,((tr|G3RZC3|G3RZC3_GORGO:0.0000022476,(tr|A0A1D5RDW4|A0A1D5RDW4_MACMU:0.0163657803,tr|A0A2I3RF95|A0A2I3RF95_PANTR:0.0147911417):0.0000025727):0.0000021525,sp|P22087|FBRL_HUMAN:0.0000022476):0.0000021527):0.0000026791,tr|M0R2Q4|M0R2Q4_HUMAN:0.0000022476):0.0070212180,tr|A0A8I3MM38|A0A8I3MM38_CANLF:0.0000022476):0.0074841299,tr|M0QXL5|M0QXL5_HUMAN:0.0060677304):0.0000024116,tr|M0R299|M0R299_HUMAN:0.0000022476):0.0000029719,sp|P35550|FBRL_MOUSE:0.0000021074):0.1002130251,((tr|A0A8I3MNG6|A0A8I3MNG6_CANLF:0.1389420289,(((sp|A6NHQ2|FBLL1_HUMAN:0.0000022476,tr|R4GMW7|R4GMW7_HUMAN:0.0000020366):0.0032870709,tr|A0A2I3RWY8|A0A2I3RWY8_PANTR:0.0513855917):0.0125634113,tr|F7ED78|F7ED78_MACMU:0.0012621223):0.0597891806):0.0575165945,sp|Q80WS3|FBLL1_MOUSE:0.0801885097):0.2765272154):0.0709471651,(tr|F6YAE8|F6YAE8_MONDO:0.0316857103,tr|F7DSB1|F7DSB1_ORNAN:0.0323460284):0.0290514984):0.0349826787,(tr|H9GNL4|H9GNL4_ANOCA:0.0602289508,tr|Q6P623|Q6P623_XENTR:0.0786032318):0.0204937690):0.0449721184,((tr|Q7ZTZ4|Q7ZTZ4_DANRE:0.0568618023,tr|H2SDJ0|H2SDJ0_TAKRU:0.0408648686):0.0358393071,tr|S4RTL8|S4RTL8_PETMA:0.1679027032):0.0230568786):0.0457780577,tr|C3XZF6|C3XZF6_BRAFL:0.1846775842):0.0226109657,((tr|F7A5J2|F7A5J2_CIOIN:0.0157001328,tr|H2YFA0|H2YFA0_CIOSA:0.0328629971):0.1193619943,sp|Q9W1V3|FBRL_DROME:0.1588714390):0.0379330721):0.0191071393,tr|A7S8G2|A7S8G2_NEMVE:0.1238617152):0.0166912249,((tr|A0ABM4B4Y4|A0ABM4B4Y4_HYDVU:0.1151272094,(tr|W4YJR5|W4YJR5_STRPU:0.0000021760,tr|W4ZAS4|W4ZAS4_STRPU:0.0000025804):0.1004305471):0.0293799297,tr|A9VE22|A9VE22_MONBE:0.2510744793):0.0121541969):0.0299027710,tr|B3S5V8|B3S5V8_TRIAD:0.1784993587):0.0357337742,(((((((sp|Q94AH9|FBRL2_ARATH:0.0630256768,sp|Q9FEF8|FBRL1_ARATH:0.0695489752):0.0159632250,sp|Q9FHB3|FBRL3_ARATH:0.5055331800):0.0626737642,(tr|A0A0N7KGC5|A0A0N7KGC5_ORYSJ:0.0035224431,tr|B7FA85|B7FA85_ORYSJ:0.0076395243):0.1339443308):0.1524356772,(tr|A0A0L0DKQ6|A0A0L0DKQ6_THETB:0.0228367742,tr|A0A0L0DNA3|A0A0L0DNA3_THETB:0.4571911373):0.2719375986):0.0248571639,((tr|A8IA86|A8IA86_CHLRE:0.2321194603,(((tr|S2JAM3|S2JAM3_MUCC1:0.0118946020,tr|S2K2P9|S2K2P9_MUCC1:0.0294151562):0.1262960771,sp|P15646|FBRL_YEAST:0.2103625225):0.1246901942,tr|B8CBC2|B8CBC2_THAPS:0.2871001534):0.0258472093):0.0175332604,(sp|Q55CW0|FBRL_DICDI:0.4125459457,tr|I7MFA3|I7MFA3_TETTS:0.5342534487):0.0697860300):0.0201122980):0.0075292417,(((tr|M1VE87|M1VE87_CYAM1:0.3678879096,(((((tr|D4GZN3|D4GZN3_HALVD:0.4287084396,tr|M1XQR0|M1XQR0_NATM8:0.4474812963):1.6258603908,sp|P58032|FLPA_SACS2:0.6613798797):0.3034921892,sp|Q58108|FLPA_METJA:0.9152776470):0.2788845677,sp|Q5JFN1|FLPA_THEKO:0.4753407307):0.7845510702,(tr|A2DXE8|A2DXE8_TRIVA:0.3082734569,tr|A2E9S9|A2E9S9_TRIVA:0.3334995671):0.5319678192):0.0577947863):0.0596089093,tr|Q8IM23|Q8IM23_PLAF7:0.5973395566):0.0545950948,((tr|Q388C9|Q388C9_TRYB2:0.0000024448,tr|Q388E0|Q388E0_TRYB2:0.0000022476):0.3616333315,tr|Q38AL4|Q38AL4_TRYB2:0.3468413690):0.1829907130):0.0863548024):0.0410344806,sp|Q22053|FBRL_CAEEL:0.3275978353):0.0149883591);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t results_part1_v3/Fibrillarin/Fibrillarin_aligned.fasta.treefile -m "JTT+F+I{0.00223935}+G4{1.00531}" --length 1580
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s results_part1_v3/Fibrillarin/Fibrillarin_aligned.fasta --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s results_part1_v3/Fibrillarin/Fibrillarin_aligned.fasta --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Mon Oct 20 22:01:53 2025
+Total CPU time used: 13.1824 seconds (0h:0m:13s)
+Total wall-clock time used: 5.3784 seconds (0h:0m:5s)
+

@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|H2Z4V0|H2Z4V0_CIOSA -          LCM                  PF04072.21   1.9e-28   99.0   0.0   6.7e-28   97.2   0.0   1.9   2   1   0   2   2   2   1 Leucine carboxyl methyltransferase 1 OS=Ciona savignyi OX=51511 PE=3 SV=1
+tr|H2ZAB1|H2ZAB1_CIOSA -          LCM                  PF04072.21   1.2e-17   63.8   0.0   2.4e-17   62.8   0.0   1.5   1   0   0   1   1   1   1 Uncharacterized protein OS=Ciona savignyi OX=51511 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/LCM.hmm
+# Target file:     proteomes/Ciona_savignyi.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/LCM/Ciona_savignyi.tblout --cpu 8 pfam_list/LCM.hmm proteomes/Ciona_savignyi.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:43 2025
+# [ok]

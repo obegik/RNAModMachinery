@@ -1,0 +1,14 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9CQG2|MET16_MOUSE -          Methyltransf_10      PF05971.19  2.7e-136  454.1   0.0  3.3e-136  453.8   0.0   1.1   1   0   0   1   1   1   1 RNA N6-adenosine-methyltransferase METTL16 OS=Mus musculus OX=10090 GN=Mettl16 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltransf_10.hmm
+# Target file:     proteomes/Mus_musculus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltransf_10/Mus_musculus.tblout --cpu 8 pfam_list/Methyltransf_10.hmm proteomes/Mus_musculus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:12:20 2025
+# [ok]

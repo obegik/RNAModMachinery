@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F4K328|F4K328_ARATH -          LCM                  PF04072.21   1.2e-42  146.6   0.5   1.7e-42  146.0   0.5   1.2   1   0   0   1   1   1   1 Leucine carboxyl methyltransferase OS=Arabidopsis thaliana OX=3702 GN=MJB21.14 PE=1 SV=1
+tr|B3H6G9|B3H6G9_ARATH -          LCM                  PF04072.21   1.2e-22   81.4   0.0     4e-22   79.6   0.0   1.8   1   1   0   1   1   1   1 S-adenosyl-L-methionine-dependent methyltransferases superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At4g02405 PE=1 SV=1
+sp|Q8VY08|LCMT1_ARATH  -          LCM                  PF04072.21   2.5e-19   70.5   0.0   6.5e-19   69.1   0.0   1.7   1   1   0   1   1   1   1 Leucine carboxyl methyltransferase 1 homolog OS=Arabidopsis thaliana OX=3702 GN=LCMT1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/LCM.hmm
+# Target file:     proteomes/Arabidopsis_thaliana.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/LCM/Arabidopsis_thaliana.tblout --cpu 8 pfam_list/LCM.hmm proteomes/Arabidopsis_thaliana.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:42 2025
+# [ok]

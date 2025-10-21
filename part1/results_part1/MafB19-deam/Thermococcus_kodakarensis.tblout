@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q5JHS0|Q5JHS0_THEKO -          MafB19-deam          PF14437.13   2.6e-21   73.0   0.1   3.7e-21   72.5   0.1   1.2   1   0   0   1   1   1   1 Deoxycytidylate deaminase OS=Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1) OX=69014 GN=TK2257 PE=4 SV=1
+tr|Q5JD36|Q5JD36_THEKO -          MafB19-deam          PF14437.13   9.1e-16   55.1   0.0   1.9e-15   54.0   0.0   1.5   1   0   0   1   1   1   1 Riboflavin biosynthesis protein RibD OS=Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1) OX=69014 GN=TK0424 PE=4 SV=1
+tr|Q5JDF3|Q5JDF3_THEKO -          MafB19-deam          PF14437.13      0.01   12.8   0.0     0.011   12.7   0.0   1.1   1   0   0   1   1   1   0 Thioredoxin OS=Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1) OX=69014 GN=TK0838 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MafB19-deam.hmm
+# Target file:     proteomes/Thermococcus_kodakarensis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MafB19-deam/Thermococcus_kodakarensis.tblout --cpu 8 pfam_list/MafB19-deam.hmm proteomes/Thermococcus_kodakarensis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:09:26 2025
+# [ok]

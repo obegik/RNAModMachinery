@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A0L0D5M2|A0A0L0D5M2_THETB -          DREV                 PF05219.18   1.1e-41  142.0   0.0   1.3e-32  112.2   0.0   3.0   2   1   0   2   2   2   2 DORA reverse strand protein 1 OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_03035 PE=4 SV=1
+tr|A0A0L0DVC4|A0A0L0DVC4_THETB -          DREV                 PF05219.18     0.035   12.5   0.0     0.079   11.3   0.0   1.6   1   1   0   1   1   1   0 Methyltransferase domain-containing protein OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_02058 PE=4 SV=1
+tr|A0A0L0DQV1|A0A0L0DQV1_THETB -          DREV                 PF05219.18     0.036   12.4   0.0     0.056   11.8   0.0   1.2   1   0   0   1   1   1   0 rRNA adenine N(6)-methyltransferase OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_01513 PE=3 SV=1
+tr|A0A0L0DKQ6|A0A0L0DKQ6_THETB -          DREV                 PF05219.18      0.06   11.7   0.0      0.11   10.8   0.0   1.4   2   0   0   2   2   2   0 rRNA 2'-O-methyltransferase fibrillarin OS=Thecamonas trahens ATCC 50062 OX=461836 GN=AMSG_09053 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DREV.hmm
+# Target file:     proteomes/Thecamonas_trahens.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DREV/Thecamonas_trahens.tblout --cpu 8 pfam_list/DREV.hmm proteomes/Thecamonas_trahens.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:25 2025
+# [ok]

@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A8V0XNS2|A0A8V0XNS2_CHICK -          A_deamin             PF02137.25  2.8e-111  372.2   0.0  4.4e-111  371.5   0.0   1.3   1   0   0   1   1   1   1 Adenosine deaminase RNA specific B2 (inactive) OS=Gallus gallus OX=9031 GN=ADARB2 PE=4 SV=1
+tr|A0A8V1AB28|A0A8V1AB28_CHICK -          A_deamin             PF02137.25    7e-109  364.3   0.0  9.7e-109  363.8   0.0   1.2   1   0   0   1   1   1   1 Adenosine deaminase RNA specific OS=Gallus gallus OX=9031 GN=ADAR PE=1 SV=1
+sp|Q5ZI16|ADAT1_CHICK          -          A_deamin             PF02137.25  5.5e-104  348.2   0.0  9.6e-104  347.4   0.0   1.4   1   1   0   1   1   1   1 tRNA-specific adenosine deaminase 1 OS=Gallus gallus OX=9031 GN=ADAT1 PE=2 SV=1
+tr|A0A8V0XLV9|A0A8V0XLV9_CHICK -          A_deamin             PF02137.25   1.7e-99  333.4   0.3   2.6e-99  332.8   0.3   1.2   1   0   0   1   1   1   1 Adenosine deaminase domain containing 1 OS=Gallus gallus OX=9031 GN=LOC107051715 PE=1 SV=1
+tr|A0A8V0Y190|A0A8V0Y190_CHICK -          A_deamin             PF02137.25   4.1e-98  328.9   0.1   1.3e-97  327.3   0.1   1.8   1   1   0   1   1   1   1 tRNA-specific adenosine deaminase 1 OS=Gallus gallus OX=9031 GN=ADAT1 PE=3 SV=1
+tr|A0A8V0YMW8|A0A8V0YMW8_CHICK -          A_deamin             PF02137.25   8.6e-92  308.1   0.0   1.4e-91  307.4   0.0   1.3   1   0   0   1   1   1   1 Adenosine deaminase, RNA specific B1 OS=Gallus gallus OX=9031 GN=ADARB1 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/A_deamin.hmm
+# Target file:     proteomes/Gallus_gallus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/A_deamin/Gallus_gallus.tblout --cpu 8 pfam_list/A_deamin.hmm proteomes/Gallus_gallus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:08 2025
+# [ok]

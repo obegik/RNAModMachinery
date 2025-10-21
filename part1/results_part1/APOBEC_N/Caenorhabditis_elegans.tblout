@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q23460|Q23460_CAEEL -          APOBEC_N             PF08210.18   7.1e-31  107.6   0.9   1.2e-30  106.9   0.9   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_ZK287.1 PE=1 SV=1
+tr|Q95QD6|Q95QD6_CAEEL -          APOBEC_N             PF08210.18    0.0058   16.8   0.0    0.0087   16.2   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_JC8.4 PE=4 SV=1
+sp|P30648|DCTD_CAEEL   -          APOBEC_N             PF08210.18    0.0092   16.1   0.1     0.017   15.3   0.1   1.4   1   0   0   1   1   1   1 Probable deoxycytidylate deaminase OS=Caenorhabditis elegans OX=6239 GN=ZK643.2 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/APOBEC_N.hmm
+# Target file:     proteomes/Caenorhabditis_elegans.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/APOBEC_N/Caenorhabditis_elegans.tblout --cpu 8 pfam_list/APOBEC_N.hmm proteomes/Caenorhabditis_elegans.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:58:49 2025
+# [ok]

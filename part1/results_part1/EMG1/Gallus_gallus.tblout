@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F1N832|F1N832_CHICK -          EMG1                 PF03587.20   1.7e-76  256.1   0.0     2e-76  255.9   0.0   1.0   1   0   0   1   1   1   1 18S rRNA (pseudouridine(1248)-N1)-methyltransferase OS=Gallus gallus OX=9031 GN=EMG1 PE=1 SV=3
+sp|P09860|TNNC1_CHICK  -          EMG1                 PF03587.20      0.06   12.9   0.0     0.089   12.3   0.0   1.2   1   0   0   1   1   1   0 Troponin C, slow skeletal and cardiac muscles OS=Gallus gallus OX=9031 GN=TNNC1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/EMG1.hmm
+# Target file:     proteomes/Gallus_gallus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/EMG1/Gallus_gallus.tblout --cpu 8 pfam_list/EMG1.hmm proteomes/Gallus_gallus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:33 2025
+# [ok]

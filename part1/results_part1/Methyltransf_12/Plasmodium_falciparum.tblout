@@ -1,0 +1,32 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q8I4V3|Q8I4V3_PLAF7         -          Methyltransf_12      PF08242.19   1.1e-13   50.1   0.0   3.5e-06   26.0   0.0   3.0   3   0   0   3   3   2   2 tRNA N(3)-methylcytidine methyltransferase OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1248100 PE=3 SV=1
+sp|Q8IDQ9|PMT_PLAF7            -          Methyltransf_12      PF08242.19   1.1e-11   43.6   0.0   3.8e-11   41.9   0.0   1.8   2   0   0   2   2   2   1 Phosphoethanolamine N-methyltransferase OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PMT PE=1 SV=1
+tr|O96145|O96145_PLAF7         -          Methyltransf_12      PF08242.19   5.7e-11   41.3   0.0   6.5e-10   37.9   0.0   2.3   1   1   0   1   1   1   1 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_0204900 PE=1 SV=1
+tr|C0H494|C0H494_PLAF7         -          Methyltransf_12      PF08242.19   8.6e-10   37.5   0.0   1.7e-09   36.6   0.0   1.5   1   0   0   1   1   1   1 Methyltransferase, putative OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_0407100 PE=4 SV=1
+tr|Q8IBK9|Q8IBK9_PLAF7         -          Methyltransf_12      PF08242.19   2.2e-09   36.3   0.0   5.8e-09   34.9   0.0   1.8   1   0   0   1   1   1   1 Ubiquinone biosynthesis O-methyltransferase, putative OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_0724300 PE=4 SV=1
+tr|Q8ILT8|Q8ILT8_PLAF7         -          Methyltransf_12      PF08242.19   1.6e-08   33.5   0.0   4.8e-08   31.9   0.0   1.8   2   0   0   2   2   1   1 rRNA adenine N(6)-methyltransferase OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1415800 PE=1 SV=1
+tr|Q8IJC4|Q8IJC4_PLAF7         -          Methyltransf_12      PF08242.19   3.7e-08   32.3   0.0   1.3e-07   30.6   0.0   2.0   1   0   0   1   1   1   1 Methyltransferase, putative OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1028000 PE=4 SV=2
+tr|A0A144A2R4|A0A144A2R4_PLAF7 -          Methyltransf_12      PF08242.19   1.3e-07   30.5   0.0   1.9e-07   30.0   0.0   1.2   1   0   0   1   1   1   1 Methyltransferase, putative OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1455200.1 PE=1 SV=1
+tr|Q8IC20|Q8IC20_PLAF7         -          Methyltransf_12      PF08242.19   1.5e-07   30.3   0.0   5.4e-07   28.6   0.0   2.1   1   0   0   1   1   1   1 mRNA (guanine-N(7))-methyltransferase OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_0705000 PE=3 SV=1
+tr|Q8IFN7|Q8IFN7_PLAF7         -          Methyltransf_12      PF08242.19   2.1e-07   29.9   0.0   2.9e-05   23.0   0.0   3.0   2   1   0   2   2   2   1 Methyltransferase, putative OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_0422900 PE=4 SV=1
+tr|Q8IHR1|Q8IHR1_PLAF7         -          Methyltransf_12      PF08242.19   5.9e-06   25.2   0.8     0.026   13.5   0.0   3.0   3   0   0   3   3   3   2 RNA methyltransferase OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1145700 PE=3 SV=1
+tr|Q8I2Y6|Q8I2Y6_PLAF7         -          Methyltransf_12      PF08242.19   1.1e-05   24.4   0.0   2.6e-05   23.2   0.0   1.6   1   1   0   1   1   1   1 Protein-lysine N-methyltransferase PF3D7_0916600 OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_0916600 PE=1 SV=1
+tr|C0H4F7|C0H4F7_PLAF7         -          Methyltransf_12      PF08242.19   2.4e-05   23.3   0.0   5.9e-05   22.0   0.0   1.7   1   0   0   1   1   1   1 18S rRNA (Guanine-N(7))-methyltransferase, putative OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_0522300 PE=3 SV=1
+tr|Q8IEF7|Q8IEF7_PLAF7         -          Methyltransf_12      PF08242.19   3.7e-05   22.7   0.0     9e-05   21.4   0.0   1.7   1   0   0   1   1   1   1 tRNA (adenine(58)-N(1))-methyltransferase OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1315700 PE=1 SV=1
+tr|Q8ILK1|Q8ILK1_PLAF7         -          Methyltransf_12      PF08242.19   0.00012   21.1   0.0   0.00033   19.6   0.0   1.8   2   0   0   2   2   1   1 type I protein arginine methyltransferase OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1426200 PE=1 SV=1
+tr|Q8II73|Q8II73_PLAF7         -          Methyltransf_12      PF08242.19   0.00082   18.4   0.0    0.0048   15.9   0.0   2.1   1   1   0   1   1   1   1 Spermidine synthase OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1129000 PE=1 SV=1
+tr|A0A144A0V8|A0A144A0V8_PLAF7 -          Methyltransf_12      PF08242.19    0.0011   17.9   0.0    0.0052   15.8   0.0   2.2   1   0   0   1   1   1   1 rRNA adenine N(6)-methyltransferase OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1249900 PE=3 SV=1
+tr|C6S3D3|C6S3D3_PLAF7         -          Methyltransf_12      PF08242.19    0.0033   16.4   0.0      0.07   12.2   0.0   2.3   1   1   0   1   1   1   1 protein-histidine N-methyltransferase OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1022100 PE=3 SV=1
+tr|Q8II90|Q8II90_PLAF7         -          Methyltransf_12      PF08242.19     0.033   13.2   0.0       0.1   11.7   0.0   1.8   2   0   0   2   2   1   0 tRNA (guanine-N(7)-)-methyltransferase OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1127300 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltransf_12.hmm
+# Target file:     proteomes/Plasmodium_falciparum.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltransf_12/Plasmodium_falciparum.tblout --cpu 8 pfam_list/Methyltransf_12.hmm proteomes/Plasmodium_falciparum.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 23:27:18 2025
+# [ok]

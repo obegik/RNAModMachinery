@@ -1,0 +1,23 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7GG75|F7GG75_MONDO -          DNA_methylase        PF00145.24   6.1e-48  164.1   0.0   1.6e-47  162.7   0.0   1.8   1   1   0   1   1   1   1 DNA (cytosine-5)-methyltransferase OS=Monodelphis domestica OX=13616 GN=DNMT1 PE=3 SV=2
+tr|F6WAN0|F6WAN0_MONDO -          DNA_methylase        PF00145.24   3.9e-40  138.5   0.0   5.3e-40  138.0   0.0   1.1   1   0   0   1   1   1   1 tRNA aspartic acid methyltransferase 1 OS=Monodelphis domestica OX=13616 GN=TRDMT1 PE=3 SV=1
+tr|F6RXI9|F6RXI9_MONDO -          DNA_methylase        PF00145.24   1.7e-16   60.8   0.0   7.6e-13   48.8   0.0   2.4   2   0   0   2   2   2   2 DNA methyltransferase 3 beta OS=Monodelphis domestica OX=13616 GN=DNMT3B PE=3 SV=1
+tr|F7F0E6|F7F0E6_MONDO -          DNA_methylase        PF00145.24     2e-15   57.2   0.0     1e-11   45.1   0.0   2.3   2   0   0   2   2   2   2 DNA methyltransferase 3 alpha OS=Monodelphis domestica OX=13616 GN=DNMT3A PE=3 SV=1
+tr|K7E054|K7E054_MONDO -          DNA_methylase        PF00145.24   1.2e-14   54.7   0.0   2.6e-10   40.5   0.0   2.2   1   1   0   2   2   2   2 Uncharacterized protein OS=Monodelphis domestica OX=13616 PE=3 SV=1
+tr|F6ZXU0|F6ZXU0_MONDO -          DNA_methylase        PF00145.24   1.5e-05   24.8   0.1   3.2e-05   23.8   0.1   1.4   1   0   0   1   1   1   1 Methyltransferase like 5 OS=Monodelphis domestica OX=13616 GN=METTL5 PE=4 SV=2
+tr|F7CVG3|F7CVG3_MONDO -          DNA_methylase        PF00145.24     0.048   13.3   0.0     0.077   12.6   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Monodelphis domestica OX=13616 PE=4 SV=1
+tr|F6RHT5|F6RHT5_MONDO -          DNA_methylase        PF00145.24     0.064   12.9   0.0      0.11   12.1   0.0   1.3   1   0   0   1   1   1   0 NOP2/Sun RNA methyltransferase family member 4 OS=Monodelphis domestica OX=13616 GN=NSUN4 PE=3 SV=2
+tr|F7CBL9|F7CBL9_MONDO -          DNA_methylase        PF00145.24       0.1   12.3   0.0      0.16   11.6   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Monodelphis domestica OX=13616 GN=LOC100023277 PE=4 SV=2
+tr|K7E2K2|K7E2K2_MONDO -          DNA_methylase        PF00145.24      0.26   10.9   8.7       0.4   10.3   8.7   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Monodelphis domestica OX=13616 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DNA_methylase.hmm
+# Target file:     proteomes/Monodelphis_domestica.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DNA_methylase/Monodelphis_domestica.tblout --cpu 8 pfam_list/DNA_methylase.hmm proteomes/Monodelphis_domestica.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:00:11 2025
+# [ok]

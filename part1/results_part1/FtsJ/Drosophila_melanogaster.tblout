@@ -1,0 +1,34 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q9VXK5|Q9VXK5_DROME -          FtsJ                 PF01728.26   1.8e-52  177.5   0.4     4e-52  176.4   0.0   1.8   2   0   0   2   2   2   1 Putative rRNA methyltransferase OS=Drosophila melanogaster OX=7227 GN=Dmel\CG8939 PE=1 SV=1
+sp|Q9VEP1|TRM71_DROME  -          FtsJ                 PF01728.26   2.5e-49  167.3   0.0     5e-49  166.3   0.0   1.5   2   0   0   2   2   2   1 Putative tRNA (cytidine(32)/guanosine(34)-2'-O)-methyltransferase 1 OS=Drosophila melanogaster OX=7227 GN=CG5220 PE=2 SV=1
+sp|Q9VDD9|TRM72_DROME  -          FtsJ                 PF01728.26   1.6e-48  164.6   0.0   2.4e-48  164.1   0.0   1.3   1   0   0   1   1   1   1 Putative tRNA (cytidine(32)/guanosine(34)-2'-O)-methyltransferase 2 OS=Drosophila melanogaster OX=7227 GN=CG7009 PE=3 SV=1
+sp|Q9VDT6|MRM2_DROME   -          FtsJ                 PF01728.26   2.5e-45  154.2   0.0     3e-45  154.0   0.0   1.1   1   0   0   1   1   1   1 rRNA methyltransferase 2, mitochondrial OS=Drosophila melanogaster OX=7227 GN=CG11447 PE=2 SV=1
+sp|Q9W4N2|MTR1_DROME   -          FtsJ                 PF01728.26   3.8e-37  127.6   0.0   7.2e-37  126.7   0.0   1.5   1   0   0   1   1   1   1 Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase 1 OS=Drosophila melanogaster OX=7227 GN=CG6379 PE=2 SV=1
+sp|Q9UAS6|CMTR2_DROME  -          FtsJ                 PF01728.26   2.3e-29  102.2   0.0     4e-29  101.4   0.0   1.4   1   0   0   1   1   1   1 Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase 2 OS=Drosophila melanogaster OX=7227 GN=cmtr2 PE=2 SV=2
+tr|Q9VPX3|Q9VPX3_DROME -          FtsJ                 PF01728.26   1.3e-07   31.3   0.0   2.5e-07   30.4   0.0   1.4   1   0   0   1   1   1   1 LD40271p OS=Drosophila melanogaster OX=7227 GN=l(2)10685 PE=1 SV=1
+tr|Q9VQX9|Q9VQX9_DROME -          FtsJ                 PF01728.26   9.9e-07   28.5   0.1   1.9e-06   27.6   0.1   1.4   1   0   0   1   1   1   1 Arginine methyltransferase 2, isoform A OS=Drosophila melanogaster OX=7227 GN=Art2 PE=2 SV=1
+tr|Q9VGW7|Q9VGW7_DROME -          FtsJ                 PF01728.26   5.2e-06   26.1   0.1   9.7e-06   25.2   0.1   1.4   1   0   0   1   1   1   1 Arginine methyltransferase 1 OS=Drosophila melanogaster OX=7227 GN=Art1 PE=1 SV=1
+tr|Q9VFB3|Q9VFB3_DROME -          FtsJ                 PF01728.26   2.8e-05   23.7   0.0   0.00015   21.3   0.0   2.0   2   0   0   2   2   2   1 Arginine methyltransferase 3, isoform A OS=Drosophila melanogaster OX=7227 GN=Art3 PE=1 SV=1
+tr|Q8IPS4|Q8IPS4_DROME -          FtsJ                 PF01728.26   5.2e-05   22.9   0.0   0.00011   21.9   0.0   1.4   1   0   0   1   1   1   1 FI01826p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG11109 PE=2 SV=1
+tr|Q9VFP8|Q9VFP8_DROME -          FtsJ                 PF01728.26   0.00022   20.8   0.2   0.00041   19.9   0.2   1.4   1   0   0   1   1   1   1 Arginine methyltransferase 6 OS=Drosophila melanogaster OX=7227 GN=Art6 PE=2 SV=1
+tr|Q8SX32|Q8SX32_DROME -          FtsJ                 PF01728.26   0.00044   19.8   0.0   0.00098   18.7   0.0   1.5   1   0   0   1   1   1   1 Arginine methyltransferase 8 OS=Drosophila melanogaster OX=7227 GN=Art8 PE=1 SV=1
+tr|Q8IQN1|Q8IQN1_DROME -          FtsJ                 PF01728.26    0.0024   17.4   0.0    0.0043   16.6   0.0   1.7   1   1   0   1   1   1   1 Uncharacterized protein, isoform B OS=Drosophila melanogaster OX=7227 GN=Dmel\CG32152 PE=3 SV=2
+sp|Q9VH48|CARM1_DROME  -          FtsJ                 PF01728.26    0.0029   17.2   0.0     0.006   16.1   0.0   1.5   1   0   0   1   1   1   1 Probable histone-arginine methyltransferase CARMER OS=Drosophila melanogaster OX=7227 GN=Art4 PE=1 SV=1
+sp|Q9VIK9|MET13_DROME  -          FtsJ                 PF01728.26    0.0052   16.3   0.0     0.023   14.2   0.0   2.0   2   0   0   2   2   2   1 Methyltransferase-like protein 13 OS=Drosophila melanogaster OX=7227 GN=CG2614 PE=2 SV=1
+tr|Q9VQJ8|Q9VQJ8_DROME -          FtsJ                 PF01728.26    0.0061   16.1   0.0    0.0081   15.7   0.0   1.3   1   0   0   1   1   1   1 Protein-lysine N-methyltransferase CG9643 OS=Drosophila melanogaster OX=7227 GN=Dmel\CG9643 PE=1 SV=1
+tr|Q9VVV7|Q9VVV7_DROME -          FtsJ                 PF01728.26     0.013   15.1   0.0     0.024   14.2   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=cg3808 PE=1 SV=3
+sp|Q9W4M9|NSUN2_DROME  -          FtsJ                 PF01728.26     0.063   12.8   0.0      0.13   11.7   0.0   1.5   1   0   0   1   1   1   0 tRNA (cytosine(34)-C(5))-methyltransferase OS=Drosophila melanogaster OX=7227 GN=Nsun2 PE=2 SV=1
+sp|Q9VJQ4|MCES_DROME   -          FtsJ                 PF01728.26     0.077   12.5   0.0      0.18   11.3   0.0   1.6   1   1   0   1   1   1   0 mRNA cap guanine-N7 methyltransferase OS=Drosophila melanogaster OX=7227 GN=Rnmt PE=1 SV=2
+tr|Q7K1S1|Q7K1S1_DROME -          FtsJ                 PF01728.26     0.082   12.4   0.0      0.77    9.3   0.0   2.0   1   1   0   1   1   1   0 LD45826p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG8067 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/FtsJ.hmm
+# Target file:     proteomes/Drosophila_melanogaster.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/FtsJ/Drosophila_melanogaster.tblout --cpu 8 pfam_list/FtsJ.hmm proteomes/Drosophila_melanogaster.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:55 2025
+# [ok]

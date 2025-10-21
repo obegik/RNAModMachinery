@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A8I3PUD6|A0A8I3PUD6_CANLF -          Gcd10p               PF04189.19     1e-77  261.4   0.8   1.4e-77  261.0   0.4   1.4   1   1   0   1   1   1   1 tRNA (adenine(58)-N(1))-methyltransferase non-catalytic subunit TRM6 OS=Canis lupus familiaris OX=9615 GN=TRMT6 PE=3 SV=1
+tr|A0A8I3PA95|A0A8I3PA95_CANLF -          Gcd10p               PF04189.19      0.69    9.2   2.8       1.1    8.5   2.8   1.2   1   0   0   1   1   1   0 Sodium/potassium-transporting ATPase subunit beta OS=Canis lupus familiaris OX=9615 GN=ATP1B4 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Gcd10p.hmm
+# Target file:     proteomes/Canis_familiaris.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Gcd10p/Canis_familiaris.tblout --cpu 8 pfam_list/Gcd10p.hmm proteomes/Canis_familiaris.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:31 2025
+# [ok]

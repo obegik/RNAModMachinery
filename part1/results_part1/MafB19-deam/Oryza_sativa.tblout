@@ -1,0 +1,22 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q67VW4|Q67VW4_ORYSJ -          MafB19-deam          PF14437.13     6e-26   92.2   0.0     2e-25   90.4   0.0   2.0   1   0   0   1   1   1   1 tRNA(adenine(34)) deaminase OS=Oryza sativa subsp. japonica OX=39947 GN=Os06g0489500 PE=1 SV=1
+tr|Q0D7H8|Q0D7H8_ORYSJ -          MafB19-deam          PF14437.13   4.4e-21   76.4   0.3   5.5e-21   76.1   0.3   1.2   1   0   0   1   1   1   1 Os07g0245100 protein (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=Os07g0245100 PE=1 SV=1
+tr|Q75LI1|Q75LI1_ORYSJ -          MafB19-deam          PF14437.13   1.1e-20   75.1   0.2   1.3e-20   74.9   0.2   1.2   1   0   0   1   1   1   1 Guanine deaminase, putative, expressed OS=Oryza sativa subsp. japonica OX=39947 GN=LOC_Os03g61810 PE=1 SV=1
+tr|Q10M63|Q10M63_ORYSJ -          MafB19-deam          PF14437.13   1.6e-15   58.4   1.0   4.3e-15   57.0   1.0   1.6   1   1   0   1   1   1   1 Cytidine and deoxycytidylate deaminase zinc-binding region family protein, expressed OS=Oryza sativa subsp. japonica OX=39947 GN=LOC_Os03g20570 PE=1 SV=1
+tr|Q5JN09|Q5JN09_ORYSJ -          MafB19-deam          PF14437.13   6.4e-13   50.0   0.0   9.3e-13   49.5   0.0   1.3   1   0   0   1   1   1   1 dCMP deaminase OS=Oryza sativa subsp. japonica OX=39947 GN=Os01g0765000 PE=2 SV=1
+tr|Q10SM6|Q10SM6_ORYSJ -          MafB19-deam          PF14437.13   1.3e-08   36.1   0.1   3.6e-08   34.6   0.0   1.7   2   0   0   2   2   2   1 Riboflavin biosynthesis protein PYRD, chloroplastic OS=Oryza sativa subsp. japonica OX=39947 GN=LOC_Os03g02600 PE=1 SV=1
+tr|B7E8M5|B7E8M5_ORYSJ -          MafB19-deam          PF14437.13   1.3e-07   32.8   0.0   2.1e-07   32.1   0.0   1.3   1   0   0   1   1   1   1 Riboflavin biosynthesis protein PYRD, chloroplastic OS=Oryza sativa subsp. japonica OX=39947 GN=Os04g0177400 PE=2 SV=1
+tr|Q6ERC2|Q6ERC2_ORYSJ -          MafB19-deam          PF14437.13   0.00039   21.5   0.3    0.0098   17.0   0.0   2.6   3   0   0   3   3   3   1 tRNA(adenine(34)) deaminase OS=Oryza sativa subsp. japonica OX=39947 GN=Os09g0128600 PE=2 SV=1
+sp|Q5SNN4|C3H40_ORYSJ  -          MafB19-deam          PF14437.13       0.4   11.8   0.0       1.2   10.3   0.0   1.8   1   0   0   1   1   1   0 Zinc finger CCCH domain-containing protein 40 OS=Oryza sativa subsp. japonica OX=39947 GN=Os06g0170500 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MafB19-deam.hmm
+# Target file:     proteomes/Oryza_sativa.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MafB19-deam/Oryza_sativa.tblout --cpu 8 pfam_list/MafB19-deam.hmm proteomes/Oryza_sativa.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:09:25 2025
+# [ok]

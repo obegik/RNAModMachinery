@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A4W3H639|A0A4W3H639_CALMI -          LCM                  PF04072.21   2.8e-26   92.7   0.0   1.5e-25   90.3   0.0   1.8   1   1   0   1   1   1   1 Leucine carboxyl methyltransferase 1 OS=Callorhinchus milii OX=7868 GN=lcmt1 PE=3 SV=1
+tr|A0A4W3ITR2|A0A4W3ITR2_CALMI -          LCM                  PF04072.21   5.3e-24   85.2   0.0   8.2e-24   84.6   0.0   1.2   1   0   0   1   1   1   1 tRNA wybutosine-synthesizing protein 4 OS=Callorhinchus milii OX=7868 GN=lcmt2 PE=3 SV=1
+tr|A0A4W3IF27|A0A4W3IF27_CALMI -          LCM                  PF04072.21      0.19   11.7   0.0       5.2    7.0   0.0   2.4   2   0   0   2   2   2   0 Small G protein signaling modulator 2 OS=Callorhinchus milii OX=7868 PE=3 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/LCM.hmm
+# Target file:     proteomes/Callorhinchus_milii.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/LCM/Callorhinchus_milii.tblout --cpu 8 pfam_list/LCM.hmm proteomes/Callorhinchus_milii.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:43 2025
+# [ok]

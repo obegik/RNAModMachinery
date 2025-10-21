@@ -1,0 +1,27 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P0C0R7|RLME_ECOLI -          FtsJ                 PF01728.26   1.3e-61  205.7   0.0   1.6e-61  205.4   0.0   1.1   1   0   0   1   1   1   1 Ribosomal RNA large subunit methyltransferase E OS=Escherichia coli (strain K12) OX=83333 GN=rlmE PE=1 SV=1
+sp|P0ADR6|RLMM_ECOLI -          FtsJ                 PF01728.26   8.4e-13   46.6   0.0   4.3e-11   41.1   0.0   2.2   2   0   0   2   2   2   1 Ribosomal RNA large subunit methyltransferase M OS=Escherichia coli (strain K12) OX=83333 GN=rlmM PE=1 SV=1
+sp|P0A9H7|CFA_ECOLI  -          FtsJ                 PF01728.26   4.7e-08   31.2   0.0   9.4e-08   30.2   0.0   1.5   1   1   0   1   1   1   1 Cyclopropane-fatty-acyl-phospholipid synthase OS=Escherichia coli (strain K12) OX=83333 GN=cfa PE=1 SV=2
+sp|P76145|TAM_ECOLI  -          FtsJ                 PF01728.26   1.1e-07   30.0   0.0   1.5e-07   29.6   0.0   1.2   1   0   0   1   1   1   1 Trans-aconitate 2-methyltransferase OS=Escherichia coli (strain K12) OX=83333 GN=tam PE=1 SV=3
+sp|P36929|RSMB_ECOLI -          FtsJ                 PF01728.26   1.5e-06   26.3   0.0   2.4e-06   25.6   0.0   1.3   1   0   0   1   1   1   1 Ribosomal RNA small subunit methyltransferase B OS=Escherichia coli (strain K12) OX=83333 GN=rsmB PE=1 SV=2
+sp|P76290|CMOA_ECOLI -          FtsJ                 PF01728.26   0.00044   18.2   0.0    0.0011   16.9   0.0   1.5   1   1   0   2   2   2   1 Carboxy-S-adenosyl-L-methionine synthase OS=Escherichia coli (strain K12) OX=83333 GN=cmoA PE=1 SV=1
+sp|P25397|TEHB_ECOLI -          FtsJ                 PF01728.26   0.00045   18.2   0.0   0.00059   17.8   0.0   1.2   1   0   0   1   1   1   1 Tellurite methyltransferase OS=Escherichia coli (strain K12) OX=83333 GN=tehB PE=1 SV=1
+sp|P12999|BIOC_ECOLI -          FtsJ                 PF01728.26   0.00097   17.1   0.0    0.0014   16.6   0.0   1.2   1   0   0   1   1   1   1 Malonyl-[acyl-carrier protein] O-methyltransferase OS=Escherichia coli (strain K12) OX=83333 GN=bioC PE=1 SV=2
+sp|P55135|RLMD_ECOLI -          FtsJ                 PF01728.26    0.0015   16.5   0.0    0.0026   15.7   0.0   1.4   1   0   0   1   1   1   1 23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD OS=Escherichia coli (strain K12) OX=83333 GN=rlmD PE=1 SV=3
+sp|P0A8T1|PRMA_ECOLI -          FtsJ                 PF01728.26    0.0019   16.1   0.0     0.003   15.5   0.0   1.2   1   0   0   1   1   1   1 Ribosomal protein L11 methyltransferase OS=Escherichia coli (strain K12) OX=83333 GN=prmA PE=1 SV=1
+sp|P36999|RLMA_ECOLI -          FtsJ                 PF01728.26    0.0035   15.3   0.0     0.011   13.7   0.0   1.7   1   1   1   2   2   2   1 23S rRNA (guanine(745)-N(1))-methyltransferase OS=Escherichia coli (strain K12) OX=83333 GN=rlmA PE=1 SV=1
+sp|P0A887|UBIE_ECOLI -          FtsJ                 PF01728.26    0.0044   15.0   0.0    0.0086   14.0   0.0   1.6   1   1   0   1   1   1   1 Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE OS=Escherichia coli (strain K12) OX=83333 GN=ubiE PE=1 SV=1
+sp|P17993|UBIG_ECOLI -          FtsJ                 PF01728.26    0.0047   14.9   0.0    0.0085   14.0   0.0   1.4   1   0   0   1   1   1   1 Ubiquinone biosynthesis O-methyltransferase OS=Escherichia coli (strain K12) OX=83333 GN=ubiG PE=1 SV=1
+sp|P09158|SPEE_ECOLI -          FtsJ                 PF01728.26     0.026   12.4   0.0     0.038   11.9   0.0   1.3   1   0   0   1   1   1   0 Polyamine aminopropyltransferase OS=Escherichia coli (strain K12) OX=83333 GN=speE PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/FtsJ.hmm
+# Target file:     proteomes/Escherichia_coli.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/FtsJ/Escherichia_coli.tblout --cpu 8 pfam_list/FtsJ.hmm proteomes/Escherichia_coli.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:55 2025
+# [ok]

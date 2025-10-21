@@ -1,0 +1,18 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|B5YPA6|B5YPA6_THAPS -          DREV                 PF05219.18   0.00011   20.7   0.0   0.00016   20.3   0.0   1.2   1   0   0   1   1   1   1 3-demethylubiquinol 3-O-methyltransferase (Fragment) OS=Thalassiosira pseudonana OX=35128 GN=THAPS_35408 PE=4 SV=1
+tr|B8C0L0|B8C0L0_THAPS -          DREV                 PF05219.18    0.0042   15.6   0.0    0.0057   15.2   0.0   1.2   1   0   0   1   1   1   1 Methyltransferase type 11 domain-containing protein OS=Thalassiosira pseudonana OX=35128 GN=THAPSDRAFT_262335 PE=4 SV=1
+tr|B8CCA1|B8CCA1_THAPS -          DREV                 PF05219.18     0.012   14.1   0.0     0.019   13.4   0.0   1.2   1   0   0   1   1   1   0 Sterol-c-methyltransferase OS=Thalassiosira pseudonana OX=35128 GN=THAPSDRAFT_37444 PE=3 SV=1
+tr|B8BXU9|B8BXU9_THAPS -          DREV                 PF05219.18     0.043   12.3   0.0     0.066   11.7   0.0   1.3   1   0   0   1   1   1   0 Methyltransferase (Fragment) OS=Thalassiosira pseudonana OX=35128 GN=THAPSDRAFT_261788 PE=4 SV=1
+tr|B8BW15|B8BW15_THAPS -          DREV                 PF05219.18     0.088   11.3   0.0      0.15   10.5   0.0   1.4   1   0   0   1   1   1   0 Magnesium protoporphyrin IX methyltransferase OS=Thalassiosira pseudonana OX=35128 GN=THAPSDRAFT_270378 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DREV.hmm
+# Target file:     proteomes/Thalassiosira_pseudonana.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DREV/Thalassiosira_pseudonana.tblout --cpu 8 pfam_list/DREV.hmm proteomes/Thalassiosira_pseudonana.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:25 2025
+# [ok]

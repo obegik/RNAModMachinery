@@ -1,0 +1,20 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q92979|NEP1_HUMAN   -          EMG1                 PF03587.20   3.1e-75  254.2   0.0   3.5e-75  254.0   0.0   1.0   1   0   0   1   1   1   1 Ribosomal RNA small subunit methyltransferase NEP1 OS=Homo sapiens GN=EMG1 PE=1 SV=4
+tr|C9JDI3|C9JDI3_HUMAN -          EMG1                 PF03587.20      0.15   13.8   0.0       0.2   13.5   0.0   1.1   1   0   0   1   1   1   0 Troponin C, slow skeletal and cardiac muscles (Fragment) OS=Homo sapiens GN=TNNC1 PE=2 SV=1
+tr|J3QLP7|J3QLP7_HUMAN -          EMG1                 PF03587.20      0.23   13.2   0.3        54    5.5   0.0   2.9   3   0   0   3   3   3   0 Protein UBBP4 OS=Homo sapiens GN=UBBP4 PE=2 SV=1
+tr|J3QRK5|J3QRK5_HUMAN -          EMG1                 PF03587.20      0.25   13.1   0.3        55    5.5   0.0   2.9   3   0   0   3   3   3   0 Protein UBBP4 OS=Homo sapiens GN=UBBP4 PE=2 SV=1
+sp|P63316|TNNC1_HUMAN  -          EMG1                 PF03587.20      0.31   12.8   0.0      0.46   12.3   0.0   1.2   1   0   0   1   1   1   0 Troponin C, slow skeletal and cardiac muscles OS=Homo sapiens GN=TNNC1 PE=1 SV=1
+tr|F5GXK7|F5GXK7_HUMAN -          EMG1                 PF03587.20      0.62   11.8   0.2        90    4.8   0.0   2.8   3   0   0   3   3   3   0 Polyubiquitin-C (Fragment) OS=Homo sapiens GN=UBC PE=2 SV=1
+tr|J3QKN0|J3QKN0_HUMAN -          EMG1                 PF03587.20      0.65   11.8   0.2   1.2e+02    4.4   0.0   2.7   3   0   0   3   3   3   0 Ubiquitin (Fragment) OS=Homo sapiens GN=UBB PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/EMG1.hmm
+# Target file:     proteomes/Homo_sapiens.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/EMG1/Homo_sapiens.tblout --cpu 8 pfam_list/EMG1.hmm proteomes/Homo_sapiens.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:33 2025
+# [ok]

@@ -1,0 +1,19 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q54U59|Q54U59_DICDI -          DREV                 PF05219.18   3.5e-54  183.2   1.3   5.9e-54  182.4   1.3   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB_G0281259 PE=4 SV=2
+sp|Q54QK7|DIM1_DICDI   -          DREV                 PF05219.18     0.005   15.5   0.0    0.0097   14.5   0.0   1.4   1   0   0   1   1   1   1 Probable dimethyladenosine transferase OS=Dictyostelium discoideum OX=44689 GN=dimt1 PE=3 SV=1
+tr|Q54UI9|Q54UI9_DICDI -          DREV                 PF05219.18    0.0068   15.1   0.0    0.0095   14.6   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB_G0281053 PE=4 SV=1
+tr|Q54C42|Q54C42_DICDI -          DREV                 PF05219.18    0.0086   14.7   0.0     0.019   13.6   0.0   1.5   1   0   0   1   1   1   1 Uncharacterized protein OS=Dictyostelium discoideum OX=44689 GN=DDB0191845 PE=3 SV=1
+sp|Q55EX9|Y8948_DICDI  -          DREV                 PF05219.18     0.019   13.6   0.0     0.025   13.2   0.0   1.3   1   0   0   1   1   1   0 Putative methyltransferase DDB_G0268948 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0268948 PE=1 SV=2
+sp|Q54XD0|COQ3_DICDI   -          DREV                 PF05219.18     0.028   13.0   0.1     0.045   12.4   0.1   1.3   1   0   0   1   1   1   0 Ubiquinone biosynthesis O-methyltransferase, mitochondrial OS=Dictyostelium discoideum OX=44689 GN=coq3 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DREV.hmm
+# Target file:     proteomes/Dictyostelium_discoideum.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DREV/Dictyostelium_discoideum.tblout --cpu 8 pfam_list/DREV.hmm proteomes/Dictyostelium_discoideum.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:22 2025
+# [ok]

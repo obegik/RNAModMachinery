@@ -1,0 +1,17 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|C3YZQ2|C3YZQ2_BRAFL -          DNA_methylase        PF00145.24   1.9e-52  179.4   0.0   6.8e-52  177.5   0.0   1.9   1   1   0   1   1   1   1 Cytosine-specific methyltransferase (Fragment) OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_204680 PE=3 SV=1
+tr|C3ZE50|C3ZE50_BRAFL -          DNA_methylase        PF00145.24   2.7e-41  142.7   0.0   3.5e-41  142.3   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_275730 PE=3 SV=1
+tr|C3Z8R1|C3Z8R1_BRAFL -          DNA_methylase        PF00145.24    0.0065   16.6   0.4       3.8    7.5   0.1   2.1   2   0   0   2   2   2   2 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_67950 PE=4 SV=1
+tr|C3XPE3|C3XPE3_BRAFL -          DNA_methylase        PF00145.24      0.23   11.5   0.2      0.52   10.3   0.0   1.6   2   0   0   2   2   2   0 Uncharacterized protein OS=Branchiostoma floridae OX=7739 GN=BRAFLDRAFT_124175 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DNA_methylase.hmm
+# Target file:     proteomes/Branchiostoma_floridae.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DNA_methylase/Branchiostoma_floridae.tblout --cpu 8 pfam_list/DNA_methylase.hmm proteomes/Branchiostoma_floridae.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:00:08 2025
+# [ok]

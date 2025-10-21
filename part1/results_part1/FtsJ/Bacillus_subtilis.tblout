@@ -1,0 +1,27 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P19672|YQXC_BACSU -          FtsJ                 PF01728.26   5.9e-44  148.1   0.0   7.3e-44  147.8   0.0   1.1   1   0   0   1   1   1   1 Putative rRNA methyltransferase YqxC OS=Bacillus subtilis (strain 168) OX=224308 GN=yqxC PE=3 SV=3
+sp|O06012|ADHB_BACSU -          FtsJ                 PF01728.26   7.4e-08   30.5   0.1   1.3e-07   29.7   0.1   1.3   1   0   0   1   1   1   1 Uncharacterized zinc-type alcohol dehydrogenase-like protein AdhB OS=Bacillus subtilis (strain 168) OX=224308 GN=adhB PE=3 SV=2
+sp|P94464|RSMB_BACSU -          FtsJ                 PF01728.26   5.4e-07   27.7   0.0   9.5e-07   26.9   0.0   1.3   1   0   0   1   1   1   1 Probable ribosomal RNA small subunit methyltransferase B OS=Bacillus subtilis (strain 168) OX=224308 GN=rsmB PE=3 SV=2
+sp|P31113|MENG_BACSU -          FtsJ                 PF01728.26   6.4e-06   24.2   0.2   5.3e-05   21.2   0.2   2.0   1   1   0   1   1   1   1 Demethylmenaquinone methyltransferase OS=Bacillus subtilis (strain 168) OX=224308 GN=menG PE=1 SV=1
+sp|P46326|YXBB_BACSU -          FtsJ                 PF01728.26   7.8e-06   23.9   0.0   1.5e-05   23.0   0.0   1.5   1   1   0   1   1   1   1 Uncharacterized protein YxbB OS=Bacillus subtilis (strain 168) OX=224308 GN=yxbB PE=3 SV=1
+sp|Q07876|RSMH_BACSU -          FtsJ                 PF01728.26   3.5e-05   21.8   0.0    0.0086   14.0   0.0   2.3   1   1   0   1   1   1   1 Ribosomal RNA small subunit methyltransferase H OS=Bacillus subtilis (strain 168) OX=224308 GN=rsmH PE=2 SV=2
+sp|P96576|YDAC_BACSU -          FtsJ                 PF01728.26   5.1e-05   21.2   0.0   8.1e-05   20.6   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized methyltransferase YdaC OS=Bacillus subtilis (strain 168) OX=224308 GN=ydaC PE=3 SV=1
+sp|P54460|PRMA_BACSU -          FtsJ                 PF01728.26   5.3e-05   21.2   0.2    0.0013   16.7   0.2   2.1   1   1   0   1   1   1   1 Ribosomal protein L11 methyltransferase OS=Bacillus subtilis (strain 168) OX=224308 GN=prmA PE=3 SV=2
+sp|O34614|MNMM_BACSU -          FtsJ                 PF01728.26    0.0019   16.1   0.0    0.0029   15.5   0.0   1.5   1   1   0   1   1   1   1 tRNA (mnm(5)s(2)U34)-methyltransferase OS=Bacillus subtilis (strain 168) OX=224308 GN=mnmM PE=1 SV=1
+sp|P54458|YQEM_BACSU -          FtsJ                 PF01728.26    0.0019   16.1   0.0    0.0041   15.0   0.0   1.7   1   1   0   1   1   1   1 Putative methyltransferase YqeM OS=Bacillus subtilis (strain 168) OX=224308 GN=yqeM PE=3 SV=1
+sp|P45873|PRMC_BACSU -          FtsJ                 PF01728.26    0.0024   15.8   0.0    0.0033   15.3   0.0   1.3   1   1   0   1   1   1   1 Release factor glutamine methyltransferase OS=Bacillus subtilis (strain 168) OX=224308 GN=prmC PE=3 SV=1
+sp|P37543|YABB_BACSU -          FtsJ                 PF01728.26    0.0088   13.9   0.0     0.012   13.5   0.0   1.2   1   0   0   1   1   1   1 Probable RNA methyltransferase YabB OS=Bacillus subtilis (strain 168) OX=224308 GN=yabB PE=3 SV=1
+sp|O31776|TDH_BACSU  -          FtsJ                 PF01728.26     0.012   13.5   0.0     0.025   12.5   0.0   1.4   1   0   0   1   1   1   0 L-threonine 3-dehydrogenase OS=Bacillus subtilis (strain 168) OX=224308 GN=tdh PE=3 SV=1
+sp|P13792|PHOP_BACSU -          FtsJ                 PF01728.26     0.044   11.7   0.0      0.22    9.4   0.0   1.8   1   1   1   2   2   2   0 Alkaline phosphatase synthesis transcriptional regulatory protein PhoP OS=Bacillus subtilis (strain 168) OX=224308 GN=phoP PE=1 SV=4
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/FtsJ.hmm
+# Target file:     proteomes/Bacillus_subtilis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/FtsJ/Bacillus_subtilis.tblout --cpu 8 pfam_list/FtsJ.hmm proteomes/Bacillus_subtilis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:54 2025
+# [ok]

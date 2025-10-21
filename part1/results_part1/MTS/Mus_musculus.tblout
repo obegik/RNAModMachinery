@@ -1,0 +1,61 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8K1A0|METL5_MOUSE  -          MTS                  PF05175.21   3.8e-14   52.9   0.0   5.5e-14   52.4   0.0   1.2   1   0   0   1   1   1   1 Methyltransferase-like protein 5 OS=Mus musculus OX=10090 GN=Mettl5 PE=2 SV=2
+sp|Q921L7|HEMK1_MOUSE  -          MTS                  PF05175.21   1.1e-11   44.9   0.0   8.6e-11   42.0   0.0   2.0   2   0   0   2   2   2   1 HemK methyltransferase family member 1 OS=Mus musculus OX=10090 GN=Hemk1 PE=2 SV=2
+sp|Q6SKR2|N6MT1_MOUSE  -          MTS                  PF05175.21   9.8e-11   41.8   0.0   5.3e-09   36.2   0.0   2.0   1   1   0   1   1   1   1 Methyltransferase N6AMT1 OS=Mus musculus OX=10090 GN=N6amt1 PE=1 SV=1
+sp|Q9R144|ANM2_MOUSE   -          MTS                  PF05175.21   1.1e-07   31.9   0.1   1.9e-07   31.1   0.1   1.3   1   0   0   1   1   1   1 Protein arginine N-methyltransferase 2 OS=Mus musculus OX=10090 GN=Prmt2 PE=1 SV=1
+sp|Q9WVG6|CARM1_MOUSE  -          MTS                  PF05175.21   2.9e-07   30.5   0.0   6.6e-07   29.3   0.0   1.5   1   0   0   1   1   1   1 Histone-arginine methyltransferase CARM1 OS=Mus musculus OX=10090 GN=Carm1 PE=1 SV=2
+sp|Q80ZM3|ETKMT_MOUSE  -          MTS                  PF05175.21   7.9e-07   29.1   0.0   1.1e-06   28.6   0.0   1.1   1   0   0   1   1   1   1 Electron transfer flavoprotein beta subunit lysine methyltransferase OS=Mus musculus OX=10090 GN=Mettl20 PE=1 SV=1
+sp|Q8BQJ6|TRM2_MOUSE   -          MTS                  PF05175.21   3.7e-06   26.9   0.0   6.6e-06   26.1   0.0   1.3   1   0   0   1   1   1   1 tRNA (uracil(54)-C(5))-methyltransferase homolog OS=Mus musculus OX=10090 GN=Trmt2b PE=2 SV=1
+sp|Q9CZB3|THUM2_MOUSE  -          MTS                  PF05175.21   1.4e-05   25.0   0.0   2.5e-05   24.2   0.0   1.3   1   0   0   1   1   1   1 THUMP domain-containing protein 2 OS=Mus musculus OX=10090 GN=Thumpd2 PE=2 SV=3
+sp|Q9CQG2|MET16_MOUSE  -          MTS                  PF05175.21     5e-05   23.2   0.0   8.7e-05   22.4   0.0   1.3   1   0   0   1   1   1   1 RNA N6-adenosine-methyltransferase METTL16 OS=Mus musculus OX=10090 GN=Mettl16 PE=1 SV=1
+sp|Q6NZB1|ANM6_MOUSE   -          MTS                  PF05175.21   5.2e-05   23.2   0.0   8.9e-05   22.4   0.0   1.3   1   0   0   1   1   1   1 Protein arginine N-methyltransferase 6 OS=Mus musculus OX=10090 GN=Prmt6 PE=1 SV=2
+sp|Q922H1|ANM3_MOUSE   -          MTS                  PF05175.21   6.9e-05   22.8   0.1   0.00015   21.7   0.1   1.5   1   0   0   1   1   1   1 Protein arginine N-methyltransferase 3 OS=Mus musculus OX=10090 GN=Prmt3 PE=1 SV=2
+sp|Q8BNV1|TRM2A_MOUSE  -          MTS                  PF05175.21   8.7e-05   22.4   0.0   0.00015   21.7   0.0   1.3   1   0   0   1   1   1   1 tRNA (uracil-5-)-methyltransferase homolog A OS=Mus musculus OX=10090 GN=Trmt2a PE=1 SV=1
+sp|Q9JIF0|ANM1_MOUSE   -          MTS                  PF05175.21   0.00011   22.1   0.1   0.00017   21.5   0.1   1.2   1   0   0   1   1   1   1 Protein arginine N-methyltransferase 1 OS=Mus musculus OX=10090 GN=Prmt1 PE=1 SV=1
+sp|Q8K3A9|MEPCE_MOUSE  -          MTS                  PF05175.21   0.00015   21.7   0.0    0.0005   20.0   0.0   1.7   2   0   0   2   2   2   1 7SK snRNA methylphosphate capping enzyme OS=Mus musculus OX=10090 GN=Mepce PE=1 SV=2
+sp|Q9CZ09|MET18_MOUSE  -          MTS                  PF05175.21   0.00018   21.4   0.0   0.00037   20.4   0.0   1.5   1   0   0   1   1   1   1 Histidine protein methyltransferase 1 homolog OS=Mus musculus OX=10090 GN=Mettl18 PE=2 SV=2
+sp|Q8BMK1|METL2_MOUSE  -          MTS                  PF05175.21   0.00021   21.2   0.0   0.00036   20.4   0.0   1.3   1   0   0   1   1   1   1 Methyltransferase-like protein 2 OS=Mus musculus OX=10090 GN=Mettl2 PE=2 SV=2
+sp|Q9D853|EFMT2_MOUSE  -          MTS                  PF05175.21   0.00032   20.6   0.0   0.00048   20.0   0.0   1.3   1   0   0   1   1   1   1 EEF1A lysine methyltransferase 2 OS=Mus musculus OX=10090 GN=Eef1akmt2 PE=1 SV=1
+sp|Q91YR5|MET13_MOUSE  -          MTS                  PF05175.21   0.00053   19.9   0.0     0.089   12.7   0.0   2.4   2   0   0   2   2   2   1 Methyltransferase-like protein 13 OS=Mus musculus OX=10090 GN=Mettl13 PE=1 SV=1
+sp|Q8BMS4|COQ3_MOUSE   -          MTS                  PF05175.21    0.0006   19.7   0.0    0.0011   18.8   0.0   1.4   1   0   0   1   1   1   1 Ubiquinone biosynthesis O-methyltransferase, mitochondrial OS=Mus musculus OX=10090 GN=Coq3 PE=1 SV=1
+sp|Q3U3W5|ANM9_MOUSE   -          MTS                  PF05175.21    0.0017   18.2   0.1    0.0044   16.9   0.1   1.6   1   0   0   1   1   1   1 Protein arginine N-methyltransferase 9 OS=Mus musculus OX=10090 GN=Prmt9 PE=2 SV=2
+sp|Q6PAK3|ANM8_MOUSE   -          MTS                  PF05175.21    0.0022   17.9   0.1    0.0038   17.1   0.1   1.3   1   0   0   1   1   1   1 Protein arginine N-methyltransferase 8 OS=Mus musculus OX=10090 GN=Prmt8 PE=1 SV=2
+sp|Q5RL51|GSTCD_MOUSE  -          MTS                  PF05175.21    0.0024   17.7   0.0    0.0047   16.8   0.0   1.4   1   0   0   1   1   1   1 Glutathione S-transferase C-terminal domain-containing protein OS=Mus musculus OX=10090 GN=Gstcd PE=2 SV=1
+sp|Q9CQL0|MT21A_MOUSE  -          MTS                  PF05175.21    0.0028   17.5   0.0    0.0042   17.0   0.0   1.2   1   0   0   1   1   1   1 Protein N-lysine methyltransferase METTL21A OS=Mus musculus OX=10090 GN=Mettl21A PE=2 SV=1
+sp|A2APY7|NDUF5_MOUSE  -          MTS                  PF05175.21    0.0032   17.4   0.0    0.0048   16.8   0.0   1.3   1   0   0   1   1   1   1 Arginine-hydroxylase NDUFAF5, mitochondrial OS=Mus musculus OX=10090 GN=Ndufaf5 PE=1 SV=1
+sp|Q91WU5|AS3MT_MOUSE  -          MTS                  PF05175.21    0.0041   17.0   0.0    0.0097   15.8   0.0   1.6   1   0   0   1   1   1   1 Arsenite methyltransferase OS=Mus musculus OX=10090 GN=As3mt PE=1 SV=2
+sp|D3YWP0|EFMT3_MOUSE  -          MTS                  PF05175.21    0.0049   16.8   0.0    0.0069   16.3   0.0   1.2   1   0   0   1   1   1   1 EEF1A lysine methyltransferase 3 OS=Mus musculus OX=10090 GN=eef1akmt3 PE=3 SV=1
+tr|Q8BGM4|Q8BGM4_MOUSE -          MTS                  PF05175.21    0.0077   16.1   0.0     0.011   15.6   0.0   1.4   1   1   0   1   1   1   1 Methyltransferase-like 27 OS=Mus musculus OX=10090 GN=Mettl27 PE=1 SV=1
+sp|Q8CIG8|ANM5_MOUSE   -          MTS                  PF05175.21    0.0084   16.0   0.0     0.015   15.2   0.0   1.3   1   0   0   1   1   1   1 Protein arginine N-methyltransferase 5 OS=Mus musculus OX=10090 GN=Prmt5 PE=1 SV=3
+sp|D3KU66|ASMT_MOUSE   -          MTS                  PF05175.21     0.014   15.3   0.0     0.039   13.8   0.0   1.7   1   1   0   1   1   1   0 Acetylserotonin O-methyltransferase OS=Mus musculus OX=10090 GN=Asmt PE=2 SV=1
+sp|Q8BG71|TYW2_MOUSE   -          MTS                  PF05175.21     0.014   15.3   0.0     0.022   14.6   0.0   1.3   1   0   0   1   1   1   0 tRNA wybutosine-synthesizing protein 2 homolog OS=Mus musculus OX=10090 GN=Trmt12 PE=2 SV=1
+sp|Q3UZW7|EF2KT_MOUSE  -          MTS                  PF05175.21     0.022   14.6   0.0     0.045   13.6   0.0   1.5   1   0   0   1   1   1   0 Protein-lysine N-methyltransferase EEF2KMT OS=Mus musculus OX=10090 GN=Eef2kmt PE=1 SV=1
+sp|Q9D0D4|DIM1_MOUSE   -          MTS                  PF05175.21     0.024   14.5   0.0     0.037   13.9   0.0   1.3   1   0   0   1   1   1   0 Probable dimethyladenosine transferase OS=Mus musculus OX=10090 GN=Dimt1 PE=2 SV=1
+sp|P23506|PIMT_MOUSE   -          MTS                  PF05175.21     0.029   14.2   0.1      0.05   13.5   0.1   1.5   1   1   0   1   1   1   0 Protein-L-isoaspartate(D-aspartate) O-methyltransferase OS=Mus musculus OX=10090 GN=Pcmt1 PE=1 SV=3
+sp|O55055|TRDMT_MOUSE  -          MTS                  PF05175.21      0.03   14.2   0.0     0.049   13.5   0.0   1.2   1   0   0   1   1   1   0 tRNA (cytosine(38)-C(5))-methyltransferase OS=Mus musculus OX=10090 GN=Trdmt1 PE=1 SV=2
+sp|Q8R1C6|MET22_MOUSE  -          MTS                  PF05175.21     0.032   14.1   0.1     0.052   13.4   0.1   1.3   1   0   0   1   1   1   0 Methyltransferase-like protein 22 OS=Mus musculus OX=10090 GN=Mettl22 PE=2 SV=1
+sp|Q9QXF8|GNMT_MOUSE   -          MTS                  PF05175.21     0.037   13.9   0.0     0.059   13.2   0.0   1.3   1   0   0   1   1   1   0 Glycine N-methyltransferase OS=Mus musculus OX=10090 GN=Gnmt PE=1 SV=3
+sp|Q9DCS2|MTL26_MOUSE  -          MTS                  PF05175.21     0.041   13.8   0.0     0.054   13.4   0.0   1.3   1   0   0   1   1   1   0 Methyltransferase-like 26 OS=Mus musculus OX=10090 GN=Mettl26 PE=1 SV=1
+sp|Q9EPL4|METL9_MOUSE  -          MTS                  PF05175.21     0.079   12.8   0.0        13    5.6   0.0   2.2   2   0   0   2   2   2   0 Methyltransferase-like protein 9 OS=Mus musculus OX=10090 GN=Mettl9 PE=1 SV=1
+sp|Q80WQ4|TRM9B_MOUSE  -          MTS                  PF05175.21     0.085   12.7   0.1      0.46   10.3   0.1   2.0   1   1   0   1   1   1   0 Probable tRNA methyltransferase 9B OS=Mus musculus OX=10090 GN=Trmt9b PE=1 SV=1
+sp|Q9DB85|RRP8_MOUSE   -          MTS                  PF05175.21     0.087   12.7   0.0       3.4    7.5   0.0   2.2   1   1   1   2   2   2   0 Ribosomal RNA-processing protein 8 OS=Mus musculus OX=10090 GN=Rrp8 PE=1 SV=1
+sp|Q8BIG7|CMTD1_MOUSE  -          MTS                  PF05175.21     0.099   12.5   0.0      0.16   11.8   0.0   1.3   1   0   0   1   1   1   0 Catechol O-methyltransferase domain-containing protein 1 OS=Mus musculus OX=10090 GN=Comtd1 PE=1 SV=1
+sp|P97770|THUM3_MOUSE  -          MTS                  PF05175.21      0.12   12.2   0.0      0.88    9.4   0.0   2.2   2   0   0   2   2   2   0 THUMP domain-containing protein 3 OS=Mus musculus OX=10090 GN=Thumpd3 PE=1 SV=1
+sp|Q8BVH9|METL6_MOUSE  -          MTS                  PF05175.21      0.16   11.8   0.0      0.29   11.0   0.0   1.3   1   0   0   1   1   1   0 Methyltransferase-like protein 6 OS=Mus musculus OX=10090 GN=Mettl6 PE=2 SV=2
+sp|A2RSY6|TRM1L_MOUSE  -          MTS                  PF05175.21      0.19   11.6   0.6      0.37   10.6   0.1   1.7   2   0   0   2   2   1   0 TRMT1-like protein OS=Mus musculus OX=10090 GN=Trmt1l PE=1 SV=1
+sp|A2AUU0|METL8_MOUSE  -          MTS                  PF05175.21       0.2   11.5   0.0      0.33   10.8   0.0   1.3   1   0   0   1   1   1   0 Methyltransferase-like protein 8 OS=Mus musculus OX=10090 GN=Mettl8 PE=1 SV=2
+sp|Q9D2Q2|TRM44_MOUSE  -          MTS                  PF05175.21      0.23   11.3   0.0      0.51   10.2   0.0   1.5   1   0   0   1   1   1   0 Probable tRNA (uracil-O(2)-)-methyltransferase OS=Mus musculus OX=10090 GN=Trmt44 PE=2 SV=2
+sp|Q3U2U7|MET17_MOUSE  -          MTS                  PF05175.21      0.24   11.2   0.0      0.41   10.5   0.0   1.4   1   0   0   1   1   1   0 Methyltransferase-like protein 17, mitochondrial OS=Mus musculus OX=10090 GN=Mettl17 PE=2 SV=2
+sp|Q922X9|ANM7_MOUSE   -          MTS                  PF05175.21      0.26   11.1   0.1      0.88    9.4   0.0   1.7   2   0   0   2   2   2   0 Protein arginine N-methyltransferase 7 OS=Mus musculus OX=10090 GN=Prmt7 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MTS.hmm
+# Target file:     proteomes/Mus_musculus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MTS/Mus_musculus.tblout --cpu 8 pfam_list/MTS.hmm proteomes/Mus_musculus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:05:58 2025
+# [ok]

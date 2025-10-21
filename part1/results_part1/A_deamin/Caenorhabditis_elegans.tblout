@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q22618|DSRAD_CAEEL  -          A_deamin             PF02137.25  3.2e-100  335.9   0.0  5.7e-100  335.1   0.0   1.4   2   0   0   2   2   2   1 Double-stranded RNA-specific adenosine deaminase adr-2 OS=Caenorhabditis elegans OX=6239 GN=adr-2 PE=1 SV=2
+tr|Q93412|Q93412_CAEEL -          A_deamin             PF02137.25     1e-35  123.9   0.1     3e-34  119.1   0.1   2.3   1   1   0   1   1   1   1 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_D2005.1 PE=4 SV=1
+sp|Q9U3D6|ADR1_CAEEL   -          A_deamin             PF02137.25   4.4e-33  115.3   0.1   4.4e-33  115.3   0.1   3.1   2   1   0   2   2   2   1 A-to-I RNA editing regulator adr-1 OS=Caenorhabditis elegans OX=6239 GN=adr-1 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/A_deamin.hmm
+# Target file:     proteomes/Caenorhabditis_elegans.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/A_deamin/Caenorhabditis_elegans.tblout --cpu 8 pfam_list/A_deamin.hmm proteomes/Caenorhabditis_elegans.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:07 2025
+# [ok]

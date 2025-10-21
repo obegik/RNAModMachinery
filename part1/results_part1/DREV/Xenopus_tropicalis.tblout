@@ -1,0 +1,21 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7CVL8|F7CVL8_XENTR -          DREV                 PF05219.18  3.3e-121  403.8   0.0  3.8e-121  403.6   0.0   1.0   1   0   0   1   1   1   1 Methyltransferase-like 9 OS=Xenopus tropicalis OX=8364 GN=mettl9 PE=4 SV=1
+tr|A9JTN6|A9JTN6_XENTR -          DREV                 PF05219.18   0.00053   19.6   0.0   0.00066   19.3   0.0   1.3   1   0   0   1   1   1   1 LOC100127805 protein (Fragment) OS=Xenopus tropicalis OX=8364 GN=LOC100127805 PE=2 SV=1
+tr|F6ZHI8|F6ZHI8_XENTR -          DREV                 PF05219.18    0.0085   15.7   0.0     0.013   15.1   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Xenopus tropicalis OX=8364 PE=4 SV=1
+tr|F7EG74|F7EG74_XENTR -          DREV                 PF05219.18     0.059   12.9   0.0      0.46   10.0   0.0   2.2   2   2   0   2   2   2   0 Coactivator-associated arginine methyltransferase 1 OS=Xenopus tropicalis OX=8364 GN=carm1 PE=3 SV=1
+sp|B0JYW5|ANM6_XENTR   -          DREV                 PF05219.18     0.063   12.8   0.0     0.095   12.2   0.0   1.3   1   0   0   1   1   1   0 Protein arginine N-methyltransferase 6 OS=Xenopus tropicalis OX=8364 GN=prmt6 PE=2 SV=1
+tr|F6TRH8|F6TRH8_XENTR -          DREV                 PF05219.18     0.088   12.3   0.0      0.11   12.1   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus tropicalis OX=8364 GN=LOC100485096 PE=4 SV=1
+tr|K9J875|K9J875_XENTR -          DREV                 PF05219.18      0.15   11.6   0.0      0.23   10.9   0.0   1.2   1   0   0   1   1   1   0 rRNA adenine N(6)-methyltransferase OS=Xenopus tropicalis OX=8364 GN=dimt1 PE=3 SV=1
+tr|F7A0S9|F7A0S9_XENTR -          DREV                 PF05219.18      0.22   11.0   0.0      0.39   10.2   0.0   1.3   1   0   0   1   1   1   0 NADH:ubiquinone oxidoreductase complex assembly factor 5 OS=Xenopus tropicalis OX=8364 GN=ndufaf5 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DREV.hmm
+# Target file:     proteomes/Xenopus_tropicalis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DREV/Xenopus_tropicalis.tblout --cpu 8 pfam_list/DREV.hmm proteomes/Xenopus_tropicalis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:25 2025
+# [ok]

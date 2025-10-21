@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P0ACL0|GLPR_ECOLI -          GCD14                PF08704.17    0.0012   16.5   0.0    0.0035   15.0   0.0   1.6   2   0   0   2   2   2   1 Glycerol-3-phosphate regulon repressor OS=Escherichia coli (strain K12) OX=83333 GN=glpR PE=1 SV=1
+sp|P0A887|UBIE_ECOLI -          GCD14                PF08704.17    0.0086   13.8   0.0     0.025   12.2   0.0   1.7   1   1   0   1   1   1   1 Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE OS=Escherichia coli (strain K12) OX=83333 GN=ubiE PE=1 SV=1
+sp|P0A7A5|PIMT_ECOLI -          GCD14                PF08704.17     0.017   12.7   0.0     0.025   12.2   0.0   1.2   1   0   0   1   1   1   0 Protein-L-isoaspartate O-methyltransferase OS=Escherichia coli (strain K12) OX=83333 GN=pcm PE=1 SV=2
+sp|P39367|YJHP_ECOLI -          GCD14                PF08704.17     0.019   12.6   0.0     0.025   12.2   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein YjhP OS=Escherichia coli (strain K12) OX=83333 GN=yjhP PE=1 SV=1
+sp|P0A9H7|CFA_ECOLI  -          GCD14                PF08704.17     0.028   12.1   0.0     0.042   11.5   0.0   1.2   1   0   0   1   1   1   0 Cyclopropane-fatty-acyl-phospholipid synthase OS=Escherichia coli (strain K12) OX=83333 GN=cfa PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/GCD14.hmm
+# Target file:     proteomes/Escherichia_coli.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/GCD14/Escherichia_coli.tblout --cpu 8 pfam_list/GCD14.hmm proteomes/Escherichia_coli.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:11 2025
+# [ok]

@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q235D9|Q235D9_TETTS -          DREV                 PF05219.18   2.6e-05   24.1   0.2   5.3e-05   23.0   0.2   1.5   1   0   0   1   1   1   1 Ubiquinone biosynthesis O-methyltransferase, mitochondrial OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00803610 PE=3 SV=2
+tr|Q23VZ1|Q23VZ1_TETTS -          DREV                 PF05219.18     0.049   13.3   0.0       1.4    8.6   0.0   2.2   2   0   0   2   2   2   0 UbiE/COQ5 methyltransferase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00794400 PE=4 SV=2
+tr|Q24I54|Q24I54_TETTS -          DREV                 PF05219.18      0.16   11.6   0.0      0.24   11.0   0.0   1.2   1   0   0   1   1   1   0 Glutathione S-transferase, amine-terminal domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00569200 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DREV.hmm
+# Target file:     proteomes/Tetrahymena_thermophila.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DREV/Tetrahymena_thermophila.tblout --cpu 8 pfam_list/DREV.hmm proteomes/Tetrahymena_thermophila.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:25 2025
+# [ok]

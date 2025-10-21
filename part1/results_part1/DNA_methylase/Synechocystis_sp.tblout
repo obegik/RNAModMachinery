@@ -1,0 +1,17 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q59995|Q59995_SYNY3 -          DNA_methylase        PF00145.24   6.7e-69  230.4   0.0     8e-69  230.2   0.0   1.0   1   0   0   1   1   1   1 Cytosine-specific methyltransferase OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=slr0214 PE=3 SV=1
+tr|Q6ZEM2|Q6ZEM2_SYNY3 -          DNA_methylase        PF00145.24   9.7e-08   29.4   0.0     1e-07   29.3   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=ssl5108 PE=4 SV=1
+tr|Q6YRX2|Q6YRX2_SYNY3 -          DNA_methylase        PF00145.24   3.6e-07   27.6   0.0   3.9e-07   27.5   0.0   1.0   1   0   0   1   1   1   1 Ssr6032 protein OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=ssr6032 PE=4 SV=1
+tr|Q6ZER2|Q6ZER2_SYNY3 -          DNA_methylase        PF00145.24   4.3e-07   27.3   0.0   4.6e-07   27.2   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=ssl5068 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DNA_methylase.hmm
+# Target file:     proteomes/Synechocystis_sp.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DNA_methylase/Synechocystis_sp.tblout --cpu 8 pfam_list/DNA_methylase.hmm proteomes/Synechocystis_sp.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:00:13 2025
+# [ok]

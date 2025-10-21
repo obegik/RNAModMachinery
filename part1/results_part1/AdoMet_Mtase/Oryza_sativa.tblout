@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A0P0VQV6|A0A0P0VQV6_ORYSJ -          AdoMet_MTase         PF07757.19      0.13   13.8   0.0      0.31   12.5   0.0   1.6   1   0   0   1   1   1   0 Os02g0804300 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os02g0804300 PE=1 SV=1
+tr|Q2QZG5|Q2QZG5_ORYSJ         -          AdoMet_MTase         PF07757.19      0.27   12.7   0.2        11    7.5   0.0   2.5   2   0   0   2   2   2   0 NB-ARC domain containing protein, expressed OS=Oryza sativa subsp. japonica OX=39947 GN=LOC_Os11g46070 PE=3 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/AdoMet_Mtase.hmm
+# Target file:     proteomes/Oryza_sativa.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/AdoMet_Mtase/Oryza_sativa.tblout --cpu 8 pfam_list/AdoMet_Mtase.hmm proteomes/Oryza_sativa.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:45 2025
+# [ok]

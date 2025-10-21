@@ -1,0 +1,14 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|O31882|YOSG_BACSU -          EMG1                 PF03587.20     0.013   13.0   0.1     0.017   12.7   0.1   1.1   1   0   0   1   1   1   0 SPbeta prophage-derived uncharacterized protein YosG OS=Bacillus subtilis (strain 168) OX=224308 GN=yosG PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/EMG1.hmm
+# Target file:     proteomes/Bacillus_subtilis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/EMG1/Bacillus_subtilis.tblout --cpu 8 pfam_list/EMG1.hmm proteomes/Bacillus_subtilis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:31 2025
+# [ok]

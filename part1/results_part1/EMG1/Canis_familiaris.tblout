@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A8I3PLM1|A0A8I3PLM1_CANLF -          EMG1                 PF03587.20   1.1e-75  253.7   0.0   1.2e-75  253.5   0.0   1.0   1   0   0   1   1   1   1 18S rRNA (pseudouridine(1248)-N1)-methyltransferase OS=Canis lupus familiaris OX=9615 GN=EMG1 PE=3 SV=1
+tr|A0A8I3NUE4|A0A8I3NUE4_CANLF -          EMG1                 PF03587.20     0.047   13.4   0.3       9.1    6.0   0.0   2.7   3   0   0   3   3   3   0 Ubiquitin-like domain-containing protein OS=Canis lupus familiaris OX=9615 PE=3 SV=1
+tr|A0A8I3Q3Y8|A0A8I3Q3Y8_CANLF -          EMG1                 PF03587.20      0.17   11.6   0.0      0.25   11.1   0.0   1.2   1   0   0   1   1   1   0 Troponin C, slow skeletal and cardiac muscles OS=Canis lupus familiaris OX=9615 GN=TNNC1 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/EMG1.hmm
+# Target file:     proteomes/Canis_familiaris.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/EMG1/Canis_familiaris.tblout --cpu 8 pfam_list/EMG1.hmm proteomes/Canis_familiaris.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:32 2025
+# [ok]

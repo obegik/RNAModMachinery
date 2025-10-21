@@ -1,0 +1,17 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|W4YYK4|W4YYK4_STRPU -          Bin3                 PF06859.19   2.1e-27   96.5   0.0     4e-27   95.6   0.0   1.5   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4YYK5|W4YYK5_STRPU -          Bin3                 PF06859.19     6e-10   40.3   0.1   1.4e-09   39.1   0.1   1.6   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4XAG5|W4XAG5_STRPU -          Bin3                 PF06859.19       0.1   13.8   0.0      0.33   12.2   0.0   1.9   2   0   0   2   2   2   0 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4XMQ7|W4XMQ7_STRPU -          Bin3                 PF06859.19      0.14   13.4   0.0      0.14   13.4   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Bin3.hmm
+# Target file:     proteomes/Strongylocentrotus_purpuratus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Bin3/Strongylocentrotus_purpuratus.tblout --cpu 8 pfam_list/Bin3.hmm proteomes/Strongylocentrotus_purpuratus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:55 2025
+# [ok]

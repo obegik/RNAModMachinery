@@ -1,0 +1,14 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A4W3IDF2|A0A4W3IDF2_CALMI -          Methyltransf_10      PF05971.19  7.4e-128  426.2   0.0  9.9e-128  425.8   0.0   1.2   1   0   0   1   1   1   1 RNA N(6)-adenosine-methyltransferase METTL16 OS=Callorhinchus milii OX=7868 GN=mettl16 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltransf_10.hmm
+# Target file:     proteomes/Callorhinchus_milii.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltransf_10/Callorhinchus_milii.tblout --cpu 8 pfam_list/Methyltransf_10.hmm proteomes/Callorhinchus_milii.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:12:18 2025
+# [ok]

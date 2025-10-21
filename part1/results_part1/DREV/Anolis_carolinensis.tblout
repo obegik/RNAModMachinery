@@ -1,0 +1,18 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|H9GJ67|H9GJ67_ANOCA -          DREV                 PF05219.18  2.4e-133  443.3   0.0  2.7e-133  443.1   0.0   1.0   1   0   0   1   1   1   1 Methyltransferase like 9 OS=Anolis carolinensis OX=28377 GN=METTL9 PE=4 SV=1
+tr|G1KC96|G1KC96_ANOCA -          DREV                 PF05219.18    0.0024   17.1   0.0    0.0043   16.2   0.0   1.4   1   0   0   1   1   1   1 Protein arginine methyltransferase 9 OS=Anolis carolinensis OX=28377 GN=PRMT9 PE=3 SV=2
+tr|G1KHV6|G1KHV6_ANOCA -          DREV                 PF05219.18      0.04   13.1   0.0      0.07   12.3   0.0   1.4   1   0   0   1   1   1   0 rRNA adenine N(6)-methyltransferase OS=Anolis carolinensis OX=28377 GN=DIMT1 PE=3 SV=1
+tr|G1KR09|G1KR09_ANOCA -          DREV                 PF05219.18     0.092   11.9   0.0      0.17   11.0   0.0   1.5   1   0   0   1   1   1   0 Coactivator associated arginine methyltransferase 1 OS=Anolis carolinensis OX=28377 GN=CARM1 PE=3 SV=1
+tr|H9G3G0|H9G3G0_ANOCA -          DREV                 PF05219.18      0.17   11.0   0.0      0.26   10.4   0.0   1.2   1   0   0   1   1   1   0 Spermidine synthase OS=Anolis carolinensis OX=28377 GN=SRM PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DREV.hmm
+# Target file:     proteomes/Anolis_carolinensis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DREV/Anolis_carolinensis.tblout --cpu 8 pfam_list/DREV.hmm proteomes/Anolis_carolinensis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:20 2025
+# [ok]

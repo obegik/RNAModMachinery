@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A8I3MJE0|A0A8I3MJE0_CANLF -          Bin3                 PF06859.19   4.4e-44  149.7   0.0   8.3e-44  148.8   0.0   1.5   1   0   0   1   1   1   1 RNA methyltransferase OS=Canis lupus familiaris OX=9615 GN=MEPCE PE=3 SV=1
+tr|A0A8I3P7B0|A0A8I3P7B0_CANLF -          Bin3                 PF06859.19   2.2e-19   70.2   0.0   3.5e-19   69.6   0.0   1.3   1   0   0   1   1   1   1 RNA methyltransferase OS=Canis lupus familiaris OX=9615 GN=BCDIN3D PE=3 SV=1
+tr|A0A8I3PWP8|A0A8I3PWP8_CANLF -          Bin3                 PF06859.19      0.18   12.6   0.1      0.35   11.7   0.1   1.5   1   0   0   1   1   1   0 N-terminal Xaa-Pro-Lys N-methyltransferase 1 OS=Canis lupus familiaris OX=9615 GN=NTMT1 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Bin3.hmm
+# Target file:     proteomes/Canis_familiaris.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Bin3/Canis_familiaris.tblout --cpu 8 pfam_list/Bin3.hmm proteomes/Canis_familiaris.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:51 2025
+# [ok]

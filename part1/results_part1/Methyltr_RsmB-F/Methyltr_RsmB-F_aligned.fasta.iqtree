@@ -1,0 +1,663 @@
+IQ-TREE 3.0.1 built Jul  9 2025
+
+Input file name: results_part1_v3/Methyltr_RsmB-F/Methyltr_RsmB-F_aligned.fasta
+Type of analysis: tree reconstruction
+Random seed number: 921554
+
+REFERENCES
+----------
+
+To cite IQ-TREE 3 please use:
+
+Thomas K.F. Wong, Nhan Ly-Trong, Huaiyan Ren, Hector Banos, Andrew J. Roger,
+Edward Susko, Chris Bielow, Nicola De Maio, Nick Goldman, Matthew W. Hahn,
+Gavin Huttley, Robert Lanfear, Bui Quang Minh (2025)
+IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models.
+Submitted.
+
+Please also cite the following paper(s) for the feature(s) that you used:
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 275 sequences with 5974 amino-acid sites
+Number of constant sites: 1930 (= 32.3067% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 1930 (= 32.3067% of all sites)
+Number of parsimony informative sites: 2070
+Number of distinct site patterns: 4675
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: JTT+F+I+G4
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.0642
+  pi(R) = 0.0546
+  pi(N) = 0.0461
+  pi(D) = 0.0537
+  pi(C) = 0.0336
+  pi(Q) = 0.0462
+  pi(E) = 0.0607
+  pi(G) = 0.0573
+  pi(H) = 0.0353
+  pi(I) = 0.0472
+  pi(L) = 0.0766
+  pi(K) = 0.0622
+  pi(M) = 0.0347
+  pi(F) = 0.0418
+  pi(P) = 0.0533
+  pi(S) = 0.0613
+  pi(T) = 0.0488
+  pi(W) = 0.0285
+  pi(Y) = 0.0364
+  pi(V) = 0.0577
+
+Model of rate heterogeneity: Invar+Gamma with 4 categories
+Proportion of invariable sites: 0.0006
+Gamma shape alpha: 1.2658
+
+ Category  Relative_rate  Proportion
+  0         0              0.0006
+  1         0.1869         0.2499
+  2         0.5446         0.2499
+  3         1.0337         0.2499
+  4         2.2371         0.2499
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -243065.1290 (s.e. 5867.2918)
+Unconstrained log-likelihood (without tree): -48664.4335
+Number of free parameters (#branches + #model parameters): 568
+Akaike information criterion (AIC) score: 487266.2580
+Corrected Akaike information criterion (AICc) score: 487385.8480
+Bayesian information criterion (BIC) score: 491069.1157
+
+Total tree length (sum of branch lengths): 234.5011
+Sum of internal branch lengths: 60.5395 (25.8163% of tree length)
+
+WARNING: 4 near-zero internal branches (<0.0002) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'tr|A0A1X7T0M2|A0A1X7T0M2_AMPQE' is drawn at root
+
++--tr|A0A1X7T0M2|A0A1X7T0M2_AMPQE
+|
+|  +--tr|A0A1X7TGD9|A0A1X7TGD9_AMPQE
++--|
+|  |                                                                   +---tr|A0A1X7UHI1|A0A1X7UHI1_AMPQE
+|  |                                                                +--|
+|  |                                                                |  +--tr|B3RZP1|B3RZP1_TRIAD
+|  |                                                             +--|
+|  |                                                             |  |                 +--tr|H9GBE5|H9GBE5_ANOCA
+|  |                                                             |  |              +--|
+|  |                                                             |  |              |  +--tr|A0A8V0ZNS4|A0A8V0ZNS4_CHICK
+|  |                                                             |  |           +--|
+|  |                                                             |  |           |  |              +--tr|A0A8I3Q5B1|A0A8I3Q5B1_CANLF
+|  |                                                             |  |           |  |           +--|
+|  |                                                             |  |           |  |           |  |     +--tr|G3RU33|G3RU33_GORGO
+|  |                                                             |  |           |  |           |  |  +--|
+|  |                                                             |  |           |  |           |  |  |  |     +**sp|P46087|NOP2_HUMAN
+|  |                                                             |  |           |  |           |  |  |  |  +--|
+|  |                                                             |  |           |  |           |  |  |  |  |  +**tr|F5GYR3|F5GYR3_HUMAN
+|  |                                                             |  |           |  |           |  |  |  +--|
+|  |                                                             |  |           |  |           |  |  |     +--tr|A0A2J8JEW0|A0A2J8JEW0_PANTR
+|  |                                                             |  |           |  |           |  +--|
+|  |                                                             |  |           |  |           |     +--tr|F6ZSG5|F6ZSG5_MACMU
+|  |                                                             |  |           |  |        +--|
+|  |                                                             |  |           |  |        |  +--sp|Q922K7|NOP2_MOUSE
+|  |                                                             |  |           |  |     +--|
+|  |                                                             |  |           |  |     |  +--tr|F7EVA4|F7EVA4_MONDO
+|  |                                                             |  |           |  |  +--|
+|  |                                                             |  |           |  |  |  +--tr|F6PNB6|F6PNB6_ORNAN
+|  |                                                             |  |           |  +--|
+|  |                                                             |  |           |     +--tr|F7D8B1|F7D8B1_XENTR
+|  |                                                             |  |        +--|
+|  |                                                             |  |        |  |  +--tr|S4RYQ5|S4RYQ5_PETMA
+|  |                                                             |  |        |  +--|
+|  |                                                             |  |        |     +--tr|S4RYQ4|S4RYQ4_PETMA
+|  |                                                             |  |     +--|
+|  |                                                             |  |     |  |  +--tr|F1QWP7|F1QWP7_DANRE
+|  |                                                             |  |     |  +--|
+|  |                                                             |  |     |     |  +--tr|A0A674NWU5|A0A674NWU5_TAKRU
+|  |                                                             |  |     |     +--|
+|  |                                                             |  |     |        +**tr|A0A674PEL2|A0A674PEL2_TAKRU
+|  |                                                             |  |  +--|
+|  |                                                             |  |  |  |  +--tr|H3HGK6|H3HGK6_STRPU
+|  |                                                             |  |  |  +--|
+|  |                                                             |  |  |     +--tr|W4Y3J6|W4Y3J6_STRPU
+|  |                                                             |  +--|
+|  |                                                             |     |  +--tr|A0ABM4C4G5|A0ABM4C4G5_HYDVU
+|  |                                                             |     +--|
+|  |                                                             |        +--tr|A7S5Z9|A7S5Z9_NEMVE
+|  |                                                          +--|
+|  |                                                          |  |     +----tr|Q9TYV5|Q9TYV5_CAEEL
+|  |                                                          |  |  +--|
+|  |                                                          |  |  |  |  +--tr|H2XZT6|H2XZT6_CIOIN
+|  |                                                          |  |  |  +--|
+|  |                                                          |  |  |     +--tr|H2ZRD3|H2ZRD3_CIOSA
+|  |                                                          |  +--|
+|  |                                                          |     +---tr|A1Z909|A1Z909_DROME
+|  |                                                       +--|
+|  |                                                       |  |  +---tr|A9UX73|A9UX73_MONBE
+|  |                                                       |  +--|
+|  |                                                       |     |  +--------tr|A0A0L0DTU1|A0A0L0DTU1_THETB
+|  |                                                       |     +--|
+|  |                                                       |        +-----tr|A2F7I7|A2F7I7_TRIVA
+|  |                                                    +--|
+|  |                                                    |  |     +---tr|Q54TL4|Q54TL4_DICDI
+|  |                                                    |  |  +--|
+|  |                                                    |  |  |  +-----tr|K7E6K4|K7E6K4_ORNAN
+|  |                                                    |  +--|
+|  |                                                    |     |  +--tr|S2JMZ1|S2JMZ1_MUCC1
+|  |                                                    |     +--|
+|  |                                                    |        +---sp|P40991|NOP2_YEAST
+|  |                                                 +--|
+|  |                                                 |  |        +--sp|Q9FG73|NOP2A_ARATH
+|  |                                                 |  |     +--|
+|  |                                                 |  |     |  +--sp|Q8VYM6|NOP2B_ARATH
+|  |                                                 |  |  +--|
+|  |                                                 |  |  |  |  +--tr|Q69MP1|Q69MP1_ORYSJ
+|  |                                                 |  |  |  +--|
+|  |                                                 |  |  |     +--tr|A0A0P0VP26|A0A0P0VP26_ORYSJ
+|  |                                                 |  +--|
+|  |                                                 |     +---tr|A0A2K3DNJ8|A0A2K3DNJ8_CHLRE
+|  |                                              +--|
+|  |                                              |  |     +-------tr|M1VMG1|M1VMG1_CYAM1
+|  |                                              |  |  +--|
+|  |                                              |  |  |  +----tr|Q22HF4|Q22HF4_TETTS
+|  |                                              |  +--|
+|  |                                              |     |  +---tr|B8C1V6|B8C1V6_THAPS
+|  |                                              |     +--|
+|  |                                              |        +----tr|Q583H8|Q583H8_TRYB2
+|  |                                           +--|
+|  |                                           |  +-----------------tr|F4JP84|F4JP84_ARATH
+|  |                                        +--|
+|  |                                        |  +----------tr|Q8II69|Q8II69_PLAF7
+|  |                                     +--|
+|  |                                     |  |  +----------sp|P76273|RSMF_ECOLI
+|  |                                     |  +--|
+|  |                                     |     |        +------sp|Q60343|TRM4_METJA
+|  |                                     |     |     +--|
+|  |                                     |     |     |  +-------tr|Q980N8|Q980N8_SACS2
+|  |                                     |     |  +--|
+|  |                                     |     |  |  |         +----------tr|Q980E2|Q980E2_SACS2
+|  |                                     |     |  |  |     +---|
+|  |                                     |     |  |  |     |   +-----tr|Q5JEW7|Q5JEW7_THEKO
+|  |                                     |     |  |  |  +--|
+|  |                                     |     |  |  |  |  +--------tr|Q5JDP5|Q5JDP5_THEKO
+|  |                                     |     |  |  +--|
+|  |                                     |     |  |     +-------tr|Q5JI15|Q5JI15_THEKO
+|  |                                     |     +--|
+|  |                                     |        +-------tr|Q5JCY9|Q5JCY9_THEKO
+|  |                                  +--|
+|  |                                  |  |     +-------------------tr|C3ZKH4|C3ZKH4_BRAFL
+|  |                                  |  |  +--|
+|  |                                  |  |  |  +-----------------------sp|Q97WC7|CBIT_SACS2
+|  |                                  |  +--|
+|  |                                  |     |       +--tr|D4GZ23|D4GZ23_HALVD
+|  |                                  |     +-------|
+|  |                                  |             +---tr|M1XPJ5|M1XPJ5_NATM8
+|  |                               +--|
+|  |                               |  |                          +--------tr|A0A1X7V4K8|A0A1X7V4K8_AMPQE
+|  |                               |  |                       +--|
+|  |                               |  |                       |  |                             +--tr|H9G3D0|H9G3D0_ANOCA
+|  |                               |  |                       |  |                          +--|
+|  |                               |  |                       |  |                          |  +--tr|A0A8V1AML9|A0A8V1AML9_CHICK
+|  |                               |  |                       |  |                       +--|
+|  |                               |  |                       |  |                       |  |        +--tr|A0A8I3MRS9|A0A8I3MRS9_CANLF
+|  |                               |  |                       |  |                       |  |     +--|
+|  |                               |  |                       |  |                       |  |     |  |                 +--tr|G3R7U5|G3R7U5_GORGO
+|  |                               |  |                       |  |                       |  |     |  |              +--|
+|  |                               |  |                       |  |                       |  |     |  |              |  +--tr|H2QUP2|H2QUP2_PANTR
+|  |                               |  |                       |  |                       |  |     |  |           +**|
+|  |                               |  |                       |  |                       |  |     |  |           |  +--sp|Q96P11|NSUN5_HUMAN
+|  |                               |  |                       |  |                       |  |     |  |        +**|
+|  |                               |  |                       |  |                       |  |     |  |        |  +--tr|F7G8Y6|F7G8Y6_MACMU
+|  |                               |  |                       |  |                       |  |     |  |     +--|
+|  |                               |  |                       |  |                       |  |     |  |     |  |     +--sp|Q3KNT7|NSN5B_HUMAN
+|  |                               |  |                       |  |                       |  |     |  |     |  |  +--|
+|  |                               |  |                       |  |                       |  |     |  |     |  |  |  +**sp|Q63ZY6|NSN5C_HUMAN
+|  |                               |  |                       |  |                       |  |     |  |     |  +--|
+|  |                               |  |                       |  |                       |  |     |  |     |     |  +--tr|A0A2I3SHR4|A0A2I3SHR4_PANTR
+|  |                               |  |                       |  |                       |  |     |  |     |     +--|
+|  |                               |  |                       |  |                       |  |     |  |     |        +**tr|A0A2I3TKF9|A0A2I3TKF9_PANTR
+|  |                               |  |                       |  |                       |  |     |  |  +--|
+|  |                               |  |                       |  |                       |  |     |  |  |  +--tr|G3RI68|G3RI68_GORGO
+|  |                               |  |                       |  |                       |  |     |  +--|
+|  |                               |  |                       |  |                       |  |     |     +--sp|Q8K4F6|NSUN5_MOUSE
+|  |                               |  |                       |  |                       |  |  +--|
+|  |                               |  |                       |  |                       |  |  |  +--tr|F6WS57|F6WS57_MONDO
+|  |                               |  |                       |  |                       |  +--|
+|  |                               |  |                       |  |                       |     +--tr|F6UJX9|F6UJX9_ORNAN
+|  |                               |  |                       |  |                    +--|
+|  |                               |  |                       |  |                    |  +--tr|F6TNA7|F6TNA7_XENTR
+|  |                               |  |                       |  |                 +--|
+|  |                               |  |                       |  |                 |  +--tr|A0A4W3IDM9|A0A4W3IDM9_CALMI
+|  |                               |  |                       |  |              +--|
+|  |                               |  |                       |  |              |  |  +--tr|F1RDI6|F1RDI6_DANRE
+|  |                               |  |                       |  |              |  +--|
+|  |                               |  |                       |  |              |     +--tr|H2V8F8|H2V8F8_TAKRU
+|  |                               |  |                       |  |           +--|
+|  |                               |  |                       |  |           |  +-----tr|W4XRY6|W4XRY6_STRPU
+|  |                               |  |                       |  |        +--|
+|  |                               |  |                       |  |        |  |  +---tr|C3YID1|C3YID1_BRAFL
+|  |                               |  |                       |  |        |  +--|
+|  |                               |  |                       |  |        |     +---tr|A7RT21|A7RT21_NEMVE
+|  |                               |  |                       |  |     +--|
+|  |                               |  |                       |  |     |  |  +------tr|Q55G09|Q55G09_DICDI
+|  |                               |  |                       |  |     |  +--|
+|  |                               |  |                       |  |     |     +----tr|S2JGP8|S2JGP8_MUCC1
+|  |                               |  |                       |  |  +--|
+|  |                               |  |                       |  |  |  |  +------tr|A0ABM4C5L1|A0ABM4C5L1_HYDVU
+|  |                               |  |                       |  |  |  +--|
+|  |                               |  |                       |  |  |     +-------tr|B3RI87|B3RI87_TRIAD
+|  |                               |  |                       |  +--|
+|  |                               |  |                       |     |     +-------tr|Q9NAA7|Q9NAA7_CAEEL
+|  |                               |  |                       |     |  +--|
+|  |                               |  |                       |     |  |  +-----------tr|Q9VDZ4|Q9VDZ4_DROME
+|  |                               |  |                       |     +--|
+|  |                               |  |                       |        |  +--tr|H2XZ35|H2XZ35_CIOIN
+|  |                               |  |                       |        +--|
+|  |                               |  |                       |           +--tr|H2Z203|H2Z203_CIOSA
+|  |                               |  |                    +--|
+|  |                               |  |                    |  |        +--------------tr|M1V6D6|M1V6D6_CYAM1
+|  |                               |  |                    |  |     +--|
+|  |                               |  |                    |  |     |  |  +---------sp|P53972|RCM1_YEAST
+|  |                               |  |                    |  |     |  +--|
+|  |                               |  |                    |  |     |     +-------------tr|Q240Z2|Q240Z2_TETTS
+|  |                               |  |                    |  |  +--|
+|  |                               |  |                    |  |  |  +--------tr|B8C089|B8C089_THAPS
+|  |                               |  |                    |  +--|
+|  |                               |  |                    |     +-----------tr|Q384A7|Q384A7_TRYB2
+|  |                               |  |                 +--|
+|  |                               |  |                 |  +-------tr|A0A0L0D9Y7|A0A0L0D9Y7_THETB
+|  |                               |  |              +--|
+|  |                               |  |              |  |      +--sp|Q8GYE8|NSUN5_ARATH
+|  |                               |  |              |  |  +---|
+|  |                               |  |              |  |  |   +--tr|B9F4A8|B9F4A8_ORYSJ
+|  |                               |  |              |  +--|
+|  |                               |  |              |     +---------tr|A0A2K3CSQ1|A0A2K3CSQ1_CHLRE
+|  |                               |  |           +--|
+|  |                               |  |           |  |                +--tr|G1KLL8|G1KLL8_ANOCA
+|  |                               |  |           |  |             +--|
+|  |                               |  |           |  |             |  |        +--tr|A0A8I3MRK4|A0A8I3MRK4_CANLF
+|  |                               |  |           |  |             |  |     +--|
+|  |                               |  |           |  |             |  |     |  |     +--tr|G3SKV6|G3SKV6_GORGO
+|  |                               |  |           |  |             |  |     |  |  +--|
+|  |                               |  |           |  |             |  |     |  |  |  |  +--sp|Q8NE18|NSUN7_HUMAN
+|  |                               |  |           |  |             |  |     |  |  |  +--|
+|  |                               |  |           |  |             |  |     |  |  |     +--tr|H2QPD5|H2QPD5_PANTR
+|  |                               |  |           |  |             |  |     |  +--|
+|  |                               |  |           |  |             |  |     |     +--tr|F7E4C7|F7E4C7_MACMU
+|  |                               |  |           |  |             |  |  +--|
+|  |                               |  |           |  |             |  |  |  +--sp|Q14AW5|NSUN7_MOUSE
+|  |                               |  |           |  |             |  +--|
+|  |                               |  |           |  |             |     |  +--tr|F7AYL7|F7AYL7_MONDO
+|  |                               |  |           |  |             |     +--|
+|  |                               |  |           |  |             |        +--tr|K7EDN8|K7EDN8_ORNAN
+|  |                               |  |           |  |          +--|
+|  |                               |  |           |  |          |  +---tr|A0A8V0YT63|A0A8V0YT63_CHICK
+|  |                               |  |           |  |  +-------|
+|  |                               |  |           |  |  |       |  +--tr|A0A4W3IBV3|A0A4W3IBV3_CALMI
+|  |                               |  |           |  |  |       +--|
+|  |                               |  |           |  |  |          +---tr|F6ZAA6|F6ZAA6_XENTR
+|  |                               |  |           |  +--|
+|  |                               |  |           |     |                              +--sp|Q9DCL4|MET15_MOUSE
+|  |                               |  |           |     |                           +--|
+|  |                               |  |           |     |                           |  +--tr|F6PSG1|F6PSG1_XENTR
+|  |                               |  |           |     +---------------------------|
+|  |                               |  |           |                                 +--tr|H2V4V7|H2V4V7_TAKRU
+|  |                               |  |        +--|
+|  |                               |  |        |  |  +----------------tr|Q8IJJ8|Q8IJJ8_PLAF7
+|  |                               |  |        |  +--|
+|  |                               |  |        |     +---------------tr|Q980Z5|Q980Z5_SACS2
+|  |                               |  |     +--|
+|  |                               |  |     |  |           +-----tr|Q8I5B4|Q8I5B4_PLAF7
+|  |                               |  |     |  |    +------|
+|  |                               |  |     |  |    |      +--------tr|I7M9J8|I7M9J8_TETTS
+|  |                               |  |     |  +----|
+|  |                               |  |     |       +--------------tr|B8CCM3|B8CCM3_THAPS
+|  |                               |  |  +--|
+|  |                               |  |  |  +---------------tr|Q5JDB4|Q5JDB4_THEKO
+|  |                               |  +--|
+|  |                               |     |                             +-----tr|A0A1X7VKX0|A0A1X7VKX0_AMPQE
+|  |                               |     |                          +--|
+|  |                               |     |                          |  +------tr|A0ABM4BLP1|A0ABM4BLP1_HYDVU
+|  |                               |     |                       +--|
+|  |                               |     |                       |  |  +---------tr|Q54FX0|Q54FX0_DICDI
+|  |                               |     |                       |  +--|
+|  |                               |     |                       |     +-----tr|B3S3E8|B3S3E8_TRIAD
+|  |                               |     |                    +--|
+|  |                               |     |                    |  +-----tr|A7SEM2|A7SEM2_NEMVE
+|  |                               |     |                 +--|
+|  |                               |     |                 |  |                 +--tr|G1KY28|G1KY28_ANOCA
+|  |                               |     |                 |  |              +--|
+|  |                               |     |                 |  |              |  |              +--tr|A0A8I3RXD1|A0A8I3RXD1_CANLF
+|  |                               |     |                 |  |              |  |           +--|
+|  |                               |     |                 |  |              |  |           |  |  +**tr|G3R1M9|G3R1M9_GORGO
+|  |                               |     |                 |  |              |  |           |  +--|
+|  |                               |     |                 |  |              |  |           |     |     +--sp|Q8TEA1|NSUN6_HUMAN
+|  |                               |     |                 |  |              |  |           |     |  +**|
+|  |                               |     |                 |  |              |  |           |     |  |  +--tr|F6SWB4|F6SWB4_MACMU
+|  |                               |     |                 |  |              |  |           |     +--|
+|  |                               |     |                 |  |              |  |           |        +--tr|H2Q1P7|H2Q1P7_PANTR
+|  |                               |     |                 |  |              |  |        +--|
+|  |                               |     |                 |  |              |  |        |  +--sp|Q7TS68|NSUN6_MOUSE
+|  |                               |     |                 |  |              |  |     +--|
+|  |                               |     |                 |  |              |  |     |  +--tr|F7FNT7|F7FNT7_MONDO
+|  |                               |     |                 |  |              |  |  +--|
+|  |                               |     |                 |  |              |  |  |  +--tr|F7BYX0|F7BYX0_ORNAN
+|  |                               |     |                 |  |              |  +--|
+|  |                               |     |                 |  |              |     +--tr|A0A8V0XWR6|A0A8V0XWR6_CHICK
+|  |                               |     |                 |  |           +--|
+|  |                               |     |                 |  |           |  +--tr|F6RCC7|F6RCC7_XENTR
+|  |                               |     |                 |  |        +--|
+|  |                               |     |                 |  |        |  +--tr|A0A4W3HDU9|A0A4W3HDU9_CALMI
+|  |                               |     |                 |  |     +--|
+|  |                               |     |                 |  |     |  |  +--tr|A0A0R4IAT4|A0A0R4IAT4_DANRE
+|  |                               |     |                 |  |     |  +--|
+|  |                               |     |                 |  |     |     +--tr|H2T814|H2T814_TAKRU
+|  |                               |     |                 |  |  +--|
+|  |                               |     |                 |  |  |  +-----tr|S4RE18|S4RE18_PETMA
+|  |                               |     |                 |  +--|
+|  |                               |     |                 |     |   +--tr|C3YW79|C3YW79_BRAFL
+|  |                               |     |                 |     +---|
+|  |                               |     |                 |         +--tr|C3ZX25|C3ZX25_BRAFL
+|  |                               |     |              +--|
+|  |                               |     |              |  |     +------tr|F6ZY66|F6ZY66_CIOIN
+|  |                               |     |              |  |  +--|
+|  |                               |     |              |  |  |  |  +----tr|F7AFH3|F7AFH3_CIOIN
+|  |                               |     |              |  |  |  +--|
+|  |                               |     |              |  |  |     +---tr|W4XEF7|W4XEF7_STRPU
+|  |                               |     |              |  +--|
+|  |                               |     |              |     +--------tr|Q8IPS4|Q8IPS4_DROME
+|  |                               |     |           +--|
+|  |                               |     |           |  |          +--sp|Q84MA1|NOP2C_ARATH
+|  |                               |     |           |  |     +----|
+|  |                               |     |           |  |     |    +--tr|Q7F1D1|Q7F1D1_ORYSJ
+|  |                               |     |           |  |  +--|
+|  |                               |     |           |  |  |  |  +------tr|B8BWE3|B8BWE3_THAPS
+|  |                               |     |           |  |  |  +--|
+|  |                               |     |           |  |  |     +---------tr|A0A0L0DHL4|A0A0L0DHL4_THETB
+|  |                               |     |           |  +--|
+|  |                               |     |           |     +----------tr|A9UWA2|A9UWA2_MONBE
+|  |                               |     |        +--|
+|  |                               |     |        |  |   +------tr|A0A2K3D8E4|A0A2K3D8E4_CHLRE
+|  |                               |     |        |  +---|
+|  |                               |     |        |      +----tr|A0A2K3D1H3|A0A2K3D1H3_CHLRE
+|  |                               |     |     +--|
+|  |                               |     |     |  |  +----------------tr|W4Y7A2|W4Y7A2_STRPU
+|  |                               |     |     |  +--|
+|  |                               |     |     |     +-------------------tr|Q5JJ78|Q5JJ78_THEKO
+|  |                               |     |  +--|
+|  |                               |     |  |  +-----------tr|A0A2K3DA13|A0A2K3DA13_CHLRE
+|  |                               |     +--|
+|  |                               |        |                    +--tr|Q8VYC4|Q8VYC4_ARATH
+|  |                               |        |               +----|
+|  |                               |        |               |    +--tr|Q0J0Y4|Q0J0Y4_ORYSJ
+|  |                               |        |            +--|
+|  |                               |        |            |  +----tr|A0A2K3CMR1|A0A2K3CMR1_CHLRE
+|  |                               |        |        +---|
+|  |                               |        |        |   +--------sp|P94464|RSMB_BACSU
+|  |                               |        |     +--|
+|  |                               |        |     |  +---------sp|P72943|RSMB_SYNY3
+|  |                               |        |  +--|
+|  |                               |        |  |  |     +---------------tr|M1UVE4|M1UVE4_CYAM1
+|  |                               |        |  |  |  +--|
+|  |                               |        |  |  |  |  +-------sp|P9WGX3|Y1407_MYCTU
+|  |                               |        |  |  +--|
+|  |                               |        |  |     |     +----sp|P36929|RSMB_ECOLI
+|  |                               |        |  |     +-----|
+|  |                               |        |  |           +---sp|Q9I7A9|RSMB_PSEAE
+|  |                               |        +--|
+|  |                               |           |              +-------------tr|Q55597|Q55597_SYNY3
+|  |                               |           |  +-----------|
+|  |                               |           |  |           +-------------tr|P73547|P73547_SYNY3
+|  |                               |           +--|
+|  |                               |              +------------------tr|B8BTD6|B8BTD6_THAPS
+|  |                            +--|
+|  |                            |  |                                         +--tr|G1K8I3|G1K8I3_ANOCA
+|  |                            |  |                                      +--|
+|  |                            |  |                                      |  |           +--tr|A0A8I3SCR6|A0A8I3SCR6_CANLF
+|  |                            |  |                                      |  |        +--|
+|  |                            |  |                                      |  |        |  +--sp|Q8CCT7|NSUN3_MOUSE
+|  |                            |  |                                      |  |     +--|
+|  |                            |  |                                      |  |     |  |     +--tr|G3RBS6|G3RBS6_GORGO
+|  |                            |  |                                      |  |     |  |  +**|
+|  |                            |  |                                      |  |     |  |  |  |  +--sp|Q9H649|NSUN3_HUMAN
+|  |                            |  |                                      |  |     |  |  |  +--|
+|  |                            |  |                                      |  |     |  |  |     +--tr|H2QMZ2|H2QMZ2_PANTR
+|  |                            |  |                                      |  |     |  +--|
+|  |                            |  |                                      |  |     |     +--tr|A0A1D5QYE6|A0A1D5QYE6_MACMU
+|  |                            |  |                                      |  |  +--|
+|  |                            |  |                                      |  |  |  |  +--tr|F6U5C4|F6U5C4_MONDO
+|  |                            |  |                                      |  |  |  +--|
+|  |                            |  |                                      |  |  |     +--tr|F6YIJ3|F6YIJ3_MONDO
+|  |                            |  |                                      |  +--|
+|  |                            |  |                                      |     +--tr|A0A8V0XY00|A0A8V0XY00_CHICK
+|  |                            |  |                                   +--|
+|  |                            |  |                                   |  +--tr|F6SQ66|F6SQ66_XENTR
+|  |                            |  |                                +--|
+|  |                            |  |                                |  +---tr|A0A4W3GNG1|A0A4W3GNG1_CALMI
+|  |                            |  |                             +--|
+|  |                            |  |                             |  |  +---sp|Q4KMK0|NSUN3_DANRE
+|  |                            |  |                             |  +--|
+|  |                            |  |                             |     +----tr|A0A3B5K4C9|A0A3B5K4C9_TAKRU
+|  |                            |  |                          +--|
+|  |                            |  |                          |  +------tr|S4R5X4|S4R5X4_PETMA
+|  |                            |  |                       +--|
+|  |                            |  |                       |  +------tr|C3YBF3|C3YBF3_BRAFL
+|  |                            |  |                    +--|
+|  |                            |  |                    |  |                    +--tr|G1KAB5|G1KAB5_ANOCA
+|  |                            |  |                    |  |                 +--|
+|  |                            |  |                    |  |                 |  +--tr|A0A8V0ZTI0|A0A8V0ZTI0_CHICK
+|  |                            |  |                    |  |              +--|
+|  |                            |  |                    |  |              |  |        +--tr|G3RAN2|G3RAN2_GORGO
+|  |                            |  |                    |  |              |  |     +--|
+|  |                            |  |                    |  |              |  |     |  |  +--sp|Q96CB9|NSUN4_HUMAN
+|  |                            |  |                    |  |              |  |     |  +--|
+|  |                            |  |                    |  |              |  |     |     +**tr|H2PYY8|H2PYY8_PANTR
+|  |                            |  |                    |  |              |  |  +--|
+|  |                            |  |                    |  |              |  |  |  +--tr|F7GR59|F7GR59_MACMU
+|  |                            |  |                    |  |              |  +--|
+|  |                            |  |                    |  |              |     +--tr|F6RHT5|F6RHT5_MONDO
+|  |                            |  |                    |  |           +--|
+|  |                            |  |                    |  |           |  +--tr|A0A4W3HT47|A0A4W3HT47_CALMI
+|  |                            |  |                    |  |        +--|
+|  |                            |  |                    |  |        |  |  +------tr|S4RVL0|S4RVL0_PETMA
+|  |                            |  |                    |  |        |  +--|
+|  |                            |  |                    |  |        |     |  +--tr|A0A1B8XSV6|A0A1B8XSV6_XENTR
+|  |                            |  |                    |  |        |     +--|
+|  |                            |  |                    |  |        |        +**sp|Q66KI9|NSUN4_XENTR
+|  |                            |  |                    |  |     +--|
+|  |                            |  |                    |  |     |  |  +---tr|B8JM23|B8JM23_DANRE
+|  |                            |  |                    |  |     |  +--|
+|  |                            |  |                    |  |     |     +--tr|H2SXR8|H2SXR8_TAKRU
+|  |                            |  |                    |  |  +--|
+|  |                            |  |                    |  |  |  |     +---------tr|Q95XR2|Q95XR2_CAEEL
+|  |                            |  |                    |  |  |  |  +--|
+|  |                            |  |                    |  |  |  |  |  +----------tr|Q9VPX3|Q9VPX3_DROME
+|  |                            |  |                    |  |  |  +--|
+|  |                            |  |                    |  |  |     |         +--tr|H2XS72|H2XS72_CIOIN
+|  |                            |  |                    |  |  |     +---------|
+|  |                            |  |                    |  |  |               +--tr|H2YUK6|H2YUK6_CIOSA
+|  |                            |  |                    |  +--|
+|  |                            |  |                    |     |  +----tr|C3Z286|C3Z286_BRAFL
+|  |                            |  |                    |     +--|
+|  |                            |  |                    |        +------tr|W4XX51|W4XX51_STRPU
+|  |                            |  |                 +--|
+|  |                            |  |                 |  +---------tr|A7S2N2|A7S2N2_NEMVE
+|  |                            |  |              +--|
+|  |                            |  |              |  |    +------tr|A9V855|A9V855_MONBE
+|  |                            |  |              |  +----|
+|  |                            |  |              |       +--------tr|S2IXK0|S2IXK0_MUCC1
+|  |                            |  |           +--|
+|  |                            |  |           |  +--------------tr|Q381M3|Q381M3_TRYB2
+|  |                            |  |        +--|
+|  |                            |  |        |  +---------tr|A0A2K3D1B4|A0A2K3D1B4_CHLRE
+|  |                            |  |     +--|
+|  |                            |  |     |  +---------------tr|Q8IIQ2|Q8IIQ2_PLAF7
+|  |                            |  |  +--|
+|  |                            |  |  |  |                   +--tr|F4JZ42|F4JZ42_ARATH
+|  |                            |  |  |  |                +--|
+|  |                            |  |  |  |                |  +--tr|Q6EQW4|Q6EQW4_ORYSJ
+|  |                            |  |  |  |             +--|
+|  |                            |  |  |  |             |  |  +------tr|A9V709|A9V709_MONBE
+|  |                            |  |  |  |             |  +--|
+|  |                            |  |  |  |             |     +-----tr|S2J2I3|S2J2I3_MUCC1
+|  |                            |  |  |  |          +--|
+|  |                            |  |  |  |          |  |  +----tr|I7M457|I7M457_TETTS
+|  |                            |  |  |  |          |  +--|
+|  |                            |  |  |  |          |     +-------------tr|B5YMW4|B5YMW4_THAPS
+|  |                            |  |  |  |       +--|
+|  |                            |  |  |  |       |  +-----tr|Q55DF6|Q55DF6_DICDI
+|  |                            |  |  |  +-------|
+|  |                            |  |  |          +-----------tr|Q580I8|Q580I8_TRYB2
+|  |                            |  +--|
+|  |                            |     |          +--------------tr|D4GS14|D4GS14_HALVD
+|  |                            |     |       +--|
+|  |                            |     |       |  |                +--tr|Q97WT7|Q97WT7_SACS2
+|  |                            |     |       |  +----------------|
+|  |                            |     |       |                   +--tr|Q97X57|Q97X57_SACS2
+|  |                            |     |  +----|
+|  |                            |     |  |    +------------------tr|A9VAA8|A9VAA8_MONBE
+|  |                            |     +--|
+|  |                            |        +-----------tr|Q582C3|Q582C3_TRYB2
+|  |                         +--|
+|  |                         |  |    +-----tr|Q22N15|Q22N15_TETTS
+|  |                         |  +----|
+|  |                         |       +---------tr|B8C6H7|B8C6H7_THAPS
+|  |                      +--|
+|  |                      |  +--------------tr|Q388U8|Q388U8_TRYB2
+|  |                   +--|
+|  |                   |  |  +----------tr|B8BQE4|B8BQE4_THAPS
+|  |                   |  +--|
+|  |                   |     +-------tr|Q57V63|Q57V63_TRYB2
+|  |                +--|
+|  |                |  +---------tr|M1UQ76|M1UQ76_CYAM1
+|  |             +--|
+|  |             |  |           +--tr|Q8L601|Q8L601_ARATH
+|  |             |  |        +--|
+|  |             |  |        |  +--tr|F4JJ52|F4JJ52_ARATH
+|  |             |  |     +--|
+|  |             |  |     |  |  +--tr|Q6YTT4|Q6YTT4_ORYSJ
+|  |             |  |     |  +--|
+|  |             |  |     |     +--tr|Q0J106|Q0J106_ORYSJ
+|  |             |  |  +--|
+|  |             |  |  |  +-----tr|A0A2K3DXQ0|A0A2K3DXQ0_CHLRE
+|  |             |  +--|
+|  |             |     |  +-----------tr|Q8IC28|Q8IC28_PLAF7
+|  |             |     +--|
+|  |             |        +--------tr|I7MAM9|I7MAM9_TETTS
+|  |          +--|
+|  |          |  |        +------tr|A9V6W9|A9V6W9_MONBE
+|  |          |  |     +--|
+|  |          |  |     |  +---------tr|B8LC16|B8LC16_THAPS
+|  |          |  |  +--|
+|  |          |  |  |  |  +-------tr|B8BX78|B8BX78_THAPS
+|  |          |  |  |  +--|
+|  |          |  |  |     +-------tr|A0A0L0D8E8|A0A0L0D8E8_THETB
+|  |          |  +--|
+|  |          |     |      +-----tr|A2EFA7|A2EFA7_TRIVA
+|  |          |     |   +--|
+|  |          |     |   |  +------tr|A2FUH6|A2FUH6_TRIVA
+|  |          |     +---|
+|  |          |         +-----tr|A2FNB4|A2FNB4_TRIVA
+|  |       +--|
+|  |       |  |     +---tr|S2K3Y0|S2K3Y0_MUCC1
+|  |       |  |  +--|
+|  |       |  |  |  +-----sp|P38205|NCL1_YEAST
+|  |       |  +--|
+|  |       |     |  +---------tr|A0A0L0D1Q0|A0A0L0D1Q0_THETB
+|  |       |     +--|
+|  |       |        +-------tr|Q38AT8|Q38AT8_TRYB2
+|  |    +--|
+|  |    |  |                             +--tr|G1K8Q2|G1K8Q2_ANOCA
+|  |    |  |                          +--|
+|  |    |  |                          |  |  +**tr|A0A8V0X3G6|A0A8V0X3G6_CHICK
+|  |    |  |                          |  +--|
+|  |    |  |                          |     +--sp|Q5ZLV4|NSUN2_CHICK
+|  |    |  |                       +--|
+|  |    |  |                       |  |     +--tr|A0A8I3PU93|A0A8I3PU93_CANLF
+|  |    |  |                       |  |  +--|
+|  |    |  |                       |  |  |  |           +--tr|A0A2I2Z719|A0A2I2Z719_GORGO
+|  |    |  |                       |  |  |  |        +--|
+|  |    |  |                       |  |  |  |        |  |  +**sp|Q08J23|NSUN2_HUMAN
+|  |    |  |                       |  |  |  |        |  +--|
+|  |    |  |                       |  |  |  |        |     +**tr|G3V1R4|G3V1R4_HUMAN
+|  |    |  |                       |  |  |  |     +--|
+|  |    |  |                       |  |  |  |     |  +--tr|H2R3L8|H2R3L8_PANTR
+|  |    |  |                       |  |  |  |  +--|
+|  |    |  |                       |  |  |  |  |  +--tr|F6XQN4|F6XQN4_MACMU
+|  |    |  |                       |  |  |  +--|
+|  |    |  |                       |  |  |     +--sp|Q1HFZ0|NSUN2_MOUSE
+|  |    |  |                       |  +--|
+|  |    |  |                       |     |  +--tr|F6QCU8|F6QCU8_MONDO
+|  |    |  |                       |     +--|
+|  |    |  |                       |        +--tr|F7F0C7|F7F0C7_ORNAN
+|  |    |  |                    +--|
+|  |    |  |                    |  +--sp|Q28E61|NSUN2_XENTR
+|  |    |  |                 +--|
+|  |    |  |                 |  |  +--tr|A5PMI3|A5PMI3_DANRE
+|  |    |  |                 |  +--|
+|  |    |  |                 |     +--tr|H2TYJ6|H2TYJ6_TAKRU
+|  |    |  |              +--|
+|  |    |  |              |  +--tr|A0A4W3HHL5|A0A4W3HHL5_CALMI
+|  |    |  |           +--|
+|  |    |  |           |  +--tr|S4RD16|S4RD16_PETMA
+|  |    |  |        +--|
+|  |    |  |        |  +---tr|C3ZAW5|C3ZAW5_BRAFL
+|  |    |  |     +--|
+|  |    |  |     |  +------sp|Q9W4M9|NSUN2_DROME
+|  |    |  |  +--|
+|  |    |  |  |  +----tr|W4YR02|W4YR02_STRPU
+|  |    |  +--|
+|  |    |     |        +------tr|Q9BL15|Q9BL15_CAEEL
+|  |    |     |     +--|
+|  |    |     |     |  +------tr|C7G023|C7G023_DICDI
+|  |    |     |  +--|
+|  |    |     |  |  |  +----tr|A0ABM4C1P5|A0ABM4C1P5_HYDVU
+|  |    |     |  |  +--|
+|  |    |     |  |     +---tr|A7SAM8|A7SAM8_NEMVE
+|  |    |     +--|
+|  |    |        |      +--tr|F6XKA2|F6XKA2_CIOIN
+|  |    |        |  +---|
+|  |    |        |  |   +--tr|H2YC22|H2YC22_CIOSA
+|  |    |        +--|
+|  |    |           +----tr|B3RJG2|B3RJG2_TRIAD
+|  +----|
+|       +----tr|A9UV72|A9UV72_MONBE
+|
++**tr|A0A1X7U173|A0A1X7U173_AMPQE
+
+Tree in newick format:
+
+(tr|A0A1X7T0M2|A0A1X7T0M2_AMPQE:0.0338323535,(tr|A0A1X7TGD9|A0A1X7TGD9_AMPQE:0.0580624324,((((((((((((((((((((((tr|A0A1X7UHI1|A0A1X7UHI1_AMPQE:0.5507491253,tr|B3RZP1|B3RZP1_TRIAD:0.3349443176):0.0619443521,((((((tr|H9GBE5|H9GBE5_ANOCA:0.2102686341,tr|A0A8V0ZNS4|A0A8V0ZNS4_CHICK:0.2537991226):0.0612584208,(((((tr|A0A8I3Q5B1|A0A8I3Q5B1_CANLF:0.1094259861,((tr|G3RU33|G3RU33_GORGO:0.0118254091,((sp|P46087|NOP2_HUMAN:0.0000029893,tr|F5GYR3|F5GYR3_HUMAN:0.0000011919):0.0042118473,tr|A0A2J8JEW0|A0A2J8JEW0_PANTR:0.0034411472):0.0045067460):0.0125201936,tr|F6ZSG5|F6ZSG5_MACMU:0.0189340604):0.0435868563):0.0506339167,sp|Q922K7|NOP2_MOUSE:0.1397287503):0.0785897674,tr|F7EVA4|F7EVA4_MONDO:0.1957407802):0.0573826108,tr|F6PNB6|F6PNB6_ORNAN:0.0394527702):0.1157715646,tr|F7D8B1|F7D8B1_XENTR:0.3821737000):0.0521999900):0.1273475912,(tr|S4RYQ5|S4RYQ5_PETMA:0.0037591036,tr|S4RYQ4|S4RYQ4_PETMA:0.0039173252):0.2450559659):0.0598104294,(tr|F1QWP7|F1QWP7_DANRE:0.2099517051,(tr|A0A674NWU5|A0A674NWU5_TAKRU:0.0012166579,tr|A0A674PEL2|A0A674PEL2_TAKRU:0.0000011919):0.2727343935):0.1405478466):0.0850550444,(tr|H3HGK6|H3HGK6_STRPU:0.3718084002,tr|W4Y3J6|W4Y3J6_STRPU:0.0855446677):0.4837749682):0.0799423475,(tr|A0ABM4C4G5|A0ABM4C4G5_HYDVU:0.4319853181,tr|A7S5Z9|A7S5Z9_NEMVE:0.1468749344):0.1239013989):0.0461107004):0.0513361942,((tr|Q9TYV5|Q9TYV5_CAEEL:0.6739861239,(tr|H2XZT6|H2XZT6_CIOIN:0.2168839198,tr|H2ZRD3|H2ZRD3_CIOSA:0.2850780774):0.2261765407):0.0730218487,tr|A1Z909|A1Z909_DROME:0.5977573041):0.0685339674):0.0552000819,(tr|A9UX73|A9UX73_MONBE:0.5138629877,(tr|A0A0L0DTU1|A0A0L0DTU1_THETB:1.1615774858,tr|A2F7I7|A2F7I7_TRIVA:0.8172344358):0.1221904553):0.0653555517):0.0403817988,((tr|Q54TL4|Q54TL4_DICDI:0.5743324283,tr|K7E6K4|K7E6K4_ORNAN:0.8183860125):0.0957169310,(tr|S2JMZ1|S2JMZ1_MUCC1:0.3790115502,sp|P40991|NOP2_YEAST:0.5291571077):0.1257560185):0.0862575412):0.0606861007,(((sp|Q9FG73|NOP2A_ARATH:0.2498840838,sp|Q8VYM6|NOP2B_ARATH:0.1812689431):0.1628806811,(tr|Q69MP1|Q69MP1_ORYSJ:0.0370932244,tr|A0A0P0VP26|A0A0P0VP26_ORYSJ:0.0396776303):0.3854170340):0.2654165623,tr|A0A2K3DNJ8|A0A2K3DNJ8_CHLRE:0.6076837464):0.1225493538):0.0460735146,((tr|M1VMG1|M1VMG1_CYAM1:1.0460623099,tr|Q22HF4|Q22HF4_TETTS:0.6278639596):0.1112430567,(tr|B8C1V6|B8C1V6_THAPS:0.5608042135,tr|Q583H8|Q583H8_TRYB2:0.6499115034):0.1028598165):0.1067141089):0.1100338176,tr|F4JP84|F4JP84_ARATH:2.2367760220):0.2323244216,tr|Q8II69|Q8II69_PLAF7:1.4120314817):0.4687337841,(sp|P76273|RSMF_ECOLI:1.3829989485,(((sp|Q60343|TRM4_METJA:0.9424182127,tr|Q980N8|Q980N8_SACS2:1.0589782268):0.4011390923,(((tr|Q980E2|Q980E2_SACS2:1.3864980909,tr|Q5JEW7|Q5JEW7_THEKO:0.7701533047):0.6067029349,tr|Q5JDP5|Q5JDP5_THEKO:1.1435126895):0.2840110434,tr|Q5JI15|Q5JI15_THEKO:1.0579078408):0.1139797145):0.2132894413,tr|Q5JCY9|Q5JCY9_THEKO:1.0134243423):0.2444342308):0.3012309760):0.1289129754,((tr|C3ZKH4|C3ZKH4_BRAFL:2.5374463941,sp|Q97WC7|CBIT_SACS2:2.9576175801):0.4728643839,(tr|D4GZ23|D4GZ23_HALVD:0.3474418200,tr|M1XPJ5|M1XPJ5_NATM8:0.5259014959):1.0156343161):0.1708767892):0.2605809946,(((((((((tr|A0A1X7V4K8|A0A1X7V4K8_AMPQE:1.2212675543,((((((((((tr|H9G3D0|H9G3D0_ANOCA:0.3737354618,tr|A0A8V1AML9|A0A8V1AML9_CHICK:0.2911156818):0.1051494969,(((tr|A0A8I3MRS9|A0A8I3MRS9_CANLF:0.1011693951,((((((tr|G3R7U5|G3R7U5_GORGO:0.0052908935,tr|H2QUP2|H2QUP2_PANTR:0.0929938758):0.0054536145,sp|Q96P11|NSUN5_HUMAN:0.0097732499):0.0000011920,tr|F7G8Y6|F7G8Y6_MACMU:0.0378063109):0.0000029995,((sp|Q3KNT7|NSN5B_HUMAN:0.0302030936,sp|Q63ZY6|NSN5C_HUMAN:0.0000011919):0.1122981868,(tr|A0A2I3SHR4|A0A2I3SHR4_PANTR:0.0055646823,tr|A0A2I3TKF9|A0A2I3TKF9_PANTR:0.0000011919):0.0457730672):0.0726452867):0.0026526420,tr|G3RI68|G3RI68_GORGO:0.0331088359):0.0814073538,sp|Q8K4F6|NSUN5_MOUSE:0.1352019552):0.0350425701):0.1605310154,tr|F6WS57|F6WS57_MONDO:0.1905929131):0.0429803166,tr|F6UJX9|F6UJX9_ORNAN:0.1871596995):0.2183511273):0.1554817531,tr|F6TNA7|F6TNA7_XENTR:0.4254280657):0.1212302799,tr|A0A4W3IDM9|A0A4W3IDM9_CALMI:0.4464143773):0.1406017619,(tr|F1RDI6|F1RDI6_DANRE:0.2986126134,tr|H2V8F8|H2V8F8_TAKRU:0.1807822896):0.2573745243):0.2311420129,tr|W4XRY6|W4XRY6_STRPU:0.8498908853):0.0460595879,(tr|C3YID1|C3YID1_BRAFL:0.5173615421,tr|A7RT21|A7RT21_NEMVE:0.5754357677):0.1259769392):0.0967394448,(tr|Q55G09|Q55G09_DICDI:0.8672952287,tr|S2JGP8|S2JGP8_MUCC1:0.6981433492):0.1895376143):0.0556841796,(tr|A0ABM4C5L1|A0ABM4C5L1_HYDVU:0.8832313014,tr|B3RI87|B3RI87_TRIAD:0.9958566313):0.2059338397):0.0778841291,((tr|Q9NAA7|Q9NAA7_CAEEL:1.0974572820,tr|Q9VDZ4|Q9VDZ4_DROME:1.5478744196):0.2862350962,(tr|H2XZ35|H2XZ35_CIOIN:0.3231557445,tr|H2Z203|H2Z203_CIOSA:0.4005355548):0.4365975542):0.0832981136):0.0758030263):0.0889984695,(((tr|M1V6D6|M1V6D6_CYAM1:1.8853852453,(sp|P53972|RCM1_YEAST:1.2892530546,tr|Q240Z2|Q240Z2_TETTS:1.7543909422):0.2454517953):0.0897598725,tr|B8C089|B8C089_THAPS:1.1365584460):0.1172581793,tr|Q384A7|Q384A7_TRYB2:1.5480344115):0.1471624229):0.2754578308,tr|A0A0L0D9Y7|A0A0L0D9Y7_THETB:1.0310264696):0.2007242232,((sp|Q8GYE8|NSUN5_ARATH:0.3817982763,tr|B9F4A8|B9F4A8_ORYSJ:0.3872098469):0.5666341896,tr|A0A2K3CSQ1|A0A2K3CSQ1_CHLRE:1.2524604394):0.2290413875):0.2397873062,((((tr|G1KLL8|G1KLL8_ANOCA:0.3066207728,(((tr|A0A8I3MRK4|A0A8I3MRK4_CANLF:0.1242017614,((tr|G3SKV6|G3SKV6_GORGO:0.0041870902,(sp|Q8NE18|NSUN7_HUMAN:0.0069107258,tr|H2QPD5|H2QPD5_PANTR:0.0041501869):0.0013348824):0.0157539515,tr|F7E4C7|F7E4C7_MACMU:0.0181951307):0.0893806348):0.0392984107,sp|Q14AW5|NSUN7_MOUSE:0.2911584995):0.1670296086,(tr|F7AYL7|F7AYL7_MONDO:0.0943404205,tr|K7EDN8|K7EDN8_ORNAN:0.3613081381):0.0627190939):0.1533660788):0.0741311142,tr|A0A8V0YT63|A0A8V0YT63_CHICK:0.5411376395):0.0657384286,(tr|A0A4W3IBV3|A0A4W3IBV3_CALMI:0.4767866341,tr|F6ZAA6|F6ZAA6_XENTR:0.5735204943):0.0691592918):1.0677318716,((sp|Q9DCL4|MET15_MOUSE:0.3141394992,tr|F6PSG1|F6PSG1_XENTR:0.2528512555):0.2112668143,tr|H2V4V7|H2V4V7_TAKRU:0.3788329055):3.5363345191):0.4687726369):0.1481385284,(tr|Q8IJJ8|Q8IJJ8_PLAF7:2.1694837717,tr|Q980Z5|Q980Z5_SACS2:1.9928367607):0.3116956977):0.1543787588,((tr|Q8I5B4|Q8I5B4_PLAF7:0.7722688561,tr|I7M9J8|I7M9J8_TETTS:1.1098479573):0.9250972418,tr|B8CCM3|B8CCM3_THAPS:1.8533097796):0.7059067317):0.1277700382,tr|Q5JDB4|Q5JDB4_THEKO:2.0509588899):0.1553618823,((((((((((tr|A0A1X7VKX0|A0A1X7VKX0_AMPQE:0.7845904255,tr|A0ABM4BLP1|A0ABM4BLP1_HYDVU:0.9105996410):0.2410115182,(tr|Q54FX0|Q54FX0_DICDI:1.2791517753,tr|B3S3E8|B3S3E8_TRIAD:0.8451094940):0.1340754764):0.1389730170,tr|A7SEM2|A7SEM2_NEMVE:0.8107903654):0.0970466339,((((((tr|G1KY28|G1KY28_ANOCA:0.3329580544,(((((tr|A0A8I3RXD1|A0A8I3RXD1_CANLF:0.0907056303,(tr|G3R1M9|G3R1M9_GORGO:0.0000022297,((sp|Q8TEA1|NSUN6_HUMAN:0.0054889507,tr|F6SWB4|F6SWB4_MACMU:0.0304368026):0.0000011920,tr|H2Q1P7|H2Q1P7_PANTR:0.0535397767):0.0027364236):0.0709126450):0.0326616220,sp|Q7TS68|NSUN6_MOUSE:0.1865762584):0.0904519675,tr|F7FNT7|F7FNT7_MONDO:0.1390433879):0.0393857788,tr|F7BYX0|F7BYX0_ORNAN:0.3129539959):0.0584185519,tr|A0A8V0XWR6|A0A8V0XWR6_CHICK:0.2433712658):0.0390534283):0.0526520952,tr|F6RCC7|F6RCC7_XENTR:0.3381226959):0.0964863288,tr|A0A4W3HDU9|A0A4W3HDU9_CALMI:0.2911918042):0.1307792755,(tr|A0A0R4IAT4|A0A0R4IAT4_DANRE:0.3984537483,tr|H2T814|H2T814_TAKRU:0.2444400352):0.2582529002):0.1475567834,tr|S4RE18|S4RE18_PETMA:0.8112628789):0.2264074426,(tr|C3YW79|C3YW79_BRAFL:0.0818890099,tr|C3ZX25|C3ZX25_BRAFL:0.0270560974):0.6059455120):0.0873182481):0.0712662776,((tr|F6ZY66|F6ZY66_CIOIN:0.8916668697,(tr|F7AFH3|F7AFH3_CIOIN:0.6419662779,tr|W4XEF7|W4XEF7_STRPU:0.4968511362):0.0588261066):0.1848157455,tr|Q8IPS4|Q8IPS4_DROME:1.1781426622):0.0894230938):0.1826251311,(((sp|Q84MA1|NOP2C_ARATH:0.4191280588,tr|Q7F1D1|Q7F1D1_ORYSJ:0.3140405132):0.7316914571,(tr|B8BWE3|B8BWE3_THAPS:0.8832990968,tr|A0A0L0DHL4|A0A0L0DHL4_THETB:1.3044858424):0.2495713362):0.0991966169,tr|A9UWA2|A9UWA2_MONBE:1.3570136696):0.1249439926):0.3866606774,(tr|A0A2K3D8E4|A0A2K3D8E4_CHLRE:0.8599001634,tr|A0A2K3D1H3|A0A2K3D1H3_CHLRE:0.6307227087):0.5575161013):0.3442442740,(tr|W4Y7A2|W4Y7A2_STRPU:2.1516711126,tr|Q5JJ78|Q5JJ78_THEKO:2.4533905714):0.3414481877):0.1654719766,tr|A0A2K3DA13|A0A2K3DA13_CHLRE:1.5349348015):0.1933867951,((((((tr|Q8VYC4|Q8VYC4_ARATH:0.2908988533,tr|Q0J0Y4|Q0J0Y4_ORYSJ:0.2963396892):0.6786789733,tr|A0A2K3CMR1|A0A2K3CMR1_CHLRE:0.6260942044):0.4827836367,sp|P94464|RSMB_BACSU:1.1843370061):0.5534633025,sp|P72943|RSMB_SYNY3:1.2899801595):0.1891637080,((tr|M1UVE4|M1UVE4_CYAM1:1.9868471959,sp|P9WGX3|Y1407_MYCTU:1.0449045765):0.2330998444,(sp|P36929|RSMB_ECOLI:0.6680633688,sp|Q9I7A9|RSMB_PSEAE:0.5800484746):0.8278408715):0.2432990565):0.3436191848,((tr|Q55597|Q55597_SYNY3:1.8256060808,tr|P73547|P73547_SYNY3:1.8303681203):1.4901089776,tr|B8BTD6|B8BTD6_THAPS:2.3574172259):0.1370173751):0.0758732988):0.1335677855):0.1544423657):0.1532274256,((((((((((((((tr|G1K8I3|G1K8I3_ANOCA:0.3795947762,((((tr|A0A8I3SCR6|A0A8I3SCR6_CANLF:0.0884600999,sp|Q8CCT7|NSUN3_MOUSE:0.2082908112):0.0527636238,((tr|G3RBS6|G3RBS6_GORGO:0.0044634223,(sp|Q9H649|NSUN3_HUMAN:0.0089831320,tr|H2QMZ2|H2QMZ2_PANTR:0.0044751067):0.0044822579):0.0000011920,tr|A0A1D5QYE6|A0A1D5QYE6_MACMU:0.0280429035):0.0588301248):0.1408728420,(tr|F6U5C4|F6U5C4_MONDO:0.0109028404,tr|F6YIJ3|F6YIJ3_MONDO:0.0216790129):0.2075900242):0.2734304217,tr|A0A8V0XY00|A0A8V0XY00_CHICK:0.3583898668):0.0698020347):0.1073036984,tr|F6SQ66|F6SQ66_XENTR:0.4438249000):0.2477000646,tr|A0A4W3GNG1|A0A4W3GNG1_CALMI:0.5334568209):0.2631277659,(sp|Q4KMK0|NSUN3_DANRE:0.5878808264,tr|A0A3B5K4C9|A0A3B5K4C9_TAKRU:0.7158495250):0.2046743994):0.3280725868,tr|S4R5X4|S4R5X4_PETMA:0.9468330640):0.3003587135,tr|C3YBF3|C3YBF3_BRAFL:0.9124992011):0.4620529499,(((((((tr|G1KAB5|G1KAB5_ANOCA:0.3353750494,tr|A0A8V0ZTI0|A0A8V0ZTI0_CHICK:0.4590427669):0.0969756980,(((tr|G3RAN2|G3RAN2_GORGO:0.0040227237,(sp|Q96CB9|NSUN4_HUMAN:0.0036776475,tr|H2PYY8|H2PYY8_PANTR:0.0000011919):0.0042722780):0.0163778832,tr|F7GR59|F7GR59_MACMU:0.0241999449):0.2384812366,tr|F6RHT5|F6RHT5_MONDO:0.3113314334):0.1530422095):0.1466686745,tr|A0A4W3HT47|A0A4W3HT47_CALMI:0.4764402557):0.1070083170,(tr|S4RVL0|S4RVL0_PETMA:0.8864003693,(tr|A0A1B8XSV6|A0A1B8XSV6_XENTR:0.0351840354,sp|Q66KI9|NSUN4_XENTR:0.0000027467):0.4333994576):0.1122105543):0.1365787360,(tr|B8JM23|B8JM23_DANRE:0.5186209304,tr|H2SXR8|H2SXR8_TAKRU:0.4335296182):0.1884298913):0.3084107276,((tr|Q95XR2|Q95XR2_CAEEL:1.2852146269,tr|Q9VPX3|Q9VPX3_DROME:1.3754647318):0.3253236662,(tr|H2XS72|H2XS72_CIOIN:0.2342611428,tr|H2YUK6|H2YUK6_CIOSA:0.2265351870):1.2391222974):0.2315608207):0.2031618594,(tr|C3Z286|C3Z286_BRAFL:0.6911311487,tr|W4XX51|W4XX51_STRPU:0.8854101287):0.2894205425):0.3714944486):0.1562124704,tr|A7S2N2|A7S2N2_NEMVE:1.2908198911):0.1826991258,(tr|A9V855|A9V855_MONBE:0.9217343051,tr|S2IXK0|S2IXK0_MUCC1:1.1930909513):0.6184437645):0.3112993828,tr|Q381M3|Q381M3_TRYB2:1.9090989564):0.2512309104,tr|A0A2K3D1B4|A0A2K3D1B4_CHLRE:1.2668495006):0.3521019778,tr|Q8IIQ2|Q8IIQ2_PLAF7:1.9780039173):0.1140733833,(((((tr|F4JZ42|F4JZ42_ARATH:0.4303596237,tr|Q6EQW4|Q6EQW4_ORYSJ:0.3999876380):0.3949527727,(tr|A9V709|A9V709_MONBE:0.8794284892,tr|S2J2I3|S2J2I3_MUCC1:0.8111773944):0.2155613408):0.2737592692,(tr|I7M457|I7M457_TETTS:0.7089823432,tr|B5YMW4|B5YMW4_THAPS:1.8260984452):0.4017796606):0.1844592200,tr|Q55DF6|Q55DF6_DICDI:0.8299033071):0.3547738219,tr|Q580I8|Q580I8_TRYB2:1.5231365602):1.0991297422):0.1852295604,(((tr|D4GS14|D4GS14_HALVD:1.8424356111,(tr|Q97WT7|Q97WT7_SACS2:0.2567844536,tr|Q97X57|Q97X57_SACS2:0.1133552460):2.1540200341):0.4511105694,tr|A9VAA8|A9VAA8_MONBE:2.3923751231):0.6243048846,tr|Q582C3|Q582C3_TRYB2:1.5707008466):0.1803309845):0.1063964184):0.3854855825,(tr|Q22N15|Q22N15_TETTS:0.7639305973,tr|B8C6H7|B8C6H7_THAPS:1.3388010644):0.6482994754):0.1121060896,tr|Q388U8|Q388U8_TRYB2:1.8397021106):0.1970303745,(tr|B8BQE4|B8BQE4_THAPS:1.3510675112,tr|Q57V63|Q57V63_TRYB2:1.0288271725):0.4458572254):0.1211921024,tr|M1UQ76|M1UQ76_CYAM1:1.2391596473):0.0661449190,((((tr|Q8L601|Q8L601_ARATH:0.1234119546,tr|F4JJ52|F4JJ52_ARATH:0.2709843223):0.2039979632,(tr|Q6YTT4|Q6YTT4_ORYSJ:0.3136255664,tr|Q0J106|Q0J106_ORYSJ:0.1485958204):0.2635665892):0.3888317082,tr|A0A2K3DXQ0|A0A2K3DXQ0_CHLRE:0.7632312631):0.2263533097,(tr|Q8IC28|Q8IC28_PLAF7:1.5897378575,tr|I7MAM9|I7MAM9_TETTS:1.1387947701):0.2941121575):0.0324924133):0.0653498387,(((tr|A9V6W9|A9V6W9_MONBE:0.8925563900,tr|B8LC16|B8LC16_THAPS:1.2956459260):0.2967472177,(tr|B8BX78|B8BX78_THAPS:1.0445094997,tr|A0A0L0D8E8|A0A0L0D8E8_THETB:1.0950640737):0.1517502785):0.1813462951,((tr|A2EFA7|A2EFA7_TRIVA:0.7980226546,tr|A2FUH6|A2FUH6_TRIVA:0.8899312854):0.2151268992,tr|A2FNB4|A2FNB4_TRIVA:0.8223153581):0.5044966313):0.1411140496):0.0793856879,((tr|S2K3Y0|S2K3Y0_MUCC1:0.5637481324,sp|P38205|NCL1_YEAST:0.7932678136):0.1855056351,(tr|A0A0L0D1Q0|A0A0L0D1Q0_THETB:1.2951485712,tr|Q38AT8|Q38AT8_TRYB2:1.0806699533):0.1804619381):0.1480193878):0.0817764821,((((((((((tr|G1K8Q2|G1K8Q2_ANOCA:0.1822772010,(tr|A0A8V0X3G6|A0A8V0X3G6_CHICK:0.0000029089,sp|Q5ZLV4|NSUN2_CHICK:0.0069894591):0.1440988035):0.0657149469,((tr|A0A8I3PU93|A0A8I3PU93_CANLF:0.0877170219,((((tr|A0A2I2Z719|A0A2I2Z719_GORGO:0.0022505422,(sp|Q08J23|NSUN2_HUMAN:0.0000021982,tr|G3V1R4|G3V1R4_HUMAN:0.0000011919):0.0021650572):0.0017226588,tr|H2R3L8|H2R3L8_PANTR:0.0024693844):0.0051306531,tr|F6XQN4|F6XQN4_MACMU:0.0124640456):0.0370685590,sp|Q1HFZ0|NSUN2_MOUSE:0.0982903802):0.0371783220):0.1052278037,(tr|F6QCU8|F6QCU8_MONDO:0.1014077240,tr|F7F0C7|F7F0C7_ORNAN:0.0756479281):0.0394458308):0.0469367859):0.0449576218,sp|Q28E61|NSUN2_XENTR:0.2138177394):0.1086772973,(tr|A5PMI3|A5PMI3_DANRE:0.1357877899,tr|H2TYJ6|H2TYJ6_TAKRU:0.1674279663):0.0843964613):0.0545161061,tr|A0A4W3HHL5|A0A4W3HHL5_CALMI:0.2514334686):0.1622867051,tr|S4RD16|S4RD16_PETMA:0.3392366396):0.1143338833,tr|C3ZAW5|C3ZAW5_BRAFL:0.5471789897):0.0818803786,sp|Q9W4M9|NSUN2_DROME:0.8649390439):0.0273571271,tr|W4YR02|W4YR02_STRPU:0.7215688452):0.0921609693,(((tr|Q9BL15|Q9BL15_CAEEL:0.9317530670,tr|C7G023|C7G023_DICDI:0.9263401247):0.1766341656,(tr|A0ABM4C1P5|A0ABM4C1P5_HYDVU:0.6583343951,tr|A7SAM8|A7SAM8_NEMVE:0.5755242242):0.1076450964):0.0695871607,((tr|F6XKA2|F6XKA2_CIOIN:0.0832417069,tr|H2YC22|H2YC22_CIOSA:0.0865626622):0.4970433980,tr|B3RJG2|B3RJG2_TRIAD:0.6490957848):0.1081487002):0.0638326785):0.0445899741):0.1459472855,tr|A9UV72|A9UV72_MONBE:0.7294325331):0.6649151268):0.0095136997,tr|A0A1X7U173|A0A1X7U173_AMPQE:0.0000027339);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t results_part1_v3/Methyltr_RsmB-F/Methyltr_RsmB-F_aligned.fasta.treefile -m "JTT+F+I{0.000579524}+G4{1.2658}" --length 5974
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s results_part1_v3/Methyltr_RsmB-F/Methyltr_RsmB-F_aligned.fasta --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s results_part1_v3/Methyltr_RsmB-F/Methyltr_RsmB-F_aligned.fasta --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Mon Oct 20 22:12:17 2025
+Total CPU time used: 382.194 seconds (0h:6m:22s)
+Total wall-clock time used: 87.2362 seconds (0h:1m:27s)
+

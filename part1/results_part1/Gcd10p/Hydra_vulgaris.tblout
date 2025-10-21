@@ -1,0 +1,14 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0ABM4BTG0|A0ABM4BTG0_HYDVU -          Gcd10p               PF04189.19   3.6e-65  220.3   1.4     5e-65  219.8   1.4   1.2   1   0   0   1   1   1   1 tRNA (Adenine(58)-N(1))-methyltransferase non-catalytic subunit TRM6 OS=Hydra vulgaris OX=6087 GN=LOC100211749 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Gcd10p.hmm
+# Target file:     proteomes/Hydra_vulgaris.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Gcd10p/Hydra_vulgaris.tblout --cpu 8 pfam_list/Gcd10p.hmm proteomes/Hydra_vulgaris.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:33 2025
+# [ok]

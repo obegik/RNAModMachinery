@@ -1,0 +1,15 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P41833|IME4_YEAST -          MT-A70               PF05063.21   6.5e-60  200.4   0.2   1.2e-59  199.6   0.2   1.4   1   0   0   1   1   1   1 N6-adenosine-methyltransferase IME4 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=IME4 PE=1 SV=1
+sp|P25583|KAR4_YEAST -          MT-A70               PF05063.21     1e-13   50.0   0.1   1.7e-13   49.3   0.1   1.4   1   0   0   1   1   1   1 Karyogamy protein KAR4 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=KAR4 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MT-A70.hmm
+# Target file:     proteomes/Saccharomyces_cerevisiae.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MT-A70/Saccharomyces_cerevisiae.tblout --cpu 8 pfam_list/MT-A70.hmm proteomes/Saccharomyces_cerevisiae.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:05:20 2025
+# [ok]

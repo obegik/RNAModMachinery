@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A674PDM5|A0A674PDM5_TAKRU -          Gcd10p               PF04189.19   2.7e-76  256.7   0.0   2.7e-76  256.7   0.0   1.8   1   1   1   2   2   2   1 tRNA (adenine(58)-N(1))-methyltransferase non-catalytic subunit TRM6 OS=Takifugu rubripes OX=31033 GN=trmt6 PE=3 SV=1
+tr|A0A674MDV9|A0A674MDV9_TAKRU -          Gcd10p               PF04189.19       0.1   11.9   0.4      0.27   10.5   0.2   1.8   2   0   0   2   2   2   0 phosphorylase kinase OS=Takifugu rubripes OX=31033 GN=phkg1 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Gcd10p.hmm
+# Target file:     proteomes/Takifugu_rubripes.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Gcd10p/Takifugu_rubripes.tblout --cpu 8 pfam_list/Gcd10p.hmm proteomes/Takifugu_rubripes.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:04:35 2025
+# [ok]

@@ -1,0 +1,26 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A8V0ZNS4|A0A8V0ZNS4_CHICK -          Methyltr_RsmB-F      PF01189.24   4.9e-78  261.4   0.0   7.8e-78  260.7   0.0   1.3   1   0   0   1   1   1   1 NOP2 nucleolar protein OS=Gallus gallus OX=9031 GN=NOP2 PE=1 SV=1
+tr|A0A8V0XWR6|A0A8V0XWR6_CHICK -          Methyltr_RsmB-F      PF01189.24     1e-46  159.1   0.0     3e-46  157.6   0.0   1.7   2   0   0   2   2   2   1 NOP2/Sun RNA methyltransferase 6 OS=Gallus gallus OX=9031 GN=NSUN6 PE=3 SV=1
+sp|Q5ZLV4|NSUN2_CHICK          -          Methyltr_RsmB-F      PF01189.24   1.8e-39  135.5   0.0   8.2e-36  123.6   0.0   2.4   2   0   0   2   2   2   2 RNA cytosine-C(5)-methyltransferase NSUN2 OS=Gallus gallus OX=9031 GN=NSUN2 PE=2 SV=1
+tr|A0A8V0X3G6|A0A8V0X3G6_CHICK -          Methyltr_RsmB-F      PF01189.24   1.8e-39  135.5   0.0   8.2e-36  123.6   0.0   2.3   2   0   0   2   2   2   2 tRNA (cytosine(34)-C(5))-methyltransferase OS=Gallus gallus OX=9031 GN=NSUN2 PE=3 SV=1
+tr|A0A8V1AML9|A0A8V1AML9_CHICK -          Methyltr_RsmB-F      PF01189.24   5.1e-32  111.2   0.0   7.2e-32  110.7   0.0   1.2   1   0   0   1   1   1   1 28S rRNA (cytosine-C(5))-methyltransferase OS=Gallus gallus OX=9031 GN=NSUN5 PE=1 SV=1
+tr|A0A8V0XY00|A0A8V0XY00_CHICK -          Methyltr_RsmB-F      PF01189.24   2.8e-30  105.5   0.0   4.9e-30  104.7   0.0   1.4   2   0   0   2   2   2   1 NOP2/Sun RNA methyltransferase 3 OS=Gallus gallus OX=9031 GN=NSUN3 PE=3 SV=1
+tr|A0A8V0ZTI0|A0A8V0ZTI0_CHICK -          Methyltr_RsmB-F      PF01189.24   1.1e-27   97.0   0.0   1.4e-27   96.7   0.0   1.2   1   0   0   1   1   1   1 5-cytosine rRNA methyltransferase NSUN4 OS=Gallus gallus OX=9031 GN=NSUN4 PE=3 SV=1
+tr|A0A8V0YT63|A0A8V0YT63_CHICK -          Methyltr_RsmB-F      PF01189.24   5.2e-06   26.3   0.2   3.2e-05   23.7   0.2   2.1   1   1   0   1   1   1   1 NOP2/Sun RNA methyltransferase family member 7 OS=Gallus gallus OX=9031 GN=NSUN7 PE=1 SV=1
+tr|A0A1D5PLE8|A0A1D5PLE8_CHICK -          Methyltr_RsmB-F      PF01189.24   1.4e-05   24.9   0.0   4.2e-05   23.3   0.0   1.8   2   0   0   2   2   2   1 12S rRNA N(4)-cytidine methyltransferase METTL15 OS=Gallus gallus OX=9031 GN=METTL15 PE=3 SV=1
+tr|A0A8V0ZTC5|A0A8V0ZTC5_CHICK -          Methyltr_RsmB-F      PF01189.24    0.0043   16.7   0.0    0.0063   16.2   0.0   1.3   1   1   0   1   1   1   1 Methyltransferase-like protein 5 OS=Gallus gallus OX=9031 GN=METTL5 PE=3 SV=1
+tr|F1NZ19|F1NZ19_CHICK         -          Methyltr_RsmB-F      PF01189.24    0.0079   15.9   0.0     0.012   15.3   0.0   1.2   1   0   0   1   1   1   1 tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRMT61A OS=Gallus gallus OX=9031 GN=TRMT61A PE=1 SV=2
+tr|A0A8V1A5K7|A0A8V1A5K7_CHICK -          Methyltr_RsmB-F      PF01189.24      0.17   11.5   3.4       1.5    8.4   0.0   3.1   3   0   0   3   3   3   0 pre-rRNA processing protein FTSJ3 OS=Gallus gallus OX=9031 GN=FTSJ3 PE=3 SV=1
+sp|Q5ZKM1|SPB1_CHICK           -          Methyltr_RsmB-F      PF01189.24      0.18   11.5   3.4       1.5    8.4   0.0   3.1   3   0   0   3   3   3   0 pre-rRNA 2'-O-ribose RNA methyltransferase FTSJ3 OS=Gallus gallus OX=9031 GN=FTSJ3 PE=2 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltr_RsmB-F.hmm
+# Target file:     proteomes/Gallus_gallus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltr_RsmB-F/Gallus_gallus.tblout --cpu 8 pfam_list/Methyltr_RsmB-F.hmm proteomes/Gallus_gallus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:10:14 2025
+# [ok]

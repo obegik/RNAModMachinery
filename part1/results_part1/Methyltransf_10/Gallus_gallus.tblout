@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q5ZIA0|MET16_CHICK          -          Methyltransf_10      PF05971.19  4.4e-134  446.5   0.0  6.1e-134  446.1   0.0   1.2   1   0   0   1   1   1   1 RNA N(6)-adenosine-methyltransferase METTL16 OS=Gallus gallus OX=9031 GN=METTL16 PE=2 SV=1
+tr|A0A8V1A2N3|A0A8V1A2N3_CHICK -          Methyltransf_10      PF05971.19  1.3e-127  425.3   0.0  6.5e-127  423.0   0.0   2.0   1   1   0   1   1   1   1 U6 small nuclear RNA (adenine-(43)-N(6))-methyltransferase OS=Gallus gallus OX=9031 GN=METTL16 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltransf_10.hmm
+# Target file:     proteomes/Gallus_gallus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltransf_10/Gallus_gallus.tblout --cpu 8 pfam_list/Methyltransf_10.hmm proteomes/Gallus_gallus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:12:19 2025
+# [ok]

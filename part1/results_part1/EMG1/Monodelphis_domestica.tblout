@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7CCZ5|F7CCZ5_MONDO -          EMG1                 PF03587.20   2.4e-77  259.1   0.0   2.8e-77  258.9   0.0   1.0   1   0   0   1   1   1   1 EMG1, N1-specific pseudouridine methyltransferase OS=Monodelphis domestica OX=13616 GN=EMG1 PE=4 SV=2
+tr|F6W199|F6W199_MONDO -          EMG1                 PF03587.20       0.2   11.4   0.0       0.3   10.9   0.0   1.2   1   0   0   1   1   1   0 Troponin C1, slow skeletal and cardiac type OS=Monodelphis domestica OX=13616 GN=TNNC1 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/EMG1.hmm
+# Target file:     proteomes/Monodelphis_domestica.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/EMG1/Monodelphis_domestica.tblout --cpu 8 pfam_list/EMG1.hmm proteomes/Monodelphis_domestica.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:34 2025
+# [ok]

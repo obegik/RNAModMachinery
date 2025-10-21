@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6WB92|F6WB92_CIOIN -          Methyltransf_10      PF05971.19      0.12   11.5   0.1      0.14   11.4   0.1   1.2   1   0   0   1   1   1   0 methyltransferase-like protein 5 isoform X4 OS=Ciona intestinalis OX=7719 GN=LOC100184601 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltransf_10.hmm
+# Target file:     proteomes/Ciona_intestinalis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltransf_10/Ciona_intestinalis.tblout --cpu 8 pfam_list/Methyltransf_10.hmm proteomes/Ciona_intestinalis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:12:18 2025
+# [ok]

@@ -1,0 +1,15 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q54JH6|CMT1_DICDI -          DNA_methylase        PF00145.24     1e-42  146.3   3.9   1.2e-42  146.0   3.9   1.1   1   0   0   1   1   1   1 DNA (cytosine-5)-methyltransferase OS=Dictyostelium discoideum OX=44689 GN=dnmA PE=1 SV=1
+sp|Q54WD6|TRM5_DICDI -          DNA_methylase        PF00145.24      0.35    9.7   0.0      0.35    9.7   0.0   2.8   3   1   1   4   4   4   0 tRNA (guanine(37)-N1)-methyltransferase OS=Dictyostelium discoideum OX=44689 GN=trmt5 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/DNA_methylase.hmm
+# Target file:     proteomes/Dictyostelium_discoideum.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/DNA_methylase/Dictyostelium_discoideum.tblout --cpu 8 pfam_list/DNA_methylase.hmm proteomes/Dictyostelium_discoideum.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:00:09 2025
+# [ok]

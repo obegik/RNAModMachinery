@@ -1,0 +1,28 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A0P0VP26|A0A0P0VP26_ORYSJ -          Methyltr_RsmB-F      PF01189.24     8e-67  226.0   0.2   2.5e-66  224.4   0.0   1.8   2   0   0   2   2   2   1 Os02g0724600 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os02g0724600 PE=1 SV=1
+tr|Q69MP1|Q69MP1_ORYSJ         -          Methyltr_RsmB-F      PF01189.24   8.7e-67  225.9   0.0   1.6e-66  225.1   0.0   1.4   1   0   0   1   1   1   1 Os09g0551300 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os09g0551300 PE=1 SV=1
+tr|Q0J0Y4|Q0J0Y4_ORYSJ         -          Methyltr_RsmB-F      PF01189.24   2.5e-51  175.5   0.0   3.5e-51  174.9   0.0   1.2   1   0   0   1   1   1   1 16S rRNA (cytosine(967)-C(5))-methyltransferase OS=Oryza sativa subsp. japonica OX=39947 GN=Os09g0477900 PE=1 SV=1
+tr|Q0J106|Q0J106_ORYSJ         -          Methyltr_RsmB-F      PF01189.24   6.8e-38  131.6   0.1   2.4e-35  123.2   0.0   2.4   2   0   0   2   2   2   2 Os09g0471900 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os09g0471900 PE=1 SV=1
+tr|Q6YTT4|Q6YTT4_ORYSJ         -          Methyltr_RsmB-F      PF01189.24   9.6e-38  131.1   0.1   9.9e-36  124.5   0.0   2.6   3   0   0   3   3   3   1 Os08g0484400 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os08g0484400 PE=1 SV=1
+tr|Q7F1D1|Q7F1D1_ORYSJ         -          Methyltr_RsmB-F      PF01189.24   3.3e-35  122.8   0.0   3.4e-17   64.0   0.0   2.4   2   0   0   2   2   2   2 Os08g0365900 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os08g0365900 PE=1 SV=1
+tr|B9F4A8|B9F4A8_ORYSJ         -          Methyltr_RsmB-F      PF01189.24   2.6e-26   93.8   0.0   4.7e-26   92.9   0.0   1.5   1   0   0   1   1   1   1 Os02g0217800 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os02g0217800 PE=1 SV=1
+tr|Q6EQW4|Q6EQW4_ORYSJ         -          Methyltr_RsmB-F      PF01189.24   8.5e-19   69.2   0.1   1.3e-08   36.0   0.0   2.3   2   0   0   2   2   2   2 Os02g0320100 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os02g0320100 PE=2 SV=1
+tr|A0A0P0VFA1|A0A0P0VFA1_ORYSJ -          Methyltr_RsmB-F      PF01189.24   0.00088   20.2   0.3      0.04   14.8   0.3   2.4   1   1   0   1   1   1   1 Os02g0173700 protein (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=Os02g0173700 PE=1 SV=1
+tr|Q7XTH1|Q7XTH1_ORYSJ         -          Methyltr_RsmB-F      PF01189.24     0.001   20.0   0.0    0.0059   17.5   0.0   2.1   1   1   2   3   3   3   1 tRNA (adenine(58)-N(1))-methyltransferase OS=Oryza sativa subsp. japonica OX=39947 GN=Os04g0319600 PE=1 SV=2
+tr|C7J169|C7J169_ORYSJ         -          Methyltr_RsmB-F      PF01189.24    0.0036   18.2   0.0     0.004   18.1   0.0   1.1   1   0   0   1   1   1   1 Os04g0507800 protein (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=Os04g0507800 PE=1 SV=1
+tr|A0A0P0XMV1|A0A0P0XMV1_ORYSJ -          Methyltr_RsmB-F      PF01189.24     0.057   14.3   0.0     0.079   13.8   0.0   1.2   1   0   0   1   1   1   0 Os09g0445100 protein (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=Os09g0445100 PE=4 SV=1
+tr|A0A0N7KGC5|A0A0N7KGC5_ORYSJ -          Methyltr_RsmB-F      PF01189.24       0.1   13.5   0.0      0.34   11.8   0.0   1.8   2   1   0   2   2   2   0 Os02g0821800 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os02g0821800 PE=1 SV=1
+tr|Q8S7W6|Q8S7W6_ORYSJ         -          Methyltr_RsmB-F      PF01189.24      0.15   12.9   0.0      0.65   10.9   0.0   1.9   2   0   0   2   2   2   0 Os03g0170300 protein OS=Oryza sativa subsp. japonica OX=39947 GN=LOC_Os03g07420 PE=1 SV=1
+tr|Q2QM99|Q2QM99_ORYSJ         -          Methyltr_RsmB-F      PF01189.24      0.44   11.4   0.0       1.2   10.0   0.0   1.6   2   0   0   2   2   2   0 Modification methylase, HemK family protein, expressed OS=Oryza sativa subsp. japonica OX=39947 GN=LOC_Os12g41830 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltr_RsmB-F.hmm
+# Target file:     proteomes/Oryza_sativa.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltr_RsmB-F/Oryza_sativa.tblout --cpu 8 pfam_list/Methyltr_RsmB-F.hmm proteomes/Oryza_sativa.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:10:16 2025
+# [ok]

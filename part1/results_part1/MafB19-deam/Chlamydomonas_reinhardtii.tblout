@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3CZT5|A0A2K3CZT5_CHLRE -          MafB19-deam          PF14437.13   4.3e-22   78.4   0.0   4.3e-22   78.4   0.0   1.7   2   0   0   2   2   2   1 tRNA(adenine(34)) deaminase OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_13g573300v5 PE=3 SV=1
+tr|A0A2K3CNF2|A0A2K3CNF2_CHLRE -          MafB19-deam          PF14437.13   2.3e-10   40.5   0.0   4.2e-05   23.4   0.0   2.8   2   1   0   2   2   2   2 dCMP deaminase OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_19g750897v5 PE=4 SV=1
+tr|A0A2K3D5U5|A0A2K3D5U5_CHLRE -          MafB19-deam          PF14437.13   1.1e-07   31.7   0.0   1.8e-07   31.1   0.0   1.5   1   1   0   1   1   1   1 CMP/dCMP-type deaminase domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g555951v5 PE=4 SV=1
+tr|A0A2K3D2N1|A0A2K3D2N1_CHLRE -          MafB19-deam          PF14437.13   1.7e-06   27.9   0.4   1.7e-06   27.9   0.4   1.3   1   1   0   1   1   1   1 tRNA(adenine(34)) deaminase OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g509600v5 PE=4 SV=1
+tr|A8IIP4|A8IIP4_CHLRE         -          MafB19-deam          PF14437.13   0.00057   19.7   0.4    0.0014   18.4   0.1   1.7   2   0   0   2   2   2   1 CMP/dCMP-type deaminase domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_10g439200v5 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/MafB19-deam.hmm
+# Target file:     proteomes/Chlamydomonas_reinhardtii.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/MafB19-deam/Chlamydomonas_reinhardtii.tblout --cpu 8 pfam_list/MafB19-deam.hmm proteomes/Chlamydomonas_reinhardtii.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:09:22 2025
+# [ok]

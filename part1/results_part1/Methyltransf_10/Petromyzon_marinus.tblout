@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|S4RS03|S4RS03_PETMA -          Methyltransf_10      PF05971.19   5.6e-84  281.6   0.0   6.3e-84  281.4   0.0   1.0   1   0   0   1   1   1   1 Methyltransferase like 16 OS=Petromyzon marinus OX=7757 PE=4 SV=1
+tr|S4RH34|S4RH34_PETMA -          Methyltransf_10      PF05971.19   7.5e-15   54.6   0.0   1.1e-14   54.1   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Petromyzon marinus OX=7757 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltransf_10.hmm
+# Target file:     proteomes/Petromyzon_marinus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltransf_10/Petromyzon_marinus.tblout --cpu 8 pfam_list/Methyltransf_10.hmm proteomes/Petromyzon_marinus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:12:21 2025
+# [ok]

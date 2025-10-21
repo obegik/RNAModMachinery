@@ -1,0 +1,19 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P75782|RLMF_ECOLI  -          Methyltransf_10      PF05971.19  1.7e-155  514.8   0.0  1.9e-155  514.6   0.0   1.0   1   0   0   1   1   1   1 Ribosomal RNA large subunit methyltransferase F OS=Escherichia coli (strain K12) OX=83333 GN=rlmF PE=1 SV=2
+sp|P31825|TRMN6_ECOLI -          Methyltransf_10      PF05971.19   0.00011   19.7   0.0   0.00013   19.4   0.0   1.1   1   0   0   1   1   1   1 tRNA1(Val) (adenine(37)-N6)-methyltransferase OS=Escherichia coli (strain K12) OX=83333 GN=yfiC PE=1 SV=2
+sp|P42596|RLMG_ECOLI  -          Methyltransf_10      PF05971.19   0.00066   17.1   0.0    0.0011   16.3   0.0   1.3   1   0   0   1   1   1   1 Ribosomal RNA large subunit methyltransferase G OS=Escherichia coli (strain K12) OX=83333 GN=rlmG PE=1 SV=2
+sp|P39199|PRMB_ECOLI  -          Methyltransf_10      PF05971.19    0.0064   13.9   0.0    0.0092   13.3   0.0   1.2   1   0   0   1   1   1   1 Ribosomal protein uL3 glutamine methyltransferase OS=Escherichia coli (strain K12) OX=83333 GN=prmB PE=1 SV=3
+sp|P39406|RSMC_ECOLI  -          Methyltransf_10      PF05971.19    0.0086   13.4   0.0     0.019   12.3   0.0   1.5   1   1   0   1   1   1   1 Ribosomal RNA small subunit methyltransferase C OS=Escherichia coli (strain K12) OX=83333 GN=rsmC PE=1 SV=3
+sp|P75876|RLMI_ECOLI  -          Methyltransf_10      PF05971.19     0.011   13.1   0.0     0.015   12.6   0.0   1.1   1   0   0   1   1   1   0 Ribosomal RNA large subunit methyltransferase I OS=Escherichia coli (strain K12) OX=83333 GN=rlmI PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltransf_10.hmm
+# Target file:     proteomes/Escherichia_coli.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltransf_10/Escherichia_coli.tblout --cpu 8 pfam_list/Methyltransf_10.hmm proteomes/Escherichia_coli.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:12:19 2025
+# [ok]

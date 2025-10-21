@@ -1,0 +1,20 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|G1KJC4|G1KJC4_ANOCA -          A_deamin             PF02137.25  4.9e-121  404.2   0.0  6.7e-121  403.8   0.0   1.2   1   0   0   1   1   1   1 Adenosine deaminase, RNA specific B1 OS=Anolis carolinensis OX=28377 GN=ADARB1 PE=4 SV=2
+tr|G1KWA6|G1KWA6_ANOCA -          A_deamin             PF02137.25  5.3e-109  364.7   0.0  8.2e-109  364.1   0.0   1.3   1   0   0   1   1   1   1 Adenosine deaminase, RNA specific B2 (inactive) OS=Anolis carolinensis OX=28377 GN=ADARB2 PE=4 SV=2
+tr|G1KLP7|G1KLP7_ANOCA -          A_deamin             PF02137.25    1e-100  337.5   0.0  1.4e-100  337.0   0.0   1.2   1   0   0   1   1   1   1 Adenosine deaminase domain containing 1 OS=Anolis carolinensis OX=28377 GN=ADAD1 PE=4 SV=2
+tr|H9GCT0|H9GCT0_ANOCA -          A_deamin             PF02137.25   1.2e-86  291.3   0.0   1.7e-86  290.7   0.0   1.2   1   0   0   1   1   1   1 Adenosine deaminase, tRNA specific 1 OS=Anolis carolinensis OX=28377 GN=ADAT1 PE=4 SV=2
+tr|H9G4E7|H9G4E7_ANOCA -          A_deamin             PF02137.25   6.8e-73  246.0   0.0     1e-72  245.5   0.0   1.2   1   1   0   1   1   1   1 Uncharacterized protein OS=Anolis carolinensis OX=28377 GN=adad2 PE=4 SV=1
+tr|H9GRT6|H9GRT6_ANOCA -          A_deamin             PF02137.25   1.4e-66  225.3   0.0   2.4e-66  224.5   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Anolis carolinensis OX=28377 PE=4 SV=1
+tr|H9GML3|H9GML3_ANOCA -          A_deamin             PF02137.25   1.7e-26   93.5   0.0   2.6e-26   92.9   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Anolis carolinensis OX=28377 GN=LOC100552499 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/A_deamin.hmm
+# Target file:     proteomes/Anolis_carolinensis.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/A_deamin/Anolis_carolinensis.tblout --cpu 8 pfam_list/A_deamin.hmm proteomes/Anolis_carolinensis.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 21:59:06 2025
+# [ok]

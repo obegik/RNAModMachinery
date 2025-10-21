@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1D5RDW4|A0A1D5RDW4_MACMU -          Fibrillarin          PF01269.24  1.7e-108  361.2   0.0  2.1e-108  361.0   0.0   1.0   1   0   0   1   1   1   1 Fibrillarin OS=Macaca mulatta OX=9544 GN=FBL PE=3 SV=1
+tr|F7ED78|F7ED78_MACMU         -          Fibrillarin          PF01269.24    3e-106  353.9   0.0  3.5e-106  353.7   0.0   1.0   1   0   0   1   1   1   1 Fibrillarin like 1 OS=Macaca mulatta OX=9544 GN=FBLL1 PE=3 SV=2
+tr|F7A1C7|F7A1C7_MACMU         -          Fibrillarin          PF01269.24      0.14   11.5   0.0      0.17   11.2   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Fibrillarin.hmm
+# Target file:     proteomes/Macaca_mulatta.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Fibrillarin/Macaca_mulatta.tblout --cpu 8 pfam_list/Fibrillarin.hmm proteomes/Macaca_mulatta.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:01:42 2025
+# [ok]

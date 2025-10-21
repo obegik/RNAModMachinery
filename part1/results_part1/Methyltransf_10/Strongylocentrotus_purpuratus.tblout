@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|W4YFA7|W4YFA7_STRPU -          Methyltransf_10      PF05971.19   1.1e-89  301.5   0.0   1.4e-89  301.0   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+tr|W4Y6M0|W4Y6M0_STRPU -          Methyltransf_10      PF05971.19       1.5    8.7  28.7        16    5.4   2.5   6.7   1   1   6   7   7   7   0 Uncharacterized protein OS=Strongylocentrotus purpuratus OX=7668 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      pfam_list/Methyltransf_10.hmm
+# Target file:     proteomes/Strongylocentrotus_purpuratus.fasta
+# Option settings: hmmsearch --tblout results_part1_v3/Methyltransf_10/Strongylocentrotus_purpuratus.tblout --cpu 8 pfam_list/Methyltransf_10.hmm proteomes/Strongylocentrotus_purpuratus.fasta 
+# Current dir:     /Users/boguzhan/Desktop/github_final/RNAModMachinery/part1
+# Date:            Mon Oct 20 22:12:21 2025
+# [ok]
